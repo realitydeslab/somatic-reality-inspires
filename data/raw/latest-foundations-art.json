@@ -1,0 +1,1390 @@
+{
+ "batch": "latest-foundations-art",
+ "creators": [
+  {
+   "id": "dorota-koczanowicz",
+   "name": "Dorota Koczanowicz",
+   "kind": "person",
+   "role": "Professor of Cultural Studies, University of Wrocław",
+   "based": "Wrocław, PL",
+   "bio": "Polish philosopher of culture who writes on aesthetics, gender, art and food, including The Aesthetics of Taste: Eating in the Realm of Art (Brill, 2023).",
+   "why": "Dorota Koczanowicz extends somaesthetics to taste and eating, and moderated the 2023 Kraków dialogue between Richard Shusterman and Stelarc.",
+   "disciplines": [
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://brill.com/display/title/73192"
+   },
+   "role_zh": "波兰弗罗茨瓦夫大学文化研究教授",
+   "bio_zh": "波兰文化哲学学者，研究美学、性别、艺术与食物，著有《品味美学：艺术领域中的饮食》（The Aesthetics of Taste，Brill，2023）。",
+   "why_zh": "Dorota Koczanowicz 把身体美学延伸到味觉与饮食，并主持了 2023 年 Richard Shusterman 与 Stelarc 在克拉科夫的对谈。",
+   "based_zh": "弗罗茨瓦夫，波兰",
+   "connected_to": [
+    "richard-shusterman",
+    "stelarc",
+    "nicola-perullo"
+   ],
+   "discovered_via": "richard-shusterman"
+  },
+  {
+   "id": "nicola-perullo",
+   "name": "Nicola Perullo",
+   "kind": "person",
+   "role": "Professor of Aesthetics, University of Gastronomic Sciences, Pollenzo",
+   "based": "Pollenzo, IT",
+   "bio": "Italian philosopher of taste, author of Taste as Experience (2016), Epistenology: Wine as Experience (2020) and Aesthetics without Objects and Subjects (2025).",
+   "why": "Nicola Perullo treats tasting as an attentive bodily practice rather than a verdict about objects, a direct bridge to somaesthetic food design.",
+   "disciplines": [
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://brill.com/display/title/73192"
+   },
+   "role_zh": "意大利波伦佐美食科学大学美学教授",
+   "bio_zh": "意大利味觉哲学学者，著有《作为经验的味道》（Taste as Experience，2016）、《葡萄酒作为经验》（Epistenology，2020）与《没有客体与主体的美学》（Aesthetics without Objects and Subjects，2025）。",
+   "why_zh": "Nicola Perullo 把品尝看作一种专注的身体实践，而不是对物的评判，这为身体美学取向的食物设计提供了直接的桥梁。",
+   "based_zh": "波伦佐，意大利",
+   "connected_to": [
+    "dorota-koczanowicz"
+   ],
+   "discovered_via": "dorota-koczanowicz"
+  },
+  {
+   "id": "kathryn-linn-geurts",
+   "name": "Kathryn Linn Geurts",
+   "kind": "person",
+   "role": "Professor of Anthropology, Hamline University",
+   "based": "Saint Paul, US",
+   "bio": "American sensory anthropologist whose long fieldwork with Anlo-Ewe speakers in southeastern Ghana produced Culture and the Senses: Bodily Ways of Knowing in an African Community (2002), which showed that the Western five-sense model is a cultural choice.",
+   "why": "Their work on seselelãme, knowing by feeling inside the flesh, gives soma designers a non-Western account of interoception, balance and bodily knowledge.",
+   "disciplines": [
+    "philosophy",
+    "somatics"
+   ],
+   "links": {
+    "site": "https://journals.aau.dk/index.php/JOS/article/view/10002"
+   },
+   "role_zh": "美国哈姆林大学人类学教授",
+   "bio_zh": "美国感官人类学者，长期在加纳东南部的安洛-埃维（Anlo-Ewe）社群做田野研究，著有《文化与感官：一个非洲社群的身体认知方式》（Culture and the Senses，2002），指出西方的“五感”模型只是一种文化选择。",
+   "why_zh": "Kathryn Linn Geurts 对 seselelãme（在肉身之内感受、以感受来认知）的研究，为身体设计者提供了一种非西方的关于内感受、平衡与身体知识的理解。",
+   "based_zh": "圣保罗，美国",
+   "connected_to": [
+    "richard-shusterman",
+    "sefakor-komabu-pomeyie"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "sefakor-komabu-pomeyie",
+   "name": "Sefakor Komabu-Pomeyie",
+   "kind": "person",
+   "role": "Director of Inclusive Excellence, University of Vermont",
+   "based": "Burlington, US",
+   "bio": "Scholar of inclusion who co-wrote, with Kathryn Linn Geurts, a 2025 essay on Aŋlɔ-Eʋe bodily ways of knowing that combines personal experience with long-term ethnography.",
+   "why": "Sefakor Komabu-Pomeyie co-authored the essay that brings the Aŋlɔ-Eʋe idea of seselelãme into somaesthetics.",
+   "disciplines": [
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://journals.aau.dk/index.php/JOS/article/view/10002"
+   },
+   "role_zh": "美国佛蒙特大学包容卓越事务主任",
+   "bio_zh": "包容性研究学者，与 Kathryn Linn Geurts 合写了 2025 年一篇关于安洛-埃维身体认知方式的文章，结合了亲身经验与长期民族志研究。",
+   "why_zh": "Sefakor Komabu-Pomeyie 合写的这篇文章把安洛-埃维的 seselelãme 概念带进了身体美学。",
+   "based_zh": "伯灵顿，美国",
+   "connected_to": [
+    "kathryn-linn-geurts"
+   ],
+   "discovered_via": "kathryn-linn-geurts"
+  },
+  {
+   "id": "mark-tschaepe",
+   "name": "Mark Tschaepe",
+   "kind": "person",
+   "role": "Philosopher, Prairie View A&M University; editor of The Journal of Somaesthetics",
+   "based": "Prairie View, US",
+   "bio": "American pragmatist philosopher (publishing as M.D. Tschaepe) who works on somaesthetics, discomfort and noise, and edits The Journal of Somaesthetics with Falk Heinrich.",
+   "why": "Mark Tschaepe treats discomfort and noise as felt, bodily sources of critical reflection, which gives designers of uncomfortable or estranging interactions a philosophical footing.",
+   "disciplines": [
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://journals.aau.dk/index.php/JOS"
+   },
+   "role_zh": "美国草原景农工大学哲学学者；《身体美学期刊》（The Journal of Somaesthetics）编辑",
+   "bio_zh": "美国实用主义哲学学者（发表署名 M.D. Tschaepe），研究身体美学、不适与噪音，与 Falk Heinrich 共同编辑《身体美学期刊》。",
+   "why_zh": "Mark Tschaepe 把不适与噪音看作被身体感受到、可以引发批判反思的来源，为设计“不舒适”或陌生化交互的人提供了哲学依据。",
+   "based_zh": "普雷里维尤，美国",
+   "connected_to": [
+    "richard-shusterman"
+   ],
+   "discovered_via": "richard-shusterman"
+  },
+  {
+   "id": "magdalena-gorska",
+   "name": "Magdalena Górska",
+   "kind": "person",
+   "role": "Gender studies scholar, Graduate Gender Studies Programme, Utrecht University",
+   "based": "Utrecht, NL",
+   "bio": "Feminist scholar of breathing and vulnerability, author of Breathing Matters: Feminist Intersectional Politics of Vulnerability (2016).",
+   "why": "Magdalena Górska reads breathing as both lived and political, the ground of the 2026 Handbook of Critical Respiratory Studies that Górska co-edited.",
+   "disciplines": [
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://link.springer.com/referencework/10.1007/978-3-031-75780-8"
+   },
+   "role_zh": "荷兰乌得勒支大学性别研究学者（性别研究研究生项目）",
+   "bio_zh": "研究呼吸与脆弱性的女性主义学者，著有《呼吸攸关：女性主义交叉性的脆弱政治》（Breathing Matters，2016）。",
+   "why_zh": "Magdalena Górska 把呼吸同时读作亲身经验与政治问题，这也是其合编的 2026 年《批判呼吸研究手册》的出发点。",
+   "based_zh": "乌得勒支，荷兰",
+   "connected_to": [
+    "lenart-skof"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "lenart-skof",
+   "name": "Lenart Škof",
+   "kind": "person",
+   "role": "Head of the Institute for Philosophical and Religious Studies, Science and Research Centre Koper",
+   "based": "Koper, SI",
+   "bio": "Slovenian philosopher of breath and ethics, author of Breath of Proximity: Intersubjectivity, Ethics and Peace (2015) and co-editor of Atmospheres of Breathing (2018).",
+   "why": "Their philosophy of shared breath treats breathing as the most basic way bodies meet, an idea behind much breath-based and synchrony work in soma design.",
+   "disciplines": [
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://link.springer.com/referencework/10.1007/978-3-031-75780-8"
+   },
+   "role_zh": "斯洛文尼亚科佩尔科研中心哲学与宗教研究所所长",
+   "bio_zh": "斯洛文尼亚呼吸哲学与伦理学学者，著有《亲近之息：主体间性、伦理与和平》（Breath of Proximity，2015），并合编《呼吸的氛围》（Atmospheres of Breathing，2018）。",
+   "why_zh": "其“共享呼吸”哲学把呼吸看作身体相遇的最基本方式，身体设计中许多呼吸与同步类作品都基于这一想法。",
+   "based_zh": "科佩尔，斯洛文尼亚",
+   "connected_to": [
+    "magdalena-gorska"
+   ],
+   "discovered_via": "magdalena-gorska"
+  },
+  {
+   "id": "laura-mojica",
+   "name": "Laura Mojica",
+   "kind": "person",
+   "role": "Philosopher of enactive cognition",
+   "bio": "Philosopher who has worked at the Universidad Autónoma Metropolitana in Mexico City and the Okinawa Institute of Science and Technology on enactive accounts of normativity, artifacts and sensorimotor incorporation.",
+   "why": "Their operational definition of incorporation gives designers a test for when a device has become part of the body rather than a tool held at a distance.",
+   "disciplines": [
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://doi.org/10.1007/s11097-025-10103-5"
+   },
+   "role_zh": "生成认知（enactive）取向的哲学学者",
+   "bio_zh": "哲学学者，曾在墨西哥城的都会自治大学（UAM）和冲绳科学技术大学院大学（OIST）工作，研究规范性、人造物与感觉运动整合的生成认知解释。",
+   "why_zh": "Laura Mojica 对“整合”的操作性定义为设计者提供了一个判断标准：设备何时成了身体的一部分，而不只是拿在手里的工具。",
+   "connected_to": [
+    "ezequiel-di-paolo"
+   ],
+   "discovered_via": "ezequiel-di-paolo"
+  },
+  {
+   "id": "ezequiel-di-paolo",
+   "name": "Ezequiel Di Paolo",
+   "kind": "person",
+   "role": "Ikerbasque Research Professor, University of the Basque Country",
+   "based": "San Sebastián, ES",
+   "bio": "Argentine-born cognitive scientist and philosopher, a leading figure of the enactive approach and co-author of Sensorimotor Life (2017) and Linguistic Bodies (2018).",
+   "why": "Their enactive accounts of bodily autonomy and participatory sense-making are among the theories soma design and first-person HCI use to treat mind as a living, moving body.",
+   "disciplines": [
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://doi.org/10.1093/acprof:oso/9780198786849.001.0001"
+   },
+   "role_zh": "西班牙巴斯克大学 Ikerbasque 研究教授",
+   "bio_zh": "阿根廷出生的认知科学家与哲学家，生成认知（enactive）进路的代表人物之一，合著《感觉运动的生命》（Sensorimotor Life，2017）与《语言的身体》（Linguistic Bodies，2018）。",
+   "why_zh": "Ezequiel Di Paolo 关于身体自主性与参与式意义建构的生成论解释，是身体设计与第一人称人机交互把心智理解为活着、运动着的身体时所依据的理论之一。",
+   "based_zh": "圣塞巴斯蒂安，西班牙",
+   "connected_to": [
+    "hanne-de-jaegher",
+    "evan-thompson",
+    "laura-mojica"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "veronika-mayerboeck",
+   "name": "Veronika Mayerboeck",
+   "kind": "person",
+   "role": "Architect, lighting designer, dancer and design educator",
+   "based": "Vienna, AT",
+   "bio": "Austrian architect, lighting designer, dancer and choreographer who researches space, light and movement through the sensing body; their Sensing Space method has been used in architecture and design teaching across Europe for more than ten years.",
+   "why": "Veronika Mayerboeck connects soma design with spatial design education, teaching ideation through perceptive resonance and kinesthetic awareness.",
+   "disciplines": [
+    "design",
+    "dance"
+   ],
+   "links": {
+    "site": "https://journals.aau.dk/index.php/JOS/article/view/10201"
+   },
+   "role_zh": "建筑师、灯光设计师、舞者与设计教育者",
+   "bio_zh": "奥地利建筑师、灯光设计师、舞者与编舞，从“感受着的身体”出发研究空间、光与动作；其 Sensing Space 方法十余年来在欧洲多所建筑与设计院校中使用。",
+   "why_zh": "Veronika Mayerboeck 把身体设计与空间设计教育连接起来，通过感知共振与动觉觉察来教授构思。",
+   "based_zh": "维也纳，奥地利",
+   "connected_to": [
+    "kristina-hook",
+    "galen-cranz"
+   ],
+   "discovered_via": "kristina-hook"
+  },
+  {
+   "id": "yatande-whitney-hunter",
+   "name": "yaTande Whitney V. Hunter",
+   "kind": "person",
+   "role": "Assistant Professor of Dance, Temple University",
+   "based": "Philadelphia, US",
+   "bio": "American choreographer and dance scholar who introduced AfrOism, a theory of cultural continuity in African diasporic movement, ritual and thought.",
+   "why": "AfrOism grounds somatic practice in African diasporic epistemology rather than in the European lineage (Alexander, Feldenkrais) that most soma design draws on.",
+   "disciplines": [
+    "dance",
+    "somatics"
+   ],
+   "links": {
+    "site": "https://journals.aau.dk/index.php/JOS/article/view/11114"
+   },
+   "role_zh": "美国天普大学舞蹈系助理教授",
+   "bio_zh": "美国编舞与舞蹈学者，提出 AfrOism——一种关于非洲离散族群的动作、仪式与思想中文化延续性的理论。",
+   "why_zh": "AfrOism 把身体修习建立在非洲离散族群的认识论之上，而不是大多数身体设计所依赖的欧洲谱系（亚历山大技巧、费登奎斯）。",
+   "based_zh": "费城，美国",
+   "connected_to": [
+    "orlando-zane-hunter-valentine",
+    "f-matthias-alexander"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "orlando-zane-hunter-valentine",
+   "name": "Orlando Zane Hunter-Valentine",
+   "kind": "person",
+   "role": "Choreographer; Adjunct Professor of Dance, Ohio University",
+   "based": "Athens, Ohio, US",
+   "bio": "American choreographer who, asked to teach a 16-week Alexander Technique course at The Ohio State University, began developing AfrOist Body Governance with yaTande Whitney V. Hunter as an alternative rooted in African diasporic knowledge.",
+   "why": "The case shows how a somatic curriculum can be rebuilt from the body knowledge of the people it is taught to.",
+   "disciplines": [
+    "dance",
+    "somatics"
+   ],
+   "links": {
+    "site": "https://journals.aau.dk/index.php/JOS/article/view/11114"
+   },
+   "role_zh": "编舞；美国俄亥俄大学舞蹈系兼职教授",
+   "bio_zh": "美国编舞。受邀在俄亥俄州立大学教授为期 16 周的亚历山大技巧课程后，与 yaTande Whitney V. Hunter 一起发展“AfrOist 身体治理”，作为一种根植于非洲离散族群知识的替代方案。",
+   "why_zh": "这个案例说明，身体修习课程可以从学习者自身的身体知识出发重新建立。",
+   "based_zh": "雅典（俄亥俄州），美国",
+   "connected_to": [
+    "yatande-whitney-hunter"
+   ],
+   "discovered_via": "yatande-whitney-hunter"
+  },
+  {
+   "id": "galen-cranz",
+   "name": "Galen Cranz",
+   "kind": "person",
+   "role": "Professor Emerita of Architecture, University of California, Berkeley",
+   "based": "Berkeley, US",
+   "bio": "American sociologist of architecture and certified Alexander Technique teacher, author of The Chair: Rethinking Culture, Body, and Design (1998).",
+   "why": "Their body-conscious design brings Alexander Technique into architecture: chairs, rooms and buildings are judged by how they let the body breathe, move and rest.",
+   "disciplines": [
+    "design",
+    "somatics"
+   ],
+   "links": {
+    "site": "https://doi.org/10.18389/dearq44.2026.05"
+   },
+   "role_zh": "美国加州大学伯克利分校建筑系荣休教授",
+   "bio_zh": "美国建筑社会学者，持证亚历山大技巧教师，著有《椅子：重新思考文化、身体与设计》（The Chair，1998）。",
+   "why_zh": "其“身体意识设计”把亚历山大技巧带入建筑：椅子、房间与建筑都以它们是否让身体能够呼吸、活动与休息来评判。",
+   "based_zh": "伯克利，美国",
+   "connected_to": [
+    "f-matthias-alexander",
+    "veronika-mayerboeck"
+   ],
+   "discovered_via": "veronika-mayerboeck"
+  },
+  {
+   "id": "tina-stromsted",
+   "name": "Tina Stromsted",
+   "kind": "person",
+   "role": "Jungian analyst, dance/movement therapist and somatic movement educator",
+   "based": "San Francisco, US",
+   "bio": "American Jungian psychoanalyst, registered dance/movement therapist and somatic movement educator with some forty years of clinical practice; their Soul's Body Center joins Jungian depth work, somatics and Authentic Movement.",
+   "why": "Tina Stromsted shows how moving with eyes closed in front of a witness can be used as a way of listening to the body-mind, a source for first-person soma design exercises.",
+   "disciplines": [
+    "somatics",
+    "health"
+   ],
+   "links": {
+    "site": "https://www.tinastromsted.com",
+    "youtube": "https://www.youtube.com/watch?v=nWn3g7ghbP0"
+   },
+   "role_zh": "荣格分析师、舞蹈/动作治疗师与身体动作教育者",
+   "bio_zh": "美国荣格精神分析师、注册舞蹈/动作治疗师与身体动作教育者，临床实践约四十年；其 Soul's Body 中心把荣格深度心理工作、身体学与真实动作（Authentic Movement）结合在一起。",
+   "why_zh": "Tina Stromsted 展示了在见证者面前闭眼动作，如何成为倾听身心的方法，这可以作为第一人称身体设计练习的来源。",
+   "based_zh": "旧金山，美国",
+   "connected_to": [
+    "mary-starks-whitehouse",
+    "janet-adler"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "katja-kolcio",
+   "name": "Katja Kolcio",
+   "kind": "person",
+   "role": "Chair of the Dance Department and Associate Professor of Dance, Wesleyan University",
+   "based": "Middletown, US",
+   "bio": "American somatics researcher and registered somatic movement educator who has led somatic resilience workshops in Ukraine since 2015 for relief workers, volunteers, the National Guard and veterans.",
+   "why": "Their decade of field-tested somatic interventions in wartime Ukraine shows somatic practice working as community care at scale, outside the studio.",
+   "disciplines": [
+    "somatics",
+    "health"
+   ],
+   "links": {
+    "site": "https://katjakolcio.wescreates.wesleyan.edu"
+   },
+   "role_zh": "美国卫斯理大学舞蹈系主任、舞蹈副教授",
+   "bio_zh": "美国身体学研究者与注册身体动作教育者，自 2015 年起在乌克兰为救援人员、志愿者、国民警卫队与退伍军人开设身体韧性工作坊。",
+   "why_zh": "Katja Kolcio 在战时乌克兰经十年实地检验的身体干预表明，身体修习可以走出工作室，成为大规模的社群照护。",
+   "based_zh": "米德尔敦，美国",
+   "connected_to": [
+    "marta-pyvovarenko"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "marta-pyvovarenko",
+   "name": "Marta Pyvovarenko",
+   "kind": "person",
+   "role": "Trauma psychologist, Ukraine",
+   "based": "Ukraine",
+   "bio": "Ukrainian trauma scientist who specialises in recovery from PTSD and trains mental-health professionals.",
+   "why": "Marta Pyvovarenko co-developed and field-tested, with Ukrainian psychologists, the somatic praxis set out in The Body Remembers Freedom.",
+   "disciplines": [
+    "health"
+   ],
+   "links": {
+    "site": "https://www.routledge.com/The-Body-Remembers-Freedom-Somatic-Interventions-in-Times-of-Crisis/Kolcio-Pyvovarenko-Rose/p/book/9789815352290"
+   },
+   "role_zh": "乌克兰创伤心理学者",
+   "bio_zh": "乌克兰创伤研究者，专长于创伤后应激障碍（PTSD）的康复，并培训心理健康从业者。",
+   "why_zh": "Marta Pyvovarenko 与乌克兰心理学家一起参与发展并实地检验了《身体记得自由》中的身体干预方法。",
+   "based_zh": "乌克兰",
+   "connected_to": [
+    "katja-kolcio"
+   ],
+   "discovered_via": "katja-kolcio"
+  },
+  {
+   "id": "florentina-holzinger",
+   "name": "Florentina Holzinger",
+   "kind": "person",
+   "role": "Choreographer, director and performance artist",
+   "based": "Netherlands",
+   "bio": "Austrian choreographer (born 1986) whose large productions with nude, all-female casts, such as Apollon (2017), TANZ (2019), Ophelia's Got Talent (2022) and SANCTA (2024), put performers' bodies through stunts, pain and endurance.",
+   "why": "Their work stages the body as a site of real sensation and risk, so audiences feel strain, fluids and vulnerability instead of watching an image of a body.",
+   "disciplines": [
+    "dance",
+    "art"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Florentina_Holzinger"
+   },
+   "role_zh": "编舞、导演与表演艺术家",
+   "bio_zh": "奥地利编舞（1986 年生），以全女性、多为裸体的大型作品著称，如《Apollon》（2017）、《TANZ》（2019）、《Ophelia's Got Talent》（2022）与《SANCTA》（2024），让表演者的身体经受特技、疼痛与耐力的考验。",
+   "why_zh": "Florentina Holzinger 把身体呈现为真实感受与风险的所在，让观众感受到用力、体液与脆弱，而不只是观看身体的图像。",
+   "based_zh": "荷兰",
+   "connected_to": [
+    "marina-abramovic"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "miet-warlop",
+   "name": "Miet Warlop",
+   "kind": "person",
+   "role": "Visual and performance artist",
+   "based": "Ghent, BE",
+   "bio": "Belgian artist born in Torhout who works across theatre, installation, sculpture and live performance; known for exhausting, comic stage works such as One Song (2022).",
+   "why": "Their performances make physical exhaustion and repetition the material, so the audience sees and hears bodies reach their limits.",
+   "disciplines": [
+    "art",
+    "dance"
+   ],
+   "links": {
+    "site": "https://www.belgianpavilion.be"
+   },
+   "role_zh": "视觉与表演艺术家",
+   "bio_zh": "比利时艺术家，生于托尔豪特，横跨剧场、装置、雕塑与现场表演；以令人筋疲力尽又带喜剧感的舞台作品著称，如《One Song》（2022）。",
+   "why_zh": "其表演以身体的力竭与重复为材料，让观众看到、听到身体抵达极限。",
+   "based_zh": "根特，比利时",
+   "connected_to": [
+    "florentina-holzinger"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "miles-greenberg",
+   "name": "Miles Greenberg",
+   "kind": "person",
+   "role": "Performance artist and sculptor",
+   "bio": "Canadian performance artist and sculptor born in 1997 in Montreal, who makes extreme durational performances in immersive, site-specific environments that treat the body as sculptural material, often through the lens of the African diaspora.",
+   "why": "Their slow, many-hour performances rely on stillness and the decay of form to heighten the audience's sensitivity to breath, heartbeat and effort.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.milesgreenberg.com"
+   },
+   "role_zh": "表演艺术家与雕塑家",
+   "bio_zh": "加拿大表演艺术家与雕塑家，1997 年生于蒙特利尔，在沉浸式、特定场域的环境中进行极端的长时表演，把身体当作雕塑材料，常以非洲离散族群的视角展开。",
+   "why_zh": "Miles Greenberg 长达数小时的缓慢表演依靠静止与形态的衰变，让观众对呼吸、心跳与用力变得更加敏感。",
+   "connected_to": [
+    "marina-abramovic"
+   ],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "richard-shusterman--shusterman-stelarc-dialogue",
+   "creator_ids": [
+    "richard-shusterman",
+    "stelarc",
+    "dorota-koczanowicz"
+   ],
+   "title": "Body Art and Somaesthetics: A Shusterman-Stelarc Dialogue",
+   "year": 2026,
+   "field": "foundations",
+   "sub": "somaesthetics",
+   "also": [
+    "augmented"
+   ],
+   "modalities": [
+    "whole-soma",
+    "extra-body",
+    "pain-interoception"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "extended-body"
+   ],
+   "kind": "publication",
+   "description": "An edited conversation between philosopher Richard Shusterman and performance artist Stelarc, moderated by Dorota Koczanowicz at the Kraków Academy of Fine Arts in 2023, on what the soma is once performance art suspends it, extends it with prostheses and pushes it through pain.",
+   "description_zh": "哲学家 Richard Shusterman 与表演艺术家 Stelarc 的对谈整理稿，2023 年由 Dorota Koczanowicz 在克拉科夫美术学院主持，讨论当表演艺术把身体悬吊起来、用假体延伸它、让它经受疼痛时，“身体”（soma）究竟是什么。",
+   "idea_en": "Pain in performance is where the mind–body split stops making sense; 'soma' names one embodied subject that art can extend and estrange while it is still felt from within.",
+   "idea_zh": "表演中的疼痛让身心二分失去意义；soma 指的是同一个具身主体，艺术可以延伸它、使它陌生，而它仍然从内部被感受。",
+   "method": "Public dialogue at the Center for Somaesthetics and the Arts, Jan Matejko Academy of Fine Arts, Kraków (10 October 2023), edited and illustrated with images of both speakers' performances.",
+   "method_zh": "2023 年 10 月 10 日在克拉科夫扬·马泰伊科美术学院“身体美学与艺术中心”举行的公开对谈，经编辑后发表，并配有两位对谈者的表演图片。",
+   "keywords": [
+    "somaesthetics",
+    "body art",
+    "prosthesis",
+    "Cartesian dualism",
+    "pain",
+    "Stelarc",
+    "Richard Shusterman",
+    "Journal of Somaesthetics"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Stelarc_2011f.jpg/1280px-Stelarc_2011f.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.54337/ojs.jos.v11i2.11256",
+    "doi": "10.54337/ojs.jos.v11i2.11256",
+    "venue": "The Journal of Somaesthetics 11(2), 2026",
+    "title": "Body Art and Somaesthetics: A Shusterman-Stelarc Dialogue"
+   },
+   "source_url": "https://journals.aau.dk/index.php/JOS/article/view/11256"
+  },
+  {
+   "id": "kathryn-linn-geurts--seselelame",
+   "creator_ids": [
+    "kathryn-linn-geurts",
+    "sefakor-komabu-pomeyie"
+   ],
+   "title": "Seselelãme: Aŋlɔ-Eʋe Refractions of an African Somaesthetics",
+   "year": 2025,
+   "field": "foundations",
+   "sub": "somaesthetics",
+   "modalities": [
+    "whole-soma",
+    "movement",
+    "posture-balance"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "intercorporeality",
+    "more-than-human"
+   ],
+   "kind": "publication",
+   "description": "An essay that brings the Eʋe word seselelãme, 'feel-feel-at-flesh-inside', into somaesthetics: in Aŋlɔ communities of southeastern Ghana, greeting, body sculpting, kinaesthetic style, adornment, music and dance are all ways of knowing through what is felt inside the flesh.",
+   "description_zh": "一篇把埃维语 seselelãme（“在肉身之内感受—感受”）引入身体美学的文章：在加纳东南部的安洛社群中，问候、身体塑形、动作风格、装饰、音乐与舞蹈，都是通过肉身之内的感受来认知的方式。",
+   "idea_en": "Knowing can be a felt, inner-bodily act that also takes in other people, nature and spirit, so a somaesthetics need not start from the Western five senses or a sealed individual self.",
+   "idea_zh": "认知可以是一种在身体内部被感受到的行为，并且把他人、自然与灵性都包括进来；身体美学不必从西方的“五感”或封闭的个人自我出发。",
+   "method": "Sensory ethnography and personal experience of Aŋlɔ-Eʋe bodily ways of knowing, read against Shusterman's somaesthetics and Catherine Botha's edited volume African Somaesthetics (2021).",
+   "method_zh": "结合感官民族志与对安洛-埃维身体认知方式的亲身经验，并与 Shusterman 的身体美学以及 Catherine Botha 编的《非洲身体美学》（2021）对话。",
+   "keywords": [
+    "seselelame",
+    "Anlo-Ewe",
+    "Ghana",
+    "African somaesthetics",
+    "sensory ethnography",
+    "interoception",
+    "porosity of selves"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/a/ad/Agbaza_Dance.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.54337/ojs.jos.v11i1.10002",
+    "doi": "10.54337/ojs.jos.v11i1.10002",
+    "venue": "The Journal of Somaesthetics 11(1), 2025",
+    "title": "Seselelãme: Aŋlɔ-Eʋe Refractions of an African Somaesthetics"
+   },
+   "source_url": "https://journals.aau.dk/index.php/JOS/article/view/10002"
+  },
+  {
+   "id": "mark-tschaepe--somaesthetics-of-discomfort",
+   "creator_ids": [
+    "mark-tschaepe"
+   ],
+   "title": "Somaesthetics of Discomfort: Addressing Identity, Normativity, and Alienation",
+   "year": 2024,
+   "field": "foundations",
+   "sub": "somaesthetics",
+   "modalities": [
+    "pain-interoception",
+    "whole-soma"
+   ],
+   "lenses": [
+    "estrangement",
+    "body-politics",
+    "first-person"
+   ],
+   "kind": "publication",
+   "description": "A book on how discomfort is felt, how people project their own discomfort onto others in ways that alienate them, and how those who are alienated can use their discomfort to push back.",
+   "description_zh": "一本讨论“不适”的书：不适如何被身体感受到，人们如何把自己的不适投射到他人身上而使其疏离，以及被疏离的人如何反过来用自己的不适进行抵抗。",
+   "idea_en": "Discomfort is not only something to design away: attended to in the body, it prompts critical reflection on whose bodies a situation was built for.",
+   "idea_zh": "不适并不只是要被设计消除的东西：当它在身体中被觉察时，它会促使我们反思某个情境是为谁的身体而建造的。",
+   "method": "Philosophical argument drawing on pragmatism and on feminist, antiracist, queer and disability studies, together with personal narratives.",
+   "method_zh": "结合实用主义以及女性主义、反种族主义、酷儿与残障研究，并辅以个人叙事的哲学论证。",
+   "keywords": [
+    "discomfort",
+    "somaesthetics",
+    "normativity",
+    "alienation",
+    "disability studies",
+    "queer theory",
+    "pragmatism"
+   ],
+   "images": [
+    "https://brill.com/cover/covers/9789004714861.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1163/9789004714861",
+    "doi": "10.1163/9789004714861",
+    "venue": "Brill, December 2024 (copyright 2025)",
+    "title": "Somaesthetics of Discomfort: Addressing Identity, Normativity, and Alienation"
+   },
+   "source_url": "https://brill.com/display/title/71227"
+  },
+  {
+   "id": "magdalena-gorska--handbook-of-critical-respiratory-studies",
+   "creator_ids": [
+    "magdalena-gorska",
+    "lenart-skof"
+   ],
+   "title": "Handbook of Critical Respiratory Studies: Breath and Air in Humanities and Social Sciences",
+   "year": 2026,
+   "field": "foundations",
+   "sub": "phenomenology",
+   "modalities": [
+    "breath"
+   ],
+   "lenses": [
+    "body-politics",
+    "more-than-human",
+    "intercorporeality"
+   ],
+   "kind": "publication",
+   "description": "A reference work that takes breath, breathing and air as the starting point for research across philosophy, medical humanities, anthropology, gender and disability studies and human geography, with attention to times and places where it is hard to breathe.",
+   "description_zh": "一部以呼吸、呼吸行为与空气为起点的工具书，横跨哲学、医学人文、人类学、性别与残障研究以及人文地理学，并特别关注那些“难以呼吸”的时代与地方。",
+   "idea_en": "Breath is both the most intimate bodily rhythm and a shared, unequal condition (air, illness, violence), so designing with breath is never only about one person's calm.",
+   "idea_zh": "呼吸既是最私密的身体节律，也是一种共享而不平等的处境（空气、疾病、暴力），因此以呼吸为材料的设计从来不只是关于一个人的平静。",
+   "method": "Edited handbook (Springer Handbooks in Philosophy, 575 pages) whose contributors develop 'critical respiratory' theories for their own fields.",
+   "method_zh": "Springer《哲学手册》系列中的编著手册（575 页），各章作者为各自领域发展“批判呼吸”理论。",
+   "keywords": [
+    "critical respiratory studies",
+    "breath",
+    "air",
+    "breathlessness",
+    "respiratory humanities",
+    "phenomenology of breathing"
+   ],
+   "images": [
+    "https://media.springernature.com/w306/springer-static/cover/book/978-3-031-75780-8.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1007/978-3-031-75780-8",
+    "doi": "10.1007/978-3-031-75780-8",
+    "venue": "Springer, Handbooks in Philosophy, 2026",
+    "title": "Handbook of Critical Respiratory Studies: Breath and Air in Humanities and Social Sciences"
+   },
+   "source_url": "https://link.springer.com/referencework/10.1007/978-3-031-75780-8"
+  },
+  {
+   "id": "laura-mojica--sensorimotor-incorporation",
+   "creator_ids": [
+    "laura-mojica",
+    "ezequiel-di-paolo"
+   ],
+   "title": "Sensorimotor incorporation: an operational definition",
+   "year": 2025,
+   "field": "foundations",
+   "sub": "enactive",
+   "also": [
+    "augmented"
+   ],
+   "modalities": [
+    "extra-body",
+    "movement"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-mind-unity"
+   ],
+   "kind": "paper",
+   "description": "A philosophy paper that defines when an object counts as incorporated into a living body: not only body-part-like prostheses and not every skilled tool use, but objects the agent carries across contexts and whose loss would make its way of life unviable.",
+   "description_zh": "一篇哲学论文，界定一个物件何时算是被整合进了活的身体：不只是像身体部位的假体，也不是所有熟练的工具使用，而是那些主体会带入不同情境、一旦失去就会使其生活方式难以为继的物件。",
+   "idea_en": "An object becomes part of the soma when it travels with you and reshapes your agency for good (portability and irreversibility), a test designers can apply to wearables and body extensions.",
+   "idea_zh": "当一个物件随你进入不同情境、并永久改变了你的行动能力时（可携带性与不可逆性），它就成了身体的一部分；设计者可以用这个标准检视可穿戴设备与身体延伸。",
+   "method": "Enactive conceptual analysis that defines incorporation through two operational features, portability and irreversibility, and argues that only concrete objects can be incorporated.",
+   "method_zh": "生成论的概念分析：以可携带性与不可逆性两个操作性特征来定义整合，并论证只有“具体化”的物件才能被整合。",
+   "keywords": [
+    "incorporation",
+    "enactivism",
+    "body schema",
+    "prosthesis",
+    "tool use",
+    "agency",
+    "Phenomenology and the Cognitive Sciences"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1007/s11097-025-10103-5",
+    "doi": "10.1007/s11097-025-10103-5",
+    "venue": "Phenomenology and the Cognitive Sciences, 2025",
+    "title": "Sensorimotor incorporation: an operational definition"
+   },
+   "source_url": "https://doi.org/10.1007/s11097-025-10103-5"
+  },
+  {
+   "id": "dorota-koczanowicz--somaesthetics-and-food",
+   "creator_ids": [
+    "dorota-koczanowicz",
+    "nicola-perullo"
+   ],
+   "title": "Somaesthetics and Food",
+   "year": 2025,
+   "field": "foundations",
+   "sub": "somaesthetics",
+   "modalities": [
+    "whole-soma",
+    "pain-interoception"
+   ],
+   "lenses": [
+    "attunement",
+    "pleasure-play",
+    "more-than-human"
+   ],
+   "kind": "publication",
+   "description": "An edited volume that reads eating through somaesthetics, from the philosophy of taste and mindful eating to lab-grown meat, obesity, eating for the climate and a somaesthetic approach to critical food design.",
+   "description_zh": "一部从身体美学角度阅读饮食的编著，内容从味觉哲学、正念饮食，到实验室培育肉、肥胖、为气候而吃，以及身体美学取向的批判性食物设计。",
+   "idea_en": "Eating is a daily, trainable somatic practice: attending to taste, fullness and the sounds and textures of food is where body, culture and ecology meet.",
+   "idea_zh": "吃饭是一种每天都在进行、可以训练的身体修习：留意味道、饱足感以及食物的声音与质地，正是身体、文化与生态相遇的地方。",
+   "method": "Twelve chapters by philosophers and art historians, including Nicola Perullo on food consciousness, Yuriko Saito on everyday foodscapes and Anna Kwapisz on mindful experience design.",
+   "method_zh": "由哲学家与艺术史学者撰写的十二章，包括 Nicola Perullo 论食物意识、Yuriko Saito 论日常食物景观、Anna Kwapisz 论正念体验设计。",
+   "keywords": [
+    "somaesthetics",
+    "food",
+    "taste",
+    "mindful eating",
+    "food design",
+    "everyday aesthetics",
+    "ecological somaesthetics"
+   ],
+   "images": [
+    "https://brill.com/cover/covers/9789004744578.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1163/9789004744578",
+    "doi": "10.1163/9789004744578",
+    "venue": "Brill, September 2025 (copyright 2026)",
+    "title": "Somaesthetics and Food"
+   },
+   "source_url": "https://brill.com/display/title/73192"
+  },
+  {
+   "id": "veronika-mayerboeck--somatic-core-of-ideation",
+   "creator_ids": [
+    "veronika-mayerboeck",
+    "kristina-hook"
+   ],
+   "title": "Reflections on the Somatic Core of Ideation",
+   "year": 2026,
+   "field": "foundations",
+   "sub": "hci-theory",
+   "also": [
+    "methods"
+   ],
+   "modalities": [
+    "whole-soma",
+    "movement"
+   ],
+   "lenses": [
+    "first-person",
+    "body-mind-unity",
+    "attunement"
+   ],
+   "kind": "publication",
+   "description": "A condensed three-hour conversation (September 2025) between architect and dancer Veronika Mayerboeck, interaction designer Kristina Höök and Somatic Experiencing practitioner Alé Duarte on how ideas grow out of felt bodily states in children, design students and designers.",
+   "description_zh": "一场三小时对谈（2025 年 9 月）的精简整理：建筑师兼舞者 Veronika Mayerboeck、交互设计学者 Kristina Höök 与躯体体验疗法（Somatic Experiencing）从业者 Alé Duarte，讨论想法如何从儿童、设计学生与设计师被感受到的身体状态中生长出来。",
+   "idea_en": "Ideation starts in the body's self-regulation: a designer who can settle, sense and move freely has more to draw ideas from, so design education should train that first.",
+   "idea_zh": "构思始于身体的自我调节：能够安定下来、感受并自由活动的设计者有更多可以汲取想法的来源，因此设计教育应先训练这一点。",
+   "method": "Moderated online dialogue structured by pre-set topics, linking Mayerboeck's Sensing Space method, Höök's soma design and Duarte's KidSoma method for children's self-regulation.",
+   "method_zh": "按预设议题进行、有主持的线上对谈，把 Mayerboeck 的 Sensing Space 方法、Höök 的身体设计与 Duarte 支持儿童自我调节的 KidSoma 方法联系起来。",
+   "keywords": [
+    "ideation",
+    "design education",
+    "Somatic Experiencing",
+    "KidSoma",
+    "Sensing Space",
+    "soma design",
+    "self-regulation"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.54337/ojs.jos.v11i2.10201",
+    "doi": "10.54337/ojs.jos.v11i2.10201",
+    "venue": "The Journal of Somaesthetics 11(2), 2026",
+    "title": "Reflections on the Somatic Core of Ideation"
+   },
+   "source_url": "https://journals.aau.dk/index.php/JOS/article/view/10201"
+  },
+  {
+   "id": "yatande-whitney-hunter--afroist-body-governance",
+   "creator_ids": [
+    "yatande-whitney-hunter",
+    "orlando-zane-hunter-valentine"
+   ],
+   "title": "Unearthing AfrOist Body Governance (ABGs): A Dialogue",
+   "year": 2026,
+   "field": "practices",
+   "sub": "movement-education",
+   "modalities": [
+    "whole-soma",
+    "movement"
+   ],
+   "lenses": [
+    "body-politics",
+    "body-mind-unity"
+   ],
+   "kind": "publication",
+   "description": "Two choreographers talk through AfrOist Body Governance, a new somatic practice that began when one of them was asked to teach a 16-week Alexander Technique course and both looked for an alternative rooted in African diasporic knowledge, Orisha cosmology and dance.",
+   "description_zh": "两位编舞对谈“AfrOist 身体治理”（ABGs）——一种新的身体修习。它源于其中一人受邀教授 16 周的亚历山大技巧课程时，两人转而寻找一种根植于非洲离散族群知识、奥里沙（Orisha）宇宙观与舞蹈的替代方案。",
+   "idea_en": "Somatic education need not start from a European norm of good body use; the body knowledge carried in African diasporic dance and ritual can itself be the method.",
+   "idea_zh": "身体教育不必从欧洲关于“正确使用身体”的规范出发；非洲离散族群的舞蹈与仪式中承载的身体知识，本身就可以成为方法。",
+   "method": "Recorded virtual dialogue that names the core questions for a new practice, citing Africanist somatic practitioners such as Ade Ola (OriBata), S. Ama Wray (Embodiology) and Oludaré (Kìire Wellness).",
+   "method_zh": "一场录下的线上对谈，梳理一种新修习的核心问题，并引用 Ade Ola（OriBata）、S. Ama Wray（Embodiology）与 Oludaré（Kìire Wellness）等非洲主义身体修习者。",
+   "keywords": [
+    "AfrOism",
+    "decolonizing somatics",
+    "Alexander Technique",
+    "African diaspora",
+    "Orisha",
+    "sekpoli",
+    "dance"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.54337/ojs.jos.v11i2.11114",
+    "doi": "10.54337/ojs.jos.v11i2.11114",
+    "venue": "The Journal of Somaesthetics 11(2), 2026",
+    "title": "Unearthing AfrOist Body Governance (ABGs): A Dialogue"
+   },
+   "source_url": "https://journals.aau.dk/index.php/JOS/article/view/11114"
+  },
+  {
+   "id": "galen-cranz--somatic-embodiment-in-architectural-education",
+   "creator_ids": [
+    "galen-cranz",
+    "veronika-mayerboeck"
+   ],
+   "title": "Somatic Embodiment in Architectural Education and Practice: Workshop Curriculum, Report, and Learner Responses",
+   "year": 2026,
+   "field": "practices",
+   "sub": "movement-education",
+   "also": [
+    "methods"
+   ],
+   "modalities": [
+    "posture-balance",
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "attunement",
+    "first-person"
+   ],
+   "kind": "method",
+   "description": "A paper that publishes, as a reusable resource, the protocol of a somatic workshop for architects and designers run at the 2024 summer school 'Moving Boundaries: Architecture and the Human Sciences' in Stockholm, together with participants' responses.",
+   "description_zh": "一篇论文，把 2024 年斯德哥尔摩暑期学校“Moving Boundaries：建筑与人文科学”中为建筑师与设计师开设的身体工作坊流程作为可复用资源公开，并附上学员反馈。",
+   "idea_en": "Architects design for bodies they rarely attend to; a short, structured somatic workshop can make body awareness, movement and well-being part of how spaces are conceived.",
+   "idea_zh": "建筑师为身体做设计，却很少关注身体本身；一个简短而有结构的身体工作坊，可以让身体觉察、动作与安适成为构思空间的一部分。",
+   "method": "Workshop protocol of somatic practices for design students and practitioners, reported with learner feedback, by Galen Cranz, Veronika Mayerboeck, Carina Rose and Sarah Robinson.",
+   "method_zh": "面向设计学生与从业者的身体修习工作坊流程，附学员反馈；作者为 Galen Cranz、Veronika Mayerboeck、Carina Rose 与 Sarah Robinson。",
+   "keywords": [
+    "somatic education",
+    "architecture",
+    "design pedagogy",
+    "body awareness",
+    "workshop protocol",
+    "Moving Boundaries",
+    "Stockholm"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.18389/dearq44.2026.05",
+    "doi": "10.18389/dearq44.2026.05",
+    "venue": "Dearq 44, 2026",
+    "title": "Somatic Embodiment in Architectural Education and Practice: Workshop Curriculum, Report, and Learner Responses"
+   },
+   "source_url": "https://doi.org/10.18389/dearq44.2026.05"
+  },
+  {
+   "id": "tina-stromsted--souls-body",
+   "creator_ids": [
+    "tina-stromsted"
+   ],
+   "title": "Soul's Body: Active Imagination, Authentic Movement, and Embodiment in Psychotherapy",
+   "year": 2025,
+   "field": "practices",
+   "sub": "somatic-therapy",
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "care-healing",
+    "first-person",
+    "body-mind-unity"
+   ],
+   "kind": "publication",
+   "description": "A book in which Tina Stromsted sets out the Soul's Body approach to psychotherapy, which works with the body–psyche connection through Authentic Movement (moving with eyes closed in the presence of a witness) and Jungian active imagination.",
+   "description_zh": "Tina Stromsted 在书中阐述其 Soul's Body 心理治疗方法：通过真实动作（Authentic Movement，在见证者面前闭眼动作）与荣格的积极想象，处理身体与心灵的联系。",
+   "idea_en": "Psyche often shows itself in movement before it reaches words; being witnessed while moving from inner impulse is a way to listen to the body-mind as one.",
+   "idea_zh": "心灵往往先在动作中显现，然后才进入语言；在被见证的状态下顺着内在冲动动作，是把身心当作一个整体来倾听的方式。",
+   "method": "Clinical and teaching practice that combines Authentic Movement, Jungian active imagination, dance/movement therapy and somatics, written for therapists and practitioners.",
+   "method_zh": "结合真实动作、荣格积极想象、舞蹈/动作治疗与身体学的临床与教学实践，面向治疗师与从业者写成。",
+   "keywords": [
+    "Authentic Movement",
+    "active imagination",
+    "Jungian psychotherapy",
+    "dance/movement therapy",
+    "witness",
+    "Soul's Body"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=nWn3g7ghbP0"
+   },
+   "images": [
+    "https://images.tandf.co.uk/common/jackets/crclarge/978100353/9781003538356.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.4324/9781003538356",
+    "doi": "10.4324/9781003538356",
+    "venue": "Routledge, 2025",
+    "title": "Soul's Body: Active Imagination, Authentic Movement, and Embodiment in Psychotherapy"
+   },
+   "source_url": "https://www.tinastromsted.com"
+  },
+  {
+   "id": "katja-kolcio--the-body-remembers-freedom",
+   "creator_ids": [
+    "katja-kolcio",
+    "marta-pyvovarenko"
+   ],
+   "title": "The Body Remembers Freedom: Somatic Interventions in Times of Crisis",
+   "year": 2026,
+   "field": "practices",
+   "sub": "somatic-therapy",
+   "also": [
+    "care"
+   ],
+   "modalities": [
+    "breath",
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "care-healing",
+    "attunement",
+    "body-politics"
+   ],
+   "kind": "publication",
+   "description": "A book presenting a somatic intervention developed and field-tested over ten years in Ukraine with local psychologists, taught to relief workers, the National Guard and veterans and, in the Vitality Project, to civilians in the Donbas region during the war.",
+   "description_zh": "一本介绍身体干预方法的书。该方法与乌克兰当地心理学家一起发展，并在乌克兰经过十年实地检验，曾教授给救援人员、国民警卫队与退伍军人，并在“活力计划”（Vitality Project）中面向战时顿巴斯地区的平民。",
+   "idea_en": "Bodily awareness, sensation and movement are hands-on tools for individual and community resilience, and they can be taught at scale in a war.",
+   "idea_zh": "身体觉察、感受与动作是个人与社群韧性的实用工具，而且可以在战争中大规模地教授。",
+   "method": "Somatic movement-awareness methods delivered by trained psychologists and evaluated in large field studies (Vitality Project Donbas, 2020–21), with quantitative evaluation by co-author Jennifer Rose.",
+   "method_zh": "由受过训练的心理学家传授身体动作觉察方法，并在大规模实地研究（顿巴斯活力计划，2020–2021）中评估，合著者 Jennifer Rose 负责定量评估。",
+   "keywords": [
+    "somatic resilience",
+    "trauma",
+    "Ukraine",
+    "war",
+    "Vitality Project",
+    "breath",
+    "community care"
+   ],
+   "images": [
+    "https://images.tandf.co.uk/common/jackets/crclarge/978104203/9781042030774.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1201/9781042030774",
+    "doi": "10.1201/9781042030774",
+    "venue": "Jenny Stanford Publishing / Routledge, 2026",
+    "title": "The Body Remembers Freedom: Somatic Interventions in Times of Crisis"
+   },
+   "source_url": "https://www.routledge.com/The-Body-Remembers-Freedom-Somatic-Interventions-in-Times-of-Crisis/Kolcio-Pyvovarenko-Rose/p/book/9789815352290"
+  },
+  {
+   "id": "florentina-holzinger--seaworld-venice",
+   "creator_ids": [
+    "florentina-holzinger"
+   ],
+   "title": "SEAWORLD VENICE",
+   "year": 2026,
+   "field": "movement",
+   "sub": "performance",
+   "modalities": [
+    "whole-soma",
+    "breath",
+    "pain-interoception"
+   ],
+   "lenses": [
+    "body-politics",
+    "more-than-human"
+   ],
+   "kind": "performance",
+   "description": "Holzinger turned the Austrian Pavilion at the 61st Venice Biennale into a water system that is part theme park, part sewage plant, part sacred space: visitors' urine feeds a tank where a performer stays submerged in a scuba mask for hours, another strikes a large bell with their torso on the hour, and others hang in harnesses from a slowly turning weathervane.",
+   "description_zh": "Holzinger 把第 61 届威尼斯双年展奥地利馆变成一套水系统，既像主题乐园，又像污水处理厂和神圣空间：观众的尿液流入水箱，一名表演者戴着潜水面罩在水中待上数小时；另一名表演者每到整点用躯干撞击一口大钟；还有人吊在缓缓转动的风向标上。",
+   "idea_en": "Bodily fluids, breath and endurance are tied into the same water cycle as the city and its lagoon, so the performers' strain becomes a felt image of bodies inside a damaged ecology.",
+   "idea_zh": "体液、呼吸与耐力被接入与城市及其潟湖相同的水循环中，表演者的用力因此成为“身处受损生态中的身体”的一种可感受的图像。",
+   "method": "Permanent live installation with durational performances in the pavilion (9 May–22 November 2026) and site-specific 'Études' across Venice and its lagoon, curated by Nora-Swantje Almes (Gropius Bau).",
+   "method_zh": "展馆内的常设现场装置与长时表演（2026 年 5 月 9 日至 11 月 22 日），以及遍布威尼斯与潟湖的特定场域“练习曲”（Études）；策展人为 Nora-Swantje Almes（柏林格罗皮乌斯博物馆）。",
+   "keywords": [
+    "Venice Biennale",
+    "Austrian Pavilion",
+    "water",
+    "endurance",
+    "bodily fluids",
+    "durational performance",
+    "ecology"
+   ],
+   "images": [
+    "https://static-assets.artlogic.net/w_1200,h_800,c_limit,f_auto,fl_lossy,q_auto:good/ws-ropac/usr/images/news/main_image/items/c4/c47639b5b65e421eab65957251310865/seaworld-venice-2026-nicole-marianna-wytyczak_1.jpg"
+   ],
+   "source_url": "https://ropac.net/news/3036-florentina-holzinger-seaworld-venice-austrian-pavilion-at-the-61st-venice-biennale/",
+   "exhibited": [
+    "61st Venice Biennale, Austrian Pavilion (2026)"
+   ]
+  },
+  {
+   "id": "miet-warlop--it-never-ssst",
+   "creator_ids": [
+    "miet-warlop"
+   ],
+   "title": "IT NEVER SSST",
+   "year": 2026,
+   "field": "movement",
+   "sub": "performance",
+   "modalities": [
+    "movement",
+    "breath",
+    "voice-sound"
+   ],
+   "lenses": [
+    "movement-expression",
+    "intercorporeality"
+   ],
+   "kind": "performance",
+   "description": "In the Belgian Pavilion at the 61st Venice Biennale, performers activate a wooden bleacher structure with drums and plaster tablets inscribed with words in many languages, chanting, drumming, stomping and smashing the tablets in a ritual that builds to the phrase 'IT NEVER SSST'; in one solo a performer climbs the bleachers in a cracking plaster skirt, falls and lies breathing hard.",
+   "description_zh": "在第 61 届威尼斯双年展比利时馆中，表演者激活一座木制看台装置，上面有鼓和刻着多种语言文字的石膏板；他们吟唱、击鼓、跺脚、砸碎石膏板，仪式逐步推向“IT NEVER SSST”这句话。在一段独舞中，一名表演者穿着不断开裂的石膏裙爬上看台，跌落后躺着大口喘气。",
+   "idea_en": "Keeping moving at any cost is shown as a bodily state: exhaustion, bruises and breath are the score, not side effects.",
+   "idea_zh": "“无论如何都要继续动下去”被呈现为一种身体状态：力竭、淤青与喘息就是乐谱，而不是副作用。",
+   "method": "Exhibition-performance in which 'living sculptures' regularly activate the installation through physical and sculptural rituals; curated by Caroline Dumalin, travelling to KANAL-Centre Pompidou, Brussels, in 2027.",
+   "method_zh": "展览式表演：“活雕塑”定期以身体与雕塑性的仪式激活装置；策展人为 Caroline Dumalin，2027 年巡回至布鲁塞尔 KANAL-蓬皮杜中心。",
+   "keywords": [
+    "Venice Biennale",
+    "Belgian Pavilion",
+    "exhaustion",
+    "ritual",
+    "plaster",
+    "drumming",
+    "live sculpture"
+   ],
+   "images": [
+    "https://www.belgianpavilion.be/media-cms/miet-warlop-2C-plaster-hands.jpg"
+   ],
+   "source_url": "https://www.belgianpavilion.be",
+   "exhibited": [
+    "61st Venice Biennale, Belgian Pavilion (2026)"
+   ]
+  },
+  {
+   "id": "miles-greenberg--the-flaying-of-marsyas",
+   "creator_ids": [
+    "miles-greenberg"
+   ],
+   "title": "The Flaying of Marsyas",
+   "year": 2025,
+   "field": "movement",
+   "sub": "performance",
+   "modalities": [
+    "heartbeat",
+    "breath",
+    "posture-balance"
+   ],
+   "lenses": [
+    "attunement",
+    "intercorporeality"
+   ],
+   "kind": "performance",
+   "description": "A seven-hour performance at the Stedelijk Museum Amsterdam in which Greenberg, bound in shibari ropes and restaging a Louvre sculpture of the satyr Marsyas, is slowly coated in cane-sugar syrup until immobile; during five-minute silences the room hears the artist's own heartbeat and breath through a stethoscope built into the ropes.",
+   "description_zh": "在阿姆斯特丹市立博物馆进行的七小时表演：Greenberg 被日式绳缚（shibari）捆绑，重现卢浮宫一尊萨提尔马西亚斯雕像的姿态，身体被蔗糖浆慢慢覆盖直至无法动弹；在每段五分钟的静默中，现场能听到通过嵌入绳索的听诊器放大的艺术家本人的心跳与呼吸。",
+   "idea_en": "Slowing a body almost to stillness and amplifying its heartbeat and breath turns attention from the image of a body to the life inside it.",
+   "idea_zh": "让身体慢到几近静止，并放大它的心跳与呼吸，把注意力从身体的图像转向身体内部的生命。",
+   "method": "Durational performance, the second in the MORTALS series, commissioned for the Stedelijk's Gallery of Honour; shibari by Hua Hua, robotics by AATB, and a soundtrack by Personal JJesus interleaved with live heartbeat and breath picked up by a modified stethoscope.",
+   "method_zh": "长时表演，MORTALS 系列第二部，为市立博物馆荣誉厅委托创作；绳缚由 Hua Hua 完成，机械装置由 AATB 制作，Personal JJesus 的配乐与改装听诊器实时拾取的心跳和呼吸声交替出现。",
+   "keywords": [
+    "durational performance",
+    "heartbeat",
+    "breath",
+    "stethoscope",
+    "shibari",
+    "Stedelijk Museum",
+    "MORTALS"
+   ],
+   "images": [
+    "https://www.milesgreenberg.com/uploads/4/7/8/0/47808121/sma-miles-greenberg-13-11-2025-lndwstudio-dsc-4965.jpg"
+   ],
+   "source_url": "https://www.milesgreenberg.com/the-flaying-of-marsyas.html",
+   "exhibited": [
+    "Stedelijk Museum Amsterdam (2025)"
+   ]
+  },
+  {
+   "id": "marina-abramovic--balkan-erotic-epic",
+   "creator_ids": [
+    "marina-abramovic"
+   ],
+   "title": "Balkan Erotic Epic",
+   "year": 2025,
+   "field": "movement",
+   "sub": "performance",
+   "also": [
+    "intimate"
+   ],
+   "modalities": [
+    "intimate-body",
+    "whole-soma",
+    "voice-sound"
+   ],
+   "lenses": [
+    "pleasure-play",
+    "body-politics",
+    "care-healing"
+   ],
+   "kind": "performance",
+   "description": "A four-hour durational work for more than 70 performers that stages, in thirteen scenes of dance, song and ritual, Balkan folk rites around sexuality, fertility and death (scenes include 'Fertility Rite' and 'Massaging the Breast'), while the audience moves freely through the space.",
+   "description_zh": "一部约四小时、由七十多名表演者参与的长时作品，以舞蹈、歌唱与仪式组成的十三个场景，重现巴尔干民间围绕性、生育与死亡的仪式（包括“生育仪式”“按摩乳房”等场景），观众可以在空间中自由走动。",
+   "idea_en": "Folk rituals treated the erotic body as a practical force for healing and fertility rather than something private or shameful; restaging them asks what that bodily knowledge means now.",
+   "idea_zh": "民间仪式把情欲的身体当作疗愈与生育的实际力量，而不是私密或可耻之物；重新上演这些仪式，是在追问这种身体知识在今天意味着什么。",
+   "method": "Immersive durational production grown from a 12-minute piece Abramović worked on for about twenty years; premiered at Aviva Studios, Manchester (9–19 October 2025), co-commissioned with Berliner Festspiele, Gran Teatre del Liceu and Park Avenue Armory, with a stage version opening in Barcelona in January 2026.",
+   "method_zh": "沉浸式长时制作，源自 Abramović 打磨了约二十年的一段 12 分钟作品；2025 年 10 月 9 日至 19 日在曼彻斯特 Aviva Studios 首演，由柏林艺术节、利塞乌大剧院与公园大道军械库联合委约，舞台版于 2026 年 1 月在巴塞罗那首演。",
+   "keywords": [
+    "Balkan folklore",
+    "ritual",
+    "eros",
+    "fertility",
+    "durational performance",
+    "Factory International",
+    "Marina Abramović"
+   ],
+   "images": [
+    "https://www.berlinerfestspiele.de/magnoliaPublic/.imaging/mte/bfs-de-fe/meta/dam/bfs-de/Performing-Arts-Season/2026/Balkan-Erotic-Epic/pas26_balkan_erotic_epic_performance_keyvisual.jpg/jcr:content/pas26_balkan_erotic_epic_performance_keyvisual.jpg"
+   ],
+   "source_url": "https://berlinerfestspiele.de/en/performing-arts-season/programm/2026/spielplan/balkan-erotic-epic",
+   "exhibited": [
+    "Factory International, Aviva Studios, Manchester (2025)",
+    "Gran Teatre del Liceu, Barcelona (2026)",
+    "Berliner Festspiele (2026)"
+   ]
+  },
+  {
+   "id": "avital-meshi--rest",
+   "creator_ids": [
+    "avital-meshi"
+   ],
+   "title": "Rest!",
+   "year": 2026,
+   "field": "movement",
+   "sub": "performance",
+   "also": [
+    "machines-xr"
+   ],
+   "modalities": [
+    "whole-soma",
+    "breath",
+    "posture-balance"
+   ],
+   "lenses": [
+    "body-data",
+    "attunement",
+    "body-politics"
+   ],
+   "kind": "performance",
+   "description": "A durational performance in which a performer lies on a mattress trying to rest while an AI system watches through a camera and speaks directives meant to keep them resting, by turns soothing, intrusive and absurd; over hours the breathing slows and the performer may genuinely fall asleep.",
+   "description_zh": "一场长时表演：表演者躺在床垫上试图休息，AI 系统通过摄像头持续观察，并用语音发出指令要求其继续休息——时而安抚，时而侵扰，时而荒诞；几个小时里，呼吸逐渐变慢，表演者可能真的睡着。",
+   "idea_en": "Rest is an inner state that cannot be verified from outside; when a machine tries to read and manage it from posture alone, the gap between felt experience and algorithmic interpretation becomes visible.",
+   "idea_zh": "休息是一种无法从外部验证的内在状态；当机器仅凭姿态去读取和管理它时，亲身感受与算法解读之间的落差便显现出来。",
+   "method": "Camera-based visual analysis of the performer's posture and presence drives an AI system that generates spoken instructions; made with Dorte Bjerre Jensen and shown at CVPR 2026 in Denver.",
+   "method_zh": "基于摄像头的视觉分析读取表演者的姿态与在场状态，驱动 AI 系统生成语音指令；与 Dorte Bjerre Jensen 合作，2026 年在丹佛的 CVPR 大会展演。",
+   "keywords": [
+    "rest",
+    "AI surveillance",
+    "durational performance",
+    "sleep",
+    "computer vision",
+    "productivity",
+    "Dorte Bjerre Jensen"
+   ],
+   "video": {
+    "url": "https://vimeo.com/1165578160"
+   },
+   "images": [
+    "https://www.avitalmeshi.com/uploads/1/2/1/7/12179426/rest-2_orig.png",
+    "https://www.avitalmeshi.com/uploads/1/2/1/7/12179426/cvpr-collectiverest_orig.jpg"
+   ],
+   "source_url": "https://www.avitalmeshi.com/rest-2026.html",
+   "exhibited": [
+    "CVPR 2026, Denver"
+   ]
+  }
+ ],
+ "leads": [
+  {
+   "name": "Richard Shusterman — Somaesthetics of Atmosphere (Brill, e-book 26 Nov 2026, hardback Dec 2026)",
+   "why": "New Shusterman monograph; not yet published at the time of this round (Brill lists it as not yet available). Add next round.",
+   "link": "https://doi.org/10.1163/9789004773301",
+   "found_via": "richard-shusterman",
+   "status": "open"
+  },
+  {
+   "name": "Alexander Kremer — Richard Shusterman's Somaesthetics: Philosophy and Aesthetics (Lexington/Bloomsbury, 2026)",
+   "why": "Book-length study arguing that somaesthetics is a philosophy, not only an aesthetics; a secondary source, lower priority than Shusterman's own books.",
+   "link": "https://doi.org/10.5040/9798881892999",
+   "found_via": "richard-shusterman",
+   "status": "open"
+  },
+  {
+   "name": "Mark Tschaepe (ed.) — Somaesthetics of Noise, special issue, The Journal of Somaesthetics 12(1), 2026",
+   "why": "Treats noise as felt through vibration, pressure, irritation and fatigue; relevant to vibration and sound design. Includes Romina De Novellis' performance Arachne and 'Embodied Vibrations' on high-intensity acoustic experience.",
+   "link": "https://doi.org/10.54337/ojs.jos.v12i1.11614",
+   "found_via": "mark-tschaepe",
+   "status": "open"
+  },
+  {
+   "name": "Falk Heinrich & Mark Tschaepe (eds.) — Somaesthetic Practices: Interviews with Artists and Somatic Practitioners (J. Somaesthetics 11(2), 2026)",
+   "why": "Interview issue: Roberta Carreri (Odin Teatret actor training as self-cultivation), Lex Shcherbakov (inclusive somatic theatre), Vrinda Ramanan (Bharatanāṭyam, the dancer as yogi, 12(1)), Zden Brungot Svíteková (landscape as dance partner, Greenland), Rachel Gadsden.",
+   "link": "https://doi.org/10.54337/ojs.jos.v11i2.11311",
+   "found_via": "mark-tschaepe",
+   "status": "open"
+  },
+  {
+   "name": "Rachel Gadsden — live art on fragility and breath (Trapped 2 Walls, 2024; JoS interview 2026)",
+   "why": "British disabled artist living with a hereditary lung condition; her performances and the 2026 interview describe embodiment as unity of body and subject. Needs a dated 2025–26 work with media.",
+   "link": "https://doi.org/10.54337/ojs.jos.v11i2.11298",
+   "found_via": "mark-tschaepe",
+   "status": "open"
+  },
+  {
+   "name": "Gabrielle Goliath — Elegy (2015–ongoing; Venice 2026 presentation at Chiesa di Sant'Antonin)",
+   "why": "Long-form ritual of sustained collective singing and held breath mourning victims of gendered and queerphobic violence; South Africa withdrew its 2026 pavilion over it. Strong breath/voice work, but first shown in 2015, so out of this round's window.",
+   "link": "https://en.wikipedia.org/wiki/Gabrielle_Goliath",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Filippo Nassetti — Breathing Architecture (2024–25), S+T+ARTS Prize 2025 Honorary Mention",
+   "why": "Sculptures and films from airflow simulations of lung alveoli (Barcelona Supercomputing Center). Skipped: it shows breathing anatomy from outside rather than as felt from within.",
+   "link": "https://www.filipponassetti.com/breathing-architecture-ii",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "Marco Donnarumma — I Am Your Body (2023, PACT Zollverein)",
+   "why": "Performance and video made with d/Deaf and hard-of-hearing co-researchers on their ambivalent relation to hearing prostheses and AI; no 2025–26 premiere found. Ex Silens (2024) is already in latest-augmented.",
+   "link": "https://medienwerk.nrw/?p=8559",
+   "found_via": "marco-donnarumma",
+   "status": "open"
+  },
+  {
+   "name": "Florentina Holzinger — SANCTA (2024)",
+   "why": "Opera after Hindemith with an all-female nude cast, body modification and live singing; notable 2024 work for the performance/opera sub.",
+   "link": "https://en.wikipedia.org/wiki/Florentina_Holzinger",
+   "found_via": "florentina-holzinger",
+   "status": "open"
+  },
+  {
+   "name": "Miles Greenberg — Le Miroir (2025, 1-54 Marrakech; ICD Brookfield Place, Dubai)",
+   "why": "Durational performance on how emotions mutate through one sustained, repeated movement over many hours.",
+   "link": "https://www.milesgreenberg.com/le-miroir.html",
+   "found_via": "miles-greenberg",
+   "status": "open"
+  },
+  {
+   "name": "Jonathan Chaim Reus & Jaap Blonk — Bla Blavatar vs Jaap Blonk (2024; Prix Ars Electronica 2025 Award of Distinction)",
+   "why": "Sound poet's bodily voice against its AI clone in live dataset-making performances; for latest-machines-ai (AI voice).",
+   "link": "https://jonathanreus.com/portfolio/bla-blavatar-vs-jaap-blonk/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Greta Gauhe & Merle Fairhurst — Remote touch: Audio Snacks for People Living with Chronic Pain (J. Dance & Somatic Practices, 2025)",
+   "why": "Touch-focused audio recordings drawing on release-based dance to shift the felt experience of chronic pain; for latest-affect-care (care/pain-rehab).",
+   "link": "https://doi.org/10.1386/jdsp_00147_1",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Hiie Saumaa & Alexandra Deutsch — Tactile encounters: somatic performance with objects of art (J. Dance & Somatic Practices, 2026)",
+   "why": "Somatic movement artist performing with large textile artworks that 'seem to have a body'; needs dates and images of the performances.",
+   "link": "https://doi.org/10.1386/jdsp_00164_7",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Ezequiel Di Paolo — The enactive elements of style (Phenomenology and the Cognitive Sciences, 2026)",
+   "why": "In the special issue for 20 years of Noë's Action in Perception; style as communal processes of bodily form-taking. The special issue itself is a candidate.",
+   "link": "https://doi.org/10.1007/s11097-026-10142-6",
+   "found_via": "ezequiel-di-paolo",
+   "status": "open"
+  },
+  {
+   "name": "Lisa Folkmarson Käll & Kristin Zeiler — Intersections of Feminist Technoscience and Phenomenology (Routledge, 2025)",
+   "why": "Feminist phenomenology of embodiment, subjectivity and agency with technology; foundations/phenomenology candidate.",
+   "link": "https://doi.org/10.4324/9781003611325",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Christoph Solstreif-Pirker — Matrixial Breath: Aesthetically Respiring into the Trauma of the Present (Routledge, 2025)",
+   "why": "Aesthetics of breathing after Bracha Ettinger; complements the critical respiratory studies handbook.",
+   "link": "https://doi.org/10.4324/9781003603672",
+   "found_via": "lenart-skof",
+   "status": "open"
+  },
+  {
+   "name": "Eugene T. Gendlin — Intricacy (Verlag Karl Alber, 2026, German)",
+   "why": "Gendlin's writing on the body feeling itself in its situation as the common source of philosophy and psychotherapy; German edition only.",
+   "link": "https://doi.org/10.5771/9783495989401",
+   "found_via": "eugene-gendlin",
+   "status": "open"
+  },
+  {
+   "name": "Kathryn Linn Geurts — Culture and the Senses: Bodily Ways of Knowing in an African Community (2002)",
+   "why": "The foundational book behind seselelãme and the critique of the five-sense model; not yet in the gallery.",
+   "link": "https://doi.org/10.1525/9780520936546",
+   "found_via": "kathryn-linn-geurts",
+   "status": "open"
+  },
+  {
+   "name": "Alé Duarte — KidSoma Method; Veronika Mayerboeck — Sensing Space method",
+   "why": "Two somatic ideation/self-regulation methods named in 'Reflections on the Somatic Core of Ideation'; method entries for latest-kth-methods if documented.",
+   "link": "https://doi.org/10.54337/ojs.jos.v11i2.10201",
+   "found_via": "veronika-mayerboeck",
+   "status": "open"
+  },
+  {
+   "name": "Fiona Bell et al. — Sensory Data Dialogues: A Somaesthetic Exploration of Bordeaux through Five Senses (TEI 2025)",
+   "why": "Somaesthetic five-senses exploration; for latest-kth-methods (methods/somaesthetic).",
+   "link": "https://doi.org/10.1145/3689050.3708327",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Arife Dila Demir — Pain Creature: Designing with Discomfort for Somaesthetic Awareness (2025)",
+   "why": "Discomfort as somaesthetic design material; pairs with Tschaepe's somaesthetics of discomfort; for latest-kth-methods.",
+   "link": "https://doi.org/10.1145/3757980.3757988",
+   "found_via": "mark-tschaepe",
+   "status": "open"
+  },
+  {
+   "name": "Thomas Metzinger — The Elephant and the Blind: The Experience of Pure Consciousness (MIT Press, 2024)",
+   "why": "Phenomenology of 'pure awareness' from a survey of meditators; possible practices/meditation-breath or foundations/phenomenology entry.",
+   "link": "https://doi.org/10.7551/mitpress/15196.001.0001",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Adam Frank, Marcelo Gleiser & Evan Thompson — The Blind Spot: Why Science Cannot Ignore Human Experience (MIT Press, 2024)",
+   "why": "Argues lived experience is the ground of science; notable 2024 enactive/phenomenology book, borderline for the body-mind focus.",
+   "link": "https://doi.org/10.7551/mitpress/13711.001.0001",
+   "found_via": "evan-thompson",
+   "status": "open"
+  },
+  {
+   "name": "East Asian leads for latest-east-asia: Jiyun Bae (Toru Iwashita's Life-Size Dance, JoS 2026); Tomokatsu Kono (somaesthetic participatory cognitive science of ADHD, JoS 2026); Kei Nagaoka (prostration, chaktsal, JoS 2025); Xueting Luo (Kunqu and Chinese classical dance, JoS 2025–26)",
+   "why": "Journal of Somaesthetics 2025–26 essays by East Asian first authors; outside this batch's scope.",
+   "link": "https://doi.org/10.54337/ojs.jos.v11i2.10828",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "East Asian art leads for latest-east-asia: evala, ebb tide (Isao Tomita Special Prize, Prix Ars Electronica 2025); Pinyao Liu, SOMA: In Search of Somatic Intelligence (SIGGRAPH 2026 Art Gallery); Ei Arakawa-Nash, Grass Babies, Moon Babies (Japan Pavilion, Venice 2026); Akira Nakayasu et al., ChoreoFin: Breathing in the Ocean (SIGGRAPH 2025); Sougwen Chung",
+   "why": "Felt-body art by East Asian first creators found in this round's prize and exhibition scan.",
+   "link": "https://doi.org/10.1145/3799824.3812697",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Xuefei Shi — Wearable Instrument: An intimate dialogue between textiles, body and sound (Aalto MA thesis 2025; UbiComp/ISWC 2025 companion)",
+   "why": "Seed candidate; East Asian first creator, so for latest-east-asia (somaesthetic/garments).",
+   "link": "https://doi.org/10.1145/3714394.3750706",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Giorgia Burzio & Venere Ferraro — Grounding in Tangible Interaction Design (SpringerBriefs, 2025)",
+   "why": "Seed candidate checked: a chapter in a book on data physicalization, not about the felt body.",
+   "link": "https://doi.org/10.1007/978-3-032-05322-0_3",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "Marshmallow Laser Feast — Breathe | Mauri Ora (Te Papa, Dec 2025–Apr 2026)",
+   "why": "Breath-and-body immersive show produced by ACMI; a touring compilation of earlier MLF works (We Live in an Ocean of Air is already in the gallery), not a new work.",
+   "link": "https://camd.org.au/?p=38230",
+   "found_via": "marshmallow-laser-feast",
+   "status": "duplicate"
+  }
+ ]
+}

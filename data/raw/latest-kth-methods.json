@@ -1,0 +1,1150 @@
+{
+ "batch": "latest-kth-methods",
+ "creators": [
+  {
+   "id": "alejandra-gomez-ortega",
+   "name": "Alejandra Gómez Ortega",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Design researcher, Stockholm University (working with KTH's intimate-health design group)",
+   "based": "Stockholm, SE",
+   "bio": "Alejandra Gómez Ortega designs and studies technologies for intimate data, such as fertility, menstrual and sexual-health data, from feminist and consent-centred positions.",
+   "why": "Their work treats intimate data as something bodies share and feel, not only as information to protect.",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "role_zh": "斯德哥尔摩大学设计研究者（与 KTH 私密健康设计团队合作）",
+   "bio_zh": "Alejandra Gómez Ortega 从女性主义与以同意为核心的立场出发，设计并研究处理私密数据（如生育力、月经与性健康数据）的技术。",
+   "why_zh": "Alejandra Gómez Ortega 把私密数据当作身体之间共享、被感受的东西，而不只是需要保护的信息。",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "connected_to": [
+    "madeline-balaam",
+    "nadia-campo-woytuk",
+    "joo-young-park",
+    "anna-stahl"
+   ],
+   "discovered_via": "madeline-balaam"
+  },
+  {
+   "id": "henrique-sambi",
+   "name": "Henrique Sambi",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, KTH Royal Institute of Technology",
+   "based": "Stockholm, SE",
+   "bio": "Henrique Sambi works on soft-robotic touch at KTH with Madeline Balaam's group and the Somabotics programme at the University of Nottingham.",
+   "why": "Henrique Sambi builds shared tools for learning, by feeling, how soft-robotic touch affects people.",
+   "disciplines": [
+    "hci",
+    "engineering"
+   ],
+   "links": {},
+   "role_zh": "瑞典皇家理工学院（KTH）研究员",
+   "bio_zh": "Henrique Sambi 在 KTH 与 Madeline Balaam 的团队以及诺丁汉大学的 Somabotics 项目合作，研究软体机器人的触摸。",
+   "why_zh": "Henrique Sambi 制作共享工具，让人通过亲身感受去学习软体机器人的触摸如何影响人。",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "connected_to": [
+    "madeline-balaam",
+    "caroline-yan-zheng",
+    "yoav-luft",
+    "steve-benford",
+    "paul-tennent"
+   ],
+   "discovered_via": "madeline-balaam"
+  },
+  {
+   "id": "hannah-pelikan",
+   "name": "Hannah Pelikan",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, Linköping University",
+   "based": "Linköping, SE",
+   "bio": "Hannah Pelikan studies how people and robots coordinate in everyday settings, using ethnomethodology, conversation analysis and video.",
+   "why": "Their DIS 2026 paper joins video-based interaction analysis with soma design to reach the felt side of controlling machines.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "林雪平大学研究员",
+   "bio_zh": "Hannah Pelikan 用常人方法学、会话分析与视频，研究人与机器人如何在日常情境中相互协调。",
+   "why_zh": "Hannah Pelikan 在 DIS 2026 的论文把基于视频的互动分析与身体设计结合起来，触及操控机器时的亲身感受。",
+   "based_zh": "林雪平，瑞典",
+   "connected_to": [
+    "rachael-garrett"
+   ],
+   "discovered_via": "rachael-garrett"
+  },
+  {
+   "id": "arife-dila-demir",
+   "name": "Arife Dila Demir",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Designer and researcher, Estonian Academy of Arts",
+   "based": "Tallinn, EE",
+   "bio": "Arife Dila Demir is a designer working on discomfort, pain and felt ethics in soma design; Demir co-authored a NordiCHI 2024 study of a body-based ethics workshop with KTH researchers.",
+   "why": "Their work treats discomfort as material to design with rather than a problem to remove.",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "爱沙尼亚艺术学院设计师、研究者",
+   "bio_zh": "Arife Dila Demir 是一位设计师，在身体设计中研究不适、疼痛与被感受的伦理；其曾与 KTH 研究者合写一篇关于身体伦理工作坊的 NordiCHI 2024 论文。",
+   "why_zh": "Arife Dila Demir 把不适当作可以拿来设计的材料，而不是需要消除的问题。",
+   "based_zh": "塔林，爱沙尼亚",
+   "connected_to": [
+    "kristina-popova"
+   ],
+   "discovered_via": "kristina-popova"
+  },
+  {
+   "id": "michael-arnold-mages",
+   "name": "Michael Arnold Mages",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Design researcher, Northeastern University",
+   "based": "Boston, US",
+   "bio": "Michael Arnold Mages is a design researcher at Northeastern University and co-author, with Stephen Neely, of Somaesthetic Design (2026).",
+   "why": "The book turns somaesthetics into a working vocabulary for designers of experiences that unfold in time.",
+   "disciplines": [
+    "design"
+   ],
+   "links": {},
+   "role_zh": "东北大学（波士顿）设计研究者",
+   "bio_zh": "Michael Arnold Mages 是东北大学的设计研究者，与 Stephen Neely 合著《Somaesthetic Design》（2026）。",
+   "why_zh": "这本书把身体美学转化为一套可用的词汇，供设计随时间展开之经验的设计者使用。",
+   "based_zh": "波士顿，美国",
+   "connected_to": [
+    "stephen-neely"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "stephen-neely",
+   "name": "Stephen Neely",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Carnegie Mellon University",
+   "based": "Pittsburgh, US",
+   "bio": "Stephen Neely is based at Carnegie Mellon University and co-wrote Somaesthetic Design (2026) with Michael Arnold Mages.",
+   "why": "Co-author of a design theory of the experiencing body and felt time.",
+   "disciplines": [
+    "design"
+   ],
+   "links": {},
+   "role_zh": "卡内基梅隆大学",
+   "bio_zh": "Stephen Neely 任职于卡内基梅隆大学，与 Michael Arnold Mages 合著《Somaesthetic Design》（2026）。",
+   "why_zh": "一部关于经验着的身体与被感受之时间的设计理论的合著者。",
+   "based_zh": "匹兹堡，美国",
+   "connected_to": [
+    "michael-arnold-mages"
+   ],
+   "discovered_via": "michael-arnold-mages"
+  },
+  {
+   "id": "thais-alvarenga-medina",
+   "name": "Thaís Alvarenga Medina",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Design researcher, Georgia Institute of Technology",
+   "based": "Atlanta, US",
+   "bio": "Thaís Alvarenga Medina is a design researcher at Georgia Tech whose soma design work draws on Honduran Lenca and Mestizo understandings of relational embodiment.",
+   "why": "Thaís Alvarenga Medina brings an Indigenous Central American ontology into soma design's body-mapping practice.",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "佐治亚理工学院设计研究者",
+   "bio_zh": "Thaís Alvarenga Medina 是佐治亚理工学院的设计研究者，其身体设计工作借鉴洪都拉斯伦卡人与梅斯蒂索人对关系性具身的理解。",
+   "why_zh": "Thaís Alvarenga Medina 把一种中美洲原住民的本体论带进身体设计的身体地图实践。",
+   "based_zh": "亚特兰大，美国",
+   "connected_to": [
+    "michael-nitsche"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "michael-nitsche",
+   "name": "Michael Nitsche",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Digital Media, Georgia Institute of Technology",
+   "based": "Atlanta, US",
+   "bio": "Michael Nitsche researches digital media, performance and craft at Georgia Tech; author of Video Game Spaces (MIT Press, 2008).",
+   "why": "Co-author of Reciprocal Sensing, a culturally situated body-mapping method for soma design.",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "佐治亚理工学院数字媒体教授",
+   "bio_zh": "Michael Nitsche 在佐治亚理工学院研究数字媒体、表演与手工艺，著有《Video Game Spaces》（MIT Press，2008）。",
+   "why_zh": "Reciprocal Sensing（一种扎根于特定文化的身体设计身体地图方法）的合著者。",
+   "based_zh": "亚特兰大，美国",
+   "connected_to": [
+    "thais-alvarenga-medina"
+   ],
+   "discovered_via": "thais-alvarenga-medina"
+  },
+  {
+   "id": "dirk-loyens",
+   "name": "Dirk Loyens",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Product design educator and researcher, Polytechnic of Porto (ESMAD, ID+)",
+   "based": "Porto, PT",
+   "bio": "Dirk Loyens teaches product design in Porto and studies how somatic practice can support design education.",
+   "why": "Dirk Loyens brings Feldenkrais-based somatic training into product design teaching.",
+   "disciplines": [
+    "design"
+   ],
+   "links": {},
+   "role_zh": "波尔图理工学院（ESMAD、ID+）产品设计教师、研究者",
+   "bio_zh": "Dirk Loyens 在波尔图教授产品设计，研究身体修习如何支持设计教育。",
+   "why_zh": "Dirk Loyens 把以费登奎斯方法为基础的身体训练带进产品设计教学。",
+   "based_zh": "波尔图，葡萄牙",
+   "connected_to": [
+    "nicole-schumann-sizaret"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "nicole-schumann-sizaret",
+   "name": "Nicole Schumann-Sizaret",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Feldenkrais teacher and brand strategist, Porto",
+   "based": "Porto, PT",
+   "bio": "Nicole Schumann-Sizaret is a certified teacher of the Feldenkrais Awareness Through Movement method, founder of the studio Fluent, and leads the UserFeel somatic-awareness workshop for design students at ESAD.",
+   "why": "Nicole Schumann-Sizaret teaches designers to sense their own bodies before designing experiences for others.",
+   "disciplines": [
+    "somatics",
+    "design"
+   ],
+   "links": {},
+   "role_zh": "波尔图的费登奎斯教师与品牌策略师",
+   "bio_zh": "Nicole Schumann-Sizaret 是认证的费登奎斯“动中觉察”教师、工作室 Fluent 的创办者，并在 ESAD 为设计学生主持 UserFeel 身体觉察工作坊。",
+   "why_zh": "Nicole Schumann-Sizaret 教设计者先感受自己的身体，再为他人设计体验。",
+   "based_zh": "波尔图，葡萄牙",
+   "connected_to": [
+    "dirk-loyens"
+   ],
+   "discovered_via": "dirk-loyens"
+  },
+  {
+   "id": "marte-roel-lesur",
+   "name": "Marte Roel Lesur",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, i_mBODY Lab (Universidad Carlos III de Madrid) and University of Zurich; member of BeAnotherLab",
+   "based": "Madrid, ES",
+   "bio": "Marte Roel Lesur researches body perception and the bodily self across psychology and design, and is part of the BeAnotherLab collective.",
+   "why": "Bridges experimental body-perception science and the felt-experience methods of soma design.",
+   "disciplines": [
+    "health",
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "i_mBODY 实验室（马德里卡洛斯三世大学）与苏黎世大学研究者，BeAnotherLab 成员",
+   "bio_zh": "Marte Roel Lesur 横跨心理学与设计研究身体知觉与身体自我，也是 BeAnotherLab 团体的成员。",
+   "why_zh": "在实验性的身体知觉科学与身体设计中表达亲身感受的方法之间架起桥梁。",
+   "based_zh": "马德里，西班牙",
+   "connected_to": [
+    "beanotherlab",
+    "ana-tajadura-jimenez",
+    "laia-turmo-vidal"
+   ],
+   "discovered_via": "laia-turmo-vidal"
+  }
+ ],
+ "works": [
+  {
+   "id": "nadia-campo-woytuk--feminist-sensing",
+   "creator_ids": [
+    "nadia-campo-woytuk",
+    "anupriya-tuli",
+    "joo-young-park",
+    "laia-turmo-vidal",
+    "marianela-ciolfi-felice",
+    "madeline-balaam"
+   ],
+   "title": "Toward Feminist Ways of Sensing the Menstruating Body",
+   "year": 2025,
+   "field": "intimate",
+   "sub": "menstruation",
+   "also": [
+    "affect"
+   ],
+   "modalities": [
+    "intimate-body",
+    "touch"
+   ],
+   "lenses": [
+    "body-data",
+    "body-politics"
+   ],
+   "kind": "prototype",
+   "description": "A finger-worn sensor measures the conductivity of vaginal fluid, which changes across the menstrual cycle; the team brought it into workshops and into seven people's daily lives as a hands-on, material way of knowing the cycle.",
+   "description_zh": "一个戴在手指上的传感器测量阴道分泌物的电导率（它随月经周期而变化）；团队把它带进工作坊，并让七位参与者在日常生活中使用，以动手、可触摸的方式认识自己的周期。",
+   "idea_en": "Sensing menstrual fluids by touch makes cycle tracking a bodily practice, and the tensions it raises about touch, hygiene, data and labour are worth holding open rather than designing away.",
+   "idea_zh": "用触摸去感知经期分泌物，让周期追踪变成一种身体实践；它引出的关于触碰、卫生、数据与劳动的张力，值得保持开放，而不是被设计抹掉。",
+   "method": "Finger-worn vaginal-fluid conductivity sensor explored in two speculative workshops (18 people), four fabrication workshops (17 people) and a home deployment (7 people), framed by feminist materialist and posthuman theory.",
+   "method_zh": "研制测量阴道分泌物电导率的指戴式传感器，经由两场思辨工作坊（18 人）、四场制作工作坊（17 人）和一次居家部署（7 人）展开研究，理论框架为女性主义新物质主义与后人类理论。",
+   "keywords": [
+    "menstrual tracking",
+    "vaginal fluid",
+    "feminist sensing",
+    "fabrication workshop",
+    "intimate data"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3706598.3713466",
+    "doi": "10.1145/3706598.3713466",
+    "arxiv": "",
+    "venue": "CHI 2025",
+    "title": "Toward Feminist Ways of Sensing the Menstruating Body"
+   },
+   "source_url": "https://www.open-access.bcu.ac.uk/16633/",
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "rachael-garrett--moment-of-glitch",
+   "creator_ids": [
+    "rachael-garrett",
+    "paul-tennent",
+    "kristina-hook",
+    "steve-benford"
+   ],
+   "title": "In the Moment of Glitch",
+   "year": 2025,
+   "field": "methods",
+   "sub": "design-knowledge",
+   "also": [
+    "movement",
+    "machines-xr"
+   ],
+   "modalities": [
+    "movement",
+    "touch",
+    "whole-soma"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "body-politics",
+    "first-person"
+   ],
+   "kind": "paper",
+   "description": "Professional dancers with different disabilities improvised with an industrial robot arm; when the robot glitched, the team's response showed that the ethics they enacted in the moment did not match the project's own values.",
+   "description_zh": "几位身体残障各异的职业舞者与一台工业机械臂即兴共舞；当机器人出现故障时，团队当下的反应表明：他们在那一刻践行的伦理，与项目自身的价值观并不一致。",
+   "idea_en": "A glitch is a felt moment in which ethics is enacted by bodies before it is reasoned about; treating it as a site of reflection lets a team bring its practice back into line with its values.",
+   "idea_zh": "故障是一个被身体感受到的时刻，伦理在其中先被身体做出来，然后才被思考；把它当作反思的场所，团队才能让实践重新与自己的价值观对齐。",
+   "method": "First-person account of one glitch in a performance-led project with disabled dancers, a robot arm and an HCI/HRI team (Nottingham Mixed Reality Lab, Coventry Centre for Dance Research, KTH), analysed as a dialogue between ethical perspectives; companion paper: Friction in Processual Ethics (CHI 2025).",
+   "method_zh": "以第一人称记述一个以表演为主导的项目中的一次故障，参与者包括残障舞者、一台机械臂以及人机交互与人机器人交互研究团队（诺丁汉 Mixed Reality Lab、考文垂大学舞蹈研究中心、KTH），并让不同伦理视角彼此对话来分析；姊妹论文为 Friction in Processual Ethics（CHI 2025）。",
+   "keywords": [
+    "felt ethics",
+    "glitch",
+    "disability",
+    "dance",
+    "robot arm",
+    "Somabotics"
+   ],
+   "images": [
+    "https://www.somabotics.ac.uk/wp-content/uploads/2026/02/differerent-bodies-blog-Feb-26-1024x576.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3706598.3713632",
+    "doi": "10.1145/3706598.3713632",
+    "arxiv": "",
+    "venue": "CHI 2025",
+    "title": "In the Moment of Glitch: Engaging with Misalignments in Ethical Practice"
+   },
+   "source_url": "https://www.somabotics.ac.uk/publication/in-the-moment-of-glitch-engaging-with-misalignments-in-ethical-practice/",
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "alice-haynes--felt-asymmetry",
+   "creator_ids": [
+    "alice-haynes",
+    "laia-turmo-vidal",
+    "joo-young-park",
+    "kristina-hook"
+   ],
+   "title": "Aesthetics of Felt Asymmetry",
+   "year": 2026,
+   "field": "methods",
+   "sub": "first-person",
+   "also": [
+    "somaesthetic"
+   ],
+   "modalities": [
+    "posture-balance",
+    "whole-soma",
+    "movement"
+   ],
+   "lenses": [
+    "first-person",
+    "estrangement",
+    "body-politics"
+   ],
+   "kind": "paper",
+   "description": "Starting from the first author's own scoliosis, nine designers explored felt asymmetries, the differences they sense between the two sides of their bodies, through individual somatic inquiries, a workshop, body maps and drawn soma sketches.",
+   "description_zh": "以第一作者自身的脊柱侧弯为起点，九位设计师通过个人身体探究、一场工作坊、身体地图和手绘的身体草图，去感受并分享自己身体两侧的差异，也就是被感受到的不对称。",
+   "idea_en": "Bodies are neither symmetrical nor neutral; felt asymmetry can serve as design material, as an estrangement exercise and as a doorway into intimate experience, so technology should resonate with it rather than erase it.",
+   "idea_zh": "身体既不对称也不中性；被感受到的不对称可以成为设计材料、陌生化练习和通往私密经验的入口，技术应当与之共鸣，而不是抹平它。",
+   "method": "Autobiographical design exploration plus somatic explorations with nine designers (individual inquiries, an asymmetry workshop, follow-up interviews), documented in body maps and annotated soma sketches.",
+   "method_zh": "自传式设计探索，加上与九位设计师进行的身体探索（个人探究、一场不对称工作坊和后续访谈），以身体地图与带注释的身体草图记录。",
+   "keywords": [
+    "asymmetry",
+    "scoliosis",
+    "autobiographical design",
+    "soma sketch",
+    "feminist HCI"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/38a6b069ca786c20ee123d44637ccc36e5c21ac0/8-Figure6-1.png",
+    "https://figures.semanticscholar.org/38a6b069ca786c20ee123d44637ccc36e5c21ac0/9-Figure7-1.png",
+    "https://figures.semanticscholar.org/38a6b069ca786c20ee123d44637ccc36e5c21ac0/7-Figure5-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3772318.3791749",
+    "doi": "10.1145/3772318.3791749",
+    "arxiv": "",
+    "venue": "CHI 2026",
+    "title": "Aesthetics of Felt Asymmetry"
+   },
+   "source_url": "https://www.digitalfutures.kth.se/project/alice-haynes-felt-connections-on-the-design-of-meaningful-body-centered-interactions-for-children-with-shape-changing-textile-interfaces/",
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "alejandra-gomez-ortega--consentful-lights",
+   "creator_ids": [
+    "alejandra-gomez-ortega",
+    "joo-young-park",
+    "anna-stahl",
+    "marianela-ciolfi-felice",
+    "nadia-campo-woytuk",
+    "madeline-balaam"
+   ],
+   "title": "Consentful Lights",
+   "year": 2026,
+   "field": "intimate",
+   "sub": "feminist-body",
+   "also": [
+    "social"
+   ],
+   "modalities": [
+    "touch",
+    "light-vision",
+    "intimate-body"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "body-data",
+    "body-politics"
+   ],
+   "kind": "prototype",
+   "description": "A set of artefacts through which partners open one person's fertility data together, in the same room, through play and touch, so that consent becomes an embodied, ongoing exchange instead of a checkbox.",
+   "description_zh": "一组器物，让伴侣在同一个房间里通过游戏与触摸一起打开其中一人的生育力数据，使同意成为身体化、持续进行的交流，而不是勾选一个方框。",
+   "idea_en": "Consent can be designed as something felt and shared between bodies, dynamic and explicit, rather than as a static transaction that is merely recorded.",
+   "idea_zh": "同意可以被设计成在身体之间被感受、被共享的东西，动态而明确，而不是一次只被记录下来的静态交易。",
+   "method": "Research through Design of tangible artefacts for co-located access to intimate fertility data in the context of digital contraception, explored with participants in a lab study (KTH, RISE and Stockholm University).",
+   "method_zh": "以“通过设计做研究”的方式，在数字避孕的情境下制作让人同处一室访问私密生育数据的实体器物，并在实验室研究中与参与者一起探索（KTH、RISE 与斯德哥尔摩大学）。",
+   "keywords": [
+    "consent",
+    "fertility data",
+    "digital contraception",
+    "feminist HCI",
+    "play",
+    "touch"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3800645.3812866",
+    "doi": "10.1145/3800645.3812866",
+    "arxiv": "",
+    "venue": "DIS 2026",
+    "title": "Consentful Lights: Designing for Consent when Sharing Intimate Fertility Data"
+   },
+   "collections": [
+    "dis"
+   ]
+  },
+  {
+   "id": "claudia-nunez-pacheco--entangled-weathers",
+   "creator_ids": [
+    "claudia-nunez-pacheco"
+   ],
+   "title": "Entangled Weathers",
+   "year": 2025,
+   "field": "methods",
+   "sub": "first-person",
+   "also": [
+    "machines-xr"
+   ],
+   "modalities": [
+    "whole-soma"
+   ],
+   "lenses": [
+    "attunement",
+    "more-than-human",
+    "first-person"
+   ],
+   "kind": "method",
+   "description": "A pictorial that introduces a noticing tactic: attending to the weather inside, our inner states, alongside the weather outside, and to how the two shape each other.",
+   "description_zh": "一份图文论文（pictorial），提出一种觉察策略：在留意外面天气的同时，也留意“身体里的天气”即内在状态，以及两者如何彼此塑造。",
+   "idea_en": "The felt body is always weathering with its surroundings; noticing inner and outer weather together trains a designer's sensitivity for more-than-human design.",
+   "idea_zh": "被感受的身体总是与周遭一起经受天气；同时觉察内在与外在的天气，能磨练设计者面向超越人类设计的感受力。",
+   "method": "Drawing on the feminist concept of weathering and the introspective practice of noticing inner weather, the author's design stories yield five viewpoints: measuring and mapping, space and time reflections, weathering narratives, metaphorising, and surrendering control.",
+   "method_zh": "借助女性主义的“经受天气”（weathering）概念与觉察内在天气的内省练习，作者从自己的设计故事中提炼出五个视角：测量与绘图、空间与时间的反思、天气叙事、隐喻化，以及放下控制。",
+   "keywords": [
+    "noticing",
+    "weathering",
+    "pictorial",
+    "more-than-human",
+    "introspection"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3698061.3726955",
+    "doi": "10.1145/3698061.3726955",
+    "arxiv": "",
+    "venue": "C&C 2025",
+    "title": "Entangled Weathers: A Noticing Tactic"
+   },
+   "source_url": "https://www.diva-portal.org/smash/record.jsf?pid=diva2:1987945"
+  },
+  {
+   "id": "henrique-sambi--cabinet-of-affective-touches",
+   "creator_ids": [
+    "henrique-sambi",
+    "caroline-yan-zheng",
+    "paul-tennent",
+    "yoav-luft",
+    "steve-benford",
+    "madeline-balaam"
+   ],
+   "title": "A Cabinet of Affective Touches",
+   "year": 2026,
+   "field": "methods",
+   "sub": "material-exploration",
+   "also": [
+    "social"
+   ],
+   "modalities": [
+    "touch",
+    "shape-change"
+   ],
+   "lenses": [
+    "touching-back",
+    "affective-loop"
+   ],
+   "kind": "method",
+   "description": "A platform and growing repository for designing affective touch with soft robotics: 64 haptics design students used it to create 17 touch designs spanning pleasant and unpleasant feelings, each linking actuator settings to how the touch feels.",
+   "description_zh": "一个用软体机器人设计情感触摸的平台与不断扩充的资料库：64 名触觉设计学生用它创作了 17 种触摸设计，覆盖愉快与不适的感受，每一种都把执行器设置与触摸的感受联系起来。",
+   "idea_en": "The qualities of soft-robotic touch are learned by feeling them; a shared cabinet of felt designs turns that tacit knowledge into something designers can reuse and critique, uncomfortable touch included.",
+   "idea_zh": "软体机器人触摸的质感要靠亲身感受来学习；一个共享的“触摸陈列柜”把这种默会知识变成设计者可以复用与批评的东西，令人不适的触摸也包括在内。",
+   "method": "The ACAT platform pairs soft (likely pneumatic) actuators with records of technical parameters and felt qualities; used in a haptics design course to build designs across the primary affective dimensions (KTH and University of Nottingham, Somabotics).",
+   "method_zh": "ACAT 平台把软体执行器（很可能是气动的）与技术参数及感受质感的记录配在一起；在一门触觉设计课程中用来为各个基本情感维度制作设计（KTH 与诺丁汉大学，Somabotics 项目）。",
+   "keywords": [
+    "affective touch",
+    "soft robotics",
+    "design repository",
+    "haptics education",
+    "uncomfortable touch"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3803784.3809294",
+    "doi": "10.1145/3803784.3809294",
+    "arxiv": "",
+    "venue": "C&C 2026",
+    "title": "A Cabinet of Affective Touches: Building Design Repository Linking Somatic Experience with Soft Robotic Systems"
+   },
+   "source_url": "https://www.somabotics.ac.uk/publication/a-cabinet-of-affective-touches-building-design-repository-linking-somatic-experience-with-soft-robotic-systems/"
+  },
+  {
+   "id": "laia-turmo-vidal--temporal-trajectories",
+   "creator_ids": [
+    "laia-turmo-vidal",
+    "ana-tajadura-jimenez"
+   ],
+   "title": "Temporal Trajectories",
+   "year": 2025,
+   "field": "methods",
+   "sub": "articulation",
+   "also": [
+    "movement"
+   ],
+   "modalities": [
+    "movement",
+    "voice-sound"
+   ],
+   "lenses": [
+    "movement-expression",
+    "attunement"
+   ],
+   "kind": "paper",
+   "description": "Physically inactive people and professional dancers each lived with SoniBand, a wearable that turns movement into sound, for a month; their experiences unfolded along four temporal trajectories: singular, sustained, deepening and meandering.",
+   "description_zh": "缺乏运动的普通人与职业舞者各自佩戴 SoniBand（一种把动作转成声音的可穿戴设备）生活了一个月；他们的体验沿着四种时间轨迹展开：一次性的、持续的、加深的与迂回的。",
+   "idea_en": "Somatic experiences with body technology change over weeks, so one-off studies miss how a sensation fades, deepens or wanders; designing for long-term use means characterising these trajectories.",
+   "idea_zh": "人与身体技术之间的身体经验会在数周里变化，一次性的研究会错过感受如何消退、加深或游移；为长期使用而设计，就要刻画这些轨迹。",
+   "method": "Two one-month in-the-wild deployments of the SoniBand movement-sonification wearable, with questionnaires and in-depth interviews, analysed through the concept of trajectories.",
+   "method_zh": "两项为期一个月的真实场景部署，使用动作声音化可穿戴设备 SoniBand，结合问卷与深度访谈，并借“轨迹”概念进行分析。",
+   "keywords": [
+    "SoniBand",
+    "movement sonification",
+    "longitudinal study",
+    "trajectories",
+    "dancers"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3715336.3735777",
+    "doi": "10.1145/3715336.3735777",
+    "arxiv": "",
+    "venue": "DIS 2025",
+    "title": "Temporal Trajectories: Characterizing Somatic Experiences that Unfold Over Time"
+   },
+   "source_url": "https://imbodylab.com/",
+   "collections": [
+    "dis"
+   ]
+  },
+  {
+   "id": "steve-benford--tangles",
+   "creator_ids": [
+    "steve-benford",
+    "rachael-garrett",
+    "paul-tennent",
+    "claudia-nunez-pacheco",
+    "vasiliki-tsaknaki",
+    "kristina-hook",
+    "joe-marshall"
+   ],
+   "title": "Tangles",
+   "year": 2025,
+   "field": "methods",
+   "sub": "articulation",
+   "also": [
+    "machines-xr"
+   ],
+   "modalities": [
+    "touch",
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "more-than-human"
+   ],
+   "kind": "method",
+   "description": "In a soma design workshop people deliberately collided with telepresence robots, mobility aids and a quadruped robot; the authors then traced each collision as an extended trajectory of consent, preparation, launch, contact, ripple, sting, untangle, debris and reflect.",
+   "description_zh": "在一场身体设计工作坊中，参与者有意地与远程临场机器人、助行器和四足机器人相撞；作者随后把每次碰撞描绘成一条延展的轨迹：同意、准备、启动、接触、涟漪、刺痛、解缠、残余与反思。",
+   "idea_en": "A collision is not an instant to avoid but an extended, felt experience; seeing real collisions as entangled soma trajectories, or 'tangles', opens them to design and to ethical care.",
+   "idea_zh": "碰撞不是一个需要避免的瞬间，而是一段延展的、被感受的经验；把真实的碰撞看作相互缠结的身体轨迹（“缠结”），就能对它进行设计并给予伦理上的关照。",
+   "method": "Workshop using balloons, leashes and vibrotactile cues on robots and mobility aids, analysed with soma trajectories and then applied to an accidental drone collision and the Cat Royale robot (University of Nottingham, KTH, ITU Copenhagen, Malmö University).",
+   "method_zh": "工作坊中在机器人与助行器上使用气球、牵绳和振动提示，用身体轨迹进行分析，再把这一视角用于一次意外的无人机碰撞和 Cat Royale 机器人（诺丁汉大学、KTH、哥本哈根 IT 大学、马尔默大学）。",
+   "keywords": [
+    "soma trajectories",
+    "collision",
+    "telepresence robot",
+    "mobility aid",
+    "human-robot interaction",
+    "TOCHI"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/a3154b73f7fc97460ab547bad0c019de0dd578ad/8-Figure1-1.png",
+    "https://figures.semanticscholar.org/a3154b73f7fc97460ab547bad0c019de0dd578ad/11-Figure3-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3723875",
+    "doi": "10.1145/3723875",
+    "arxiv": "",
+    "venue": "ACM TOCHI 2025",
+    "title": "Tangles: Unpacking Extended Collision Experiences with Soma Trajectories"
+   },
+   "source_url": "https://arxiv.org/abs/2503.15370"
+  },
+  {
+   "id": "hannah-pelikan--felt-control-autonomous-systems",
+   "creator_ids": [
+    "hannah-pelikan",
+    "rachael-garrett"
+   ],
+   "title": "Making Sense of the Felt Experience of Controlling Autonomous Systems",
+   "year": 2026,
+   "field": "methods",
+   "sub": "articulation",
+   "also": [
+    "machines-xr"
+   ],
+   "modalities": [
+    "whole-soma"
+   ],
+   "lenses": [
+    "first-person",
+    "body-mind-unity"
+   ],
+   "kind": "method",
+   "description": "After an inexperienced operator crashed a semi-autonomous system during video-recorded fieldwork, the authors combined moment-by-moment video analysis with micro-phenomenology-inspired interviews to recover what losing control felt like.",
+   "description_zh": "在一次有视频记录的田野工作中，一位缺乏经验的操作者让一个半自主系统发生了撞毁；作者把逐个时刻的视频分析与受微观现象学启发的访谈结合起来，还原失去控制时的亲身感受。",
+   "idea_en": "Monitoring machines at a distance is a bodily experience; setting what the video shows beside what the operator felt reveals the moment control slips away.",
+   "idea_zh": "远距离监控机器也是一种身体经验；把录像所见与操作者所感并置，才能看清控制溜走的那一刻。",
+   "method": "Ethnomethodological and conversation-analytic sequential video analysis combined with soma design and micro-phenomenological interviewing (Linköping University, Stockholm University, University of Nottingham, KTH, Uppsala University).",
+   "method_zh": "以常人方法学与会话分析对视频做序列分析，并结合身体设计与微观现象学访谈（林雪平大学、斯德哥尔摩大学、诺丁汉大学、KTH、乌普萨拉大学）。",
+   "keywords": [
+    "autonomous systems",
+    "loss of control",
+    "micro-phenomenology",
+    "ethnomethodology",
+    "conversation analysis",
+    "video analysis"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3800645.3812868",
+    "doi": "10.1145/3800645.3812868",
+    "arxiv": "",
+    "venue": "DIS 2026",
+    "title": "Making Sense of the Felt Experience of Controlling Autonomous Systems"
+   },
+   "collections": [
+    "dis"
+   ]
+  },
+  {
+   "id": "amar-dadamo--mapping-the-body",
+   "creator_ids": [
+    "amar-dadamo",
+    "laia-turmo-vidal",
+    "ana-tajadura-jimenez"
+   ],
+   "title": "Mapping the Body",
+   "year": 2026,
+   "field": "methods",
+   "sub": "articulation",
+   "modalities": [
+    "whole-soma",
+    "voice-sound"
+   ],
+   "lenses": [
+    "body-data",
+    "first-person"
+   ],
+   "kind": "method",
+   "description": "Two extensions of body maps: a segmented body outline whose regions can be counted and compared across people and conditions, and context-sensitive maps that anchor bodily feelings in the place where they happen.",
+   "description_zh": "对身体地图的两种扩展：一种把人体轮廓分区，使各区域可以在不同人与不同条件之间计数、比较；另一种是情境敏感的身体地图，把身体感受锚定在它发生的地点。",
+   "idea_en": "Body maps can stay personal and still be compared: segmenting the figure and placing it in context lets felt experience feed both quantitative and situated design insight.",
+   "idea_zh": "身体地图既可以保持个人性，又可以被比较：把人形分区并放回情境中，能让被感受到的经验同时服务于量化的与情境化的设计洞见。",
+   "method": "Segmented body maps tested in a movement-sonification study on body perception, and environment-anchored body maps tested in a second study (UC3M i_mBODY Lab with KTH).",
+   "method_zh": "分区身体地图在一项关于身体知觉的动作声音化研究中检验，环境锚定的身体地图在第二项研究中检验（UC3M 的 i_mBODY Lab 与 KTH 合作）。",
+   "keywords": [
+    "body maps",
+    "body perception",
+    "movement sonification",
+    "mixed methods",
+    "TEI"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/e6335bfc9c593970ca6f6c3fe040ae020334a258/6-Figure2-1.png",
+    "https://figures.semanticscholar.org/e6335bfc9c593970ca6f6c3fe040ae020334a258/7-Figure3-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3731459.3773306",
+    "doi": "10.1145/3731459.3773306",
+    "arxiv": "",
+    "venue": "TEI 2026",
+    "title": "Mapping the Body: Developing Body Maps as Research Tool to Derive Quantifiable and Context-Sensitive Design Insights"
+   },
+   "source_url": "https://imbodylab.com/",
+   "collections": [
+    "tei"
+   ]
+  },
+  {
+   "id": "arife-dila-demir--pain-creature",
+   "creator_ids": [
+    "arife-dila-demir"
+   ],
+   "title": "Pain Creature",
+   "year": 2025,
+   "field": "methods",
+   "sub": "estrangement",
+   "also": [
+    "care"
+   ],
+   "modalities": [
+    "pain-interoception",
+    "touch"
+   ],
+   "lenses": [
+    "estrangement",
+    "care-healing",
+    "first-person"
+   ],
+   "kind": "prototype",
+   "description": "Pain Creature is a wearable 'soma extension' that gives chronic pain an outward presence, inviting the wearer to attend to discomfort and live alongside it rather than only suppress it.",
+   "description_zh": "Pain Creature 是一件可穿戴的“身体延伸”，让慢性疼痛获得一个向外显现的存在，邀请佩戴者去关注不适、与之共处，而不只是压制它。",
+   "idea_en": "Designing with discomfort, making pain strange and explicit instead of hiding it, can grow new somaesthetic awareness of a body that hurts.",
+   "idea_zh": "与不适一起设计，让疼痛变得陌生、变得明确而不是把它藏起来，能为一个疼痛的身体培养新的身体美学觉察。",
+   "method": "Soma design case study presented as a pictorial, contributing a first-person methodology of designing with, for and through discomfort (Estonian Academy of Arts).",
+   "method_zh": "以图文论文呈现的身体设计案例研究，提出一种“与不适一起、为不适、透过不适”设计的第一人称方法（爱沙尼亚艺术学院）。",
+   "keywords": [
+    "chronic pain",
+    "discomfort",
+    "soma extension",
+    "wearable",
+    "pictorial",
+    "Mindtrek"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3757980.3757988",
+    "doi": "10.1145/3757980.3757988",
+    "arxiv": "",
+    "venue": "Mindtrek 2025",
+    "title": "Pain Creature: Designing with Discomfort for Somaesthetic Awareness"
+   }
+  },
+  {
+   "id": "michael-arnold-mages--somaesthetic-design",
+   "creator_ids": [
+    "michael-arnold-mages",
+    "stephen-neely"
+   ],
+   "title": "Somaesthetic Design: The Experiencing Body and the Dynamics of Time",
+   "year": 2026,
+   "field": "methods",
+   "sub": "design-knowledge",
+   "also": [
+    "foundations"
+   ],
+   "modalities": [
+    "whole-soma",
+    "movement"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "movement-expression"
+   ],
+   "kind": "publication",
+   "description": "An open-access book that gives designers a vocabulary for shaping experiences as they are felt over time, with chapters on the soma, unfolding time, good flow and the 'golden gesture', desirable friction and 'biocost'.",
+   "description_zh": "一本开放获取的书，为设计者提供一套塑造“随时间被感受之经验”的词汇，章节涵盖身体（soma）、展开的时间、良好的流动与“黄金手势”、可取的摩擦，以及“生理代价”（biocost）。",
+   "idea_en": "Designed experience is felt by a body and unfolds in time; attending to rhythm, flow, friction and bodily cost gives designers concrete handles on lived experience.",
+   "idea_zh": "被设计的经验由身体感受，并在时间中展开；关注节奏、流动、摩擦与身体代价，能让设计者具体地把握亲历经验。",
+   "method": "Design theory drawing on somaesthetics, embodied practices and performance traditions, ending with a glossary of principles of somaesthetic design (transcript Verlag, 292 pages).",
+   "method_zh": "以身体美学、具身实践与表演传统为基础的设计理论，书末附有一份身体美学设计原则词汇表（transcript 出版社，292 页）。",
+   "keywords": [
+    "somaesthetics",
+    "experience design",
+    "time",
+    "flow",
+    "friction",
+    "open access"
+   ],
+   "images": [
+    "https://www.transcript-verlag.de/media/image/f3/71/76/9783837681284hXfLw7GRfVy8N.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.14361/9783839475652",
+    "doi": "10.14361/9783839475652",
+    "arxiv": "",
+    "venue": "transcript Verlag, 2026",
+    "title": "Somaesthetic Design: The Experiencing Body and the Dynamics of Time"
+   },
+   "source_url": "https://www.transcript-verlag.de/978-3-8376-8128-4/somaesthetic-design/"
+  },
+  {
+   "id": "thais-alvarenga-medina--reciprocal-sensing",
+   "creator_ids": [
+    "thais-alvarenga-medina",
+    "michael-nitsche"
+   ],
+   "title": "Reciprocal Sensing",
+   "year": 2026,
+   "field": "methods",
+   "sub": "articulation",
+   "modalities": [
+    "whole-soma",
+    "touch"
+   ],
+   "lenses": [
+    "more-than-human",
+    "body-mind-unity",
+    "first-person"
+   ],
+   "kind": "method",
+   "description": "A body-mapping method drawn from Honduran Lenca and Mestizo ways of knowing: for each felt sensation, the participant names the non-human agent it comes from and draws the direction in which the sensation flows.",
+   "description_zh": "一种源自洪都拉斯伦卡（Lenca）与梅斯蒂索（Mestizo）认知方式的身体地图方法：对每一种被感受到的感觉，参与者指出它来自哪个非人的行动者，并画出这股感觉流动的方向。",
+   "idea_en": "Felt experience is an exchange with an animate world; mapping where sensations come from and where they flow opens soma design to Indigenous, relational ways of knowing the body.",
+   "idea_zh": "被感受的经验是与一个有灵的世界之间的交换；画出感觉从何而来、向何处流动，能让身体设计向原住民的、关系性的身体认知方式敞开。",
+   "method": "Iterative autoethnographic body-mapping sessions revealed recurring exchanges between body and material environment, which shaped the two-step mapping protocol (Georgia Institute of Technology).",
+   "method_zh": "通过反复进行的自我民族志身体地图练习，发现身体与物质环境之间反复出现的交换模式，并据此形成两步式绘图流程（佐治亚理工学院）。",
+   "keywords": [
+    "body mapping",
+    "Lenca",
+    "Indigenous ontology",
+    "more-than-human",
+    "autoethnography",
+    "DRS"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.21606/drs.2026.740",
+    "doi": "10.21606/drs.2026.740",
+    "arxiv": "",
+    "venue": "DRS 2026",
+    "title": "Reciprocal Sensing: Expanding Body Mapping Through Lenca and Mestizo Ontologies of Relational Embodiment"
+   },
+   "source_url": "https://dl.designresearchsociety.org/drs-conference-papers/drs2026/researchpapers/105/"
+  },
+  {
+   "id": "dirk-loyens--somatic-awareness-product-design",
+   "creator_ids": [
+    "dirk-loyens",
+    "nicole-schumann-sizaret"
+   ],
+   "title": "Exploring Somatic Awareness in Product Design Education",
+   "year": 2026,
+   "field": "methods",
+   "sub": "somatic-training",
+   "also": [
+    "practices"
+   ],
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "attunement",
+    "first-person"
+   ],
+   "kind": "method",
+   "description": "Six master's product design students took a five-session Feldenkrais-based workshop; they became more aware of bodily sensation and movement quality, and some began using their own bodies to test design ideas.",
+   "description_zh": "六名产品设计硕士生参加了一个分五次进行、以费登奎斯方法为基础的工作坊；他们对身体感觉与动作质感更加敏锐，有些人开始用自己的身体来检验设计想法。",
+   "idea_en": "Product design teaching leans on the eyes and on reasoning; structured somatic practice gives students first-person knowledge of how people feel products in use.",
+   "idea_zh": "产品设计教学偏重眼睛与推理；有结构的身体修习能让学生获得第一人称的知识，了解人在使用产品时如何感受它。",
+   "method": "Feldenkrais-based sessions, likely in the UserFeel format that co-author Nicole Schumann-Sizaret, a certified Feldenkrais teacher, teaches at ESAD Matosinhos, studied through body mapping, observation and interviews.",
+   "method_zh": "以费登奎斯方法为基础的课程（很可能采用合著者、认证费登奎斯教师 Nicole Schumann-Sizaret 在 ESAD Matosinhos 教授的 UserFeel 形式），通过身体地图、观察与访谈进行研究。",
+   "keywords": [
+    "Feldenkrais",
+    "design education",
+    "somatic awareness",
+    "UserFeel",
+    "body mapping"
+   ],
+   "images": [
+    "https://live.staticflickr.com/65535/52437767150_894e8b3b09_b.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1080/14606925.2026.2682357",
+    "doi": "10.1080/14606925.2026.2682357",
+    "arxiv": "",
+    "venue": "The Design Journal 2026",
+    "title": "Exploring somatic awareness in product design education: A Feldenkrais-based workshop study"
+   },
+   "source_url": "https://www.esad.pt/en/archive/workshop-userfeel-202223"
+  },
+  {
+   "id": "marte-roel-lesur--researching-body-perception",
+   "creator_ids": [
+    "marte-roel-lesur",
+    "laia-turmo-vidal",
+    "ana-tajadura-jimenez"
+   ],
+   "title": "Researching Body Perception",
+   "year": 2026,
+   "field": "methods",
+   "sub": "articulation",
+   "also": [
+    "affect"
+   ],
+   "modalities": [
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-data",
+    "first-person"
+   ],
+   "kind": "paper",
+   "description": "An argument by psychologists, a philosopher and design researchers for combining the qualitative methods of body-centred design research with the measures of experimental psychology when studying how people perceive their own bodies.",
+   "description_zh": "一篇论证性文章，作者包括心理学家、哲学家与设计研究者，主张在研究人如何知觉自己的身体时，把以身体为中心的设计研究中的质性方法与实验心理学的测量结合起来。",
+   "idea_en": "Standard measures of body perception can blur constructs and lose nuance; design research's ways of articulating felt experience can make the science richer without giving up rigour.",
+   "idea_zh": "身体知觉的标准测量可能使概念含混、丢失细节；设计研究中表达亲身感受的方法，可以在不放弃严谨的前提下让这门科学更丰富。",
+   "method": "Argumentative review across experimental psychology, cognitive neuroscience and design research, proposing ways to pair qualitative design methods with multisensory paradigms and physiological, behavioural and subjective measures (with Matthew Longo, Jenny Slatman and Aleksander Väljamäe).",
+   "method_zh": "横跨实验心理学、认知神经科学与设计研究的论证性综述，提出把设计中的质性方法与多感官范式及生理、行为、主观测量结合起来的途径（合著者包括 Matthew Longo、Jenny Slatman 与 Aleksander Väljamäe）。",
+   "keywords": [
+    "body perception",
+    "mixed methods",
+    "bodily self",
+    "psychophysiology",
+    "design research"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1111/psyp.70234",
+    "doi": "10.1111/psyp.70234",
+    "arxiv": "",
+    "venue": "Psychophysiology 2026",
+    "title": "Researching Body Perception: Toward an Integration of Quantitative and Qualitative Interdisciplinary Approaches to Address the Multiplicity of Bodily Experiences"
+   }
+  }
+ ],
+ "leads": [
+  {
+   "name": "Kalambi & Haynes — Ready Player Breathe: Designing Haptic Breathing Feedback for Immersive VR (DIS 2026 pictorial)",
+   "why": "KTH pneumatic chest wearable that simulates breathing in VR; focus is immersion more than felt awareness, no visual found; offered to latest-machines-ai.",
+   "link": "https://doi.org/10.1145/3800645.3812811",
+   "found_via": "alice-haynes",
+   "status": "no_media"
+  },
+  {
+   "name": "Garrett et al. — Friction in Processual Ethics: Reconfiguring Ethical Relations in Interdisciplinary Research (CHI 2025)",
+   "why": "Companion to In the Moment of Glitch (same dance–robot project); five ways to work productively with friction.",
+   "link": "https://doi.org/10.1145/3706598.3714123",
+   "found_via": "rachael-garrett",
+   "status": "open"
+  },
+  {
+   "name": "Campo Woytuk — Feminist Sensing: Designing with the Menstruating Body through Leakiness and Tactfulness (KTH PhD thesis, defended 5 June 2026)",
+   "why": "Doctoral synthesis of the menstrual sensing work; opponent Laura Devendorf.",
+   "link": "https://www.kth.se/mid/calendar/feminist-sensing-1.1474506",
+   "found_via": "nadia-campo-woytuk",
+   "status": "open"
+  },
+  {
+   "name": "Campo Woytuk, Gamboa, Gómez Ortega, Park, Tuli et al. — Making Intimate Technologies Together (DIS 2025 pictorial)",
+   "why": "Workshops making DIY intimate sensors; overlaps with the feminist sensing work already added.",
+   "link": "https://doi.org/10.1145/3715336.3735412",
+   "found_via": "nadia-campo-woytuk",
+   "status": "no_media"
+  },
+  {
+   "name": "Tuli, Balaam, Singh, Kumar, Lampinen — Ecological Systems Theory for Studying and Designing Menstrual Technologies (CHI 2026)",
+   "why": "KTH socio-ecological canvas for menstrual design; weaker felt-body angle.",
+   "link": "https://doi.org/10.1145/3772318.3791619",
+   "found_via": "madeline-balaam",
+   "status": "open"
+  },
+  {
+   "name": "Gómez Ortega et al. — On Designing Visceral Encounters with Synthetic Intimate Imagery; AI Loves Boobies (both DIS 2026)",
+   "why": "KTH/Stockholm University work on generative AI and intimate bodies; check felt angle.",
+   "link": "https://doi.org/10.1145/3800645.3812969",
+   "found_via": "alejandra-gomez-ortega",
+   "status": "open"
+  },
+  {
+   "name": "Heß — Sensing the Self: Reimagining Self-Tracking Feedback through Soma Design (C&C 2026)",
+   "why": "Non-numerical breathing feedback from first-person sensitisation; 5-page short paper, no visual.",
+   "link": "https://doi.org/10.1145/3803784.3804462",
+   "found_via": "seed",
+   "status": "no_media"
+  },
+  {
+   "name": "Mayerboeck, Höök, Duarte — Reflections on the Somatic Core of Ideation (Journal of Somaesthetics 2026)",
+   "why": "Dialogue on the somatic core of ideation; added as a work by latest-foundations-art.",
+   "link": "https://doi.org/10.54337/ojs.jos.v11i2.10201",
+   "found_via": "kristina-hook",
+   "status": "duplicate"
+  },
+  {
+   "name": "Watanabe, Metatla, Tanaka — Somatic Drawing Tool: 3D Body Sheet as Material for Articulating Synaesthetic Experiences (CHI 2026)",
+   "why": "Articulation tool for felt experience; Japanese first author, so for latest-east-asia.",
+   "link": "https://doi.org/10.1145/3772318.3790931",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Hur, Markopoulos, Bruns — Scaffolding Somatic Design: Action, Reflection, and Transformation in an Educational Workshop (IASDR 2025)",
+   "why": "Somatic design pedagogy; Korean first author, so for latest-east-asia.",
+   "link": "https://doi.org/10.21606/iasdr.2025.223",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Ran Zhou et al. — Shape-Kit: A Design Toolkit for Crafting On-Body Expressive Haptics (CHI 2025); Otherness as a Quality in Designing Expressive Robotic Touch (DIS 2026)",
+   "why": "KTH toolkit and touch qualities; Chinese first author, so for latest-east-asia.",
+   "link": "https://doi.org/10.1145/3706598.3713981",
+   "found_via": "madeline-balaam",
+   "status": "open"
+  },
+  {
+   "name": "Sun, Tian, Núñez-Pacheco, Petreca, Prpa, Reed — Tensions and Opportunities: Accessing Embodied Experience in HCI through Micro-Phenomenology (C&C 2026)",
+   "why": "Micro-phenomenology method paper; Chinese first author, so for latest-east-asia.",
+   "link": "https://doi.org/10.1145/3803784.3804467",
+   "found_via": "claudia-nunez-pacheco",
+   "status": "open"
+  },
+  {
+   "name": "Jiwei Zhou, Campo Woytuk et al. — Designing with bio-based pH-sensing materials for everyday intimate care in matrescence (Biotechnology Design 2026)",
+   "why": "KTH intimate biomaterials; Chinese first author, so for latest-east-asia.",
+   "link": "https://doi.org/10.1017/s2977905726100249",
+   "found_via": "nadia-campo-woytuk",
+   "status": "open"
+  },
+  {
+   "name": "Feng Zhou et al. (Somabotics, Imperial, KTH) — Soma Skins: A Toolkit to Support Soma Design (2026, under review)",
+   "why": "Sensor/actuator tiles extending Soma Bits to robots; paper still anonymous; Chinese first creator.",
+   "link": "https://www.somabotics.ac.uk/soma-skins-toolkit/",
+   "found_via": "steve-benford",
+   "status": "open"
+  },
+  {
+   "name": "Koowattanataworn, Lengua, Løvlie, Benford — Questioning one's body: overtrusting in body-sensing technology (DRS 2026)",
+   "why": "Felt trust in body sensing; Thai first author, so for latest-east-asia.",
+   "link": "https://doi.org/10.21606/drs.2026.1787",
+   "found_via": "steve-benford",
+   "status": "open"
+  },
+  {
+   "name": "Ranten — Towards a Methodology of Phenomenological Research through Design (PhenoHCI workshop, INTERACT 2025, CEUR Vol-4131)",
+   "why": "Merleau-Pontian RtD with touch-back, drifting and intercorporeality; workshop draft.",
+   "link": "https://ceur-ws.org/Vol-4131/paper5.pdf",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Martinez Avila, Cavdir, Reed, Mainsbridge, Cotton et al. — Somatic and somaesthetic design practices in NIME (NIME 2025 workshop, Höök keynote)",
+   "why": "Workshop, not a paper; marks soma design's spread into NIME.",
+   "link": "https://nime.org/web_archive/2025/proceedings/335.html",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Kaklopoulou, Kuksenok, Saakes, Sanches — Exploring Bodily Phenomena through Code: Sketching with LLMs (DIS 2026)",
+   "why": "LLM code sketching to articulate bodily phenomena; Umeå (Sanches); added as a work by latest-machines-ai.",
+   "link": "https://doi.org/10.1145/3800645.3812787",
+   "found_via": "pedro-sanches",
+   "status": "duplicate"
+  },
+  {
+   "name": "Turmo Vidal, Ley-Flores, Tajadura-Jiménez et al. — SoniBand (CHI 2021)",
+   "why": "The movement-sonification wearable behind Temporal Trajectories; not yet in the gallery (pre-2025).",
+   "link": "https://doi.org/10.1145/3411764.3445558",
+   "found_via": "laia-turmo-vidal",
+   "status": "open"
+  },
+  {
+   "name": "Gamboa & Andersen — Sensibilities as Knowledge in Design Research (DIS 2026)",
+   "why": "Design-knowledge paper on cultivated sensibilities; check soma relevance.",
+   "link": "https://doi.org/10.1145/3800645.3813069",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Yoav Luft — Programming Touch as a Somatic Activity (Doctoral Consortium, Aarhus 2025: Computing X Crisis)",
+   "why": "KTH PhD project on programming soft-robotic touch behaviour from designerly, felt knowledge; short DC abstract, revisit when the full papers appear.",
+   "link": "https://hal.science/hal-05191120v1",
+   "found_via": "yoav-luft",
+   "status": "open"
+  },
+  {
+   "name": "Somabotics — Different Bodies: dancers with disabilities and robot arms (performance film, 2026)",
+   "why": "Artwork continuing the Glitch project (Kate Marsh, Welly O'Brien, Annie Edwards); for latest-foundations-art / movement.",
+   "link": "https://www.somabotics.ac.uk/different-bodies-staging-bodies-dancing-with-robots/",
+   "found_via": "rachael-garrett",
+   "status": "open"
+  }
+ ]
+}

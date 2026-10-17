@@ -11,7 +11,7 @@ The curatorial stance is **body-mind unity**: "soma" (Thomas Hanna) is the body-
 Prefer framings that treat feeling, thinking, emotion and movement as one process; name dualist assumptions when a work
 challenges them. East Asian body-mind thought (身心一如, 气, 修身; Yuasa Yasuo, Ichikawa Hiroshi, tai chi, qigong, zazen)
 belongs here as a first-class source, not as decoration.
-Working dir: `/Users/amber/Projects/HoloKit/HoloKit2/somatic-inspire`.
+Working dir: `/Users/amber/Projects/Oxford/somatic-reality-inspires`.
 
 Read first: `data/SCHEMA.md` (JSON format, language rule), `data/taxonomy.json` (fields / subs / modalities / lenses /
 kinds / collections / disciplines) and `plan/AGENTS.md` (which batch owns what).
@@ -74,12 +74,12 @@ kinds / collections / disciplines) and `plan/AGENTS.md` (which batch owns what).
   creator, reuse the id. Creator ids: kebab-case ASCII of the name (`kristina-hook`, `anna-stahl`, `marie-louise-juul-sondergaard`).
   Work id: `<first-creator-id>--<short-slug>`. First creator = first author / lead artist.
 - Creator records you may copy from the sister sites (same schema, reuse ids, re-write `why` for soma design):
-  `/Users/amber/Projects/HoloKit/HoloKit2/{mth-inspire,machinic-inspire,becoming-inspire}/data/raw/*.json`
+  `/Users/amber/Projects/Oxford/{augmented,machinic,more-than-human,generative}-reality-inspires/data/raw/*.json`, `/Users/amber/Projects/HoloKit/HoloKit2/becoming-inspire/data/raw/*.json`
   (e.g. `char-davies`, `lygia-clark`, `rebecca-horn`, `mel-slater`, `beanotherlab`, `jiabao-li`, `botao-amber-hu`,
   `danielle-wilde`, `florian-mueller`, `rebecca-fiebrink`). Copy the creator, not their off-topic works.
 - Run `python3 tools/validate.py data/raw/<file>.json` until it prints ✓.
 - `leads`: people / works you found but did not add (for the next round).
-- Search: WebSearch / WebFetch and `curl`. Useful: Google Scholar pages via WebSearch, dblp
+- Search: WebSearch / WebFetch and `curl`. Useful: OpenAlex (`https://api.openalex.org/works?search=…&filter=from_publication_date:2025-01-01`), Google Scholar pages via WebSearch, dblp (bot-walled since 2026-10)
   (`curl -s "https://dblp.org/search/publ/api?q=<q>&format=json&h=50"`), Crossref (`https://api.crossref.org/works?query=…`),
   Semantic Scholar API, researchers' homepages, KTH DiVA (diva-portal.org), YouTube oEmbed. If WebSearch fails, use curl
   and sparingly `curl -s -A "Mozilla/5.0" "https://html.duckduckgo.com/html/?q=<query>"`.

@@ -18,7 +18,7 @@ fi
 git add -A
 git commit -q -m "$msg
 
-Co-Authored-By: Claude Opus 5.5 (1M context) <noreply@anthropic.com>"
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>"
 git pull --rebase --autostash -q   # GitHub may commit to CNAME when the Pages domain is changed
 git push -q
 git log --oneline | head -1

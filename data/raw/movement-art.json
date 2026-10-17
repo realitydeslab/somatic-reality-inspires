@@ -521,18 +521,18 @@
    "name": "Laia Turmo Vidal",
    "name_zh": "",
    "kind": "person",
-   "role": "Researcher, Universidad Carlos III de Madrid (PhD Uppsala University)",
-   "based": "Madrid, ES",
+   "role": "Researcher, KTH Royal Institute of Technology (PhD Uppsala University; previously Universidad Carlos III de Madrid)",
+   "based": "Stockholm, SE",
    "bio": "HCI researcher on technology for movement learning, circus and fitness training.",
    "why": "She shows how shared biofeedback can support learning between bodies, not only inside one.",
    "disciplines": [
     "hci"
    ],
    "links": {},
-   "role_zh": "马德里卡洛斯三世大学研究者（乌普萨拉大学博士）",
+   "role_zh": "瑞典皇家理工学院研究者（乌普萨拉大学博士，曾任职于马德里卡洛斯三世大学）",
    "bio_zh": "研究动作学习、马戏与体能训练技术的人机交互学者。",
    "why_zh": "她展示了共享的生物反馈如何支持身体之间的学习，而不只是单个身体内部的学习。",
-   "based_zh": "马德里，西班牙",
+   "based_zh": "斯德哥尔摩，瑞典",
    "connected_to": [
     "elena-marquez-segura"
    ],

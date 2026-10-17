@@ -4,7 +4,7 @@ The gallery at somatic.reality.design has a **Resources & Links** tab: the key P
 researchers, philosophers & theorists, somatic practitioners & teachers, artists / dancers / choreographers) and the
 INSTITUTIONS & WEBSITES where the field happens (labs & research groups, somatic schools & trainings, conferences &
 workshops, art & dance venues / festivals, journals / books / podcasts, networks & associations, archives & resources).
-Working dir: `/Users/amber/Projects/HoloKit/HoloKit2/somatic-inspire`.
+Working dir: `/Users/amber/Projects/Oxford/somatic-reality-inspires`.
 
 Read first: `data/SCHEMA.md` → section **Resource**, `data/taxonomy.json` → `org_types`, `org_themes`, `fields`,
 and `data/RESEARCH_BRIEF.md` → project stance (Kristina Höök's lineage; body-mind unity; East Asian body-mind thought).

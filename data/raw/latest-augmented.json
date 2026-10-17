@@ -1,0 +1,1475 @@
+{
+ "batch": "latest-augmented",
+ "creators": [
+  {
+   "id": "melike-sahinol",
+   "name": "Melike Şahinol",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Sociologist of science and technology, Orient-Institut Istanbul",
+   "role_zh": "科学技术社会学研究者，伊斯坦布尔东方研究所（Orient-Institut Istanbul）",
+   "based": "Istanbul, TR",
+   "based_zh": "伊斯坦布尔，土耳其",
+   "bio": "Sociologist who studies human enhancement, brain–machine interface research and 3D-printed prostheses for children, treating bodies and technologies together as somatechnics.",
+   "bio_zh": "社会学研究者，研究人类增强、脑机接口研究与为儿童 3D 打印的假肢，把身体与技术合在一起看作「身体技术」（somatechnics）。",
+   "why": "Brings crip technoscience and soma design together to ask how prosthetic hands are felt, lived and co-designed by the people who wear them.",
+   "why_zh": "把残障技术科学（crip technoscience）与身体设计结合起来，追问假手如何被佩戴者感受、生活并共同设计。",
+   "disciplines": [
+    "philosophy",
+    "design"
+   ],
+   "links": {},
+   "connected_to": [
+    "robert-stock"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "robert-stock",
+   "name": "Robert Stock",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Media and disability studies scholar",
+   "role_zh": "媒介研究与残障研究学者",
+   "based": "Germany",
+   "based_zh": "德国",
+   "bio": "Media studies scholar who works on disability, assistive technologies and media in digital cultures, and co-edited a 2025 volume on dis/ability and media in the context of digitalization.",
+   "bio_zh": "媒介研究学者，关注残障、辅助技术与数字文化中的媒介，并合编了 2025 年一部关于数字化语境下「非／残障与媒介」的文集。",
+   "why": "Co-author of a design history of hand prostheses told from the experience of disabled wearers rather than from engineering norms.",
+   "why_zh": "与人合写了一部从残障佩戴者的经验、而非工程规范出发讲述的假手设计史。",
+   "disciplines": [
+    "philosophy",
+    "design"
+   ],
+   "links": {},
+   "connected_to": [
+    "melike-sahinol"
+   ],
+   "discovered_via": "melike-sahinol"
+  },
+  {
+   "id": "hunter-schone",
+   "name": "Hunter R. Schone",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Cognitive neuroscientist (University College London and the NIMH Laboratory of Brain & Cognition), alumnus of Tamar Makin's Plasticity Lab",
+   "role_zh": "认知神经科学研究者（伦敦大学学院与美国国家心理卫生研究院脑与认知实验室），曾在 Tamar Makin 的可塑性实验室工作",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "Neuroscientist who studies how the brain represents hands, phantom hands and prosthetic hands, using longitudinal brain imaging with amputees.",
+   "bio_zh": "神经科学研究者，以截肢者的纵向脑成像研究大脑如何表征手、幻肢手与假手。",
+   "why": "Showed that the brain's map of a hand persists after amputation, which reframes how prostheses and neural interfaces can address the felt phantom.",
+   "why_zh": "证明了截肢后大脑中的手部图谱依然存在，这改变了假肢与神经接口如何对待那只被感受到的幻肢手。",
+   "disciplines": [
+    "health"
+   ],
+   "links": {},
+   "connected_to": [
+    "tamar-makin"
+   ],
+   "discovered_via": "tamar-makin"
+  },
+  {
+   "id": "maria-molina-sanchez",
+   "name": "Maria Molina-Sanchez",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher in Tamar Makin's Plasticity Lab, MRC Cognition and Brain Sciences Unit, University of Cambridge",
+   "role_zh": "剑桥大学 MRC 认知与脑科学研究所 Tamar Makin 可塑性实验室研究者",
+   "based": "Cambridge, UK",
+   "based_zh": "剑桥，英国",
+   "bio": "Motor neuroscientist who studies how people learn to control extra robotic body parts and whether that skill transfers beyond the lab.",
+   "bio_zh": "运动神经科学研究者，研究人们如何学会控制多出来的机器人身体部件，以及这种技能能否迁移到实验室之外。",
+   "why": "Their Third Thumb training study asks what it takes for an extra limb to become a flexible part of one's own skilled body.",
+   "why_zh": "其「第三拇指」训练研究追问：一个多出来的肢体要怎样才能成为自己身体技能中灵活的一部分。",
+   "disciplines": [
+    "health"
+   ],
+   "links": {},
+   "connected_to": [
+    "tamar-makin",
+    "dani-clode"
+   ],
+   "discovered_via": "tamar-makin"
+  },
+  {
+   "id": "mithil-guruvugari",
+   "name": "Mithil Guruvugari",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, Human Computer Integration Lab, University of Chicago",
+   "role_zh": "芝加哥大学人机融合实验室研究者",
+   "based": "Chicago, US",
+   "based_zh": "芝加哥，美国",
+   "bio": "HCI researcher working on electrical muscle stimulation for motor skills that depend on precise force.",
+   "bio_zh": "人机交互研究者，研究用肌肉电刺激辅助依赖精确力度的动作技能。",
+   "why": "Measured how a force put into the muscles by a computer is felt and remembered differently from a force one makes oneself.",
+   "why_zh": "测量了由计算机施加到肌肉上的力，如何与自己发出的力被不同地感受和记住。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "pedro-lopes",
+    "romain-nith"
+   ],
+   "discovered_via": "pedro-lopes"
+  },
+  {
+   "id": "matthew-willsey",
+   "name": "Matthew S. Willsey",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Neurosurgeon and neural engineer, Department of Neurosurgery, University of Michigan (formerly Stanford University)",
+   "role_zh": "神经外科医生与神经工程师，密歇根大学神经外科（曾在斯坦福大学）",
+   "based": "Ann Arbor, US",
+   "based_zh": "安娜堡，美国",
+   "bio": "Neurosurgeon-engineer who develops intracortical brain–computer interfaces that decode individual finger movements.",
+   "bio_zh": "神经外科医生兼工程师，开发能解码单根手指动作的皮层内脑机接口。",
+   "why": "Built a BCI around what its user most wanted back, play and social connection, rather than around a clinical task.",
+   "why_zh": "围绕使用者最想找回的东西——游戏与社交联结——而非临床任务来打造脑机接口。",
+   "disciplines": [
+    "health",
+    "engineering"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "maitreyee-wairagkar",
+   "name": "Maitreyee Wairagkar",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Neuroengineer, Department of Neurological Surgery, University of California, Davis",
+   "role_zh": "神经工程师，加州大学戴维斯分校神经外科",
+   "based": "Davis, US",
+   "based_zh": "戴维斯，美国",
+   "bio": "Neuroengineer who works on speech neuroprostheses that turn neural activity into a person's voice in real time.",
+   "bio_zh": "神经工程师，研究把神经活动实时转换为人的声音的言语神经假体。",
+   "why": "Led the first demonstration of a brain-to-voice system fast enough for a user to hear, shape and sing with their own synthesized voice as they speak.",
+   "why_zh": "主导了首个足够快的「脑到声音」系统演示，使用者能在说话时听见、塑造并用自己的合成声音歌唱。",
+   "disciplines": [
+    "health",
+    "engineering"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "erin-kunz",
+   "name": "Erin M. Kunz",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Postdoctoral scholar in neurosurgery, Stanford University",
+   "role_zh": "斯坦福大学神经外科博士后研究员",
+   "based": "Stanford, US",
+   "based_zh": "斯坦福，美国",
+   "bio": "Neuroengineer who studies speech brain–computer interfaces and how inner, silent speech is represented in motor cortex.",
+   "bio_zh": "神经工程师，研究言语脑机接口，以及内在的无声言语如何在运动皮层中被表征。",
+   "why": "Showed that the silent inner voice is partly a motor act, and built privacy safeguards so a speech BCI does not voice thoughts its user keeps to themselves.",
+   "why_zh": "表明无声的内在之声在一定程度上是一种运动行为，并设计了隐私保护，让言语脑机接口不会说出使用者想留给自己的念头。",
+   "disciplines": [
+    "health",
+    "engineering"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "giacomo-valle",
+   "name": "Giacomo Valle",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Neuroengineer working on bionic touch, University of Chicago and Chalmers University of Technology",
+   "role_zh": "研究仿生触觉的神经工程师，芝加哥大学与查尔姆斯理工大学",
+   "based": "Chicago, US",
+   "based_zh": "芝加哥，美国",
+   "bio": "Neuroengineer who designs stimulation strategies that give users of neuroprostheses and bionic limbs a more natural sense of touch.",
+   "bio_zh": "神经工程师，设计刺激策略，让神经假体与仿生肢体的使用者获得更自然的触觉。",
+   "why": "Moves artificial touch from single buzzing points toward edges, shapes and motion that a person can actually feel on their hand.",
+   "why_zh": "把人工触觉从单点的「嗡嗡」感推进到人能在手上真正感受到的边缘、形状与运动。",
+   "disciplines": [
+    "engineering",
+    "health"
+   ],
+   "links": {},
+   "connected_to": [
+    "robert-gaunt",
+    "sharlene-flesher"
+   ],
+   "discovered_via": "robert-gaunt"
+  },
+  {
+   "id": "iddo-wald",
+   "name": "Iddo Yehoshua Wald",
+   "name_zh": "",
+   "kind": "person",
+   "role": "HCI researcher, Digital Media Lab, University of Bremen",
+   "role_zh": "人机交互研究者，不来梅大学数字媒体实验室",
+   "based": "Bremen, DE",
+   "based_zh": "不来梅，德国",
+   "bio": "Designer-researcher of sensory substitution, haptics and perception at the meeting point of neuroscience and HCI.",
+   "bio_zh": "在神经科学与人机交互交汇处研究感官替代、触觉与知觉的设计研究者。",
+   "why": "Designs new senses by borrowing how other species perceive, so the skin can take over a job of the ears or eyes.",
+   "why_zh": "借鉴其他物种的感知方式来设计新感官，让皮肤接手耳朵或眼睛的工作。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "sylvia-janicki",
+   "name": "Sylvia Janicki",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, School of Interactive Computing, Georgia Institute of Technology",
+   "role_zh": "佐治亚理工学院交互计算学院研究者",
+   "based": "Atlanta, US",
+   "based_zh": "亚特兰大，美国",
+   "bio": "Design researcher who works with speculative fabulation, crip and posthuman perspectives on bodies and environments.",
+   "bio_zh": "设计研究者，以推想式虚构（speculative fabulation）以及残障（crip）与后人类视角研究身体与环境。",
+   "why": "Designs from the felt experience of environmentally ill bodies, treating chronic illness as knowledge for living in a polluted world.",
+   "why_zh": "从环境病患者的身体感受出发进行设计，把慢性病经验视为在污染世界中生活的知识。",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "connected_to": [
+    "noura-howell"
+   ],
+   "discovered_via": "noura-howell"
+  },
+  {
+   "id": "tony-shu",
+   "name": "Tony Shu",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Bioengineer; PhD 2024, MIT, lead author of the osseointegrated mechanoneural prosthesis study in Hugh Herr's Biomechatronics group",
+   "role_zh": "生物工程师；2024 年获麻省理工学院博士学位，Hugh Herr 生物机电组骨整合机械神经假肢研究的第一作者",
+   "based": "Cambridge, US",
+   "based_zh": "剑桥（马萨诸塞州），美国",
+   "bio": "Bioengineer who develops bone-anchored, neurally controlled leg prostheses with Hugh Herr's group at MIT.",
+   "bio_zh": "生物工程师，在麻省理工学院 Hugh Herr 团队开发骨锚定、由神经控制的腿部假肢。",
+   "why": "Their knee prosthesis is integrated with bone and muscle, and its users reported that the leg felt more like part of their own body.",
+   "why_zh": "其膝关节假肢与骨骼和肌肉整合在一起，使用者表示这条腿更像是自己身体的一部分。",
+   "disciplines": [
+    "engineering",
+    "health"
+   ],
+   "links": {},
+   "connected_to": [
+    "hugh-herr"
+   ],
+   "discovered_via": "hugh-herr"
+  },
+  {
+   "id": "lonnie-chien",
+   "name": "Lonnie Chien",
+   "name_zh": "",
+   "kind": "person",
+   "role": "PhD student, Stanford University; predoctoral researcher at the Human Computer Integration Lab, University of Chicago (2024–25)",
+   "role_zh": "斯坦福大学博士生；2024–25 年在芝加哥大学人机融合实验室担任博士前研究员",
+   "based": "Stanford, US",
+   "based_zh": "斯坦福，美国",
+   "bio": "HCI researcher who works on embodied devices that use the user's own body, through muscle stimulation, as both input and output.",
+   "bio_zh": "人机交互研究者，研究借助肌肉电刺激、把使用者自己的身体同时作为输入与输出的「具身设备」。",
+   "why": "Keeps the feedback of body-based interfaces inside proprioception instead of moving it to screens or sounds.",
+   "why_zh": "让以身体为界面的设备把反馈留在本体感觉之内，而不是转移到屏幕或声音上。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "pedro-lopes",
+    "yudai-tanaka",
+    "jas-brooks"
+   ],
+   "discovered_via": "pedro-lopes"
+  },
+  {
+   "id": "candi-cann",
+   "name": "Candi K. Cann",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Religion, Baylor University",
+   "role_zh": "贝勒大学宗教学教授",
+   "based": "Waco, US",
+   "based_zh": "韦科，美国",
+   "bio": "Scholar of death, religion and digital afterlives, author of Virtual Afterlives (2014), who has worn hearing aids since childhood.",
+   "bio_zh": "研究死亡、宗教与数字来世的学者，著有《虚拟来世》（Virtual Afterlives，2014），自童年起佩戴助听器。",
+   "why": "Writes about the cyborg from inside a body that has always lived with devices, linking augmentation to disability, ageing and death.",
+   "why_zh": "从一个始终与设备共同生活的身体内部书写赛博格，把增强与残障、衰老和死亡联系起来。",
+   "disciplines": [
+    "philosophy"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "richard-moore",
+   "name": "Richard Moore",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Documentary filmmaker, co-director of Stelarc: Suspending Disbelief (2025) with John Doggett-Williams",
+   "role_zh": "纪录片导演，与 John Doggett-Williams 合作执导《Stelarc：悬置怀疑》（2025）",
+   "based": "Australia",
+   "based_zh": "澳大利亚",
+   "bio": "Documentary filmmaker who co-directed a feature-length portrait of the performance artist Stelarc.",
+   "bio_zh": "纪录片导演，合作执导了一部关于行为艺术家 Stelarc 的长篇纪录片。",
+   "why": "Their film gathers fifty years of Stelarc's body experiments and sets them in conversation with a disability perspective.",
+   "why_zh": "其影片汇集了 Stelarc 五十年的身体实验，并让它们与残障视角展开对话。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "connected_to": [
+    "stelarc"
+   ],
+   "discovered_via": "stelarc"
+  }
+ ],
+ "works": [
+  {
+   "id": "melike-sahinol--beyond-hands",
+   "creator_ids": [
+    "melike-sahinol",
+    "robert-stock"
+   ],
+   "title": "Beyond Hands",
+   "year": 2026,
+   "field": "augmented",
+   "sub": "extra-limbs",
+   "modalities": [
+    "extra-body",
+    "touch",
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-politics",
+    "body-mind-unity",
+    "extended-body"
+   ],
+   "kind": "paper",
+   "description": "A design-studies essay on hand prostheses that reads historical examples and qualitative case studies through the experiences of the people who wear them, and argues that a prosthetic hand is lived in a 'frictioned coupling' of body, technology and self-techniques rather than simply worn.",
+   "description_zh": "一篇关于假手的设计研究论文，借由历史案例与质性个案，从佩戴者的经验去阅读假手，并主张假手不是被简单地戴上，而是在身体、技术与自我技术之间「带着摩擦的耦合」中被活出来的。",
+   "idea_en": "A prosthesis is not a spare part for a 'whole' body but a felt, interdependent body: design it with disabled wearers as co-designers, from soma design's non-dualist stance.",
+   "idea_zh": "假肢不是给「完整」身体配的备件，而是被感受的、相互依存的身体：应当以身体设计的非二元立场，让残障佩戴者作为共同设计者参与其中。",
+   "method": "Historical analysis and qualitative case examples framed by crip technoscience and soma design, arguing for aesthetic co-design with prosthesis users.",
+   "method_zh": "以残障技术科学与身体设计为框架，结合历史分析与质性案例，主张与假肢使用者进行审美层面的共同设计。",
+   "keywords": [
+    "prosthetic hand",
+    "crip technoscience",
+    "soma design",
+    "co-design",
+    "disability",
+    "somatechnics",
+    "Design Issues"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1162/desi.a.708",
+    "doi": "10.1162/desi.a.708",
+    "arxiv": "",
+    "venue": "Design Issues 42(1), 2026",
+    "title": "Beyond Hands: A Design Exploration of Hand Prostheses and Their Transformative Impact on Disability Perspectives"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "hunter-schone--stable-body-maps",
+   "creator_ids": [
+    "hunter-schone",
+    "tamar-makin"
+   ],
+   "title": "Stable cortical body maps before and after arm amputation",
+   "year": 2025,
+   "field": "augmented",
+   "sub": "extra-limbs",
+   "modalities": [
+    "extra-body",
+    "movement",
+    "brain"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-mind-unity"
+   ],
+   "kind": "paper",
+   "description": "Three adults were scanned before, and up to five years after, a planned arm amputation: moving their phantom fingers activated the same hand area of sensorimotor cortex as moving their real hand had, and the face map did not take over that territory.",
+   "description_zh": "三位成年人在计划中的手臂截肢前、以及截肢后长达五年间接受脑部扫描：移动幻肢手指时激活的感觉运动皮层手部区域，与截肢前移动真手时相同，面部图谱也没有侵占这片区域。",
+   "idea_en": "The brain keeps the hand it no longer has: the felt phantom rests on a stable body map, so prostheses and neural interfaces can work with that persisting hand instead of assuming it has been overwritten.",
+   "idea_zh": "大脑保留着已经失去的那只手：被感受到的幻肢建立在稳定的身体图谱之上，因此假肢与神经接口可以与这只依然存在的手合作，而不是假设它已被改写。",
+   "method": "Longitudinal fMRI before and up to five years after amputation, comparing activity for hand (then phantom-hand) and lip movements in primary sensorimotor cortex.",
+   "method_zh": "截肢前及截肢后长达五年的纵向功能磁共振成像，比较初级感觉运动皮层中手部（之后为幻肢手）与嘴唇动作引起的活动。",
+   "keywords": [
+    "phantom limb",
+    "amputation",
+    "cortical remapping",
+    "body map",
+    "fMRI",
+    "Tamar Makin",
+    "Chris Baker"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/593a7b3215d5dbd460e42f0c/1569066377942-TR1AFD2DLKBMW1ZIUJCI/BANNER%2B1.jpg",
+    "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41593-025-02037-7/MediaObjects/41593_2025_2037_Fig1_HTML.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/s41593-025-02037-7",
+    "doi": "10.1038/s41593-025-02037-7",
+    "arxiv": "",
+    "venue": "Nature Neuroscience 2025",
+    "title": "Stable cortical body maps before and after arm amputation"
+   },
+   "source_url": "https://www.plasticity-lab.com/brain-stability",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "maria-molina-sanchez--third-thumb-generalization",
+   "creator_ids": [
+    "maria-molina-sanchez",
+    "dani-clode",
+    "tamar-makin"
+   ],
+   "title": "Broad skill generalization with an extra robotic body part",
+   "year": 2026,
+   "field": "augmented",
+   "sub": "extra-limbs",
+   "modalities": [
+    "extra-body",
+    "movement",
+    "posture-balance"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-mind-unity"
+   ],
+   "kind": "paper",
+   "description": "People trained for seven days with the Third Thumb, an extra robotic thumb worn on the right hand and moved by pressure from the toes; the skill carried over to new tasks, body postures and body parts used to wear or control it, effort fell and their sense of agency grew, yet this did not make them more inclined to choose the device.",
+   "description_zh": "参与者用「第三拇指」训练了七天——这是一根戴在右手上、由脚趾压力驱动的机器人拇指；技能迁移到了新的任务、身体姿势以及用来佩戴或控制它的其他身体部位，认知负担下降、能动感增强，但这并没有让他们更愿意主动选用它。",
+   "idea_en": "An extra limb becomes one's own as a flexible, body-independent skill rather than a fixed mapping — but feeling skilled and in control is still not the same as wanting it as part of one's body.",
+   "idea_zh": "多出来的肢体是作为一种灵活、不依附于特定身体部位的技能而成为自己的，而非固定的映射——但感到熟练与掌控，仍不等于愿意让它成为身体的一部分。",
+   "method": "Seven-day training with the Third Thumb (toe pressure sensors control two degrees of freedom); transfer tests across tasks, postures and controlling body parts, plus cognitive load, sense of agency, balance and free-choice use.",
+   "method_zh": "用「第三拇指」进行七天训练（脚趾压力传感器控制两个自由度）；测试技能在任务、姿势与控制部位之间的迁移，并测量认知负荷、能动感、平衡与自由选择下的使用意愿。",
+   "keywords": [
+    "Third Thumb",
+    "supernumerary finger",
+    "motor learning",
+    "skill generalization",
+    "sense of agency",
+    "Dani Clode",
+    "Tamar Makin",
+    "Giulia Dominijanni"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/593a7b3215d5dbd460e42f0c/1568912920799-SXYLQOSVCOO2O4K4GL9J/Augment+banner.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1016/j.cub.2026.01.069",
+    "doi": "10.1016/j.cub.2026.01.069",
+    "arxiv": "",
+    "venue": "Current Biology 2026",
+    "title": "Broad skill generalization with an extra robotic body part"
+   },
+   "source_url": "https://www.plasticity-lab.com/body-augmentation",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "aryan-saini--inflated-exertion",
+   "creator_ids": [
+    "aryan-saini",
+    "maria-fernanda-montoya",
+    "rakesh-patibanda",
+    "florian-mueller"
+   ],
+   "title": "Inflated Exertion",
+   "year": 2025,
+   "field": "augmented",
+   "sub": "extra-limbs",
+   "also": [
+    "movement"
+   ],
+   "modalities": [
+    "shape-change",
+    "extra-body",
+    "movement"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-data"
+   ],
+   "kind": "prototype",
+   "description": "A pneumatic bodily extension that inflates with the intensity and duration of the wearer's exertion, so physical activity is carried on the body as a growing, felt shape instead of a number on a smartwatch.",
+   "description_zh": "一个气动的身体延伸物，随佩戴者发力的强度与持续时间而膨胀，让身体活动以一种逐渐长大、可被感受的形状留在身上，而不是智能手表上的一个数字。",
+   "idea_en": "Activity tracking can be given back to the body: an extension that swells with your effort makes exertion something you feel and carry, not something you read.",
+   "idea_zh": "活动追踪可以还给身体：一个随你的努力而膨胀的延伸物，让发力成为你感受并携带的东西，而不是你读取的数据。",
+   "method": "Inflatable worn as an extension of the body, inflated in proportion to the intensity and duration of the user's measured exertion; design paper at TEI 2025.",
+   "method_zh": "佩戴在身上的充气延伸物，根据测得的发力强度与持续时间按比例充气；发表于 TEI 2025 的设计论文。",
+   "keywords": [
+    "bodily extension",
+    "pneumatic",
+    "inflatable",
+    "physical activity",
+    "exertion",
+    "Exertion Games Lab",
+    "TEI 2025"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3689050.3706069",
+    "doi": "10.1145/3689050.3706069",
+    "arxiv": "",
+    "venue": "TEI 2025",
+    "title": "Inflated Exertion: Designing a Bodily Extension that Embodies Physical Activity"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [
+    "tei"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "vincent-van-rheden--breathcrunch-bellybreath",
+   "creator_ids": [
+    "vincent-van-rheden",
+    "florian-mueller"
+   ],
+   "title": "BreathCrunch and BellyBreath",
+   "year": 2025,
+   "field": "augmented",
+   "sub": "body-integration",
+   "modalities": [
+    "electrical",
+    "breath",
+    "muscle"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "attunement",
+    "extended-body"
+   ],
+   "kind": "prototype",
+   "description": "Two systems use electrical muscle stimulation on the abdominal muscles during the out-breath, one as gentle guidance and one that forces the exhalation, to deepen breathing in meditation and while running.",
+   "description_zh": "两套系统在呼气阶段用肌肉电刺激收缩腹肌：一套作为温和的引导，另一套强制完成呼气，用于在冥想与跑步中加深呼吸。",
+   "idea_en": "When a computer contracts your breathing muscles, breath becomes a shared act between body and machine, and the line between being guided and being breathed becomes something to feel and design.",
+   "idea_zh": "当计算机收缩你的呼吸肌时，呼吸成为身体与机器共同完成的行为；「被引导」与「被呼吸」之间的界线，成为需要去感受和设计的东西。",
+   "method": "EMS electrodes on the abdominal muscles timed to the exhalation phase, in a guidance mode and an enforcement mode, reflected on as human–computer integration (CHI 2025 Extended Abstracts).",
+   "method_zh": "在腹肌上放置肌肉电刺激电极，与呼气阶段同步，分为引导模式与强制模式，并从人机融合的角度加以反思（CHI 2025 扩展摘要）。",
+   "keywords": [
+    "EMS",
+    "breathing",
+    "exhalation",
+    "meditation",
+    "running",
+    "human–computer integration",
+    "Exertion Games Lab",
+    "CHI 2025"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=6A8qpm0T5uY"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3706599.3721197",
+    "doi": "10.1145/3706599.3721197",
+    "arxiv": "",
+    "venue": "CHI 2025 Extended Abstracts",
+    "title": "BreathCrunch and BellyBreath: Exploring EMS-based Breath Guidance and Enforcement for Meditation and Running"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "mithil-guruvugari--perceived-force-ems",
+   "creator_ids": [
+    "mithil-guruvugari",
+    "romain-nith",
+    "pedro-lopes"
+   ],
+   "title": "Modeling Perceived Force of Electrical Muscle Stimulation",
+   "year": 2026,
+   "field": "augmented",
+   "sub": "body-integration",
+   "modalities": [
+    "electrical",
+    "muscle",
+    "movement"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-mind-unity"
+   ],
+   "kind": "prototype",
+   "description": "When muscle stimulation pushes a person's hand to demonstrate a force and they then try to reproduce it, they overshoot by a median 19%, most at light forces; a model of this mismatch lets the system render a corrected force, improving recall by about 35%.",
+   "description_zh": "当肌肉电刺激推动人的手来示范某个力度、而人随后尝试复现时，他们会多用中位数 19% 的力，力度越轻偏差越大；对这种偏差建模后，系统可以输出校正后的力度，使复现准确度提高约 35%。",
+   "idea_en": "A force a machine puts into your muscles is not felt like a force you make yourself; teaching skills through EMS means modelling how the body perceives being moved.",
+   "idea_zh": "机器施加到你肌肉上的力，与你自己发出的力感觉并不一样；用肌肉电刺激教授技能，就要对身体如何感知「被推动」进行建模。",
+   "method": "User study of recalling EMS-demonstrated forces, a model of perceived EMS force, and a follow-up study with model-adjusted stimulation (CHI 2026).",
+   "method_zh": "关于复现肌肉电刺激示范力度的用户研究、对肌肉电刺激感知力度的建模，以及使用模型校正刺激的后续研究（CHI 2026）。",
+   "keywords": [
+    "EMS",
+    "force perception",
+    "motor learning",
+    "proprioception",
+    "Human Computer Integration Lab",
+    "CHI 2026"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=iBb-K3-Op78"
+   },
+   "images": [
+    "https://lab.plopes.org/project-thumbnails/CHI26-ForceEMS.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3772318.3791805",
+    "doi": "10.1145/3772318.3791805",
+    "arxiv": "",
+    "venue": "CHI 2026",
+    "title": "Modeling Perceived Force of Electrical Muscle Stimulation to Improve User's Recall"
+   },
+   "source_url": "https://lab.plopes.org",
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "rakesh-patibanda--when-the-body-is-moved",
+   "creator_ids": [
+    "rakesh-patibanda",
+    "florian-mueller"
+   ],
+   "title": "When the Body Is Moved",
+   "year": 2026,
+   "field": "augmented",
+   "sub": "augmented-play",
+   "modalities": [
+    "electrical",
+    "movement",
+    "muscle"
+   ],
+   "lenses": [
+    "pleasure-play",
+    "extended-body",
+    "first-person"
+   ],
+   "kind": "paper",
+   "description": "An in-the-wild interview study with people who watched their own hands, moved by electrical muscle stimulation, play games against each other: they felt their agency shrink, yet took a playful stance and found the experience enjoyable and meaningful.",
+   "description_zh": "一项真实场景中的访谈研究：参与者看着自己被肌肉电刺激驱动的双手彼此对战游戏；他们感到能动性减弱，却仍以游戏的姿态投入，觉得这段经历有趣且有意义。",
+   "idea_en": "Playfulness does not require being in control: people can meet 'invisible control' of their own body with curiosity and play, which calls for an ethics of systems that bypass intent.",
+   "idea_zh": "玩性并不以掌控为前提：人们可以带着好奇与玩心面对自己身体被「隐形控制」，这也要求为绕过意图的系统建立相应的伦理。",
+   "method": "In-the-wild deployment of the Fused Spectatorship EMS hand games, followed by post-study interviews and thematic analysis.",
+   "method_zh": "在真实场景中部署 Fused Spectatorship 肌肉电刺激手部游戏，之后进行访谈并做主题分析。",
+   "keywords": [
+    "invisible control",
+    "EMS",
+    "playfulness",
+    "agency",
+    "Fused Spectatorship",
+    "Elise van den Hoven",
+    "Exertion Games Lab"
+   ],
+   "images": [
+    "https://exertiongameslab.org/wp-content/uploads/2024/05/thea_games.jpg",
+    "https://exertiongameslab.org/wp-content/uploads/2024/05/hand_gestures.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1057/s41599-026-08167-y",
+    "doi": "10.1057/s41599-026-08167-y",
+    "arxiv": "",
+    "venue": "Humanities and Social Sciences Communications 2026",
+    "title": "When the body is moved: playfulness under invisible control"
+   },
+   "source_url": "https://exertiongameslab.org/projects/fused-spectatorship",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "rakesh-patibanda--homoludic-augmentation",
+   "creator_ids": [
+    "rakesh-patibanda",
+    "florian-mueller"
+   ],
+   "title": "Homoludic Augmentation",
+   "year": 2025,
+   "field": "augmented",
+   "sub": "augmented-play",
+   "modalities": [
+    "whole-soma",
+    "extra-body",
+    "new-senses"
+   ],
+   "lenses": [
+    "pleasure-play",
+    "extended-body",
+    "body-politics"
+   ],
+   "kind": "paper",
+   "description": "A theory paper that maps augmentation technologies onto Caillois' four kinds of play — augmented competition (Arete), chance and risk (Tyche), sensation (Dionysia) and embodied role-play (Mimesis) — and asks what happens to play when control of the body is shared with a system.",
+   "description_zh": "一篇理论论文，把增强技术对应到凯卢瓦（Caillois）的四类游戏——增强竞争（Arete）、机运与风险（Tyche）、感官（Dionysia）与具身角色扮演（Mimesis）——追问当身体的控制与系统共享时，游戏会变成什么。",
+   "idea_en": "Augmentation unsettles play's founding idea of voluntary bodily autonomy; four lenses help designers make shared bodily control playful while putting consent and access first.",
+   "idea_zh": "增强技术动摇了游戏「自愿且身体自主」的基本前提；四个视角帮助设计者让共享的身体控制变得好玩，同时把知情同意与可及性放在首位。",
+   "method": "Conceptual analysis building on Caillois' agon, alea, ilinx and mimicry, illustrated with historical, cultural and contemporary examples.",
+   "method_zh": "以凯卢瓦的竞争、机运、眩晕与模仿为基础进行概念分析，并以历史、文化与当代案例加以说明。",
+   "keywords": [
+    "Homoludic Augmentation",
+    "play theory",
+    "Caillois",
+    "human augmentation",
+    "shared control",
+    "consent",
+    "Games: Research and Practice"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3773766",
+    "doi": "10.1145/3773766",
+    "arxiv": "",
+    "venue": "Games: Research and Practice 2025",
+    "title": "Homoludic Augmentation: Preliminary Reflections"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "matthew-willsey--finger-bci-quadcopter",
+   "creator_ids": [
+    "matthew-willsey"
+   ],
+   "title": "A high-performance brain–computer interface for finger decoding and quadcopter game control in an individual with paralysis",
+   "year": 2025,
+   "field": "augmented",
+   "sub": "augmented-play",
+   "modalities": [
+    "brain",
+    "movement"
+   ],
+   "lenses": [
+    "pleasure-play",
+    "extended-body",
+    "care-healing"
+   ],
+   "kind": "prototype",
+   "description": "A man with tetraplegia attempted to move three groups of fingers while electrodes in his motor cortex decoded them, then used those decoded fingers to fly a virtual quadcopter through obstacle courses; flying was his own top priority, and he expressed a sense of enablement, recreation and social connection.",
+   "description_zh": "一位四肢瘫痪的男士尝试移动三组手指，植入运动皮层的电极对其进行解码；他随后用这些被解码的「手指」驾驶虚拟四旋翼飞行器穿越障碍赛道。飞行是他自己最想恢复的事，他表达了被赋能、得以娱乐与重新联结他人的感受。",
+   "idea_en": "Restoration can aim at play and belonging, not only function: the participant chose a flying game as his first priority, and finger-level control turned the implant into a way back to recreation with others.",
+   "idea_zh": "康复的目标可以是游戏与归属，而不只是功能：参与者把飞行游戏列为首要愿望，手指级别的控制让植入物成为重返与他人一起娱乐的途径。",
+   "method": "Intracortical microelectrode arrays in motor cortex; real-time decoding of four degrees of freedom across three finger groups, mapped to a virtual quadcopter.",
+   "method_zh": "运动皮层内的微电极阵列；实时解码三组手指共四个自由度，并映射为虚拟四旋翼飞行器的控制。",
+   "keywords": [
+    "intracortical BCI",
+    "finger decoding",
+    "quadcopter",
+    "video games",
+    "tetraplegia",
+    "Stanford",
+    "Jaimie Henderson",
+    "Francis Willett"
+   ],
+   "images": [
+    "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41591-024-03341-8/MediaObjects/41591_2024_3341_Fig4_HTML.png",
+    "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-024-03341-8/MediaObjects/41591_2024_3341_Fig1_HTML.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/s41591-024-03341-8",
+    "doi": "10.1038/s41591-024-03341-8",
+    "arxiv": "",
+    "venue": "Nature Medicine 2025",
+    "title": "A high-performance brain–computer interface for finger decoding and quadcopter game control in an individual with paralysis"
+   },
+   "source_url": "https://www.nature.com/articles/s41591-024-03341-8",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "maitreyee-wairagkar--instantaneous-voice-neuroprosthesis",
+   "creator_ids": [
+    "maitreyee-wairagkar"
+   ],
+   "title": "An instantaneous voice-synthesis neuroprosthesis",
+   "year": 2025,
+   "field": "augmented",
+   "sub": "brain-interfaces",
+   "modalities": [
+    "brain",
+    "voice-sound"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "movement-expression",
+    "care-healing"
+   ],
+   "kind": "prototype",
+   "description": "A man with ALS who could barely be understood tried to speak while 256 electrodes in his speech motor cortex were decoded into a synthesized voice almost instantly, so he heard himself as he spoke, changed his intonation and sang short melodies.",
+   "description_zh": "一位患有渐冻症、说话几乎无法被听懂的男士尝试开口时，植入言语运动皮层的 256 个电极几乎即时地把神经活动解码为合成声音；他一边说一边听见自己，还能改变语调、唱出简短的旋律。",
+   "idea_en": "Speech is a felt bodily loop, not text: hearing one's own voice at once, with its melody and emphasis, restores an expressiveness that text-decoding BCIs leave out.",
+   "idea_zh": "说话是一个被感受的身体回路，而不是文字：即时听见自己带着旋律与重音的声音，找回了文字解码式脑机接口所遗漏的表达力。",
+   "method": "256 intracortical microelectrodes in the ventral precentral gyrus; a decoder trained without ground-truth speech, closed-loop audio feedback, and decoding of paralinguistic features such as pitch.",
+   "method_zh": "在腹侧中央前回植入 256 个皮层内微电极；在没有真实语音对照的情况下训练解码器，提供闭环音频反馈，并解码音高等副语言特征。",
+   "keywords": [
+    "speech neuroprosthesis",
+    "brain-to-voice",
+    "ALS",
+    "intonation",
+    "singing",
+    "UC Davis",
+    "Sergey Stavisky",
+    "David Brandman"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=JQEXpsjK40g"
+   },
+   "images": [
+    "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41586-025-09127-3/MediaObjects/41586_2025_9127_Fig1_HTML.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/s41586-025-09127-3",
+    "doi": "10.1038/s41586-025-09127-3",
+    "arxiv": "",
+    "venue": "Nature 2025",
+    "title": "An instantaneous voice-synthesis neuroprosthesis"
+   },
+   "source_url": "https://www.nature.com/articles/s41586-025-09127-3",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "erin-kunz--inner-speech-motor-cortex",
+   "creator_ids": [
+    "erin-kunz"
+   ],
+   "title": "Inner speech in motor cortex and implications for speech neuroprostheses",
+   "year": 2025,
+   "field": "augmented",
+   "sub": "brain-interfaces",
+   "modalities": [
+    "brain",
+    "voice-sound"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "body-politics"
+   ],
+   "kind": "paper",
+   "description": "Recording from motor cortex in four people with paralysis, the study found that silently imagined speech is represented much like attempted speech and can be decoded in real time; some unprompted inner speech could also be decoded, so the team built safeguards, including an imagined password phrase that unlocks decoding.",
+   "description_zh": "研究在四位瘫痪者的运动皮层中记录神经活动，发现默默想象的言语与尝试说出的言语表征方式相近，可以被实时解码；一些未被要求的内在言语也能被解码，因此团队设计了保护措施，包括一个在心里默念才能开启解码的「密码短语」。",
+   "idea_en": "The 'silent' inner voice lives partly in the motor body, in the same cortex as speaking aloud, so mental privacy has to be designed into speech BCIs rather than assumed.",
+   "idea_zh": "「无声」的内在之声部分地栖居于运动的身体——与出声说话同在一片皮层——因此心理隐私必须被设计进言语脑机接口，而不能默认存在。",
+   "method": "Multi-unit recordings from intracortical arrays in four participants with ALS or brainstem stroke; real-time decoding of imagined sentences, tests of free-form inner speech during recall and counting, and privacy strategies based on a motor-intent dimension and a keyword unlock.",
+   "method_zh": "在四位渐冻症或脑干卒中参与者的皮层内电极阵列上进行多单元记录；实时解码想象中的句子，在回忆与计数任务中测试自由的内在言语，并基于「运动意图」维度与关键词解锁设计隐私策略。",
+   "keywords": [
+    "inner speech",
+    "speech BCI",
+    "mental privacy",
+    "motor cortex",
+    "Stanford",
+    "Francis Willett"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=K-JTJqplOK4"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1016/j.cell.2025.06.015",
+    "doi": "10.1016/j.cell.2025.06.015",
+    "arxiv": "",
+    "venue": "Cell 2025",
+    "title": "Inner speech in motor cortex and implications for speech neuroprostheses"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "giacomo-valle--tactile-edges-motion",
+   "creator_ids": [
+    "giacomo-valle",
+    "robert-gaunt"
+   ],
+   "title": "Tactile edges and motion via patterned microstimulation of the human somatosensory cortex",
+   "year": 2025,
+   "field": "augmented",
+   "sub": "brain-interfaces",
+   "modalities": [
+    "brain",
+    "touch"
+   ],
+   "lenses": [
+    "touching-back",
+    "extended-body",
+    "care-healing"
+   ],
+   "kind": "prototype",
+   "description": "By stimulating several electrodes in the touch cortex together in spatial and timed patterns, people with paralysis felt edges and shapes on the skin of the hand and touches gliding across it, with controllable speed and direction, which improved their use of brain-controlled bionic hands.",
+   "description_zh": "通过以空间与时间模式同时刺激触觉皮层中的多个电极，瘫痪者在手部皮肤上感受到了边缘与形状，以及在皮肤上滑过的触碰，其速度与方向都可控制，这改善了他们使用脑控仿生手的体验。",
+   "idea_en": "Touch is patterns in space and time, not points: composing stimulation like a moving contact gives a bionic hand edges and motion a person can feel, not just a signal that something is there.",
+   "idea_zh": "触觉是空间与时间中的模式，而不是一个个点：像真实接触那样编排刺激，能让仿生手带来可被感受的边缘与运动，而不只是「有东西在那里」的信号。",
+   "method": "Intracortical microstimulation of primary somatosensory cortex through electrodes with spatially patterned projected fields, delivered simultaneously and in sequence, tested with participants with paralysis and in bionic-hand tasks.",
+   "method_zh": "通过投射野呈空间模式分布的电极，对初级躯体感觉皮层进行同时与顺序的皮层内微刺激；在瘫痪参与者及仿生手任务中测试。",
+   "keywords": [
+    "intracortical microstimulation",
+    "artificial touch",
+    "bionic hand",
+    "somatosensory cortex",
+    "BCI Award",
+    "Robert Gaunt",
+    "Sliman Bensmaia"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ipojAWqTxAA"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1126/science.adq5978",
+    "doi": "10.1126/science.adq5978",
+    "arxiv": "",
+    "venue": "Science 2025",
+    "title": "Tactile edges and motion via patterned microstimulation of the human somatosensory cortex"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": [
+    "BCI Award 2024, 1st place (Synthetic touch for brain-controlled bionic hands)"
+   ]
+  },
+  {
+   "id": "iddo-wald--spatial-haptics",
+   "creator_ids": [
+    "iddo-wald"
+   ],
+   "title": "Spatial Haptics",
+   "year": 2025,
+   "field": "augmented",
+   "sub": "new-senses",
+   "modalities": [
+    "new-senses",
+    "vibration"
+   ],
+   "lenses": [
+    "extended-body",
+    "more-than-human"
+   ],
+   "kind": "prototype",
+   "description": "Two vibrating actuators, held in the hands or placed at the ears, change strength with a target's direction, so people locate distant objects by touch the way some spiders and elephants sense vibrations; without training, users told horizontal targets apart within 30 degrees.",
+   "description_zh": "两个振动器握在手中或贴在耳边，根据目标方向改变强弱，让人像某些蜘蛛和大象感知振动那样，用触觉定位远处的物体；未经训练的用户就能分辨相差不到 30 度的水平目标。",
+   "idea_en": "Borrowing how other species feel the world through vibration, the skin can take over a job of the ears; moving your 'hands as ears' makes spatial hearing something done with the whole moving body.",
+   "idea_zh": "借鉴其他物种通过振动感知世界的方式，皮肤可以接手耳朵的工作；把「手当作耳朵」来移动，让空间听觉成为整个运动着的身体所做的事。",
+   "method": "Vibration amplitude of two VR controllers modulated by the target's relative location, imitating auditory localization; ear and hand placements compared in a VR proof-of-concept study.",
+   "method_zh": "根据目标的相对位置调节两个 VR 手柄的振动幅度，模仿听觉定位；在 VR 概念验证研究中比较耳边与手上两种放置方式。",
+   "keywords": [
+    "sensory substitution",
+    "vibrotactile",
+    "localization",
+    "animal senses",
+    "University of Bremen",
+    "CHI 2025"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3706598.3714083",
+    "doi": "10.1145/3706598.3714083",
+    "arxiv": "",
+    "venue": "CHI 2025",
+    "title": "Spatial Haptics: A Sensory Substitution Method for Distal Object Detection Using Tactile Cues"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "sylvia-janicki--toxic-speculations",
+   "creator_ids": [
+    "sylvia-janicki",
+    "noura-howell"
+   ],
+   "title": "Toxic Speculations",
+   "year": 2026,
+   "field": "augmented",
+   "sub": "new-senses",
+   "modalities": [
+    "new-senses",
+    "light-vision",
+    "movement"
+   ],
+   "lenses": [
+    "body-politics",
+    "more-than-human",
+    "care-healing"
+   ],
+   "kind": "prototype",
+   "description": "A speculative fabulation built around Ray-Flats, shoes that glow when the wearer walks near toxic sites listed in the US Environmental Protection Agency's public database, with a navigation guide drawn from the narratives of people living with environmental illness.",
+   "description_zh": "一则推想式虚构，围绕 Ray-Flats 展开：这双鞋在佩戴者走近美国环境保护署公开数据库所列的有毒场址时会发光，并配有一份取材自环境病患者叙事的导航指南。",
+   "idea_en": "Environmentally ill bodies already sense a polluted world; designing from their 'felt space' turns diffuse toxicity into something a walking body can perceive and live with.",
+   "idea_zh": "环境病患者的身体早已感知着被污染的世界；从他们的「被感受的空间」出发设计，能把弥散的毒性变成行走的身体可以感知并与之共处的东西。",
+   "method": "Shoes with lights triggered by proximity to EPA-listed toxic sites plus a storied navigational guide; a crip and posthuman research-through-design fabulation (CHI 2026).",
+   "method_zh": "鞋上的灯随接近环保署所列有毒场址而亮起，配合一份故事化的导航指南；以残障与后人类视角进行的设计研究式虚构（CHI 2026）。",
+   "keywords": [
+    "speculative fabulation",
+    "crip theory",
+    "posthuman",
+    "environmental illness",
+    "pollution",
+    "felt space",
+    "Ray-Flats",
+    "Heidi Biggs",
+    "CHI 2026"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3772318.3790454",
+    "doi": "10.1145/3772318.3790454",
+    "arxiv": "",
+    "venue": "CHI 2026",
+    "title": "Toxic Speculations: A Crip Posthuman Fabulation of Living in a Permanently Polluted World"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "tony-shu--osseointegrated-mechanoneural-prosthesis",
+   "creator_ids": [
+    "tony-shu",
+    "hugh-herr"
+   ],
+   "title": "Osseointegrated Mechanoneural Prosthesis",
+   "year": 2025,
+   "field": "augmented",
+   "sub": "extra-limbs",
+   "modalities": [
+    "extra-body",
+    "muscle",
+    "movement"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-mind-unity"
+   ],
+   "kind": "prototype",
+   "description": "An above-knee prosthesis anchored by a titanium implant in the thigh bone and steered by signals from surgically reconnected muscle pairs; its two users climbed stairs and stepped over obstacles more easily than comparison groups, and their feelings that the leg was part of their body and under their control grew more than in the others.",
+   "description_zh": "一种膝上假肢，由植入大腿骨的钛杆锚定，并由手术重新连接的成对肌肉发出的信号驱动；两位使用者比对照组更轻松地上楼梯、跨越障碍，而且他们觉得这条腿属于自己身体、受自己控制的感受，比其他参与者增长得更多。",
+   "idea_en": "A limb loaded through the skeleton and driven by the body's own muscle sensing stops being a tool and starts to feel like part of oneself: embodiment follows from physiological integration.",
+   "idea_zh": "一条通过骨骼承重、由身体自身的肌肉感觉驱动的肢体，不再只是工具，而开始像是自己的一部分：具身感来自生理上的整合。",
+   "method": "Agonist-antagonist myoneural interface (AMI) surgery plus the e-OPRA bone-anchored implant, whose 16 wires carry muscle-electrode signals to a powered knee controller; two OMP users compared with eight AMI-only and seven conventional amputees on movement tasks and embodiment questions about agency, ownership and body representation.",
+   "method_zh": "结合拮抗肌神经肌肉接口（AMI）手术与 e-OPRA 骨锚定植入物，植入物内的 16 根导线把肌肉电极信号传给电动膝关节控制器；将两名骨整合机械神经假肢使用者与八名仅做 AMI 手术者和七名传统截肢者比较，测试动作任务以及关于能动感、拥有感与身体表征的具身问卷。",
+   "keywords": [
+    "osseointegration",
+    "AMI",
+    "e-OPRA",
+    "bionic knee",
+    "prosthetic embodiment",
+    "Hugh Herr",
+    "K. Lisa Yang Center for Bionics",
+    "Science 2025"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ZQCVmuirYSI"
+   },
+   "images": [
+    "https://news.mit.edu/sites/default/files/images/202507/MIT_Bionic-Knee-01-press.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1126/science.adv3223",
+    "doi": "10.1126/science.adv3223",
+    "arxiv": "",
+    "venue": "Science 2025",
+    "title": "Tissue-integrated bionic knee restores versatile legged movement after amputation"
+   },
+   "source_url": "https://news.mit.edu/2025/bionic-knee-integrated-into-tissue-can-restore-natural-movement-0710",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "lonnie-chien--embodied-devices-ems",
+   "creator_ids": [
+    "lonnie-chien",
+    "yudai-tanaka",
+    "jas-brooks",
+    "pedro-lopes"
+   ],
+   "title": "Increasing Input Accuracy of Embodied Devices via Electrical Muscle Stimulation",
+   "year": 2026,
+   "field": "augmented",
+   "sub": "body-integration",
+   "modalities": [
+    "electrical",
+    "muscle",
+    "posture-balance"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-mind-unity"
+   ],
+   "kind": "prototype",
+   "description": "In 'embodied devices' the body is both input and output, with gestures read by cameras or motion sensors and answered through motors or muscles; here muscle stimulation returns the hand to a previous interface state, gives a muscle cue at each state change and keeps gestures within the valid range, which made input more accurate and users more confident without screens, sounds or vibration.",
+   "description_zh": "在「具身设备」中，身体既是输入也是输出：手势由摄像头或运动传感器读取，再通过电机或肌肉作出回应。这项研究用肌肉电刺激把手带回先前的界面状态、在每次状态切换时给出肌肉提示，并把手势限制在有效范围内，从而在不借助屏幕、声音或振动的情况下提高了输入准确度和用户的信心。",
+   "idea_en": "When the body is the interface, feedback should stay proprioceptive: letting the muscles feel where the interface is keeps the felt position of the hand and the system's state aligned.",
+   "idea_zh": "当身体就是界面时，反馈应当留在本体感觉之中：让肌肉感受到界面「在哪里」，手被感受到的位置与系统的状态才能保持一致。",
+   "method": "Three EMS techniques (state recall, transition confirmation, range constraint) in a gesture-based embodied device, compared with the same device without EMS on absolute and relative accuracy and confidence (CHI 2026).",
+   "method_zh": "在基于手势的具身设备中实现三种肌肉电刺激技术（状态回忆、切换确认、范围约束），并与不带肌肉电刺激的同一设备比较绝对准确度、相对准确度与信心（CHI 2026）。",
+   "keywords": [
+    "embodied devices",
+    "EMS",
+    "proprioception",
+    "gestural input",
+    "Human Computer Integration Lab",
+    "CHI 2026"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=PBqnaxGNOj0"
+   },
+   "images": [
+    "https://lab.plopes.org/project-thumbnails/CHI26-EmbodiedDevices.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3772318.3791134",
+    "doi": "10.1145/3772318.3791134",
+    "arxiv": "",
+    "venue": "CHI 2026",
+    "title": "Increasing Input Accuracy of Embodied Devices via Electrical Muscle Stimulation"
+   },
+   "source_url": "https://lab.plopes.org",
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "marco-donnarumma--ex-silens",
+   "creator_ids": [
+    "marco-donnarumma"
+   ],
+   "title": "Ex Silens",
+   "year": 2024,
+   "field": "augmented",
+   "sub": "cyborg-art",
+   "also": [
+    "movement"
+   ],
+   "modalities": [
+    "voice-sound",
+    "vibration",
+    "touch"
+   ],
+   "lenses": [
+    "body-politics",
+    "intercorporeality",
+    "extended-body"
+   ],
+   "kind": "performance",
+   "description": "An evening-length performance in which Donnarumma, who is late-deafened, remakes cochlear-implant and AI hearing technologies into handcrafted 'sonic organs' that amplify the sounds of muscles, heart and blood and spread them as low-frequency vibration through the audience, while touch and caresses fuse performer and spectators; it is made for d/Deaf and hearing audiences alike.",
+   "description_zh": "一部完整时长的表演：本人后天失聪的 Donnarumma 把人工耳蜗与 AI 听觉技术改造成手工制作的「声音器官」，放大肌肉、心脏与血液的声音，并以低频振动传遍观众的身体；触碰与爱抚让表演者与观众融为一体。作品同时面向聋人与听人观众。",
+   "idea_en": "Hearing prostheses need not repair a loss: remade as organs of sharing, they open a sensorium where deafness is another mode of perception and sound is felt through bodies together.",
+   "idea_zh": "听觉假体不必去修补缺失：被重新做成「分享的器官」后，它们打开一种感官世界——失聪是另一种知觉方式，声音由众多身体一起去感受。",
+   "method": "AI sensory prostheses using artificial-life algorithms and interactive machine learning, biosensors on the performer, eight subwoofers, ambisonic sound and interactive light; part of the I Am Your Body series developed with d/Deaf and hard-of-hearing collaborators and the Intelligent Instruments Lab, Iceland University of the Arts.",
+   "method_zh": "采用人工生命算法与交互式机器学习的 AI 感官假体、表演者身上的生物传感器、八只低音炮、全景声与交互灯光；属于与聋人及听障合作者、冰岛艺术大学智能乐器实验室共同发展的系列「I Am Your Body」。",
+   "keywords": [
+    "cochlear implant",
+    "deafness",
+    "sensory prostheses",
+    "posthuman",
+    "biosensors",
+    "I Am Your Body",
+    "CTM Festival",
+    "Intelligent Instruments Lab"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=iAcWdyulZf4"
+   },
+   "images": [
+    "https://marcodonnarumma.com/live/wp-content/uploads/2023/12/Marco-Donnarumma_Ex-Silens_1_photo-Chris-Scott-EFI-Edinburgh_web.jpg",
+    "https://marcodonnarumma.com/live/wp-content/uploads/2026/02/Marco-Donnarumma_Ex-Silens_photo-Manuel-Vason_694_web_ed.jpg"
+   ],
+   "source_url": "https://marcodonnarumma.com/works/ex-silens",
+   "code_url": "",
+   "collections": [],
+   "exhibited": [
+    "CTM Festival 2024, Radialsystem Berlin (world premiere)",
+    "Falling Walls Breakthrough of the Year 2026, Art & Science finalist (I Am Your Body series)"
+   ]
+  },
+  {
+   "id": "richard-moore--stelarc-suspending-disbelief",
+   "creator_ids": [
+    "richard-moore",
+    "stelarc"
+   ],
+   "title": "Stelarc: Suspending Disbelief",
+   "year": 2025,
+   "field": "augmented",
+   "sub": "cyborg-art",
+   "modalities": [
+    "extra-body",
+    "pain-interoception",
+    "whole-soma"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-politics"
+   ],
+   "kind": "film",
+   "description": "A feature documentary on Stelarc's fifty years of body art, from flesh-hook suspensions to the ear surgically built on the artist's arm, robotic arms and exoskeletons, pairing archival footage with the artist's reflections on car rides around Melbourne and a conversation with disability activist Liz Carr about pain, mortality and 'the body is obsolete'.",
+   "description_zh": "一部关于 Stelarc 五十年身体艺术的长篇纪录片：从钩挂悬吊、手术造在手臂上的耳朵，到机械臂与外骨骼；影片把档案影像与 Stelarc 在墨尔本驾车途中的自述交织，并收录其与残障活动家 Liz Carr 关于疼痛、死亡与「身体已过时」的对话。",
+   "idea_en": "Fifty years of 'the body is obsolete' are told through one ageing, vulnerable body, and set beside a disability perspective that asks who gets to call a body obsolete.",
+   "idea_zh": "五十年的「身体已过时」，是通过一具会衰老、脆弱的身体讲出来的；影片又把它放在残障视角旁边，追问谁有资格宣称一个身体已经过时。",
+   "method": "Documentary combining archival performance footage, new interviews filmed during car rides around Melbourne and conversations including disability activist Liz Carr; directed by Richard Moore and John Doggett-Williams.",
+   "method_zh": "纪录片，结合表演档案影像、在墨尔本驾车途中拍摄的新访谈，以及与残障活动家 Liz Carr 等人的对话；由 Richard Moore 与 John Doggett-Williams 执导。",
+   "keywords": [
+    "Stelarc",
+    "documentary",
+    "the body is obsolete",
+    "Ear on Arm",
+    "suspension",
+    "Liz Carr",
+    "John Doggett-Williams"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=K9sOCVtxJ7I"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": [
+    "Castlemaine Documentary Festival 2025 (official selection)",
+    "Sydney Underground Film Festival 2025",
+    "Revelation Perth International Film Festival (official selection)"
+   ]
+  },
+  {
+   "id": "candi-cann--augmented",
+   "creator_ids": [
+    "candi-cann"
+   ],
+   "title": "augmented: life and death as a cyborg",
+   "year": 2026,
+   "field": "augmented",
+   "sub": "transhuman-thought",
+   "modalities": [
+    "voice-sound",
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-politics",
+    "extended-body",
+    "care-healing"
+   ],
+   "kind": "publication",
+   "description": "A book in which a scholar of death and religion who has worn hearing aids since the age of four argues that we are all cyborgs, relying on devices from pacemakers to titanium knees, and asks what this means for accessibility, ageing and dying, contrasting a Western fear of machines with animistic views of machines as conduits of care.",
+   "description_zh": "在这本书中，一位自四岁起佩戴助听器的死亡与宗教研究学者主张我们都是赛博格——依赖从心脏起搏器到钛合金膝关节的各种设备——并追问这对无障碍、衰老与死亡意味着什么；作者把西方对机器的恐惧，与把机器视为照护通道的万物有灵观加以对照。",
+   "idea_en": "Seen from inside a body that has always lived with devices, the cyborg is an ordinary, ageing, disabled and mortal body, and machines can be part of how we care and are cared for.",
+   "idea_zh": "从一个始终与设备共同生活的身体内部来看，赛博格是平凡的、会衰老的、残障的、终有一死的身体；机器可以成为我们照护他人、也被照护的一部分。",
+   "method": "First-person reflection on lifelong hearing-aid use combined with religious studies, death studies and disability perspectives, drawing on the author's life in Asia.",
+   "method_zh": "把作者终身佩戴助听器的第一人称反思，与宗教研究、死亡研究和残障视角结合，并借鉴作者在亚洲生活的经历。",
+   "keywords": [
+    "cyborg",
+    "hearing aids",
+    "disability",
+    "death studies",
+    "ageing",
+    "animism",
+    "MIT Press"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.7551/mitpress/15315.001.0001",
+    "doi": "10.7551/mitpress/15315.001.0001",
+    "arxiv": "",
+    "venue": "MIT Press 2026",
+    "title": "augmented: life and death as a cyborg"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  }
+ ],
+ "leads": [
+  {
+   "name": "Flytrap Hand / (Un)Fortunate Superpowers (Siyi Liu, Ens, Semertzidis, Lee, Mueller; CHI EA 2025, TEI 2026)",
+   "why": "EMS 'superpower' hand augmentation and its dark patterns; video ecey1zJ-E1A. East Asian first author, for latest-east-asia.",
+   "link": "https://doi.org/10.1145/3731459.3773299",
+   "found_via": "florian-mueller",
+   "status": "open"
+  },
+  {
+   "name": "Induced Human-Driven Actuation (Taiga Suzuki et al., Augmented Humans 2026 Best Paper)",
+   "why": "The person moves, the machine only controls timing (EMS-based throwing via a constraint-release mechanism). University of Tokyo, for latest-east-asia.",
+   "link": "https://www.rcast.u-tokyo.ac.jp/en/news/report/page_00431.html",
+   "found_via": "augmented-humans",
+   "status": "open"
+  },
+  {
+   "name": "\"The Third Between Us\": Multi-User Co-Presence through Shared Auditory-Haptic Vibroscapes (Jiayi Shen et al., Augmented Humans 2026 Best Demo)",
+   "why": "Shared vibration soundscapes for co-presence; Keio KMD Embodied Media. For latest-east-asia (also a social-touch candidate).",
+   "link": "https://www.kmd.keio.ac.jp/news/whats-new/2026/04/5810/",
+   "found_via": "augmented-humans",
+   "status": "open"
+  },
+  {
+   "name": "Brain Body Jockey / Reimagining Human Augmentation through Disability-Led Performance (Barbareschi et al., Augmented Humans 2026 workshop)",
+   "why": "DJ with ALS performing with Keio's augmentation team; the workshop itself is not a work, but Brain Body Jockey (Keio KMD) could be added by latest-east-asia. DOI 10.1145/3795011.3797160.",
+   "link": "https://doi.org/10.1145/3795011.3797160",
+   "found_via": "augmented-humans",
+   "status": "open"
+  },
+  {
+   "name": "Dreamware and Dreamliminal (Xiao Zoe Fang et al., CHI EA 2026)",
+   "why": "BCI multisensory capsule for dream engineering and EEG wearable that prolongs N1 sleep; video GlpTy9IPWGM. East Asian first author.",
+   "link": "https://doi.org/10.1145/3772363.3799353",
+   "found_via": "nathan-semertzidis",
+   "status": "open"
+  },
+  {
+   "name": "Juggling Extra Limbs / One Body, Two Minds / SRL Proxemics (Hongyu Zhou et al., CHI 2025–26)",
+   "why": "Supernumerary arms in VR and near-body proxemics of robotic limbs. East Asian first author.",
+   "link": "https://doi.org/10.1145/3772318.3790532",
+   "found_via": "augmented-humans",
+   "status": "open"
+  },
+  {
+   "name": "A streaming brain-to-voice neuroprosthesis to restore naturalistic communication (Littlejohn et al., Nature Neuroscience 2025)",
+   "why": "Near-synchronous voice in the participant's pre-injury voice; left out as close in idea to the Wairagkar voice neuroprosthesis and the existing Metzger avatar work.",
+   "link": "https://doi.org/10.1038/s41593-025-01905-6",
+   "found_via": "edward-chang",
+   "status": "open"
+  },
+  {
+   "name": "Understanding the Influence of EMS on Motor Learning: Enhancing Motor Learning or Disrupting Natural Progression? (Villa et al., CHI 2025)",
+   "why": "EMS vs electrotactile feedback over two sessions; EMS raised the learning plateau. Quantitative motor-learning study with a weaker felt-experience angle.",
+   "link": "https://doi.org/10.1145/3706598.3714183",
+   "found_via": "steeven-villa",
+   "status": "open"
+  },
+  {
+   "name": "From Restoration to Augmentation: New Approaches to Haptic Feedback for Artificial Limbs (Dowdall, Foster, Makin; IEEE ToH 2025)",
+   "why": "Argues for amplifying intrinsic tactile feedback at the skin–device interface for extra limbs; review, could join extra-limbs if more Makin-lab work is wanted.",
+   "link": "https://doi.org/10.1109/toh.2025.3641707",
+   "found_via": "tamar-makin",
+   "status": "open"
+  },
+  {
+   "name": "Reprogramming Perception: A Neuroplasticity-Focused Design Space for Sensory Substitution Devices (Maimon, Malaka, Wald; Augmented Humans 2026)",
+   "why": "Design space for sensory substitution devices; a methods candidate next to Spatial Haptics.",
+   "link": "https://doi.org/10.1145/3795011.3795025",
+   "found_via": "iddo-wald",
+   "status": "open"
+  },
+  {
+   "name": "Foundational guidelines for enhancing neurotechnology R&D through end-user involvement (Güemes, da Silva Costa, Makin; J. Neural Eng. 2025)",
+   "why": "Lived-experience / PPIE tutorial for neurotechnology with stakeholder-mapping tools; a methods candidate for brain-interfaces.",
+   "link": "https://doi.org/10.1088/1741-2552/adac0d",
+   "found_via": "tamar-makin",
+   "status": "open"
+  },
+  {
+   "name": "Evolving User Profiles and Adoption of Cyborg Technologies (Frascaria, Festic, Latzer; CHI 2026)",
+   "why": "Repeated cross-sectional survey of cyborg-technology adoption; empirical, little felt-body angle.",
+   "link": "https://doi.org/10.1145/3772318.3790952",
+   "found_via": "search",
+   "status": "open"
+  },
+  {
+   "name": "Ana Rajcevic — MIT Distinguished Visiting Artist 2025–26 with Hugh Herr's Biomechatronics group",
+   "why": "Artist of animal-inspired body appendages working on neuroprosthetics; cyborg-art candidate once a 2025–26 work is documented with media.",
+   "link": "https://arts.mit.edu/people/ana-rajcevic",
+   "found_via": "hugh-herr",
+   "status": "open"
+  },
+  {
+   "name": "Lore Thaler — click-based echolocation training for blind and sighted people (Cerebral Cortex 2024; Nature Q&A 2025)",
+   "why": "Ten-week echolocation training changes visual and auditory cortex; a human 'new sense' practice. Paper 10.1093/cercor/bhae239.",
+   "link": "https://doi.org/10.1093/cercor/bhae239",
+   "found_via": "search",
+   "status": "open"
+  },
+  {
+   "name": "Ashley Shew — Against Technoableism (W. W. Norton, 2023)",
+   "why": "Disability critique of augmentation and cyborg rhetoric; missing from transhuman-thought, but outside the 2025–26 window. Link is the Science book review (Berntsen 2023).",
+   "link": "https://doi.org/10.1126/science.adj4475",
+   "found_via": "melike-sahinol",
+   "status": "open"
+  },
+  {
+   "name": "3D printed children's prostheses as enabling technology? (Şahinol, Journal of Enabling Technologies 2022)",
+   "why": "Fieldwork with a Turkish e-NABLE chapter read through soma design and crip technoscience; earlier companion to Beyond Hands.",
+   "link": "https://doi.org/10.1108/jet-02-2022-0017",
+   "found_via": "melike-sahinol",
+   "status": "open"
+  },
+  {
+   "name": "Playing with Yourself: How EMS Can Turn Your Body Into a Playful Interface (Patibanda et al., CHI EA 2025)",
+   "why": "Companion to When the Body Is Moved; video 2YEIAJDX8PQ.",
+   "link": "https://doi.org/10.1145/3706599.3721338",
+   "found_via": "rakesh-patibanda",
+   "status": "open"
+  },
+  {
+   "name": "LuciTouch: Influencing Lucid Dreams Through Incorporation of Somatosensory Stimuli (Doyle et al., UIST 2025 adjunct)",
+   "why": "Somatosensory cues for dream-body control; follow-up to LuciEntry, poster-level.",
+   "link": "https://doi.org/10.1145/3746058.3758450",
+   "found_via": "florian-mueller",
+   "status": "open"
+  },
+  {
+   "name": "Making Us New: From Eugenics to Transhumanism in Modernist Culture (Maren Tova Linett, Oxford University Press 2026)",
+   "why": "Traces modernist debates over which bodies and sensory organs 'improved' people should have; a critical history for transhuman-thought, more literary than felt.",
+   "link": "https://doi.org/10.1093/9780197843727.001.0001",
+   "found_via": "search",
+   "status": "open"
+  },
+  {
+   "name": "Shimmer: Artists Dream a Posthuman World (Mark W. Scala and Nora N. Khan, eds., MIT Press 2026)",
+   "why": "Catalogue of a posthuman art exhibition; broad (ecology, interspecies) rather than augmented bodies, so a lead for more-than-human or art batches.",
+   "link": "https://doi.org/10.7551/mitpress/15922.001.0001",
+   "found_via": "search",
+   "status": "open"
+  },
+  {
+   "name": "Cyborg Rights: Extending Cognition, Ethics, and the Law (S. Orestis Palermos, Routledge 2025)",
+   "why": "Extended-mind case for rights over cognitive prostheses; transhuman-thought candidate, but argued from cognition rather than the felt body.",
+   "link": "https://doi.org/10.4324/9781003586371",
+   "found_via": "search",
+   "status": "open"
+  },
+  {
+   "name": "Visceral Prostheses: Somatechnics and Posthuman Embodiment (Margrit Shildrick, Bloomsbury 2022, open access)",
+   "why": "Prosthetic, transplanted and microbial bodies as limit cases of ordinary embodiment; missing from transhuman-thought but outside the 2025–26 window.",
+   "link": "https://library.oapen.org/handle/20.500.12657/85318",
+   "found_via": "melike-sahinol",
+   "status": "open"
+  },
+  {
+   "name": "Prix Ars Electronica 2025 and 2026",
+   "why": "Checked the 2025 winners press text and 2026 reports: no augmented-body or cyborg-art winners (2025 Golden Nicas went to Requiem for an Exit, Organism and Guanaquerx; 2026 reports are about conflict).",
+   "link": "https://ars.electronica.art/mediaservice/files/2025/07/pa_en-prix-ars-electronica-2025.pdf",
+   "found_via": "search",
+   "status": "off_topic"
+  }
+ ]
+}

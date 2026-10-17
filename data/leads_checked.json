@@ -288,6 +288,230 @@
   "batch": "intimate-care"
  },
  {
+  "name": "Campo Woytuk et al. — Toward Feminist Ways of Sensing the Menstruating Body (CHI 2025)",
+  "why": "Already added by latest-kth-methods as nadia-campo-woytuk--feminist-sensing.",
+  "link": "https://doi.org/10.1145/3706598.3713466",
+  "found_via": "lisa-hofer",
+  "status": "duplicate",
+  "batch": "latest-affect-care"
+ },
+ {
+  "name": "Haynes, Turmo Vidal et al. — Aesthetics of Felt Asymmetry (CHI 2026)",
+  "why": "Already added by latest-kth-methods as alice-haynes--felt-asymmetry.",
+  "link": "https://doi.org/10.1145/3772318.3791749",
+  "found_via": "laia-turmo-vidal",
+  "status": "duplicate",
+  "batch": "latest-affect-care"
+ },
+ {
+  "name": "Tholander — The Body as Its Own Best Sensor: An Autoethnographic Study of Long-Distance Running (CHI 2025)",
+  "why": "Already a work in hook-lab.json.",
+  "link": "https://doi.org/10.1145/3706598.3713607",
+  "found_via": "seed",
+  "status": "duplicate",
+  "batch": "latest-affect-care"
+ },
+ {
+  "name": "Prix Ars Electronica 2025 and 2026",
+  "why": "Checked the 2025 winners press text and 2026 reports: no augmented-body or cyborg-art winners (2025 Golden Nicas went to Requiem for an Exit, Organism and Guanaquerx; 2026 reports are about conflict).",
+  "link": "https://ars.electronica.art/mediaservice/files/2025/07/pa_en-prix-ars-electronica-2025.pdf",
+  "found_via": "search",
+  "status": "off_topic",
+  "batch": "latest-augmented"
+ },
+ {
+  "name": "Yifan Ding et al. — Dreaming of Butterflies: Embodying Zhuangzi's Philosophy through a Mixed Reality Installation (SIGGRAPH Asia 2025 Art Papers)",
+  "why": "Second Zhuangzi Butterfly Dream XR work (Communication University of China); no video or image found, so The Dream of Zhuang Zhou was added instead.",
+  "link": "https://doi.org/10.1145/3757369.3767607",
+  "found_via": "shuai-zou",
+  "status": "no_media",
+  "batch": "latest-east-asia"
+ },
+ {
+  "name": "Yi-Jen Lin, Chun-Cheng Hsu, Wei-Chen Yen — Gesture Flux: Budaixi hand gestures through mixed reality performance (PACM CGIT 2026)",
+  "why": "Taiwanese glove-puppetry gestures danced in MR (NYCU); good Taiwanese representation, no media found.",
+  "link": "https://doi.org/10.1145/3816073",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "latest-east-asia"
+ },
+ {
+  "name": "Wei-Chen Yen et al. — Infant Vision: Reconfiguring Perception in Mixed Reality (PACM CGIT 2026)",
+  "why": "MR headset recreates infant-like first-person vision to reconfigure perception (NYCU); estrangement lens, no media found.",
+  "link": "https://doi.org/10.1145/3816074",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "latest-east-asia"
+ },
+ {
+  "name": "Keyi Zhang et al. — Onycho Lab: wearable fingertip prostheses for feminist hapticism (C&C 2026)",
+  "why": "Performative 'manicure surgery' clinic reframing artificial nails as bodily technology (58 procedures); first author at Goldsmiths, no media found.",
+  "link": "https://doi.org/10.1145/3803784.3819814",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "latest-east-asia"
+ },
+ {
+  "name": "Jihoon Kim, Kyung Yun Choi et al. — Comforting an Emotion-Mirroring Robot: externalized self-soothing via role-reversal touch (DIS 2026 Companion)",
+  "why": "Korean (Hongik University) touch-based self-soothing with a robot; would fill the Korean gap in this round, no media found.",
+  "link": "https://doi.org/10.1145/3802974.3809461",
+  "found_via": "kyung-yun-choi",
+  "status": "no_media",
+  "batch": "latest-east-asia"
+ },
+ {
+  "name": "Tongze Guo et al. — Liquid Connections: reimagining social touch in VR (MOCO 2026)",
+  "why": "Beijing Normal University; water-like pseudo-haptics with a mirrored avatar (10 participants); no media found.",
+  "link": "https://doi.org/10.1145/3802842.3802880",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "latest-east-asia"
+ },
+ {
+  "name": "Xixiang Nie, Xin Shu — Somaditation: multisensory VR meditation with a wearable glove (TEI 2026)",
+  "why": "Soma design with a singing-bowl metaphor (Northumbria and Newcastle); no media found.",
+  "link": "https://doi.org/10.1145/3731459.3786212",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "latest-east-asia"
+ },
+ {
+  "name": "Filippo Nassetti — Breathing Architecture (2024–25), S+T+ARTS Prize 2025 Honorary Mention",
+  "why": "Sculptures and films from airflow simulations of lung alveoli (Barcelona Supercomputing Center). Skipped: it shows breathing anatomy from outside rather than as felt from within.",
+  "link": "https://www.filipponassetti.com/breathing-architecture-ii",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "latest-foundations-art"
+ },
+ {
+  "name": "Giorgia Burzio & Venere Ferraro — Grounding in Tangible Interaction Design (SpringerBriefs, 2025)",
+  "why": "Seed candidate checked: a chapter in a book on data physicalization, not about the felt body.",
+  "link": "https://doi.org/10.1007/978-3-032-05322-0_3",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "latest-foundations-art"
+ },
+ {
+  "name": "Marshmallow Laser Feast — Breathe | Mauri Ora (Te Papa, Dec 2025–Apr 2026)",
+  "why": "Breath-and-body immersive show produced by ACMI; a touring compilation of earlier MLF works (We Live in an Ocean of Air is already in the gallery), not a new work.",
+  "link": "https://camd.org.au/?p=38230",
+  "found_via": "marshmallow-laser-feast",
+  "status": "duplicate",
+  "batch": "latest-foundations-art"
+ },
+ {
+  "name": "Kalambi & Haynes — Ready Player Breathe: Designing Haptic Breathing Feedback for Immersive VR (DIS 2026 pictorial)",
+  "why": "KTH pneumatic chest wearable that simulates breathing in VR; focus is immersion more than felt awareness, no visual found; offered to latest-machines-ai.",
+  "link": "https://doi.org/10.1145/3800645.3812811",
+  "found_via": "alice-haynes",
+  "status": "no_media",
+  "batch": "latest-kth-methods"
+ },
+ {
+  "name": "Campo Woytuk, Gamboa, Gómez Ortega, Park, Tuli et al. — Making Intimate Technologies Together (DIS 2025 pictorial)",
+  "why": "Workshops making DIY intimate sensors; overlaps with the feminist sensing work already added.",
+  "link": "https://doi.org/10.1145/3715336.3735412",
+  "found_via": "nadia-campo-woytuk",
+  "status": "no_media",
+  "batch": "latest-kth-methods"
+ },
+ {
+  "name": "Mayerboeck, Höök, Duarte — Reflections on the Somatic Core of Ideation (Journal of Somaesthetics 2026)",
+  "why": "Dialogue on the somatic core of ideation; added as a work by latest-foundations-art.",
+  "link": "https://doi.org/10.54337/ojs.jos.v11i2.10201",
+  "found_via": "kristina-hook",
+  "status": "duplicate",
+  "batch": "latest-kth-methods"
+ },
+ {
+  "name": "Kaklopoulou, Kuksenok, Saakes, Sanches — Exploring Bodily Phenomena through Code: Sketching with LLMs (DIS 2026)",
+  "why": "LLM code sketching to articulate bodily phenomena; Umeå (Sanches); added as a work by latest-machines-ai.",
+  "link": "https://doi.org/10.1145/3800645.3812787",
+  "found_via": "pedro-sanches",
+  "status": "duplicate",
+  "batch": "latest-kth-methods"
+ },
+ {
+  "name": "Ekaterina R. Stepanova et al. — Diffusing Social Boundaries through Virtual Bodies (CHI 2026) and Ethereal Virtual Touch for Embodied Telepresent Connection (DIS 2026, with Höök)",
+  "why": "Both papers are already works in social-machines.json (john-desnoyers-stewart--embodied-telepresent-connection, john-desnoyers-stewart--body-remixer).",
+  "link": "https://doi.org/10.1145/3772318.3791023",
+  "found_via": "john-desnoyers-stewart",
+  "status": "duplicate",
+  "batch": "latest-machines-ai"
+ },
+ {
+  "name": "Henrique Sambi et al. — A Cabinet of Affective Touches: design repository linking somatic experience with soft robotics (C&C 2026)",
+  "why": "Added by latest-kth-methods.",
+  "link": "https://doi.org/10.1145/3803784.3809294",
+  "found_via": "seed",
+  "status": "duplicate",
+  "batch": "latest-machines-ai"
+ },
+ {
+  "name": "Joseph La Delfa et al. — Demonstrating How to Train Your Drone (HRI 2025)",
+  "why": "KTH-era drone demo; the DIS 2024 work already exists in hook-lab.",
+  "link": "https://doi.org/10.1109/hri61500.2025.10973956",
+  "found_via": "joseph-la-delfa",
+  "status": "duplicate",
+  "batch": "latest-machines-ai"
+ },
+ {
+  "name": "Lancel & Maat — My Chatbot's Body (Hybrid Intelligence Centre residency)",
+  "why": "Poetic conversational AI 'searching for a body', shown with Embrace Angels in Amsterdam; no project page or media found yet.",
+  "link": "https://www.somabotics.ac.uk/somabotics-researchers-bring-embrace-angels-and-my-chatbots-body-to-amsterdam/",
+  "found_via": "lancel-maat",
+  "status": "no_media",
+  "batch": "latest-machines-ai"
+ },
+ {
+  "name": "Benford, Garrett, Tennent et al. — Tangles (TOCHI 2025)",
+  "why": "Added by latest-kth-methods in parallel.",
+  "link": "https://doi.org/10.1145/3723875",
+  "found_via": "steve-benford",
+  "status": "duplicate",
+  "batch": "latest-machines-ai"
+ },
+ {
+  "name": "Whatley et al. — Touch, agency and the interplay between dance, disability and robotics (IJPADM 2026)",
+  "why": "Added by latest-movement-social in parallel.",
+  "link": "https://doi.org/10.1080/14794713.2026.2635231",
+  "found_via": "steve-benford",
+  "status": "duplicate",
+  "batch": "latest-machines-ai"
+ },
+ {
+  "name": "Chédin, Françoise, Caramiaux, Fdili Alaoui — Korai / movement generation with Voguing and Dancehall dancers (CHI 2026)",
+  "why": "Added by latest-movement-social in parallel.",
+  "link": "https://doi.org/10.1145/3772318.3791515",
+  "found_via": "sarah-fdili-alaoui",
+  "status": "duplicate",
+  "batch": "latest-machines-ai"
+ },
+ {
+  "name": "Bogdanova et al. — Digital Phenotyping as Felt Informatics (CHI 2025) and Biggs — Fabulating Bog Girl (CHI 2025)",
+  "why": "Added by latest-affect-care in parallel.",
+  "link": "https://doi.org/10.1145/3706598.3714399",
+  "found_via": "seed",
+  "status": "duplicate",
+  "batch": "latest-machines-ai"
+ },
+ {
+  "name": "Soheil Kianzad, Yinan Li, Hasti Seifi — Feel the Connection: Haptic Enhanced Interaction with an AI Agent (SenseiPen, CHI EA 2025)",
+  "why": "LLM-driven force-feedback pen for guidance and Q&A; haptic engineering without a felt-body angle.",
+  "link": "https://doi.org/10.1145/3706599.3720173",
+  "found_via": "latest-movement-social",
+  "status": "off_topic",
+  "batch": "latest-machines-ai"
+ },
+ {
+  "name": "Avital Meshi & Dorte Bjerre Jensen — Rest! (2026)",
+  "why": "AI watches a resting performer and issues directives to keep resting; added by latest-foundations-art (movement/performance, also machines-xr).",
+  "link": "https://www.avitalmeshi.com/",
+  "found_via": "avital-meshi",
+  "status": "duplicate",
+  "batch": "latest-machines-ai"
+ },
+ {
   "name": "Vermersch — Explicitation interview",
   "why": "Origin of the micro-phenomenological interview; no stable English source found.",
   "link": "https://doi.org/10.5840/zeta-premiere201410",

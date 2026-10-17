@@ -1,0 +1,1692 @@
+{
+ "batch": "latest-movement-social",
+ "creators": [
+  {
+   "id": "louise-grebel",
+   "name": "Louise Grebel",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Hip-hop dancer and researcher, STMS IRCAM–CNRS–Sorbonne Université",
+   "based": "Paris, FR",
+   "bio": "Hip-hop dancer and researcher who designs interactive movement sonification for improvisation and battles, working between IRCAM and the Creative Computing Institute at UAL.",
+   "why": "Louise Grebel designs from inside hip-hop practice and treats the battle as a collective, embodied system of dancers, DJ and crowd.",
+   "disciplines": [
+    "dance",
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "街舞舞者、研究者，STMS IRCAM–CNRS–索邦大学",
+   "bio_zh": "街舞舞者与研究者，为即兴与斗舞设计交互式动作声音化，工作于 IRCAM 与伦敦艺术大学创意计算研究所之间。",
+   "why_zh": "Louise Grebel 从街舞实践内部出发做设计，把斗舞看作由舞者、DJ 与观众共同构成的集体身体系统。",
+   "based_zh": "巴黎，法国",
+   "connected_to": [
+    "sarah-fdili-alaoui",
+    "frederic-bevilacqua"
+   ],
+   "discovered_via": "sarah-fdili-alaoui"
+  },
+  {
+   "id": "leo-chedin",
+   "name": "Léo Chédin",
+   "name_zh": "",
+   "kind": "person",
+   "role": "PhD researcher, ex)situ team, LISN, Université Paris-Saclay",
+   "based": "Paris, FR",
+   "bio": "Researcher in generative AI for dance who works with dance collectives and choreographers on movement models trained on their own repertoire.",
+   "why": "Their work asks how generative movement models can serve dancers' own styles and communities instead of generic motion.",
+   "disciplines": [
+    "hci",
+    "dance"
+   ],
+   "links": {},
+   "role_zh": "巴黎-萨克雷大学 LISN 实验室 ex)situ 团队博士研究者",
+   "bio_zh": "研究面向舞蹈的生成式人工智能，与舞团和编舞者合作，用他们自己的动作库训练动作生成模型。",
+   "why_zh": "Léo Chédin 追问：生成式动作模型如何服务于舞者自身的风格与社群，而不是生成千篇一律的动作。",
+   "based_zh": "巴黎，法国",
+   "connected_to": [
+    "jules-francoise",
+    "baptiste-caramiaux",
+    "sarah-fdili-alaoui"
+   ],
+   "discovered_via": "sarah-fdili-alaoui"
+  },
+  {
+   "id": "joana-chicau",
+   "name": "Joana Chicau",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Designer, choreographer and researcher, Creative Computing Institute, University of the Arts London",
+   "based": "London, UK",
+   "bio": "Portuguese designer-researcher with a background in dance who live-codes the web as choreography and makes performances, workshops and browser tools about online tracking.",
+   "why": "Joana Chicau uses choreography and the audience's own movement to make data surveillance felt in the body.",
+   "disciplines": [
+    "dance",
+    "art"
+   ],
+   "links": {
+    "site": "https://joanachicau.com"
+   },
+   "role_zh": "设计师、编舞者与研究者，伦敦艺术大学创意计算研究所",
+   "bio_zh": "葡萄牙设计研究者，有舞蹈背景，把网页实时编程当作编舞，创作关于网络追踪的表演、工作坊和浏览器工具。",
+   "why_zh": "Joana Chicau 借助编舞和观众自己的动作，让数据监控在身体里被感受到。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [
+    "sarah-fdili-alaoui",
+    "rebecca-fiebrink"
+   ],
+   "discovered_via": "sarah-fdili-alaoui"
+  },
+  {
+   "id": "madhuka-thisuri-de-silva",
+   "name": "Madhuka Thisuri De Silva",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, Department of Human-Centred Computing, Monash University",
+   "based": "Melbourne, AU",
+   "bio": "Accessibility researcher who co-designs multisensory dance-learning tools with blind and low-vision dancers and their teachers.",
+   "why": "Their work moves dance teaching beyond sight, toward touch, sound and vibration designed with blind dancers.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "莫纳什大学以人为本计算系研究者",
+   "bio_zh": "无障碍研究者，与盲人和低视力舞者及其老师共同设计多感官的舞蹈学习工具。",
+   "why_zh": "其研究让舞蹈教学不再只依赖视觉，转向与盲人舞者一起设计的触觉、声音与振动。",
+   "based_zh": "墨尔本，澳大利亚",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "sarah-whatley",
+   "name": "Sarah Whatley",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Dance, Centre for Dance Research (C-DaRE), Coventry University",
+   "based": "Coventry, UK",
+   "bio": "Dance scholar at Coventry University's Centre for Dance Research who works on dance and disability, digital dance archives and dance with technology.",
+   "why": "Sarah Whatley brings disabled dancers' embodied expertise into research on robots, touch and consent.",
+   "disciplines": [
+    "dance"
+   ],
+   "links": {},
+   "role_zh": "考文垂大学舞蹈研究中心（C-DaRE）舞蹈教授",
+   "bio_zh": "考文垂大学舞蹈研究中心的舞蹈学者，研究舞蹈与残障、数字舞蹈档案以及舞蹈与技术。",
+   "why_zh": "Sarah Whatley 把残障舞者的身体专长带入关于机器人、触碰与同意的研究。",
+   "based_zh": "考文垂，英国",
+   "connected_to": [
+    "kate-marsh",
+    "steve-benford",
+    "paul-tennent",
+    "rachael-garrett"
+   ],
+   "discovered_via": "steve-benford"
+  },
+  {
+   "id": "kate-marsh",
+   "name": "Kate Marsh",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Dance artist and researcher, Centre for Dance Research (C-DaRE), Coventry University",
+   "based": "Coventry, UK",
+   "bio": "Disabled dance artist and researcher whose work on embodiment argues that disabled dancers hold particular expertise in moving with their own bodies and assistive technologies.",
+   "why": "Their practice reframes disability as embodied expertise for designing touch with machines.",
+   "disciplines": [
+    "dance"
+   ],
+   "links": {},
+   "role_zh": "舞蹈艺术家与研究者，考文垂大学舞蹈研究中心（C-DaRE）",
+   "bio_zh": "残障舞蹈艺术家与研究者，其关于具身性的研究主张：残障舞者在与自身身体和辅助技术一起运动方面拥有独特的专长。",
+   "why_zh": "其实践把残障重新理解为一种身体专长，为设计人与机器的触碰提供依据。",
+   "based_zh": "考文垂，英国",
+   "connected_to": [
+    "sarah-whatley"
+   ],
+   "discovered_via": "sarah-whatley"
+  },
+  {
+   "id": "casper-preisler",
+   "name": "Casper Preisler",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher in sound and music computing, Aalborg University Copenhagen",
+   "based": "Copenhagen, DK",
+   "bio": "Researcher who builds wearable sensing systems that sonify how two dancers move together in improvisation.",
+   "why": "Their work makes the relational movement between dancers audible.",
+   "disciplines": [
+    "hci",
+    "dance"
+   ],
+   "links": {},
+   "role_zh": "奥尔堡大学哥本哈根校区声音与音乐计算研究者",
+   "bio_zh": "研究者，搭建可穿戴传感系统，把两位舞者即兴时的共同运动转化为声音。",
+   "why_zh": "其研究让舞者之间的关系性动作变得可以被听见。",
+   "based_zh": "哥本哈根，丹麦",
+   "connected_to": [
+    "sofia-dahl"
+   ],
+   "discovered_via": "sofia-dahl"
+  },
+  {
+   "id": "sofia-dahl",
+   "name": "Sofia Dahl",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Music and movement researcher, Aalborg University Copenhagen",
+   "based": "Copenhagen, DK",
+   "bio": "Musician and researcher who studies music performance, rhythm and body movement, and designs interactive sound for dancers and rehabilitation.",
+   "why": "Sofia Dahl connects the study of musical movement with interactive sound for moving bodies.",
+   "disciplines": [
+    "dance",
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "奥尔堡大学哥本哈根校区音乐与动作研究者",
+   "bio_zh": "音乐人与研究者，研究音乐表演、节奏与身体动作，并为舞者和康复设计交互声音。",
+   "why_zh": "Sofia Dahl 把对音乐动作的研究与面向运动身体的交互声音联系起来。",
+   "based_zh": "哥本哈根，丹麦",
+   "connected_to": [
+    "casper-preisler"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "bilge-serdar",
+   "name": "Bilge Serdar",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Postdoctoral fellow, RITMO Centre for Interdisciplinary Studies in Rhythm, Time and Motion, University of Oslo",
+   "based": "Oslo, NO",
+   "bio": "Dance anthropologist with a PhD in theatre studies from Ankara University and a Choreomundus master's, who studies how bodily experience forms in telematic, technology-mediated dance.",
+   "why": "Bilge Serdar studies how togetherness is felt when performers share a stage only through a network.",
+   "disciplines": [
+    "dance"
+   ],
+   "links": {},
+   "role_zh": "奥斯陆大学 RITMO 节奏、时间与运动跨学科研究中心博士后",
+   "bio_zh": "舞蹈人类学者，拥有安卡拉大学戏剧学博士学位和 Choreomundus 硕士学位，研究远程、技术中介的舞蹈中身体经验如何形成。",
+   "why_zh": "Bilge Serdar 研究当表演者只通过网络同台时，“在一起”的感觉如何被感受到。",
+   "based_zh": "奥斯陆，挪威",
+   "connected_to": [
+    "alexander-refsum-jensenius"
+   ],
+   "discovered_via": "alexander-refsum-jensenius"
+  },
+  {
+   "id": "alexander-refsum-jensenius",
+   "name": "Alexander Refsum Jensenius",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Music Technology, RITMO, University of Oslo",
+   "based": "Oslo, NO",
+   "bio": "Music technologist who studies music-related body motion, from sensor-based instruments to standstill experiments, and author of Sound Actions (MIT Press, 2022).",
+   "why": "Their research on micromotion treats even standing still to music as embodied, felt activity.",
+   "disciplines": [
+    "dance",
+    "hci"
+   ],
+   "links": {
+    "site": "https://www.arj.no"
+   },
+   "role_zh": "奥斯陆大学 RITMO 中心音乐技术教授",
+   "bio_zh": "音乐技术学者，研究与音乐相关的身体运动，从传感器乐器到“静立”实验，著有 Sound Actions（MIT Press，2022）。",
+   "why_zh": "Alexander Refsum Jensenius 对微动作的研究把随音乐静立也看作一种具身的、被感受的活动。",
+   "based_zh": "奥斯陆，挪威",
+   "connected_to": [
+    "bilge-serdar"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "danielle-lottridge",
+   "name": "Danielle Lottridge",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Senior Lecturer, School of Computer Science, University of Auckland",
+   "based": "Auckland, NZ",
+   "bio": "HCI researcher working on affective interaction, whole-body movement in responsive environments and co-creative dance with AI.",
+   "why": "Their studies show how culture, context and movement history shape what interactive environments invite bodies to do.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "奥克兰大学计算机科学学院高级讲师",
+   "bio_zh": "人机交互研究者，研究情感交互、响应式环境中的全身运动，以及与人工智能共创的舞蹈。",
+   "why_zh": "其研究表明，文化、情境与个人的动作经历决定了交互环境会邀请身体做什么。",
+   "based_zh": "奥克兰，新西兰",
+   "connected_to": [
+    "sarah-fdili-alaoui"
+   ],
+   "discovered_via": "sarah-fdili-alaoui"
+  },
+  {
+   "id": "vincent-van-rheden",
+   "name": "Vincent van Rheden",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, Human-Computer Interaction Division, University of Salzburg",
+   "based": "Salzburg, AT",
+   "bio": "SportsHCI researcher who designs sound and haptic feedback for running, cycling and surfing, such as breath-step coupling for runners, and collaborates with Monash University's Exertion Games Lab.",
+   "why": "Vincent van Rheden designs for the felt rhythms of sport, such as breath and stride, rather than only for performance metrics.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "萨尔茨堡大学人机交互部研究者",
+   "bio_zh": "运动人机交互研究者，为跑步、骑行和冲浪设计声音与触觉反馈（例如帮助跑者把呼吸与步伐耦合），并与莫纳什大学 Exertion Games Lab 合作。",
+   "why_zh": "Vincent van Rheden 为运动中被感受到的节律（如呼吸与步伐）做设计，而不只是追求成绩指标。",
+   "based_zh": "萨尔茨堡，奥地利",
+   "connected_to": [
+    "maria-fernanda-montoya",
+    "florian-mueller"
+   ],
+   "discovered_via": "maria-fernanda-montoya"
+  },
+  {
+   "id": "amanda-topaz",
+   "name": "Amanda Topaz",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, School of Cybernetics, Australian National University",
+   "based": "Canberra, AU",
+   "bio": "Researcher with an aerial acrobatics practice who studies interactive technology on suspended apparatus, starting from their own body in the air.",
+   "why": "Their autoethnographic work brings proprioception and breath in the air into play design.",
+   "disciplines": [
+    "hci",
+    "dance"
+   ],
+   "links": {},
+   "role_zh": "澳大利亚国立大学控制论学院研究者",
+   "bio_zh": "从事空中杂技练习的研究者，从自己悬在空中的身体出发，研究悬挂器械上的交互技术。",
+   "why_zh": "其自我民族志研究把空中的本体感与呼吸带进游戏设计。",
+   "based_zh": "堪培拉，澳大利亚",
+   "connected_to": [
+    "maria-fernanda-montoya",
+    "florian-mueller",
+    "josh-andres"
+   ],
+   "discovered_via": "maria-fernanda-montoya"
+  },
+  {
+   "id": "nihar-sabnis",
+   "name": "Nihar Sabnis",
+   "name_zh": "",
+   "kind": "person",
+   "role": "PhD researcher, Sensorimotor Interaction group, Max Planck Institute for Informatics",
+   "based": "Saarbrücken, DE",
+   "bio": "Haptics researcher who designs motion-coupled vibrotactile feedback for sport, virtual reality and foot interaction.",
+   "why": "Their work explores vibration that feels self-generated, folding feedback into the felt movement itself.",
+   "disciplines": [
+    "hci",
+    "engineering"
+   ],
+   "links": {},
+   "role_zh": "马克斯·普朗克信息学研究所感觉运动交互组博士研究者",
+   "bio_zh": "触觉研究者，为运动、虚拟现实和足部交互设计与动作耦合的振动反馈。",
+   "why_zh": "Nihar Sabnis 探索让人感觉是“自己产生”的振动，把反馈融入被感受的动作本身。",
+   "based_zh": "萨尔布吕肯，德国",
+   "connected_to": [
+    "paul-strohmeier"
+   ],
+   "discovered_via": "paul-strohmeier"
+  },
+  {
+   "id": "paul-strohmeier",
+   "name": "Paul Strohmeier",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Leader of the Sensorimotor Interaction group, Max Planck Institute for Informatics",
+   "based": "Saarbrücken, DE",
+   "bio": "HCI researcher who couples sensing and actuation to change how bodily experience feels, for example making rigid objects feel compliant through motion-coupled vibration.",
+   "why": "Their sensorimotor devices show how small, motion-coupled actuation can change what the body perceives.",
+   "disciplines": [
+    "hci",
+    "engineering"
+   ],
+   "links": {
+    "site": "https://sensint.mpi-inf.mpg.de"
+   },
+   "role_zh": "马克斯·普朗克信息学研究所感觉运动交互组负责人",
+   "bio_zh": "人机交互研究者，把传感与驱动耦合起来改变身体经验的感受，例如用与动作耦合的振动让坚硬的物体摸起来有弹性。",
+   "why_zh": "其感觉运动装置表明，细微的、与动作耦合的驱动就能改变身体的感知。",
+   "based_zh": "萨尔布吕肯，德国",
+   "connected_to": [
+    "nihar-sabnis",
+    "laia-turmo-vidal"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "louise-petersen-matjeka",
+   "name": "Louise Petersen Matjeka",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Game and interaction designer, PhD researcher on bodily play, Norwegian University of Science and Technology (NTNU)",
+   "based": "Trondheim, NO",
+   "bio": "Game and interaction designer and former musician whose doctoral research at NTNU studies bodily play experiences in and of exergames; Matjeka previously led game design at Hybrid Play and Games.",
+   "why": "Louise Petersen Matjeka theorises movement itself as the ground of player experience, joining phenomenology with predictive processing.",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "role_zh": "游戏与交互设计师，挪威科技大学（NTNU）身体游戏方向博士研究者",
+   "bio_zh": "游戏与交互设计师，曾是音乐人；其在挪威科技大学的博士研究关注运动游戏中的身体游戏体验，此前曾在 Hybrid Play and Games 担任首席设计师。",
+   "why_zh": "Louise Petersen Matjeka 把动作本身理解为玩家体验的根基，把现象学与预测加工理论结合起来。",
+   "based_zh": "特隆赫姆，挪威",
+   "connected_to": [
+    "florian-mueller",
+    "oguz-buruk"
+   ],
+   "discovered_via": "florian-mueller"
+  },
+  {
+   "id": "sena-beste-ercan",
+   "name": "Sena Beste Ercan",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, Full-Body Interaction Lab, Universitat Pompeu Fabra",
+   "based": "Barcelona, ES",
+   "bio": "Researcher who designs full-body mixed-reality play that supports interpersonal synchrony among children, including autistic children.",
+   "why": "Their studies treat timing as a design material for the feeling of moving together.",
+   "disciplines": [
+    "hci",
+    "health"
+   ],
+   "links": {},
+   "role_zh": "庞培法布拉大学全身交互实验室研究者",
+   "bio_zh": "研究者，设计全身混合现实游戏，支持儿童（包括自闭症儿童）之间的人际同步。",
+   "why_zh": "其研究把时间节奏当作设计材料，用来营造“一起动”的感受。",
+   "based_zh": "巴塞罗那，西班牙",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "michal-rinott",
+   "name": "Michal Rinott",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Senior Lecturer and founding director of the Kadar Design and Technology Center, Shenkar",
+   "based": "Ramat Gan, IL",
+   "bio": "Interaction designer and researcher, a pioneer of interaction design in Israel, whose doctoral research at Ben-Gurion University designs interactive systems for interpersonal motor synchronization.",
+   "why": "Michal Rinott designs for the prosocial feeling of moving in time with another person, including at a distance.",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "申卡尔学院高级讲师、Kadar 设计与技术中心创始主任",
+   "bio_zh": "交互设计师与研究者，以色列交互设计的先行者；其在本-古里安大学的博士研究为人际动作同步设计交互系统。",
+   "why_zh": "Michal Rinott 为“与他人同步运动”带来的亲社会感受做设计，包括远距离的同步。",
+   "based_zh": "拉马特甘，以色列",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kristi-kuusk",
+   "name": "Kristi Kuusk",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Textile designer and researcher, Sensorial Design research group, Estonian Academy of Arts",
+   "based": "Tallinn, EE",
+   "bio": "Textile designer-researcher who works on smart and sensorial textiles and multisensory design for wellbeing and closeness, and co-created Magic Lining with Ana Tajadura-Jiménez.",
+   "why": "Their textile prototypes carry touch and warmth between bodies at a distance.",
+   "disciplines": [
+    "design"
+   ],
+   "links": {},
+   "role_zh": "爱沙尼亚艺术学院感官设计研究组纺织设计师与研究者",
+   "bio_zh": "纺织设计研究者，从事智能与感官纺织品以及面向安适与亲密感的多感官设计，曾与 Ana Tajadura-Jiménez 合作 Magic Lining。",
+   "why_zh": "其纺织原型让触碰与温暖跨越距离，在身体之间传递。",
+   "based_zh": "塔林，爱沙尼亚",
+   "connected_to": [
+    "ana-tajadura-jimenez"
+   ],
+   "discovered_via": "ana-tajadura-jimenez"
+  },
+  {
+   "id": "robin-heron",
+   "name": "Robin Héron",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, i3 (CNRS), Télécom Paris, Institut Polytechnique de Paris",
+   "based": "Palaiseau, FR",
+   "bio": "Interaction and ergonomics researcher whose doctoral thesis took an interactionist approach to technology-mediated social touch.",
+   "why": "Robin Héron studies what remote touch does in communication and how to design it through embodied simulation.",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "role_zh": "巴黎综合理工学院 Télécom Paris、i3（CNRS）研究者",
+   "bio_zh": "交互与人因研究者，其博士论文以互动论视角研究技术中介的社会触碰。",
+   "why_zh": "Robin Héron 研究远程触碰在交流中起什么作用，以及如何通过具身模拟来设计它。",
+   "based_zh": "帕莱索，法国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "grisha-coleman",
+   "name": "Grisha Coleman",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Choreographer and media artist, Northeastern University",
+   "based": "Boston, US",
+   "bio": "Choreographer, composer and media artist whose works, including echo::system and Rehearsal for Everyday Life, connect movement, sound and environment.",
+   "why": "Grisha Coleman brings Feldenkrais-based somatic practice into collective biosensing.",
+   "disciplines": [
+    "dance",
+    "art"
+   ],
+   "links": {},
+   "role_zh": "编舞家与媒体艺术家，美国东北大学",
+   "bio_zh": "编舞家、作曲者与媒体艺术家，作品包括 echo::system 与 Rehearsal for Everyday Life，把动作、声音与环境联系在一起。",
+   "why_zh": "Grisha Coleman 把以费登奎斯为基础的身体修习带入集体生物传感。",
+   "based_zh": "波士顿，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "louise-grebel--hip-hop-movement-sonification",
+   "creator_ids": [
+    "louise-grebel",
+    "sarah-fdili-alaoui",
+    "frederic-bevilacqua"
+   ],
+   "title": "Designing Interactive Movement Sonification for Hip-Hop Dance",
+   "year": 2026,
+   "field": "movement",
+   "sub": "dance-tech",
+   "also": [
+    "social"
+   ],
+   "modalities": [
+    "movement",
+    "voice-sound"
+   ],
+   "lenses": [
+    "movement-expression",
+    "first-person",
+    "intercorporeality"
+   ],
+   "kind": "prototype",
+   "description": "Motion sensors on hip-hop dancers drive sound loops built on a hip-hop movement vocabulary, so dancers improvise alone or together while their moves trigger and reshape the music, as they would answer a DJ in a battle.",
+   "description_zh": "动作传感器捕捉街舞舞者的动作，驱动一套依据街舞动作词汇设计的声音循环：舞者可以独自或一起即兴，用动作触发并改变音乐，就像在斗舞中回应 DJ 一样。",
+   "idea_en": "Dancers heard sonification either as a judge validating a move or as an open partner to explore with; designing for dance means choosing that role from inside the dance culture.",
+   "idea_zh": "舞者把声音化要么听成认可动作的“裁判”，要么听成可以一起探索的开放伙伴；为舞蹈做设计，就要从舞蹈文化内部决定它扮演哪种角色。",
+   "method": "Autobiographical design grounded in the first author's hip-hop practice: a formalised movement vocabulary, five interaction scenarios with synchronised motion sensing and sound loops, and three workshops with dancers.",
+   "method_zh": "以第一作者自身街舞实践为基础的自传式设计：整理出一套街舞动作词汇，设计五种同步动作传感与声音循环的交互情境，并与舞者开展三次工作坊。",
+   "keywords": [
+    "hip-hop",
+    "battle",
+    "movement sonification",
+    "improvisation",
+    "autobiographical design",
+    "IRCAM",
+    "collective improvisation"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3772318.3790703",
+    "doi": "10.1145/3772318.3790703",
+    "arxiv": "",
+    "venue": "CHI 2026",
+    "title": "Designing Interactive Movement Sonification For Hip-Hop Dance"
+   },
+   "source_url": "https://ualresearchonline.arts.ac.uk/id/eprint/26883/",
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "leo-chedin--korai",
+   "creator_ids": [
+    "leo-chedin",
+    "jules-francoise",
+    "baptiste-caramiaux",
+    "sarah-fdili-alaoui"
+   ],
+   "title": "Korai",
+   "year": 2026,
+   "field": "movement",
+   "sub": "movement-computing",
+   "also": [
+    "machines-xr"
+   ],
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "movement-expression",
+    "body-politics"
+   ],
+   "kind": "prototype",
+   "description": "A long-term collaboration with a Voguing and Dancehall collective to train movement-generation models on the dancers' own repertoire; the Korai tool lets them watch training, browse motion data and prompt new movement, and judge whether the generated bodies carry their style.",
+   "description_zh": "与一个 Voguing 和 Dancehall 舞团长期合作，用舞者自己的动作库训练动作生成模型；Korai 工具让他们查看训练过程、浏览动作数据、提示生成新动作，并判断生成的身体是否带有他们的风格。",
+   "idea_en": "Dancers valued generated movement that was either faithful to their style or strange enough to provoke them; the in-between felt neither authentic nor inspiring.",
+   "idea_zh": "舞者看重的生成动作，要么忠实于他们的风格，要么陌生到足以激发灵感；介于两者之间的既不真实，也无启发。",
+   "method": "Motion data from the collective's repertoire, iterative model development with the dancers, the Korai interface, and a structured observation study comparing high-, medium- and low-fidelity model variants.",
+   "method_zh": "采集舞团动作库的动作数据，与舞者一起迭代开发模型，构建 Korai 界面，并通过结构化观察研究比较高、中、低三种忠实度的模型变体。",
+   "keywords": [
+    "voguing",
+    "dancehall",
+    "generative AI",
+    "movement generation",
+    "ballroom culture",
+    "dancer collaboration"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3772318.3791515",
+    "doi": "10.1145/3772318.3791515",
+    "arxiv": "",
+    "venue": "CHI 2026",
+    "title": "Designing Movement Generation Models in Collaboration With Voguing And Dancehall Dancers"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "joana-chicau--human-computer-counter-choreographies",
+   "creator_ids": [
+    "joana-chicau",
+    "sarah-fdili-alaoui",
+    "rebecca-fiebrink"
+   ],
+   "title": "Human-Computer Counter-Choreographies (HCCC)",
+   "year": 2023,
+   "field": "movement",
+   "sub": "dance-tech",
+   "also": [
+    "social"
+   ],
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-politics",
+    "movement-expression",
+    "estrangement"
+   ],
+   "kind": "performance",
+   "description": "A live-coding performance in which Chicau edits JavaScript and a modified DuckDuckGo privacy extension on stage to expose the trackers in web pages, while the audience follows choreographic prompts that have them embody fingerprinting and profiling.",
+   "description_zh": "一场实时编程表演：Chicau 在台上修改 JavaScript 和一个改写过的 DuckDuckGo 隐私插件，揭示网页中的追踪器；观众则跟随编舞指令，用身体演出“指纹识别”和“用户画像”。",
+   "idea_en": "Acting out with your own body how a tracker reads you turns abstract data surveillance into something felt, and so open to critique.",
+   "idea_zh": "用自己的身体演出追踪器如何“读取”你，抽象的数据监控就变成可感受的东西，也因此可以被批判。",
+   "method": "Artistic research combining live coding, critical design and choreographic scores; post-show questionnaires from three performances analysed audience awareness and bodily reflection.",
+   "method_zh": "结合实时编程、批判性设计与编舞谱的艺术研究；对三场演出后的观众问卷进行分析，考察观众的觉察与身体反思。",
+   "keywords": [
+    "live coding",
+    "choreography",
+    "online tracking",
+    "data privacy",
+    "audience participation",
+    "critical design"
+   ],
+   "video": {
+    "url": "https://video.fosdem.org/2025/aw1126/fosdem-2025-4560-human-computer-counter-choreographies.mp4"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3706598.3713432",
+    "doi": "10.1145/3706598.3713432",
+    "arxiv": "",
+    "venue": "CHI 2025",
+    "title": "Human-Computer Counter-Choreographies: Raising Awareness of Data Tracking through Live Coding"
+   },
+   "source_url": "https://iclc.toplap.org/2023/catalogue/performance/human-computer-counter-choreographies-beta.html",
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": [
+    "ICLC 2023 (beta version)"
+   ]
+  },
+  {
+   "id": "madhuka-thisuri-de-silva--sensing-movement",
+   "creator_ids": [
+    "madhuka-thisuri-de-silva"
+   ],
+   "title": "Sensing Movement",
+   "year": 2025,
+   "field": "movement",
+   "sub": "dance-tech",
+   "also": [
+    "care"
+   ],
+   "modalities": [
+    "movement",
+    "touch",
+    "voice-sound"
+   ],
+   "lenses": [
+    "body-politics",
+    "movement-expression",
+    "intercorporeality"
+   ],
+   "kind": "paper",
+   "description": "Design workshops in which contemporary dance teachers and blind or low-vision students move with tactile objects, a body-tracked sound probe and a vibrating body-tracked controller, to find how technology could support learning phrases, improvising and partnering without sight.",
+   "description_zh": "一系列设计工作坊：当代舞老师与盲人或低视力学生一起，借助触觉物件、身体追踪的声音探针和会振动的身体追踪控制器活动，探索技术如何在没有视觉的情况下支持学习舞句、即兴和双人配合。",
+   "idea_en": "Dance teaching leans on seeing; touch, sound and vibration can carry movement qualities and partner awareness when they are designed with blind dancers rather than for them.",
+   "idea_zh": "舞蹈教学依赖“看”；当触觉、声音与振动是和盲人舞者一起设计、而不是替他们设计时，它们也能传递动作质感和对舞伴的觉察。",
+   "method": "Workshop series with dance instructors and BLV students physically engaging with multimodal probes, analysed around four learning goals: learning a phrase, improvising, collaborating through movement, and body and movement awareness.",
+   "method_zh": "与舞蹈老师和盲人、低视力学生开展的系列工作坊，参与者亲身使用多模态探针；分析围绕四个学习目标：学习舞句、即兴、通过动作协作，以及对身体与动作的觉察。",
+   "keywords": [
+    "contemporary dance",
+    "blind and low vision",
+    "accessibility",
+    "haptics",
+    "sonification",
+    "dance education"
+   ],
+   "images": [
+    "https://arxiv.org/html/2503.03166v1/teaser.png",
+    "https://arxiv.org/html/2503.03166v1/hapticprobe.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3706598.3714325",
+    "doi": "10.1145/3706598.3714325",
+    "arxiv": "2503.03166",
+    "venue": "CHI 2025",
+    "title": "Sensing Movement: Contemporary Dance Workshops with People who are Blind or have Low Vision and Dance Teachers"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "sarah-whatley--touch-agency-dance-disability-robotics",
+   "creator_ids": [
+    "sarah-whatley",
+    "kate-marsh",
+    "steve-benford",
+    "rachael-garrett",
+    "paul-tennent"
+   ],
+   "title": "Touch, Agency and the Interplay between Dance, Disability and Robotics",
+   "year": 2026,
+   "field": "movement",
+   "sub": "dance-tech",
+   "also": [
+    "machines-xr",
+    "social"
+   ],
+   "modalities": [
+    "touch",
+    "movement",
+    "posture-balance"
+   ],
+   "lenses": [
+    "body-politics",
+    "intercorporeality",
+    "extended-body"
+   ],
+   "kind": "paper",
+   "description": "An article on a project in which expert disabled dance artists, who already know how their bodies meet crutches, prostheses and wheelchairs, encounter robots through bodily contact, asking how touch with a machine can be creative, expressive and trustworthy, and how consent works there.",
+   "description_zh": "一篇关于某项目的文章：残障舞蹈艺术家本就熟知自己的身体如何与拐杖、假肢和轮椅相处，项目让他们通过身体接触与机器人相遇，追问与机器的触碰如何能够富有创造力、表现力且值得信任，以及同意在其中如何运作。",
+   "idea_en": "Disabled dancers' expertise in moving with non-human agents is a resource for designing contact with robots; lived difference has to shape the methods, including any use of AI.",
+   "idea_zh": "残障舞者与非人主体一起运动的专长，是设计人与机器人接触的资源；亲身经历的差异必须塑造研究方法，包括对人工智能的使用。",
+   "method": "Reflective article drawing on an interdisciplinary project in which disabled dance artists explored bodily contact with robots together with roboticists and HCI researchers from Coventry, Nottingham and KTH.",
+   "method_zh": "反思性文章，基于一个跨学科项目：残障舞蹈艺术家与来自考文垂、诺丁汉和 KTH 的机器人与人机交互研究者一起，探索与机器人的身体接触。",
+   "keywords": [
+    "disability",
+    "dance",
+    "robots",
+    "touch",
+    "consent",
+    "physically integrated dance",
+    "Somatic Safety"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1080/14794713.2026.2635231",
+    "doi": "10.1080/14794713.2026.2635231",
+    "arxiv": "",
+    "venue": "International Journal of Performance Arts and Digital Media, 2026",
+    "title": "Touch, agency and the interplay between dance, disability and robotics"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "casper-preisler--when-bodies-resonate-in-sound",
+   "creator_ids": [
+    "casper-preisler",
+    "sofia-dahl"
+   ],
+   "title": "When Bodies Resonate in Sound",
+   "year": 2026,
+   "field": "social",
+   "sub": "synchrony",
+   "also": [
+    "movement"
+   ],
+   "modalities": [
+    "movement",
+    "voice-sound"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "movement-expression"
+   ],
+   "kind": "prototype",
+   "description": "Two improvising dancers wear inertial sensors; the system computes how their movement energy converges or diverges and turns that coupling into a live soundscape, so each can hear the partner's energy without looking.",
+   "description_zh": "两位即兴舞者佩戴惯性传感器；系统计算他们的动作能量是趋同还是分离，并把这种耦合转化为实时声景，让彼此不用看也能听见对方的能量。",
+   "idea_en": "Making the energetic coupling between two moving bodies audible gives dancers a second, non-visual channel of relational awareness that changes how they move together.",
+   "idea_zh": "让两个运动身体之间的能量耦合变得可听，就给了舞者一条非视觉的关系觉察通道，并改变他们一起运动的方式。",
+   "method": "Wearable IMUs on both dancers, custom real-time measures of relational movement dynamics, and a three-profile sonification strategy for convergence and divergence, iteratively designed and tested with dancer pairs.",
+   "method_zh": "两位舞者都佩戴 IMU，系统用自定义的实时指标计算关系性动作动态，并以三种声音化方案表现趋同与分离；方案经迭代设计，并与多对舞者测试。",
+   "keywords": [
+    "dance improvisation",
+    "duet",
+    "sonification",
+    "IMU",
+    "movement synergy",
+    "relational awareness"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3802842.3802858",
+    "doi": "10.1145/3802842.3802858",
+    "arxiv": "",
+    "venue": "MOCO 2026",
+    "title": "When Bodies Resonate in Sound: Sonifying Interpersonal Movement Dynamics in Dance"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [
+    "moco"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "bilge-serdar--felt-togetherness-networked-performance",
+   "creator_ids": [
+    "bilge-serdar",
+    "alexander-refsum-jensenius"
+   ],
+   "title": "Felt Togetherness in a Networked Music-Dance Performance",
+   "year": 2026,
+   "field": "social",
+   "sub": "synchrony",
+   "also": [
+    "movement"
+   ],
+   "modalities": [
+    "movement",
+    "voice-sound",
+    "whole-soma"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "attunement",
+    "first-person"
+   ],
+   "kind": "paper",
+   "description": "A study of the Telematic@Popsenteret concert, in which dancers and musicians performed together from distant venues over a network, asking how a sense of being together arises when bodies do not share a room.",
+   "description_zh": "对 Telematic@Popsenteret 音乐会的研究：舞者与音乐人身处相隔遥远的场地，通过网络同台演出；研究追问当身体不在同一空间时，“在一起”的感觉如何产生。",
+   "idea_en": "Togetherness at a distance is more than keeping time; performers build it through perceptual adaptation, cross-modal attunement and affective awareness of each other.",
+   "idea_zh": "远距离的“在一起”不只是节拍对齐；表演者通过知觉调适、跨感官的调谐以及对彼此情感的觉察来共同建构它。",
+   "method": "Three-layer mixed-method framework: computational audio-video analysis of sound-motion synchrony and temporal coupling, qualitative observation, and post-performance interviews with performers and audience members.",
+   "method_zh": "三层混合方法框架：用计算方法分析音视频中的声音-动作同步与时间耦合，辅以质性观察，以及演出后对表演者和观众的访谈。",
+   "keywords": [
+    "telematic performance",
+    "networked music",
+    "dance",
+    "togetherness",
+    "synchrony",
+    "RITMO"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=OeePs0-TgVg"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3802842.3802884",
+    "doi": "10.1145/3802842.3802884",
+    "arxiv": "",
+    "venue": "MOCO 2026",
+    "title": "Mixed Method Audio-Video Analyses of Felt Togetherness in a Networked Music-Dance Performance"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [
+    "moco"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "danielle-lottridge--vector-interact",
+   "creator_ids": [
+    "danielle-lottridge",
+    "sarah-fdili-alaoui"
+   ],
+   "title": "Vector:Interact",
+   "year": 2026,
+   "field": "movement",
+   "sub": "movement-computing",
+   "also": [],
+   "modalities": [
+    "movement",
+    "light-vision",
+    "voice-sound"
+   ],
+   "lenses": [
+    "movement-expression",
+    "body-politics",
+    "attunement"
+   ],
+   "kind": "artwork",
+   "description": "An immersive installation with real-time audiovisual responses that invites visitors to improvise movement, deployed in a landmark building in Auckland, a community art collective in Paris and a studio theatre in Toronto.",
+   "description_zh": "一件以实时视听反馈邀请观众即兴运动的沉浸式装置，先后在奥克兰的一座地标建筑、巴黎的一个社区艺术团体和多伦多的一座小剧场展出。",
+   "idea_en": "The same responsive environment invites different movement in different places: culture, context and each person's movement history decide what bodies feel allowed to do.",
+   "idea_zh": "同一个响应式环境在不同地方引出不同的动作：文化、情境和每个人的动作经历，决定了身体觉得自己“可以”做什么。",
+   "method": "Practice-based development and trials in three contexts with real-time responsive audiovisual effects, with participant experiences analysed through theories of somaesthetics and embodiment.",
+   "method_zh": "基于实践的开发，在三种情境中试用实时响应的视听效果，并借助身体美学与具身理论分析参与者的体验。",
+   "keywords": [
+    "whole-body interaction",
+    "installation",
+    "movement improvisation",
+    "somaesthetics",
+    "cultural context"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3802842.3802852",
+    "doi": "10.1145/3802842.3802852",
+    "arxiv": "",
+    "venue": "MOCO 2026",
+    "title": "Moving Contexts: How Culture, Context, and Movement Histories Shape Whole-Body Interaction in Aesthetic Environments"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [
+    "moco"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "sarah-fdili-alaoui--autoethnography-vintage",
+   "creator_ids": [
+    "sarah-fdili-alaoui"
+   ],
+   "title": "An Autoethnography of Choreographing Vintage",
+   "year": 2026,
+   "field": "movement",
+   "sub": "dance-tech",
+   "also": [
+    "methods"
+   ],
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "first-person",
+    "intercorporeality",
+    "movement-expression"
+   ],
+   "kind": "paper",
+   "description": "Sarah Fdili Alaoui's first-person account of choreographing Vintage (2023, with Annika Kompart), a piece built from reusing dances the collaborators shared with each other, learned with a web app that records them as annotated audiovisual clips.",
+   "description_zh": "Sarah Fdili Alaoui 以第一人称讲述自己如何编创《Vintage》（2023，与 Annika Kompart 合作）：作品由合作者彼此分享的舞蹈重新组合而成，合作者借助一个把舞蹈录成带注释视听片段的网页应用来学习这些舞蹈。",
+   "idea_en": "Choreography is intimate, relational, situated and emergent; technology serves it best when it stays in the background of the creative process.",
+   "idea_zh": "编舞是亲密的、关系性的、情境化的、逐步生成的；技术最好的位置，是留在创作过程的背景里。",
+   "method": "Autoethnography woven from choreographic scores, design and rehearsal journals and an auto-explicitation interview about making Vintage with a custom clip-annotation web application.",
+   "method_zh": "由编舞谱、设计与排练日志以及一次自我阐明访谈编织而成的自我民族志，讲述借助自制片段注释网页应用创作《Vintage》的过程。",
+   "keywords": [
+    "choreography",
+    "autoethnography",
+    "dance technology",
+    "first-person research",
+    "annotation",
+    "Vintage"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=sLHS4Z8KzwA"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3803784.3807540",
+    "doi": "10.1145/3803784.3807540",
+    "arxiv": "",
+    "venue": "C&C 2026",
+    "title": "An Autoethnography of Choreographing the Dance Performance “Vintage”"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "maria-fernanda-montoya--surfsync",
+   "creator_ids": [
+    "maria-fernanda-montoya",
+    "vincent-van-rheden",
+    "rakesh-patibanda",
+    "aryan-saini",
+    "florian-mueller"
+   ],
+   "title": "SurfSync",
+   "year": 2026,
+   "field": "movement",
+   "sub": "exertion-play",
+   "also": [
+    "somaesthetic"
+   ],
+   "modalities": [
+    "vibration",
+    "heat",
+    "voice-sound"
+   ],
+   "lenses": [
+    "more-than-human",
+    "pleasure-play",
+    "first-person"
+   ],
+   "kind": "prototype",
+   "description": "An actuating vest and hat that give surfers information about the ocean through sound, vibration and heat while they wait for and ride waves, so the sea is felt as a playful partner rather than tracked for performance.",
+   "description_zh": "一件会动作的背心和一顶帽子，在冲浪者等浪和乘浪时，用声音、振动和热把海洋的信息传给他们，让大海被感受为一个可以玩耍的伙伴，而不是被追踪成绩的场地。",
+   "idea_en": "Wearables for water sports can deepen the felt encounter with the ocean instead of adding performance metrics.",
+   "idea_zh": "水上运动的可穿戴设备，可以加深人与海洋相遇的切身感受，而不是再添一组成绩指标。",
+   "method": "Soma design process; vest and hat with sound, vibration and heat actuators; an ocean field study with eight surfers analysed thematically into six design strategies.",
+   "method_zh": "身体设计过程；背心与帽子装有声音、振动和热执行器；在海上与八名冲浪者开展实地研究，经主题分析得出六条设计策略。",
+   "keywords": [
+    "surfing",
+    "WaterHCI",
+    "soma design",
+    "wearable",
+    "ocean",
+    "heat",
+    "vibration"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=pzTl1Nb9wlg"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3800645.3812942",
+    "doi": "10.1145/3800645.3812942",
+    "arxiv": "",
+    "venue": "DIS 2026",
+    "title": "SurfSync: Towards the Design of Wearables to Enrich Surfing"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [
+    "dis"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "amanda-topaz--blindfolded-in-the-air",
+   "creator_ids": [
+    "amanda-topaz",
+    "maria-fernanda-montoya",
+    "rakesh-patibanda",
+    "josh-andres",
+    "florian-mueller"
+   ],
+   "title": "Blindfolded in the Air",
+   "year": 2025,
+   "field": "movement",
+   "sub": "exertion-play",
+   "also": [
+    "machines-xr"
+   ],
+   "modalities": [
+    "posture-balance",
+    "light-vision",
+    "breath"
+   ],
+   "lenses": [
+    "attunement",
+    "first-person",
+    "pleasure-play"
+   ],
+   "kind": "prototype",
+   "description": "A motion-sensitive mixed-reality blindfold for aerial acrobatics: hanging in a two-point harness, the wearer's view fades between sight and darkness as the body rotates, turning attention inward to movement and breath.",
+   "description_zh": "一款用于空中杂技的动作感应混合现实“眼罩”：佩戴者悬在两点式吊带中，视野随身体旋转在可见与黑暗之间切换，让注意力转向内在的动作与呼吸。",
+   "idea_en": "Taking sight away at chosen moments of a rotation quiets visual and social distraction and lets an aerialist feel proprioception and breath more clearly.",
+   "idea_zh": "在旋转的特定时刻拿走视觉，可以减少视觉与社交干扰，让空中表演者更清楚地感受到本体感与呼吸。",
+   "method": "Mixed-reality headset app coupling visibility to body orientation; autoethnographic study using video, somaesthetic body maps and interviews, giving four themes and six design considerations.",
+   "method_zh": "混合现实头显应用，把可见度与身体朝向绑定；以视频、身体美学身体地图和访谈开展自我民族志研究，得出四个主题与六条设计考量。",
+   "keywords": [
+    "aerial acrobatics",
+    "harness",
+    "proprioception",
+    "mixed reality",
+    "blindfold",
+    "autoethnography",
+    "body maps"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=HIFkXGwM1B8"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3749385.3749401",
+    "doi": "10.1145/3749385.3749401",
+    "arxiv": "",
+    "venue": "SportsHCI 2025",
+    "title": "Blindfolded in the Air: Towards the Design of Interactive Aerial Play"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "vincent-van-rheden--into-the-rhythm",
+   "creator_ids": [
+    "vincent-van-rheden"
+   ],
+   "title": "Into the Rhythm",
+   "year": 2025,
+   "field": "movement",
+   "sub": "exertion-play",
+   "also": [],
+   "modalities": [
+    "breath",
+    "movement",
+    "voice-sound"
+   ],
+   "lenses": [
+    "attunement",
+    "pleasure-play"
+   ],
+   "kind": "prototype",
+   "description": "A sound guidance system for outdoor running that cues runners to couple their breathing with their steps (locomotor-respiratory coupling), tested in the field with 15 female recreational runners.",
+   "description_zh": "一套户外跑步声音引导系统，用声音提示跑者把呼吸与步伐耦合起来（运动-呼吸耦合），并与 15 名女性休闲跑者开展了实地测试。",
+   "idea_en": "Breath and stride are two rhythms of one moving body; sound cues can help runners find their coupling, especially when fatigue makes it slip.",
+   "idea_zh": "呼吸与步伐是同一个运动身体的两种节律；声音提示可以帮助跑者找到二者的耦合，尤其是在疲劳让节律走乱的时候。",
+   "method": "Auditory cues for breath-step ratios in an outdoor field study with 15 runners, combining satisfaction ratings with qualitative accounts, leading to five design recommendations for adaptive guidance.",
+   "method_zh": "在户外实地研究中，用听觉提示引导 15 名跑者的呼吸-步伐比，结合满意度评分与质性描述，提出五条自适应引导的设计建议。",
+   "keywords": [
+    "running",
+    "breathing",
+    "locomotor-respiratory coupling",
+    "sonification",
+    "SportsHCI",
+    "Tuning Into the Run"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3749385.3749397",
+    "doi": "10.1145/3749385.3749397",
+    "arxiv": "",
+    "venue": "SportsHCI 2025",
+    "title": "Into the Rhythm: Experiencing Sound Guidance to Couple Breath with Steps During Running"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "nihar-sabnis--vibracket",
+   "creator_ids": [
+    "nihar-sabnis",
+    "paul-strohmeier"
+   ],
+   "title": "VibRacket",
+   "year": 2025,
+   "field": "movement",
+   "sub": "exertion-play",
+   "also": [],
+   "modalities": [
+    "vibration",
+    "movement"
+   ],
+   "lenses": [
+    "touching-back",
+    "extended-body"
+   ],
+   "kind": "prototype",
+   "description": "A badminton racket attachment that vibrates with the stroke: besides external guiding and error cues, it produces motion-coupled vibrations that players feel as coming from their own movement.",
+   "description_zh": "一个装在羽毛球拍上的附件，会随挥拍振动：除了外部的引导和纠错提示，它还能产生与动作耦合的振动，让球员感觉振动来自自己的动作。",
+   "idea_en": "Vibration coupled to one's own motion is felt as self-generated, part of the body and its tool, rather than as an instruction from outside.",
+   "idea_zh": "与自身动作耦合的振动会被感受为“自己产生”的，成为身体与工具的一部分，而不是来自外部的指令。",
+   "method": "Racket-mounted IMU and vibration actuator delivering guiding, error-enhancing and motion-coupled vibrotactile feedback for controlled and ballistic strokes, with a graphical interface for designing orientation-based patterns.",
+   "method_zh": "球拍上的 IMU 与振动执行器，为控制型和爆发型挥拍提供引导、放大误差和与动作耦合的振动反馈，并配有图形界面用于设计基于朝向的振动模式。",
+   "keywords": [
+    "badminton",
+    "vibrotactile",
+    "motion-coupled vibration",
+    "motor learning",
+    "sensorimotor",
+    "racket sports"
+   ],
+   "images": [
+    "https://sensint.mpi-inf.mpg.de/uploads/images/papers/2025_SportsHCI_VibRacket.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3749385.3749417",
+    "doi": "10.1145/3749385.3749417",
+    "arxiv": "",
+    "venue": "SportsHCI 2025",
+    "title": "VibRacket: Designing and Experiencing Embodied Vibrotactile Feedback on a Badminton Racket"
+   },
+   "source_url": "https://sensint.mpi-inf.mpg.de/publications.html",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "louise-petersen-matjeka--movement-as-foundation",
+   "creator_ids": [
+    "louise-petersen-matjeka",
+    "florian-mueller"
+   ],
+   "title": "Examining Movement as Foundation for Embodied Player Experiences and Technology Relationships",
+   "year": 2026,
+   "field": "movement",
+   "sub": "exertion-play",
+   "also": [
+    "foundations"
+   ],
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "movement-expression",
+    "first-person"
+   ],
+   "kind": "paper",
+   "description": "A theory paper that treats movement as the ground of perception in play, joining predictive processing and active inference with phenomenology, and applies the framework to the first author's three-year autoethnography of playing seven games.",
+   "description_zh": "一篇理论论文，把动作视为游戏中知觉的根基，将预测加工、主动推理与现象学结合，并把这一框架用于第一作者历时三年、玩七款游戏的自我民族志。",
+   "idea_en": "Embodied player experience comes from how movements are composed in sequences between player and technology; perceiving and moving form one loop, not input followed by output.",
+   "idea_zh": "具身的玩家体验来自玩家与技术之间动作序列的编排方式；感知与运动是同一个回路，而不是先输入、再输出。",
+   "method": "Theoretical framework combining predictive processing, active inference and phenomenology, applied to a three-year autoethnography across seven games, identifying four dynamics of sequential movement composition.",
+   "method_zh": "结合预测加工、主动推理与现象学的理论框架，用于横跨七款游戏、历时三年的自我民族志，归纳出动作序列编排的四种动态。",
+   "keywords": [
+    "movement",
+    "player experience",
+    "phenomenology",
+    "predictive processing",
+    "active inference",
+    "autoethnography",
+    "game studies"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1016/j.ijhcs.2026.103736",
+    "doi": "10.1016/j.ijhcs.2026.103736",
+    "arxiv": "",
+    "venue": "International Journal of Human-Computer Studies, 2026",
+    "title": "Examining movement as foundation for embodied player experiences and technology relationships"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "sena-beste-ercan--finding-our-tempo",
+   "creator_ids": [
+    "sena-beste-ercan"
+   ],
+   "title": "Finding Our Tempo",
+   "year": 2026,
+   "field": "social",
+   "sub": "synchrony",
+   "also": [
+    "movement"
+   ],
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "pleasure-play"
+   ],
+   "kind": "prototype",
+   "description": "A full-body mixed-reality game for groups of 9–10-year-old children, an improved version of the lab's DragonIce system, that structures timing so children move in synchrony or deliberately out of it; the study measures whether they feel they are moving together.",
+   "description_zh": "一款面向 9–10 岁儿童小组的全身混合现实游戏，是该实验室 DragonIce 系统的改进版：它通过安排时间节奏，让孩子们同步运动或刻意不同步；研究测量他们是否感觉到彼此在一起动。",
+   "idea_en": "Timing is a design material: identical movements feel more shared when they are aligned in time, and asynchrony can break coordination that was not wanted.",
+   "idea_zh": "时间节奏是一种设计材料：同样的动作，在时间上对齐时感觉更“共同”；而不同步可以打破不想要的协调。",
+   "method": "Multi-user study comparing synchronous and asynchronous interaction modes, using system-logged behavioural synchrony and children's self-reports of perceived synchrony.",
+   "method_zh": "多人研究，比较同步与异步两种交互模式，结合系统记录的行为同步数据与儿童自评的感知同步。",
+   "keywords": [
+    "interpersonal synchrony",
+    "children",
+    "full-body interaction",
+    "mixed reality",
+    "group play",
+    "DragonIce"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=NXmGdU1BevQ"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3731459.3773303",
+    "doi": "10.1145/3731459.3773303",
+    "arxiv": "",
+    "venue": "TEI 2026",
+    "title": "Finding Our Tempo: Exploring Embodied Synchrony Through Full-Body Play in Children"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [
+    "tei"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "michal-rinott--interpersonal-synchrony-over-a-distance",
+   "creator_ids": [
+    "michal-rinott"
+   ],
+   "title": "Interpersonal Synchrony Over a Distance",
+   "year": 2025,
+   "field": "social",
+   "sub": "synchrony",
+   "also": [],
+   "modalities": [
+    "movement",
+    "touch"
+   ],
+   "lenses": [
+    "intercorporeality"
+   ],
+   "kind": "paper",
+   "description": "A study of remote interpersonal motor synchrony: people tap in time with a remote partner through a phone app, not knowing the partner is a responsive algorithm, while the researchers add increasing network noise.",
+   "description_zh": "一项关于远程人际动作同步的研究：参与者通过手机应用与远方的“伙伴”同步敲击，却不知道对方其实是一个会响应的算法，研究者则逐步加入网络噪声。",
+   "idea_en": "Moving in time with someone can create liking and trust even at a distance, but network jitter wears the felt bond down; latency is a social and somatic design parameter.",
+   "idea_zh": "与他人同步运动即使隔着距离也能带来好感与信任，但网络抖动会削弱这种切身的联结；延迟是一个社会性的、身体性的设计参数。",
+   "method": "Mobile joint-tapping app with a responsive algorithmic partner and three levels of synthetic network noise; prosocial measures plus thematic analysis of participants' written answers.",
+   "method_zh": "手机共同敲击应用，配有会响应的算法伙伴和三种程度的合成网络噪声；测量亲社会效应，并对参与者的书面回答做主题分析。",
+   "keywords": [
+    "interpersonal motor synchrony",
+    "remote interaction",
+    "tapping",
+    "network latency",
+    "prosociality"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3706598.3713562",
+    "doi": "10.1145/3706598.3713562",
+    "arxiv": "",
+    "venue": "CHI 2025",
+    "title": "Interpersonal Synchrony Over a Distance - the Effect of Network Noise on Synchronization and its Prosocial Consequences"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "kristi-kuusk--remote-grandparents",
+   "creator_ids": [
+    "kristi-kuusk"
+   ],
+   "title": "Remote Grandparents",
+   "year": 2025,
+   "field": "social",
+   "sub": "mediated-touch",
+   "also": [
+    "care"
+   ],
+   "modalities": [
+    "touch",
+    "heat",
+    "vibration"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "touching-back",
+    "care-healing"
+   ],
+   "kind": "prototype",
+   "description": "A textile prototype that lets young children and their distant grandparents exchange touch and warmth: thermochromic silk-screen prints change colour where a hand has been, and vibration stands in for the remote partner's touch.",
+   "description_zh": "一件纺织原型，让年幼的孩子与远方的祖父母交换触碰与温暖：热致变色的丝网印刷图案会在手掌停留过的地方变色，振动则代替远方亲人的触碰。",
+   "idea_en": "Closeness across distance can be carried by warmth, texture and touch on a shared object instead of another screen.",
+   "idea_zh": "跨越距离的亲密，可以由共享物件上的温度、质地与触碰来承载，而不必再多一块屏幕。",
+   "method": "Research through design with children, grandparents, designers and a textile engineer; thermosensitive pigment silk-screen printing visualises contact and vibration feedback simulates touch.",
+   "method_zh": "与孩子、祖父母、设计师和纺织工程师一起开展的设计研究；用热敏颜料丝网印刷显示接触痕迹，用振动反馈模拟触碰。",
+   "keywords": [
+    "intergenerational",
+    "remote touch",
+    "thermochromic",
+    "e-textiles",
+    "warmth",
+    "research through design"
+   ],
+   "images": [
+    "https://sensorialdesign.artun.ee/wp-content/uploads/2025/09/Protod_Proto1_1-1-1024x936.png",
+    "https://leida.artun.ee/media/pages/issues/reis-labi-tarbimisvoondi/kaugvanavanemad-disainides-asjade-asemel-suhteid/f1b032764e-1746537045/foto1-1280x.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3811427.3811494",
+    "doi": "10.1145/3811427.3811494",
+    "arxiv": "",
+    "venue": "AVI 2026",
+    "title": "Remote Grandparents: A Tangible Interactive Experience for Intergenerational Connection at a Distance"
+   },
+   "source_url": "https://sensorialdesign.artun.ee/?p=396",
+   "code_url": "",
+   "collections": [],
+   "exhibited": [
+    "Disainiöö / Tallinn Design Festival 2025"
+   ]
+  },
+  {
+   "id": "robin-heron--counterfactual-theatre",
+   "creator_ids": [
+    "robin-heron"
+   ],
+   "title": "Design through Counterfactual Theatre",
+   "year": 2026,
+   "field": "social",
+   "sub": "mediated-touch",
+   "also": [
+    "methods"
+   ],
+   "modalities": [
+    "touch",
+    "whole-soma"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "first-person"
+   ],
+   "kind": "method",
+   "description": "A design method for social touch technology in which participants invent touch devices and act out their use in improvised scenes set in a counterfactual history of the Covid-19 pandemic, designing from inside the bodily simulation.",
+   "description_zh": "一种为社会触碰技术做设计的方法：参与者发明触碰装置，并在以新冠疫情的“反事实历史”为背景的即兴场景中演出它们的使用，从身体模拟的内部进行设计。",
+   "idea_en": "When the design object is felt touch, designers should step into the embodied simulation themselves; improvising its use roots ideas in lived experience.",
+   "idea_zh": "当设计对象是被感受的触碰时，设计者应亲自进入具身模拟；即兴演出它的使用，能让想法扎根于亲身经验。",
+   "method": "Four pilot workshops to refine counterfactual scenarios, then six creativity workshops of four to five participants combining improvisation theatre and counterfactual history, analysed by phases, solutions and touch functions.",
+   "method_zh": "先用四次试点工作坊打磨反事实情境，再开展六次每次 4–5 人的创意工作坊，结合即兴戏剧与反事实历史，按阶段、方案与触碰功能进行分析。",
+   "keywords": [
+    "social touch",
+    "mediated touch",
+    "improvisation theatre",
+    "embodied simulation",
+    "counterfactual history",
+    "design method"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3822301.3822335",
+    "doi": "10.1145/3822301.3822335",
+    "arxiv": "",
+    "venue": "ECCE 2026",
+    "title": "Design through counterfactual theatre: an embodied simulation method for designing digital social touch"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "grisha-coleman--supra-organism",
+   "creator_ids": [
+    "grisha-coleman"
+   ],
+   "title": "Supra-Organism",
+   "year": 2026,
+   "field": "social",
+   "sub": "collective",
+   "also": [
+    "practices",
+    "affect"
+   ],
+   "modalities": [
+    "whole-soma",
+    "heartbeat",
+    "movement"
+   ],
+   "lenses": [
+    "attunement",
+    "intercorporeality",
+    "body-data"
+   ],
+   "kind": "method",
+   "description": "A workshop that joins Feldenkrais-based movement with The Source, a wearable biophysical sensing suite, so a group senses their own and each other's signals in real time, translated into movement, sound and visuals.",
+   "description_zh": "一个工作坊，把以费登奎斯为基础的动作练习与可穿戴生物物理传感套件 The Source 结合：一群人实时感受自己和彼此的生理信号，这些信号被转化为动作、声音与影像。",
+   "idea_en": "Collective biosensing paired with somatic practice can stretch attention across interoception, proprioception and exteroception, and grow attunement and empathy between bodies.",
+   "idea_zh": "把集体生物传感与身体修习结合，可以让注意力在内感受、本体感与外感受之间延展，培养身体之间的调谐与共情。",
+   "method": "Workshop combining principles of the Feldenkrais Method with The Source by bioMECI, full-spectrum physiological monitoring wearables whose live data streams drive movement, sound and visual feedback.",
+   "method_zh": "工作坊结合费登奎斯方法的原则与 bioMECI 的 The Source（全谱生理监测可穿戴设备），其实时数据流驱动动作、声音与视觉反馈。",
+   "keywords": [
+    "Feldenkrais",
+    "biosensing",
+    "collective sensing",
+    "interoception",
+    "workshop",
+    "bioMECI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3802842.3802906",
+    "doi": "10.1145/3802842.3802906",
+    "arxiv": "",
+    "venue": "MOCO 2026",
+    "title": "Supra-Organism: Biophysical Sensing Toward Affective Somatic Integration"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [
+    "moco"
+   ],
+   "exhibited": []
+  }
+ ],
+ "leads": [
+  {
+   "name": "De Blanc & Long — Weight-sharing trust and wooden floors (MOCO 2026)",
+   "why": "Interviews with disabled dancers on physically integrated dance: trust, weight-sharing and floors as moderators for embodied co-creation. Skipped only because the first author's affiliation could not be verified.",
+   "link": "https://doi.org/10.1145/3802842.3802896",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Grebel, Fdili Alaoui & Bevilacqua — Battles as Interactive Ecologies (MOCO 2026)",
+   "why": "Companion interview study to the hip-hop sonification work: battles as distributed, embodied systems of dancers, DJs, MCs and judges.",
+   "link": "https://doi.org/10.1145/3802842.3802868",
+   "found_via": "louise-grebel",
+   "status": "open"
+  },
+  {
+   "name": "Montoya et al. — Surfing the Opportunities for Water Sustainability (DIS 2025 workshop)",
+   "why": "Workshop proposal on soma design for outdoor water sports and posthumanist water frameworks; context for SurfSync rather than a work in its own right.",
+   "link": "https://doi.org/10.1145/3715668.3734165",
+   "found_via": "maria-fernanda-montoya",
+   "status": "open"
+  },
+  {
+   "name": "Overdevest et al. — BoulderPlay (SportsHCI 2025)",
+   "why": "AR plants on a bouldering wall with forearm vibration when touched; playful climbing, weaker felt-body angle.",
+   "link": "https://doi.org/10.1145/3749385.3749409",
+   "found_via": "florian-mueller",
+   "status": "open"
+  },
+  {
+   "name": "Jones et al. — Toward a Framework for the Design of Interactive Technology for Nature Recreation (IJHCI 2025)",
+   "why": "Intermediate design knowledge for outdoor recreation (place, time, community) drawing on Borgmann and Verbeek; relevant to NatureHCI, little on the felt body.",
+   "link": "https://doi.org/10.1080/10447318.2024.2443808",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Kimmel et al. — Feel the Connection: haptic social touch in remote VR (Augmented Humans 2026)",
+   "why": "Handshakes and high-fives with haptic feedback raise social presence in remote VR; fits machines-xr better.",
+   "link": "https://doi.org/10.1145/3795011.3795024",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Benford et al. — Tangles: Unpacking Extended Collision Experiences with Soma Trajectories (TOCHI 2025)",
+   "why": "Soma design workshop on colliding with robots, analysed with soma trajectories; belongs to methods (latest-kth-methods).",
+   "link": "https://doi.org/10.1145/3723875",
+   "found_via": "steve-benford",
+   "status": "open"
+  },
+  {
+   "name": "D'Adamo, Bevilacqua, Tajadura-Jiménez et al. — SoniFootsteps (MOCO 2026) and Taking a Walk on the Wild Side (CHI 2026)",
+   "why": "Movement-triggered, pitch-altered footstep sounds that change felt body weight, gait and emotion; field affect (body transformation), for latest-affect-care.",
+   "link": "https://doi.org/10.1145/3802842.3802882",
+   "found_via": "frederic-bevilacqua",
+   "status": "open"
+  },
+  {
+   "name": "Turmo Vidal, Tajadura-Jiménez & Ley-Flores — Temporal Trajectories (DIS 2025)",
+   "why": "Characterising somatic experiences that unfold over time; methods field.",
+   "link": "https://doi.org/10.1145/3715336.3735777",
+   "found_via": "laia-turmo-vidal",
+   "status": "open"
+  },
+  {
+   "name": "Haynes, Turmo Vidal et al. — Aesthetics of Felt Asymmetry (CHI 2026)",
+   "why": "Somaesthetic study of felt bodily asymmetry; somaesthetic field (latest-kth-methods).",
+   "link": "https://doi.org/10.1145/3772318.3791749",
+   "found_via": "laia-turmo-vidal",
+   "status": "open"
+  },
+  {
+   "name": "Dublin & Zuckerman — The Walking Meditation Mat (CHI 2025) and Breathing Inward (CHI 2026)",
+   "why": "Targeted heat that guides attention inward during walking meditation and diaphragmatic breathing; somaesthetic field.",
+   "link": "https://doi.org/10.1145/3706598.3713208",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Neville et al. — Agiles (MOCO 2026)",
+   "why": "Arts-led project with Restless Dance Theatre using choreographic tasks in an immersive environment for mobility and creativity; dance and care.",
+   "link": "https://doi.org/10.1145/3802842.3802846",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Sambi, Zheng, Tennent, Benford, Balaam et al. — A Cabinet of Affective Touches (C&C 2026)",
+   "why": "Design repository linking somatic experience of affective touch with soft-robotic parameters, including uncomfortable touch; machines-xr.",
+   "link": "https://doi.org/10.1145/3803784.3809294",
+   "found_via": "paul-tennent",
+   "status": "open"
+  },
+  {
+   "name": "Chamberlain, Lancel, Maat, Benford et al. — Embrace Angels (2025)",
+   "why": "Artistic exploration of how humans and robots can embrace, with the artist duo Lancel/Maat; machines-xr. Listed in the Nottingham repository; no DOI found yet.",
+   "link": "",
+   "found_via": "steve-benford",
+   "status": "open"
+  },
+  {
+   "name": "Ruo-Xuan Wu et al. — Hugging Suit (OzCHI 2025) and Speculating the Impacts of Mediated Social Touch Technology (DIS 2026)",
+   "why": "Pneumatic remote-hug suit and speculative study of mediated social touch; East Asian first author (latest-east-asia).",
+   "link": "https://doi.org/10.1145/3764687.3764723",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Tongze Guo et al. — Liquid Connections: Reimagining Social Touch in VR (MOCO 2026)",
+   "why": "Social touch in VR with liquid metaphors; East Asian first author (latest-east-asia).",
+   "link": "https://doi.org/10.1145/3802842.3802880",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Botao Amber Hu et al. — Nudging the Somas: Live-Configurable MR Objects and Open-Ended Intercorporeal Movements (CHI 2026)",
+   "why": "Intercorporeal movement shaped by live-configurable mixed-reality objects; East Asian first author (latest-east-asia).",
+   "link": "https://exertiongameslab.org/category/news-2",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Zhuying Li et al. — Shared Bodily Control via Exoskeleton-based Play (CHI 2026)",
+   "why": "Two players share control of one body through exoskeletons; East Asian first author, augmented field.",
+   "link": "https://doi.org/10.1145/3772318.3793418",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Yicheng Xu, Kristina Mah, Lian Loke et al. — Beyond Moving Appendages: Breathing Together with a Robot (DIS 2026)",
+   "why": "Breathing together as bodily sympathy in a soma-informed human-robot encounter; East Asian first author, machines-xr.",
+   "link": "https://doi.org/10.1145/3802974.3809421",
+   "found_via": "lian-loke",
+   "status": "open"
+  },
+  {
+   "name": "Ximing Shen et al. — It's Like Being On Stage: haptic contemporary dance for audiences (CHI 2025)",
+   "why": "Conveying dancers' expressiveness to audiences through haptics; East Asian first author.",
+   "link": "https://doi.org/10.1145/3706598.3713321",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Pataranutaporn, Archiwaranguprok & Klunchun — Phylogenetic Tree of Dance (MOCO 2026)",
+   "why": "Motion-capture reconstruction of movement lineages with choreographer Pichet Klunchun; Thai first author (latest-east-asia).",
+   "link": "https://doi.org/10.1145/3802842.3802903",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Koowattanataworn, Løvlie & Benford — Questioning one's body: overtrusting body-sensing technology (DRS 2026) and Squeeze Machine (IASDR 2025)",
+   "why": "Critical design on trust in body sensing and uncomfortable interaction; Thai first author (latest-east-asia).",
+   "link": "https://doi.org/10.21606/drs.2026.1787",
+   "found_via": "steve-benford",
+   "status": "open"
+  },
+  {
+   "name": "Meyer, Bryan-Kinns, Fdili Alaoui, Grierson & Fiebrink — Interactive Movement-to-Audio with Pre-Trained Neural Networks (C&C 2025)",
+   "why": "Movement-to-sound mapping with pretrained models; movement-computing candidate for a later round.",
+   "link": "https://doi.org/10.1145/3698061.3734415",
+   "found_via": "rebecca-fiebrink",
+   "status": "open"
+  },
+  {
+   "name": "Bevilacqua, Françoise, Fdili Alaoui & Caramiaux — Machine Learning in Movement-Based Interaction for Performing Arts (chapter in Human-Centered Machine Learning, CUP 2026)",
+   "why": "Overview of interactive ML for movement in the performing arts, in Fiebrink, Gillies and Ramos's book.",
+   "link": "https://doi.org/10.1017/9781108872225.005",
+   "found_via": "frederic-bevilacqua",
+   "status": "open"
+  },
+  {
+   "name": "Lawrence, Zhang, Hilton & Gillies — Interactive Machine Learning can recognise complex movements but does it make us happy? (MOCO 2026)",
+   "why": "Compares ML and rule-based movement interaction in VR for emotional wellbeing; ML allowed freer, more individual movement.",
+   "link": "https://doi.org/10.1145/3802842.3802863",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Kouaho & Epstein — Unpacking How Pole Dancers Come to Experience Fitness Trackers (CHI 2026)",
+   "why": "Pole dance (rotational, artistic) against step-centred tracking; argues for pluralistic sensing of moving bodies.",
+   "link": "https://doi.org/10.1145/3772318.3790412",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Reichmann, van Rheden et al. — Movement Sonification Toolkit (SportsHCI 2025) and From Movement to Sound and Back workshop (CHI 2026)",
+   "why": "Toolkit for non-sound-experts to sonify movement data in sport; methods candidate.",
+   "link": "https://doi.org/10.1145/3749385.3749410",
+   "found_via": "vincent-van-rheden",
+   "status": "open"
+  },
+  {
+   "name": "Martin-Pasi, van Rheden et al. — Tuning Into the Run (SportsHCI 2025)",
+   "why": "Wearable that lets runners mix breath and step sonification streams while running; sibling of Into the Rhythm.",
+   "link": "https://doi.org/10.1145/3749385.3749406",
+   "found_via": "vincent-van-rheden",
+   "status": "open"
+  },
+  {
+   "name": "Inami, Jones, Li, Mueller & Montoya — NatureHCI (Dagstuhl Seminar 25302)",
+   "why": "Seminar report on computer-enriched nature experiences; context for outdoor and water play.",
+   "link": "https://doi.org/10.4230/dagrep.15.7.213",
+   "found_via": "florian-mueller",
+   "status": "open"
+  },
+  {
+   "name": "Fey, Robinson, Isbister et al. — Social Wearables Edu-Larp (CHI 2025)",
+   "why": "Camp where girls craft social wearables for live-action roleplay; collective play, mostly a STEAM-education contribution.",
+   "link": "https://doi.org/10.1145/3706598.3713843",
+   "found_via": "katherine-isbister",
+   "status": "open"
+  }
+ ]
+}

@@ -1,0 +1,1585 @@
+{
+ "batch": "latest-affect-care",
+ "creators": [
+  {
+   "id": "lisa-hofer",
+   "name": "Lisa Hofer",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist-researcher, Department of Artificial Intelligence and Human Interfaces, University of Salzburg",
+   "role_zh": "萨尔茨堡大学人工智能与人机界面系艺术研究者",
+   "based": "Salzburg, AT",
+   "based_zh": "萨尔茨堡，奥地利",
+   "bio": "Artist and HCI researcher who works between performance and soma design, turning lived menstrual experience into installations for touch and sound.",
+   "bio_zh": "在表演与身体设计之间工作的艺术家和人机交互研究者，把亲身经历的月经体验转化为可触摸、可聆听的装置。",
+   "why": "The In my Cycle installation treats two decades of first-person menstrual sensations as design material and opens them to shared, public attention.",
+   "why_zh": "Hofer 的装置 In my Cycle 把二十年来第一人称的月经感受当作设计材料，并把它们带进公共的、共享的关注之中。",
+   "disciplines": [
+    "art",
+    "hci"
+   ],
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "daisy-oneill",
+   "name": "Daisy O'Neill",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Design researcher, Department of Industrial Design, Eindhoven University of Technology",
+   "role_zh": "埃因霍温理工大学工业设计系设计研究者",
+   "based": "Eindhoven, NL",
+   "based_zh": "埃因霍温，荷兰",
+   "bio": "Design researcher at TU Eindhoven who uses collaborative making and exhibition to open up conversations about menopause.",
+   "bio_zh": "埃因霍温理工大学的设计研究者，借助共同制作与展览打开关于更年期的对话。",
+   "why": "Let's Talk Menopause shows how artifacts made with mothers and daughters can carry bodily experiences of menopause across generations.",
+   "why_zh": "Let's Talk Menopause 表明，与母亲和女儿一起做出的物件，可以把更年期的身体经验在代际之间传递。",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "valeria-regis",
+   "name": "Valeria Regis",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Design researcher, Design Department, Politecnico di Milano",
+   "role_zh": "米兰理工大学设计系设计研究者",
+   "based": "Milan, IT",
+   "based_zh": "米兰，意大利",
+   "bio": "Designer-researcher at Politecnico di Milano working on sexual wellbeing products for trans and non-binary people.",
+   "bio_zh": "米兰理工大学的设计研究者，为跨性别与非二元性别者设计性健康产品。",
+   "why": "The adaptive pleasure object takes the changing body during hormone therapy as the starting point of intimate design.",
+   "why_zh": "这件自适应愉悦物件以激素治疗中不断变化的身体作为私密设计的出发点。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "celine-offerman",
+   "name": "Céline Offerman",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Design researcher, Faculty of Industrial Design Engineering, Delft University of Technology",
+   "role_zh": "代尔夫特理工大学工业设计工程学院设计研究者",
+   "based": "Delft, NL",
+   "based_zh": "代尔夫特，荷兰",
+   "bio": "Design researcher at TU Delft who studies sexual pleasure and sexual health after cancer through interviews, surveys and co-design.",
+   "bio_zh": "代尔夫特理工大学的设计研究者，通过访谈、问卷与共同设计研究癌症之后的性愉悦与性健康。",
+   "why": "Offerman treats pleasure as a whole-body process and designs care technologies with cancer survivors whose bodies treatment has changed.",
+   "why_zh": "Offerman 把愉悦理解为全身参与的过程，并与身体被治疗改变的癌症幸存者一起设计照护技术。",
+   "disciplines": [
+    "design",
+    "health"
+   ],
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "bojana-nikolovska",
+   "name": "Bojana Nikolovska",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, Department of Informatics and Media, Uppsala University",
+   "role_zh": "乌普萨拉大学信息学与媒体系研究者",
+   "based": "Uppsala, SE",
+   "based_zh": "乌普萨拉，瑞典",
+   "bio": "Interaction design researcher at Uppsala University working on embodied interaction, movement practices and feminist design.",
+   "bio_zh": "乌普萨拉大学的交互设计研究者，关注具身交互、身体动作练习与女性主义设计。",
+   "why": "The study of feminist self-defense classes links bodily movement training with feminist consciousness-raising as a site for embodied design.",
+   "why_zh": "Nikolovska 对女性主义防身课的研究，把身体动作训练与女性主义意识觉醒连在一起，视之为具身设计的场域。",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "dorothe-smit",
+   "name": "Dorothé Smit",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, Vrije Universiteit Amsterdam",
+   "role_zh": "阿姆斯特丹自由大学研究者",
+   "based": "Amsterdam, NL",
+   "based_zh": "阿姆斯特丹，荷兰",
+   "bio": "HCI and design researcher who studies the body in embodied interaction from feminist and more-than-human perspectives.",
+   "bio_zh": "人机交互与设计研究者，从女性主义与超越人类的视角研究具身交互中的身体。",
+   "why": "Smit brings Iris Marion Young's phenomenology of feminine body comportment into the design of embodied interaction.",
+   "why_zh": "Smit 把 Iris Marion Young 关于女性身体举止的现象学引入具身交互设计。",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "heidi-biggs",
+   "name": "Heidi R. Biggs",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Design researcher, School of Literature, Media, and Communication, Georgia Institute of Technology",
+   "role_zh": "佐治亚理工学院文学、媒体与传播学院设计研究者",
+   "based": "Atlanta, US",
+   "based_zh": "亚特兰大，美国",
+   "bio": "Designer-researcher who makes embodied speculations about climate change and uses autofiction to explore queer, more-than-human entanglements of body and land.",
+   "bio_zh": "设计研究者，制作关于气候变化的具身思辨作品，并用自传体虚构探索身体与土地之间酷儿的、超越人类的纠缠。",
+   "why": "Bog Girl reads non-binary bodies and wetlands together, asking design to start from bodies that binary medical and agricultural logics cut apart.",
+   "why_zh": "Bog Girl 把非二元的身体与湿地放在一起阅读，要求设计从被医学与农业的二元逻辑切开的身体出发。",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "links": {
+    "site": "https://www.heidibiggsdesign.com/",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "noura-howell"
+   ],
+   "discovered_via": "noura-howell"
+  },
+  {
+   "id": "waseem-hassan",
+   "name": "Waseem Hassan",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, Department of Computer Science, University of Copenhagen",
+   "role_zh": "哥本哈根大学计算机科学系研究者",
+   "based": "Copenhagen, DK",
+   "based_zh": "哥本哈根，丹麦",
+   "bio": "Haptics researcher at the University of Copenhagen who builds non-contact and wearable stimuli that change how people sense their own bodies.",
+   "bio_zh": "哥本哈根大学的触觉研究者，制作非接触式与可穿戴的刺激，改变人们对自己身体的感知。",
+   "why": "Heartbeat Resonance makes a heartbeat felt inside the chest without touching the body, opening a new channel for interoceptive feedback.",
+   "why_zh": "Heartbeat Resonance 不接触身体就能让人在胸腔里感到心跳，为内感受反馈打开了新的通道。",
+   "disciplines": [
+    "hci",
+    "engineering"
+   ],
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "phoebe-staab",
+   "name": "Phoebe A. Staab",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, Department of Informatics, King's College London",
+   "role_zh": "伦敦国王学院信息学系研究者",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "HCI researcher at King's College London who designs interoceptive awareness interventions for young people's mental health, including disordered eating.",
+   "bio_zh": "伦敦国王学院的人机交互研究者，为年轻人的心理健康（包括进食障碍）设计内感受觉察干预。",
+   "why": "Staab's work asks when and where people are willing to turn attention to inner bodily sensations in everyday life.",
+   "why_zh": "Staab 的研究追问：在日常生活中，人们何时、何地愿意把注意力转向身体内部的感受。",
+   "disciplines": [
+    "hci",
+    "health"
+   ],
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "petr-slovak"
+   ],
+   "discovered_via": "petr-slovak"
+  },
+  {
+   "id": "tamar-dublin",
+   "name": "Tamar Dublin",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, Media Innovation Lab (miLAB), Reichman University",
+   "role_zh": "赖克曼大学媒体创新实验室（miLAB）研究者",
+   "based": "Herzliya, IL",
+   "based_zh": "赫兹利亚，以色列",
+   "bio": "Designer-researcher at Reichman University's miLAB who builds targeted-heat interfaces for meditation and breathing practice.",
+   "bio_zh": "赖克曼大学 miLAB 的设计研究者，为冥想与呼吸练习制作定点加热界面。",
+   "why": "The heat-based prototypes show that gentle warmth on the body can draw attention inward where screens and visual cues pull it outward.",
+   "why_zh": "Dublin 的加热原型表明：屏幕与视觉提示把注意力拉向外部，而身体上温和的热感能把注意力引回内部。",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "alexandra-teixeira-riggs",
+   "name": "Alexandra Teixeira Riggs",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, Digital Media, Georgia Institute of Technology",
+   "role_zh": "佐治亚理工学院数字媒体系研究者",
+   "based": "Atlanta, US",
+   "based_zh": "亚特兰大，美国",
+   "bio": "Artist-researcher at Georgia Tech who works with queer theory, tangible making and biodata to express embodied and archival experience.",
+   "bio_zh": "佐治亚理工学院的艺术研究者，结合酷儿理论、实物制作与生物数据来表达具身经验与档案经验。",
+   "why": "Queer/Crip Body Mapping extends body mapping with sensor data and written reflection to hold fluctuating, non-normative bodily experience.",
+   "why_zh": "Queer/Crip Body Mapping 用传感器数据与书写反思扩展身体地图，让起伏不定、非规范的身体经验有处安放。",
+   "disciplines": [
+    "hci",
+    "art"
+   ],
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "noura-howell",
+    "karen-anne-cochrane"
+   ],
+   "discovered_via": "noura-howell"
+  },
+  {
+   "id": "rachel-keys",
+   "name": "Rachel Keys",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, University of Bristol",
+   "role_zh": "布里斯托大学研究者",
+   "based": "Bristol, UK",
+   "based_zh": "布里斯托，英国",
+   "bio": "HCI researcher at the University of Bristol who studies how people with atrial fibrillation live with consumer heart-tracking technology.",
+   "bio_zh": "布里斯托大学的人机交互研究者，研究房颤患者如何与消费级心脏监测技术一起生活。",
+   "why": "Keys introduces 'bodily doubt' to describe how uncertainty about one's own body shapes, and is shaped by, self-tracking in chronic illness.",
+   "why_zh": "Keys 提出“身体怀疑”的概念，描述在慢性病中，对自己身体的不确定如何塑造自我追踪，又如何被自我追踪所塑造。",
+   "disciplines": [
+    "hci",
+    "health"
+   ],
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "amar-dadamo",
+   "name": "Amar D'Adamo",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, i_mBODY Lab, Universidad Carlos III de Madrid",
+   "role_zh": "马德里卡洛斯三世大学 i_mBODY 实验室研究者",
+   "based": "Madrid, ES",
+   "based_zh": "马德里，西班牙",
+   "bio": "Researcher in Ana Tajadura-Jiménez's i_mBODY Lab working on sound-based body transformation experiences and body maps.",
+   "bio_zh": "Ana Tajadura-Jiménez 的 i_mBODY 实验室研究者，研究基于声音的身体变形体验与身体地图。",
+   "why": "The footstep studies take the Footsteps Illusion out of the lab, showing that altered footstep sounds change felt body weight on everyday walks.",
+   "why_zh": "这些脚步声研究把“脚步错觉”带出实验室，表明改变脚步声能在日常行走中改变人感到的体重。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "ana-tajadura-jimenez",
+    "laia-turmo-vidal"
+   ],
+   "discovered_via": "ana-tajadura-jimenez"
+  },
+  {
+   "id": "karin-bogdanova",
+   "name": "Karin Bogdanova",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, AI DeMoS Lab, Faculty of Industrial Design Engineering, Delft University of Technology",
+   "role_zh": "代尔夫特理工大学工业设计工程学院 AI DeMoS 实验室研究者",
+   "based": "Delft, NL",
+   "based_zh": "代尔夫特，荷兰",
+   "bio": "Design researcher at TU Delft who studies AI-based mental health tools through pragmatist aesthetics and the experience of service users.",
+   "bio_zh": "代尔夫特理工大学的设计研究者，借助实用主义美学与服务使用者的经验研究基于人工智能的心理健康工具。",
+   "why": "Bogdanova proposes 'felt informatics', making felt life rather than detached symptom data the object of digital phenotyping design.",
+   "why_zh": "Bogdanova 提出“被感受的信息学”，让被活出来的感受、而不是抽离的症状数据，成为数字表型设计的对象。",
+   "disciplines": [
+    "design",
+    "health"
+   ],
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kyrill-potapov",
+   "name": "Kyrill Potapov",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, UCL Interaction Centre, University College London",
+   "role_zh": "伦敦大学学院交互中心（UCLIC）研究者",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "Researcher at UCLIC working on music-based movement sonification for people living with chronic pain.",
+   "bio_zh": "UCLIC 的研究者，为慢性疼痛患者研究基于音乐的动作声音化。",
+   "why": "FFAME uses people's own familiar music, filtered by trunk movement, to help them explore movements they fear.",
+   "why_zh": "FFAME 用人们自己熟悉的音乐、随躯干动作而滤波，帮助他们探索原本害怕的动作。",
+   "disciplines": [
+    "hci",
+    "health"
+   ],
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "nadia-bianchi-berthouze"
+   ],
+   "discovered_via": "nadia-bianchi-berthouze"
+  },
+  {
+   "id": "eleni-economidou",
+   "name": "Eleni Economidou",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, Human-Computer Interaction Division, University of Salzburg",
+   "role_zh": "萨尔茨堡大学人机交互部研究者",
+   "based": "Salzburg, AT",
+   "based_zh": "萨尔茨堡，奥地利",
+   "bio": "HCI researcher at the University of Salzburg who works with electronic textiles, craft and sonification.",
+   "bio_zh": "萨尔茨堡大学的人机交互研究者，结合电子织物、手工与声音化开展研究。",
+   "why": "Economidou proposes conductive wet felting as a slow, embodied craft practice for regulating anxiety.",
+   "why_zh": "Economidou 提出把导电湿毡制作作为一种缓慢的具身手工练习，用来调节焦虑。",
+   "disciplines": [
+    "hci",
+    "art"
+   ],
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jose-manuel-vega-cebrian",
+   "name": "José Manuel Vega-Cebrián",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, i_mBODY Lab, Universidad Carlos III de Madrid",
+   "role_zh": "马德里卡洛斯三世大学 i_mBODY 实验室研究者",
+   "based": "Madrid, ES",
+   "based_zh": "马德里，西班牙",
+   "bio": "Researcher at UC3M who co-designs minimalist movement-feedback wearables for physical rehabilitation, supervised by Elena Márquez Segura and Ana Tajadura-Jiménez.",
+   "bio_zh": "马德里卡洛斯三世大学的研究者，在 Elena Márquez Segura 与 Ana Tajadura-Jiménez 指导下共同设计用于身体康复的极简动作反馈可穿戴设备。",
+   "why": "The MoTTs show how little hardware is needed to give rich multisensory movement feedback in rehabilitation.",
+   "why_zh": "MoTTs 表明，只需很少的硬件就能在康复中提供丰富的多感官动作反馈。",
+   "disciplines": [
+    "hci",
+    "health"
+   ],
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "elena-marquez-segura",
+    "ana-tajadura-jimenez"
+   ],
+   "discovered_via": "elena-marquez-segura"
+  },
+  {
+   "id": "sanne-beijer",
+   "name": "Sanne Beijer",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Design researcher, Department of Industrial Design, Eindhoven University of Technology",
+   "role_zh": "埃因霍温理工大学工业设计系设计研究者",
+   "based": "Eindhoven, NL",
+   "based_zh": "埃因霍温，荷兰",
+   "bio": "Design researcher at TU Eindhoven who designs warm, tactile artifacts for people in advanced dementia care and their caregivers.",
+   "bio_zh": "埃因霍温理工大学的设计研究者，为晚期失智症照护中的人及其照护者设计温暖、可触摸的物件。",
+   "why": "The Mano artifacts show how warmth, weight and texture can support non-verbal connection when words are no longer available.",
+   "why_zh": "Mano 物件表明，当语言已不可用时，温度、重量与质地仍能支撑非语言的连接。",
+   "disciplines": [
+    "design",
+    "health"
+   ],
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "lisa-hofer--in-my-cycle",
+   "creator_ids": [
+    "lisa-hofer"
+   ],
+   "title": "In my Cycle",
+   "year": 2025,
+   "field": "intimate",
+   "sub": "menstruation",
+   "modalities": [
+    "intimate-body",
+    "voice-sound",
+    "touch"
+   ],
+   "lenses": [
+    "first-person",
+    "body-politics"
+   ],
+   "kind": "artwork",
+   "description": "A walkable sound installation of 19 suspended wooden spheres, each standing for one recurring bodily sensation from two decades of the artist's menstrual cycles; visitors move among the spheres, touching and listening.",
+   "description_zh": "一件可以走进去的声音装置：19 个悬挂的木球，每一个代表艺术家二十年月经周期中反复出现的一种身体感受；观众在木球之间穿行，触摸并聆听。",
+   "idea_en": "Menstrual sensations can be externalised as objects to touch and hear, turning private cycle knowledge into a shared space for attention and conversation rather than a data point in an app.",
+   "idea_zh": "月经的感受可以外化为可触摸、可聆听的物件，把私密的周期知识变成一个供人关注与交谈的共享空间，而不是应用里的一个数据点。",
+   "method": "Developed through first-person artistic performance and soma design; each sensation is given a hanging wooden sphere that answers quiet interaction with sound and spatial storytelling (the exact sensing is likely touch-triggered audio).",
+   "method_zh": "经由第一人称的艺术表演与身体设计发展而成：每种感受对应一个悬挂的木球，在安静的互动中以声音与空间叙事回应（具体传感方式可能为触碰触发的音频）。",
+   "keywords": [
+    "menstruation",
+    "menstrual literacy",
+    "sound installation",
+    "soma design",
+    "feminist HCI",
+    "critical menstruation studies"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3715668.3735598",
+    "doi": "10.1145/3715668.3735598",
+    "arxiv": "",
+    "venue": "DIS 2025 Companion (Demo)",
+    "title": "In my Cycle: Designing Sensory Spaces for Menstrual Awareness through Soma Design"
+   },
+   "collections": [
+    "dis"
+   ]
+  },
+  {
+   "id": "daisy-oneill--lets-talk-menopause",
+   "creator_ids": [
+    "daisy-oneill"
+   ],
+   "title": "Let's Talk Menopause",
+   "year": 2024,
+   "field": "intimate",
+   "sub": "life-transitions",
+   "modalities": [
+    "intimate-body",
+    "whole-soma",
+    "touch"
+   ],
+   "lenses": [
+    "body-politics",
+    "intercorporeality"
+   ],
+   "kind": "prototype",
+   "description": "Five interactive artifacts, among them conversation-starting cups and a wall where visitors post their own experiences, made with six mother–daughter pairs to render hidden experiences of menopause tangible; shown at Dutch Design Week 2024.",
+   "description_zh": "与六对母女共同创作的五件互动物件，包括引发对话的杯子和一面让观众贴上自身经历的墙，把更年期中隐而不见的经验变得可触可感；在 2024 年荷兰设计周展出。",
+   "idea_en": "Menopause is lived in the body but rarely spoken about between generations; shared material artifacts can make plural bodily experiences discussable instead of leaving a single medical script.",
+   "idea_zh": "更年期活在身体里，却很少在代际之间被谈起；共享的物质载体能让多样的身体经验得以讨论，而不只剩一套医学脚本。",
+   "method": "Research through Design: co-speculation and collaborative making workshops with six mother–daughter dyads produced material representations of their menopause experiences, iterated into five exhibited interactive artifacts.",
+   "method_zh": "设计研究（RtD）：与六对母女开展共同思辨与共同制作工作坊，把她们的更年期经验做成物质表征，再迭代为五件展出的互动物件。",
+   "keywords": [
+    "menopause",
+    "intergenerational dialogue",
+    "mother–daughter",
+    "Research through Design",
+    "Dutch Design Week",
+    "women's health"
+   ],
+   "images": [
+    "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/whatsapp-image-2024-10-20-at-170852_1729440015_1200x630.jpeg",
+    "https://delta.tudelft.nl/wp-content/uploads/2025/10/Lets-talk-menopause-visual.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3715336.3735849",
+    "doi": "10.1145/3715336.3735849",
+    "arxiv": "",
+    "venue": "DIS 2025",
+    "title": "Let's Talk Menopause: Promoting Intergenerational Dialogue about Menopause through Design"
+   },
+   "source_url": "https://ddw.nl/en/programme/13180/lets-talk-menopause",
+   "collections": [
+    "dis"
+   ],
+   "exhibited": [
+    "Dutch Design Week 2024, Eindhoven"
+   ]
+  },
+  {
+   "id": "valeria-regis--adaptive-pleasure-object",
+   "creator_ids": [
+    "valeria-regis"
+   ],
+   "title": "Embracing Gender Diversity: Designing an Adaptive Pleasure Object for a Changing Body",
+   "year": 2025,
+   "field": "intimate",
+   "sub": "queer-trans",
+   "modalities": [
+    "intimate-body",
+    "touch"
+   ],
+   "lenses": [
+    "pleasure-play",
+    "body-politics"
+   ],
+   "kind": "prototype",
+   "description": "A pleasure object for trans and non-binary people in hormone therapy, designed to stay fluid and adapt as anatomy and sense of self change over the course of transition.",
+   "description_zh": "为正在接受激素治疗的跨性别与非二元性别者设计的愉悦物件，旨在保持可变，随着过渡过程中身体结构与自我感受的变化而调整。",
+   "idea_en": "Intimate products usually assume a fixed body; designing for transition means designing for a body that keeps changing, and for pleasure that changes with it.",
+   "idea_zh": "私密产品通常预设一个固定的身体；为性别过渡而设计，意味着为一个不断变化的身体、以及随之变化的愉悦而设计。",
+   "method": "An online survey on the autoerotic habits of trans and non-binary people, three sensitive interviews and clinical input informed a prototype whose form and materials adapt to anatomical change (specific mechanisms not verified).",
+   "method_zh": "一项关于跨性别与非二元性别者自慰习惯的在线问卷、三次敏感议题访谈以及临床意见，共同指导了一个形态与材料可随身体结构变化而调整的原型（具体机制未核实）。",
+   "keywords": [
+    "trans",
+    "non-binary",
+    "hormone therapy",
+    "sexual wellness",
+    "pleasure object",
+    "inclusive design"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3706598.3713939",
+    "doi": "10.1145/3706598.3713939",
+    "arxiv": "",
+    "venue": "CHI 2025",
+    "title": "Embracing Gender Diversity: Designing an Adaptive Pleasure Object for a Changing Body"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "celine-offerman--sex-after-cancer",
+   "creator_ids": [
+    "celine-offerman"
+   ],
+   "title": "Sex after Cancer: Co-Designing Bespoke Care Technologies for Post-Cancer Bodies",
+   "year": 2026,
+   "field": "intimate",
+   "sub": "pleasure",
+   "also": [
+    "care"
+   ],
+   "modalities": [
+    "intimate-body",
+    "touch",
+    "whole-soma"
+   ],
+   "lenses": [
+    "care-healing",
+    "intercorporeality"
+   ],
+   "kind": "prototype",
+   "description": "Trauma-informed co-design workshops with two cancer survivors produced BodyTalk, a sensory game for couples to rebuild emotional and physical intimacy, and a zine series of anonymous survivors' stories.",
+   "description_zh": "与两位癌症幸存者开展的创伤知情共同设计工作坊，产出了 BodyTalk——一款帮助伴侣重建情感与身体亲密的感官游戏，以及一套匿名幸存者故事的小志（zine）系列。",
+   "idea_en": "After cancer treatment the body can feel unsettled and partners can shift from lovers to carers; bespoke care technologies start from these felt changes rather than from medical symptoms alone.",
+   "idea_zh": "癌症治疗之后，身体可能变得陌生不安，伴侣也可能从爱人变成照护者；量身定制的照护技术从这些被感受到的变化出发，而不只看医学症状。",
+   "method": "Generative, trauma-informed workshops with two survivors surfaced themes such as unsettled bodies and selfhood, which were co-designed into a sensory couple game and a zine archive; builds on the authors' interviews with medical sexologists (CHI 2025).",
+   "method_zh": "与两位幸存者进行的生成式、创伤知情工作坊提炼出“不安的身体与自我”等主题，再共同设计成一款伴侣感官游戏与一套小志档案；此前作者还访谈了医学性学家（CHI 2025）。",
+   "keywords": [
+    "cancer survivorship",
+    "sexual health",
+    "intimacy",
+    "co-design",
+    "trauma-informed design",
+    "BodyTalk"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3772318.3790355",
+    "doi": "10.1145/3772318.3790355",
+    "arxiv": "",
+    "venue": "CHI 2026",
+    "title": "Sex after Cancer: Co-Designing Bespoke Care Technologies for Post-Cancer Bodies"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "bojana-nikolovska--feminist-self-defense",
+   "creator_ids": [
+    "bojana-nikolovska"
+   ],
+   "title": "Imagining with the Body: Speculative Designs for Women's Embodied Empowerment in Feminist Self-Defense",
+   "year": 2025,
+   "field": "intimate",
+   "sub": "feminist-body",
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-politics",
+    "movement-expression"
+   ],
+   "kind": "paper",
+   "description": "A study of feminist self-defense classes in Sweden, which combine physical techniques with role-play and mental-strength exercises, followed by a participatory workshop in which novices imagined technologies to support the practice.",
+   "description_zh": "对瑞典女性主义防身课的研究——这类课程把身体技术与角色扮演、心理力量练习结合在一起；随后在参与式工作坊中，初学者构想了可以支持这一练习的技术。",
+   "idea_en": "Self-defense training changes what women believe their bodies can do; embodied design can support that shift by treating movement and consciousness-raising as one practice.",
+   "idea_zh": "防身训练改变女性对自己身体能力的认知；具身设计可以把动作训练与意识觉醒当作同一种练习来支持这种转变。",
+   "method": "Semi-structured interviews with students and teachers of feminist self-defense, then a participatory speculative design workshop with novice practitioners that produced speculative technology concepts.",
+   "method_zh": "先对女性主义防身课的学员与教师做半结构化访谈，再与初学者开展参与式思辨设计工作坊，产出一组思辨性的技术概念。",
+   "keywords": [
+    "feminist self-defense",
+    "gender-based violence",
+    "embodied interaction",
+    "speculative design",
+    "empowerment",
+    "movement"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3706598.3713975",
+    "doi": "10.1145/3706598.3713975",
+    "arxiv": "",
+    "venue": "CHI 2025",
+    "title": "Imagining with the Body: Speculative Designs for Women's Embodied Empowerment in Feminist Self-Defense"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "dorothe-smit--interacting-like-a-girl",
+   "creator_ids": [
+    "dorothe-smit"
+   ],
+   "title": "Interacting Like a Girl: Considering Body Comportment in the Design of Embodied Interactions",
+   "year": 2025,
+   "field": "intimate",
+   "sub": "feminist-body",
+   "modalities": [
+    "movement",
+    "posture-balance"
+   ],
+   "lenses": [
+    "body-politics",
+    "body-mind-unity"
+   ],
+   "kind": "paper",
+   "description": "A conceptual paper that reads embodied interaction through Iris Marion Young's essay 'Throwing Like a Girl', relating ambiguous transcendence, inhibited intentionality and discontinuous unity to how people move with interactive technology.",
+   "description_zh": "一篇概念性论文，借 Iris Marion Young 的论文《像女孩那样扔球》审视具身交互，把“含混的超越”“受抑的意向性”“断裂的统一”三种身体举止模式与人们带着交互技术活动的方式联系起来。",
+   "idea_en": "Embodied interaction often assumes a universal, confident body; how a person has learned to inhabit space shapes how far they reach, move and act with technology.",
+   "idea_zh": "具身交互常常预设一个普遍的、自信的身体；一个人习得的占据空间的方式，决定了其在使用技术时伸展、移动与行动的幅度。",
+   "method": "Theoretical analysis mapping Young's three modalities of feminine body comportment onto embodied interaction design, with reflection on how the designer's own bodily existence shapes the spatial scope of interactions.",
+   "method_zh": "理论分析：把 Young 提出的女性身体举止三种模式对应到具身交互设计上，并反思设计者自身的身体存在如何影响交互的空间范围。",
+   "keywords": [
+    "Iris Marion Young",
+    "Throwing Like a Girl",
+    "body comportment",
+    "phenomenology",
+    "feminist HCI",
+    "embodied interaction"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3715336.3735800",
+    "doi": "10.1145/3715336.3735800",
+    "arxiv": "",
+    "venue": "DIS 2025",
+    "title": "Interacting Like a Girl: Considering Body Comportment in the Design of Embodied Interactions"
+   },
+   "collections": [
+    "dis"
+   ]
+  },
+  {
+   "id": "heidi-biggs--bog-girl",
+   "creator_ids": [
+    "heidi-biggs"
+   ],
+   "title": "Fabulating Bog Girl",
+   "year": 2025,
+   "field": "intimate",
+   "sub": "queer-trans",
+   "modalities": [
+    "whole-soma",
+    "intimate-body"
+   ],
+   "lenses": [
+    "more-than-human",
+    "body-politics",
+    "care-healing"
+   ],
+   "kind": "paper",
+   "description": "An autofiction, Bog Girl, that tells how non-binary bodies and wetlands are both cut by binary logics in medicine and agriculture, and imagines shared paths of grieving and healing between body and land.",
+   "description_zh": "一部自传体虚构作品 Bog Girl，讲述非二元的身体与湿地如何同样被医学与农业中的二元逻辑切割，并想象身体与土地之间共同的哀悼与疗愈之路。",
+   "idea_en": "Queer embodied experience can ground more-than-human design: a body that does not fit binaries can recognise kinship with land that is also being divided.",
+   "idea_zh": "酷儿的具身经验可以成为超越人类设计的根基：一个不合乎二元框架的身体，能在同样被分割的土地中认出亲缘。",
+   "method": "Fabulation and autofiction based on the author's own experience, read alongside histories of wetland drainage, to derive non-binary ethics and 'pluriversal bodily consent' for more-than-human design.",
+   "method_zh": "以作者亲身经历为基础的虚构与自传体虚构，与湿地排干的历史对读，提炼出面向超越人类设计的非二元伦理与“多元世界的身体同意”。",
+   "keywords": [
+    "autofiction",
+    "non-binary",
+    "wetlands",
+    "more-than-human",
+    "queer HCI",
+    "fabulation"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5a7cf83080bd5e4daf4669a3/8b425188-23ad-44b6-af6b-65ee1bd32c37/bog+girl.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3706598.3714067",
+    "doi": "10.1145/3706598.3714067",
+    "arxiv": "",
+    "venue": "CHI 2025",
+    "title": "Fabulating Bog Girl: Queer Entanglements of Body and Land Histories in More-than-Human AutoFiction and Design"
+   },
+   "source_url": "https://www.heidibiggsdesign.com/fabulating-bog-girl/",
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "waseem-hassan--heartbeat-resonance",
+   "creator_ids": [
+    "waseem-hassan"
+   ],
+   "title": "Heartbeat Resonance",
+   "year": 2025,
+   "field": "affect",
+   "sub": "interoception",
+   "modalities": [
+    "heartbeat",
+    "vibration"
+   ],
+   "lenses": [
+    "affective-loop",
+    "attunement"
+   ],
+   "kind": "prototype",
+   "description": "A system that uses low-frequency sound waves to produce a heartbeat-like sensation inside the chest without touching the body; people feel a 'heartbeat' where their own heart sits and can be nudged toward faster or slower rhythms.",
+   "description_zh": "一个用低频声波在胸腔内制造类似心跳感觉的系统，不接触身体；人们在自己心脏所在的位置感到“心跳”，并可被引导向更快或更慢的节律。",
+   "idea_en": "Interoceptive feedback lands most convincingly where the organ is felt; placing a heartbeat in the chest, rather than on the wrist, lets an external signal merge with the sense of one's own heart.",
+   "idea_zh": "内感受反馈在器官被感到的位置最可信；把心跳放进胸腔而不是手腕，外部信号就能与对自己心脏的感受融为一体。",
+   "method": "Low-frequency loudspeaker output (most effective around 78 Hz) creates non-contact haptic sensations in the chest cavity; two experiments tested realism and entrainment with heart rates shifted by +15% and -30%.",
+   "method_zh": "以低频扬声器输出（约 78 Hz 时效果最佳）在胸腔内产生非接触触感；两项实验分别测试了真实感，以及心率被调高 15%、调低 30% 时的同步效应。",
+   "keywords": [
+    "interoception",
+    "heartbeat",
+    "biofeedback",
+    "non-contact haptics",
+    "low-frequency sound",
+    "entrainment"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=LG8bVkIA4qs"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3706598.3713959",
+    "doi": "10.1145/3706598.3713959",
+    "arxiv": "",
+    "venue": "CHI 2025",
+    "title": "Heartbeat Resonance: Inducing Non-contact Heartbeat Sensations in the Chest"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "phoebe-staab--interoceptive-awareness-emi",
+   "creator_ids": [
+    "phoebe-staab",
+    "petr-slovak"
+   ],
+   "title": "Identifying Opportunities and Envisioning Ecological Momentary Interoceptive Awareness Interventions With Young Women",
+   "year": 2025,
+   "field": "affect",
+   "sub": "interoception",
+   "also": [
+    "care"
+   ],
+   "modalities": [
+    "pain-interoception",
+    "whole-soma"
+   ],
+   "lenses": [
+    "attunement",
+    "care-healing"
+   ],
+   "kind": "paper",
+   "description": "A two-week experience-sampling study and sketching interviews with 21 young women, exploring when, where and during which activities they are open to practising interoceptive awareness, as groundwork for in-the-moment digital interventions.",
+   "description_zh": "一项为期两周的经验取样研究，加上与 21 位年轻女性进行的草图访谈，探究她们在何时、何地、做什么事情时愿意练习内感受觉察，为即时的数字干预打下基础。",
+   "idea_en": "Noticing inner sensations is a skill that has to fit into daily life; the right moments are defined by people's own activities and inner states, not only by sensor-detected context.",
+   "idea_zh": "觉察身体内部的感受是一种需要融入日常生活的技能；合适的时机由人们自己的活动与内在状态决定，而不只是传感器检测到的情境。",
+   "method": "Experience sampling over two weeks logged activities and openness to interoceptive awareness; participants then sketched ecological momentary interventions and discussed them in one-on-one interviews.",
+   "method_zh": "两周的经验取样记录了参与者的活动及其对内感受觉察的开放程度；随后参与者绘制生态瞬时干预的草图，并在一对一访谈中讨论。",
+   "keywords": [
+    "interoceptive awareness",
+    "ecological momentary intervention",
+    "disordered eating",
+    "young women",
+    "mental health",
+    "experience sampling"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3706598.3713859",
+    "doi": "10.1145/3706598.3713859",
+    "arxiv": "",
+    "venue": "CHI 2025",
+    "title": "Identifying Opportunities and Envisioning Ecological Momentary Interoceptive Awareness Interventions With Young Women"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "tamar-dublin--walking-meditation-mat",
+   "creator_ids": [
+    "tamar-dublin"
+   ],
+   "title": "The Walking Meditation Mat",
+   "year": 2025,
+   "field": "affect",
+   "sub": "interoception",
+   "also": [
+    "practices"
+   ],
+   "modalities": [
+    "heat",
+    "movement"
+   ],
+   "lenses": [
+    "attunement",
+    "body-mind-unity"
+   ],
+   "kind": "prototype",
+   "description": "A three-metre mat with ten visual step markers and ten heater pads that warm the soles step by step, guiding walking meditators to attend to the sensations in their feet.",
+   "description_zh": "一张三米长的垫子，上面有十个视觉步点和十块加热垫，逐步温暖脚底，引导行禅者关注脚部的感受。",
+   "idea_en": "Visual cues pull attention outward while gentle, targeted warmth draws it into the body; heat can serve as an affordance for inward attention.",
+   "idea_zh": "视觉提示把注意力拉向外部，而温和的定点热感把注意力引入身体；热可以成为向内注意的一种可供性。",
+   "method": "Ten heater pads under the foot positions switch on in sequence; a qualitative study compared walking meditation with and without heat, contrasting visual signifiers with feet-focused warmth.",
+   "method_zh": "脚步位置下的十块加热垫依次启动；一项质性研究比较了有无加热的行禅体验，对照视觉标记与针对脚部的热感各自的作用。",
+   "keywords": [
+    "walking meditation",
+    "targeted heat",
+    "inward attention",
+    "grounding",
+    "mindfulness",
+    "thermal interface"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=8_ttlGws9xU"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3706598.3713208",
+    "doi": "10.1145/3706598.3713208",
+    "arxiv": "",
+    "venue": "CHI 2025",
+    "title": "The Walking Meditation Mat: Leveraging Targeted Heat Sensation to Guide Attention Inward"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "alexandra-teixeira-riggs--queer-crip-body-mapping",
+   "creator_ids": [
+    "alexandra-teixeira-riggs",
+    "noura-howell",
+    "karen-anne-cochrane"
+   ],
+   "title": "Queer/Crip Body Mapping",
+   "year": 2025,
+   "field": "affect",
+   "sub": "body-data",
+   "also": [
+    "intimate"
+   ],
+   "modalities": [
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-data",
+    "body-politics",
+    "first-person"
+   ],
+   "kind": "method",
+   "description": "A collaborative autoethnography in which the authors traced their own somatic experiences over time with sensors and paired biodata visualisations with written or spoken reflections, expanding body mapping toward queer and crip ways of knowing.",
+   "description_zh": "一项合作式自我民族志：作者们用传感器长期追踪自己的身体经验，把生物数据可视化与书写或口述的反思配对，把身体地图方法拓展到酷儿与残障（crip）的认知方式。",
+   "idea_en": "Bodily experience that fluctuates or does not fit norms needs maps that hold time and situation; pairing biodata with first-person reflection lets data express the body rather than judge it.",
+   "idea_zh": "起伏不定或不合常规的身体经验，需要能容纳时间与情境的地图；把生物数据与第一人称反思配对，能让数据去表达身体，而不是评判身体。",
+   "method": "Tangible body mapping techniques combined with wearable sensors and contextual biodata visualisations, analysed through collaborative autoethnography informed by queer and disability theory.",
+   "method_zh": "把实物身体地图技法与可穿戴传感器、情境化的生物数据可视化结合，并以受酷儿理论与残障理论启发的合作式自我民族志进行分析。",
+   "keywords": [
+    "body mapping",
+    "queer theory",
+    "crip theory",
+    "biodata",
+    "autoethnography",
+    "temporality"
+   ],
+   "images": [
+    "https://sites.gatech.edu/futurefeelings/files/2025/07/Composite_screenshot-1024x423.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3715336.3735438",
+    "doi": "10.1145/3715336.3735438",
+    "arxiv": "",
+    "venue": "DIS 2025",
+    "title": "Queer/Crip Body Mapping: Expressing Dynamic Bodily Experiences with Data"
+   },
+   "source_url": "https://sites.gatech.edu/futurefeelings/2025/07/18/queer-crip-body-mapping-expressing-dynamic-bodily-experiences-with-data/",
+   "collections": [
+    "dis"
+   ]
+  },
+  {
+   "id": "rachel-keys--bodily-doubt",
+   "creator_ids": [
+    "rachel-keys"
+   ],
+   "title": "Rethinking Lived Experience in Chronic Illness: Navigating Bodily Doubt with Consumer Technology in Atrial Fibrillation Self-Care",
+   "year": 2025,
+   "field": "affect",
+   "sub": "body-data",
+   "also": [
+    "care"
+   ],
+   "modalities": [
+    "heartbeat"
+   ],
+   "lenses": [
+    "body-data",
+    "care-healing"
+   ],
+   "kind": "paper",
+   "description": "An interview study with 29 adults who self-track while living with atrial fibrillation, describing how consumer devices let them 'outsource' awareness of their heart and how this both calms and deepens uncertainty about the body.",
+   "description_zh": "一项访谈研究：29 位在患房颤的同时进行自我追踪的成年人讲述了消费级设备如何让他们把对心脏的觉察“外包”出去，而这既带来安心，也加深了对身体的不确定。",
+   "idea_en": "In chronic illness the body becomes doubtful; a 'digitised heart' can reassure, but when it fails to keep up with the disease it widens the gap between the felt and the measured body.",
+   "idea_zh": "在慢性病中，身体变得可疑；“数字化的心脏”能给人安心，但当它跟不上病情变化时，被感受的身体与被测量的身体之间的裂缝会更大。",
+   "method": "Semi-structured interviews with 29 people with atrial fibrillation who use consumer heart-tracking technology, analysed through phenomenology to develop the concept of 'bodily doubt'.",
+   "method_zh": "对 29 位使用消费级心脏监测技术的房颤患者进行半结构化访谈，并借现象学分析提出“身体怀疑”这一概念。",
+   "keywords": [
+    "atrial fibrillation",
+    "bodily doubt",
+    "phenomenology",
+    "self-tracking",
+    "chronic illness",
+    "lived body"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3706598.3713326",
+    "doi": "10.1145/3706598.3713326",
+    "arxiv": "",
+    "venue": "CHI 2025",
+    "title": "Rethinking Lived Experience in Chronic Illness: Navigating Bodily Doubt with Consumer Technology in Atrial Fibrillation Self-Care"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "amar-dadamo--wild-side-footsteps",
+   "creator_ids": [
+    "amar-dadamo",
+    "laia-turmo-vidal",
+    "ana-tajadura-jimenez"
+   ],
+   "title": "Taking a Walk on the Wild Side",
+   "year": 2026,
+   "field": "affect",
+   "sub": "affective-loops",
+   "modalities": [
+    "voice-sound",
+    "movement"
+   ],
+   "lenses": [
+    "affective-loop",
+    "extended-body"
+   ],
+   "kind": "prototype",
+   "description": "People walked a fixed path and then freely across campus while stepping in sync with prerecorded footstep soundtracks shifted to higher or lower pitch, and felt their bodies become lighter or heavier, with gait and emotion changing too.",
+   "description_zh": "参与者先沿固定路线、再在校园中自由行走，同时让步伐与经过升调或降调处理的预录脚步声同步，于是感到身体变轻或变重，步态与情绪也随之改变。",
+   "idea_en": "What we hear our body do shapes how heavy it feels; the Footsteps Illusion survives everyday surroundings, and those surroundings change how strongly it is felt.",
+   "idea_zh": "我们听到身体发出的声音，会塑造它被感到的轻重；“脚步错觉”在日常环境中依然有效，而环境本身也会改变它被感受的强度。",
+   "method": "A minimal setup let 28 participants synchronise with Control, High- and Low-Frequency footstep soundtracks; gait recordings, questionnaires, body visualisations and post-walk interviews with a spatial mapping tool linked body sensations to place.",
+   "method_zh": "一套极简装置让 28 位参与者与原声、高频、低频三种脚步声音轨同步行走；步态记录、问卷、身体可视化，以及借助空间地图工具的步后访谈，把身体感受与地点联系起来。",
+   "keywords": [
+    "Footsteps Illusion",
+    "body perception",
+    "sonification",
+    "body transformation experience",
+    "gait",
+    "everyday walking"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3772318.3793153",
+    "doi": "10.1145/3772318.3793153",
+    "arxiv": "",
+    "venue": "CHI 2026",
+    "title": "Taking a Walk on the Wild Side: Effects of Walking in Synchrony with Pitch-Altered Footstep Sounds on Body Perception in Outside the Lab Contexts"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "karin-bogdanova--felt-informatics",
+   "creator_ids": [
+    "karin-bogdanova"
+   ],
+   "title": "Digital Phenotyping as Felt Informatics: Designing AI-Based Mental Health Diagnostic Tools Through Aesthetics",
+   "year": 2025,
+   "field": "affect",
+   "sub": "body-data",
+   "also": [
+    "care"
+   ],
+   "modalities": [
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-data",
+    "body-mind-unity"
+   ],
+   "kind": "paper",
+   "description": "A design-theory paper arguing that digital phenotyping, which infers psychiatric symptoms from phone and wearable data, should be designed around service users' felt life, drawing on pragmatist aesthetics.",
+   "description_zh": "一篇设计理论论文，主张数字表型（从手机与可穿戴设备数据推断精神症状）应当围绕服务使用者被活出来的感受来设计，理论依据是实用主义美学。",
+   "idea_en": "Diagnostic data does not just describe mental ill health, it mediates how it is lived; designing such tools means cultivating aesthetic sensibility toward felt experience.",
+   "idea_zh": "诊断数据不只是描述心理疾病，也在中介它如何被经历；设计这类工具，意味着培养对被感受经验的审美敏感。",
+   "method": "Conceptual analysis placing digital phenotyping in the problem space of pragmatist aesthetics (felt life, aesthetic experience), with design considerations for practitioners and researchers.",
+   "method_zh": "概念分析：把数字表型放进实用主义美学（被活出的感受、审美经验）的问题空间，并为实践者与研究者提出设计考量。",
+   "keywords": [
+    "digital phenotyping",
+    "felt informatics",
+    "pragmatist aesthetics",
+    "mental health",
+    "AI",
+    "aesthetic experience"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3706598.3714399",
+    "doi": "10.1145/3706598.3714399",
+    "arxiv": "",
+    "venue": "CHI 2025",
+    "title": "Digital Phenotyping as Felt Informatics: Designing AI-Based Mental Health Diagnostic Tools Through Aesthetics"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "sarah-homewood--lull",
+   "creator_ids": [
+    "sarah-homewood"
+   ],
+   "title": "Lull",
+   "year": 2025,
+   "field": "care",
+   "sub": "pain-rehab",
+   "modalities": [
+    "vibration",
+    "whole-soma"
+   ],
+   "lenses": [
+    "care-healing",
+    "body-politics",
+    "body-data"
+   ],
+   "kind": "prototype",
+   "description": "Pacing technologies for people with energy-limiting conditions such as long COVID and ME/CFS, explored as bronze-cast jewellery and as wearables that turn sensor data into gentle vibrations, so wearers can check the numbers against their own felt sense of fatigue.",
+   "description_zh": "为长新冠、肌痛性脑脊髓炎/慢性疲劳综合征等能量受限疾病患者设计的节奏调控技术，以青铜铸造的首饰和把传感数据转为轻柔振动的可穿戴物两种形式探索，让佩戴者把数字与自己感受到的疲劳相互校准。",
+   "idea_en": "Rest is a practice, not a failure to be active; pacing technology can be non-medicalising, felt rather than read, and leave the final judgement to the wearer's own sense of fatigue.",
+   "idea_zh": "休息是一种练习，而不是没能活动；节奏调控技术可以不医学化，可以被感受而不是被阅读，并把最终判断留给佩戴者自己对疲劳的感受。",
+   "method": "Co-design with people with energy-limiting conditions and a crip-theory-informed Research through Design process combining bronze casting from jewellery making with wearable sensing and vibrotactile output.",
+   "method_zh": "与能量受限疾病患者共同设计，并在受残障（crip）理论启发的设计研究过程中，把首饰制作中的青铜铸造与可穿戴传感、振动触觉输出结合起来。",
+   "keywords": [
+    "pacing",
+    "long COVID",
+    "ME/CFS",
+    "crip theory",
+    "jewellery",
+    "vibrotactile feedback"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3715336.3735419",
+    "doi": "10.1145/3715336.3735419",
+    "arxiv": "",
+    "venue": "DIS 2025",
+    "title": "Lull: Designing Crip Pacing Technologies for Rest"
+   },
+   "collections": [
+    "dis"
+   ]
+  },
+  {
+   "id": "kyrill-potapov--ffame",
+   "creator_ids": [
+    "kyrill-potapov",
+    "nadia-bianchi-berthouze"
+   ],
+   "title": "FFAME",
+   "year": 2025,
+   "field": "care",
+   "sub": "pain-rehab",
+   "modalities": [
+    "movement",
+    "voice-sound",
+    "pain-interoception"
+   ],
+   "lenses": [
+    "care-healing",
+    "movement-expression"
+   ],
+   "kind": "prototype",
+   "description": "A movement sonification system for people with chronic back pain that progressively filters a piece of music they know and like according to the angle of the trunk, so bending and reaching are heard as the song opening up or closing in.",
+   "description_zh": "一个为慢性腰背痛患者设计的动作声音化系统：根据躯干角度逐步对他们熟悉并喜欢的音乐进行滤波，于是弯腰与伸展被听成歌曲的展开或收拢。",
+   "idea_en": "Familiar music carries meaning that simple tones do not; letting movement shape it helps people escape pain rumination, externalise pain and explore movements they fear.",
+   "idea_zh": "熟悉的音乐承载着简单音调所没有的意义；让动作来塑造音乐，能帮助人们跳出对疼痛的反刍、把疼痛外化，并探索原本害怕的动作。",
+   "method": "Trunk-angle sensing drives progressive audio filtering of participant-chosen music (Filtering Familiar Audio for Movement Exploration); qualitative study with 15 people with chronic pain and 5 physiotherapists, read through enactivism.",
+   "method_zh": "通过感测躯干角度，对参与者自选的音乐进行渐进式滤波（Filtering Familiar Audio for Movement Exploration）；对 15 位慢性疼痛患者与 5 位物理治疗师进行质性研究，并以生成主义（enactivism）解读。",
+   "keywords": [
+    "chronic pain",
+    "movement sonification",
+    "music",
+    "physiotherapy",
+    "enactivism",
+    "agency"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3706598.3713601",
+    "doi": "10.1145/3706598.3713601",
+    "arxiv": "",
+    "venue": "CHI 2025",
+    "title": "Movement Sonification of Familiar Music to Support the Agency of People with Chronic Pain"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "eleni-economidou--conductive-wool",
+   "creator_ids": [
+    "eleni-economidou"
+   ],
+   "title": "This Is How I Felt",
+   "year": 2025,
+   "field": "care",
+   "sub": "stress-mental-health",
+   "modalities": [
+    "touch",
+    "voice-sound"
+   ],
+   "lenses": [
+    "care-healing",
+    "attunement"
+   ],
+   "kind": "method",
+   "description": "A slow craft practice in which people wet-felt conductive wool by hand, alone or together with the researcher, as a calming embodied activity; the 22 resulting artefacts are made audible by sonifying changes in the fabric's electrical resistance.",
+   "description_zh": "一种缓慢的手工练习：人们独自或与研究者一起用手湿毡导电羊毛，作为一种让人平静的具身活动；做成的 22 件织物，其电阻变化被转换为声音。",
+   "idea_en": "The repetitive, tactile rhythm of making can itself regulate anxiety; here technology grows out of a calming craft rather than delivering calm from outside.",
+   "idea_zh": "制作中重复的、触觉的节奏本身就能调节焦虑；在这里，技术从令人平静的手工中生长出来，而不是从外部递送平静。",
+   "method": "Individual and collaborative one-on-one wet-felting sessions with six people using conductive fibres; the felted artefacts were connected to a sonification of their resistance changes.",
+   "method_zh": "与六位参与者进行单独或合作的一对一湿毡制作，使用导电纤维；毡制成品被连接到一个把电阻变化转化为声音的系统。",
+   "keywords": [
+    "wet felting",
+    "conductive wool",
+    "e-textiles",
+    "anxiety",
+    "craft",
+    "sonification"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3689050.3706011",
+    "doi": "10.1145/3689050.3706011",
+    "arxiv": "",
+    "venue": "TEI 2025",
+    "title": "This Is How I Felt: Crafting Conductive Wool Artefacts as an Embodied Practice to Regulate Anxiety"
+   },
+   "collections": [
+    "tei"
+   ]
+  },
+  {
+   "id": "jose-manuel-vega-cebrian--motts",
+   "creator_ids": [
+    "jose-manuel-vega-cebrian",
+    "elena-marquez-segura",
+    "ana-tajadura-jimenez"
+   ],
+   "title": "MoTTs (Movement and Training Technologies)",
+   "year": 2026,
+   "field": "care",
+   "sub": "neuro-motor",
+   "modalities": [
+    "movement",
+    "voice-sound",
+    "vibration"
+   ],
+   "lenses": [
+    "movement-expression",
+    "care-healing"
+   ],
+   "kind": "prototype",
+   "description": "Minimalist wearables that reuse the hardware of ordinary smartwatches to give multisensory feedback on movement, first co-designed for neurorehabilitation after peripheral nerve transfer surgery and then reappropriated for other training.",
+   "description_zh": "极简的可穿戴设备，复用普通智能手表的硬件为动作提供多感官反馈；最初为周围神经移植手术后的神经康复而共同设计，后来被挪用于其他训练。",
+   "idea_en": "Rich bodily feedback does not require new hardware; open-ended, minimal devices invite patients and therapists to find their own uses in rehabilitation.",
+   "idea_zh": "丰富的身体反馈并不需要新硬件；开放、极简的设备邀请患者与治疗师在康复中找到自己的用法。",
+   "method": "Embodied co-design in a Research through Design project; smartwatch sensors and outputs (likely sound and vibration) provide movement feedback, demonstrated across a range of rehabilitation and training activities.",
+   "method_zh": "在一项设计研究项目中进行具身共同设计；利用智能手表的传感器与输出（可能为声音与振动）提供动作反馈，并在多种康复与训练活动中演示。",
+   "keywords": [
+    "rehabilitation",
+    "nerve transfer surgery",
+    "smartwatch",
+    "movement feedback",
+    "sustainable design",
+    "embodied co-design"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=wgER2jQVK8M"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3802974.3808027",
+    "doi": "10.1145/3802974.3808027",
+    "arxiv": "",
+    "venue": "DIS 2026 Companion (Demo)",
+    "title": "Movement and Training Technologies (MoTTs): Minimalist Smartwatch-based Wearables to Support Physical Rehabilitation and Training Activities"
+   },
+   "collections": [
+    "dis"
+   ]
+  },
+  {
+   "id": "sanne-beijer--mano",
+   "creator_ids": [
+    "sanne-beijer"
+   ],
+   "title": "Mano",
+   "year": 2025,
+   "field": "care",
+   "sub": "ageing-care",
+   "modalities": [
+    "heat",
+    "touch"
+   ],
+   "lenses": [
+    "care-healing",
+    "touching-back"
+   ],
+   "kind": "prototype",
+   "description": "Two warm, tactile artifacts for people with advanced dementia, the Mano Quilt (a weighted blanket) and the Mano Fold (a foldable pillow), which caregivers use to offer comfort and non-verbal connection.",
+   "description_zh": "两件为晚期失智症患者设计的温暖、可触摸的物件：加重毯 Mano Quilt 与可折叠抱枕 Mano Fold，供照护者用来提供安慰与非语言的连接。",
+   "idea_en": "When words fade, warmth, weight and texture can still evoke presence, comfort and activity; designing for advanced dementia means designing for the senses as aesthetic experience.",
+   "idea_zh": "当语言褪去，温度、重量与质地仍能唤起在场感、安慰与活动；为晚期失智症设计，就是把感官作为审美经验来设计。",
+   "method": "Field study in three care organisations: observations of 26 residents with dementia interacting with the warm quilt and pillow, and 17 interviews with their formal caregivers.",
+   "method_zh": "在三家照护机构开展实地研究：观察 26 位失智症住户与这两件温暖的毯子和抱枕的互动，并访谈 17 位正式照护者。",
+   "keywords": [
+    "dementia",
+    "advanced dementia care",
+    "weighted blanket",
+    "warmth",
+    "tactile design",
+    "caregiving"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3706598.3713938",
+    "doi": "10.1145/3706598.3713938",
+    "arxiv": "",
+    "venue": "CHI 2025",
+    "title": "Mano: Designing for Tactile Experiences in Advanced Dementia Care"
+   },
+   "collections": [
+    "chi"
+   ]
+  }
+ ],
+ "leads": [
+  {
+   "name": "Ito-Jaeger, Kafadar, Benford & Pérez Vallejos — Soma Design for Digital Mental Health and Well-Being Interventions: Scoping Review (JMIR Human Factors 2026)",
+   "why": "First review of soma design in digital mental health; first author appears East Asian, so left for latest-east-asia (could also sit in methods).",
+   "link": "https://doi.org/10.2196/79400",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Qiu, Zhao & Zordan — Splash into Bubbles: Designing Somatic Immersion for Sleep Onset (DIS 2026 Companion)",
+   "why": "Somatic immersion for falling asleep; SUSTech first author, left for latest-east-asia.",
+   "link": "https://doi.org/10.1145/3802974.3808039",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Zhang, Hartono & Hall — Onycho Lab: Wearable Fingertip Prostheses for Feminist Hapticism (C&C 2026)",
+   "why": "Performative 'manicure surgery' with vibrotactile fingertip prostheses, framed with feminist HCI and soma design; first author appears East Asian, left for latest-east-asia.",
+   "link": "https://doi.org/10.1145/3803784.3819814",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Li et al. — Holding MenstaRay: Expressing Menstrual Pain through Tactile and Knitted Soft Robotic Interactions (CHI 2026)",
+   "why": "Soft robotic object for expressing menstrual pain; first author appears East Asian, left for latest-east-asia.",
+   "link": "https://doi.org/10.1145/3772318.3790839",
+   "found_via": "lisa-hofer",
+   "status": "open"
+  },
+  {
+   "name": "Kim et al. — Exploring the Emotional Effects of Enhanced Interoception via Heartbeat-Synchronized Haptic Feedback (IMWUT 2025)",
+   "why": "Causal study of heartbeat haptics and emotion regulation (MIT Media Lab); first author appears East Asian, left for latest-east-asia.",
+   "link": "https://doi.org/10.1145/3770663",
+   "found_via": "waseem-hassan",
+   "status": "open"
+  },
+  {
+   "name": "Zhang & Zordan — From Self-Awareness to Peer Support: A Tangible Device for Physiological Stress Sharing (TEI 2026)",
+   "why": "Tangible shared stress biosignals; SUSTech first author, left for latest-east-asia.",
+   "link": "https://doi.org/10.1145/3731459.3779332",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Campo Woytuk et al. — Toward Feminist Ways of Sensing the Menstruating Body (CHI 2025)",
+   "why": "Already added by latest-kth-methods as nadia-campo-woytuk--feminist-sensing.",
+   "link": "https://doi.org/10.1145/3706598.3713466",
+   "found_via": "lisa-hofer",
+   "status": "duplicate"
+  },
+  {
+   "name": "Haynes, Turmo Vidal et al. — Aesthetics of Felt Asymmetry (CHI 2026)",
+   "why": "Already added by latest-kth-methods as alice-haynes--felt-asymmetry.",
+   "link": "https://doi.org/10.1145/3772318.3791749",
+   "found_via": "laia-turmo-vidal",
+   "status": "duplicate"
+  },
+  {
+   "name": "Tholander — The Body as Its Own Best Sensor: An Autoethnographic Study of Long-Distance Running (CHI 2025)",
+   "why": "Already a work in hook-lab.json.",
+   "link": "https://doi.org/10.1145/3706598.3713607",
+   "found_via": "seed",
+   "status": "duplicate"
+  },
+  {
+   "name": "Heß — Sensing the Self: Reimagining Self-Tracking Feedback through Soma Design (C&C 2026)",
+   "why": "Non-numerical breathing feedback designed through first-person soma design; good fit for affect/interoception or methods, offered to latest-kth-methods.",
+   "link": "https://doi.org/10.1145/3803784.3804462",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Dublin et al. — Breathing Inward: A Targeted-heat Wearable Designed to Deepen the Benefits of Diaphragmatic Breathing (CHI 2026)",
+   "why": "Follow-up to the Walking Meditation Mat; heat wearable raised interoceptive awareness (MAIA) and lowered heart rate. Add if a second Dublin work is wanted.",
+   "link": "https://doi.org/10.1145/3772318.3791804",
+   "found_via": "tamar-dublin",
+   "status": "open"
+  },
+  {
+   "name": "Staab, Williams, Robertson & Slovák — \"Can you be with that feeling?\": Extending Design Strategies for Interoceptive Awareness for the Context of Mental Health (CHI 2024)",
+   "why": "Design strategies for interoceptive awareness, with an ACM SIGCHI video (youtube R9cCEZ3MHO8); 2024 and not award-flagged, so not added this round.",
+   "link": "https://doi.org/10.1145/3613904.3643054",
+   "found_via": "phoebe-staab",
+   "status": "open"
+  },
+  {
+   "name": "Fernández Vallejo et al. — Wearable Sound Technologies for Understanding and Shaping Bodily Perception and Emotional States in Depressive Symptomatology (CHI 2026 EA)",
+   "why": "SoniBand movement sonification in depression: people with depressive symptoms did not feel lighter with ascending sounds. Late-breaking work, i_mBODY Lab.",
+   "link": "https://doi.org/10.1145/3772363.3799345",
+   "found_via": "ana-tajadura-jimenez",
+   "status": "open"
+  },
+  {
+   "name": "Kaklopoulou, Homewood & Sanches — Design for Dis/Ability: A Crip Inquiry into Personal Energy Tracking (CHI 2026)",
+   "why": "Crip-theory study of energy tracking and felt fatigue; companion to Lull.",
+   "link": "https://doi.org/10.1145/3772318.3790404",
+   "found_via": "sarah-homewood",
+   "status": "open"
+  },
+  {
+   "name": "Osipova & Spiel — Neuroqueering Tech Intimacies (NordiCHI 2026)",
+   "why": "Neurodivergent people's self-determined intimacy and technology appropriation; interview study, weaker felt-body angle.",
+   "link": "https://doi.org/10.1145/3829807.3829830",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Offerman et al. — From Bodily Functions to Bodily Fun: Approaching Pleasure as a Process (DIS 2025)",
+   "why": "Pleasure as a whole-body, evolving process with two design provocations; second Offerman work, skipped for balance.",
+   "link": "https://doi.org/10.1145/3715336.3735747",
+   "found_via": "celine-offerman",
+   "status": "open"
+  },
+  {
+   "name": "Offerman et al. — (Re)discovering Sexual Pleasure after Cancer: Understanding the Design Space (CHI 2025)",
+   "why": "Interviews with medical sexologists; groundwork for the CHI 2026 co-design paper.",
+   "link": "https://doi.org/10.1145/3706598.3713535",
+   "found_via": "celine-offerman",
+   "status": "open"
+  },
+  {
+   "name": "Westland — Soft Companions: A Breathing Textile Creature for Sensory Rituals of Care (TEI 2026)",
+   "why": "Knitted pneumatic creature that breathes in a box-breathing rhythm on the skin; short TEI paper, look for images.",
+   "link": "https://doi.org/10.1145/3731459.3786225",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Farrall et al. — Encouraging Breath: Ankor, a Shape-Changing Biofeedback Physicalization for Digital Mental Health (CHI 2026)",
+   "why": "Handheld shape-changing breath biofeedback; strong adherence RCT, more engagement-focused than felt-experience-focused.",
+   "link": "https://doi.org/10.1145/3772318.3790933",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Badmos et al. — Melomove: Movement-Music Tangible Interaction for Older Adults in Public Outdoor Space (DIS 2026 Companion)",
+   "why": "Ageing and joyful movement with music feedback; candidate for care/ageing-care.",
+   "link": "https://doi.org/10.1145/3802974.3809473",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Yurman, Malpass, Balaam et al. — Maternal Machines: Imagining Experiences in Perinatal Care (CHI 2025 workshop)",
+   "why": "Workshop on sensorial, non-numerical perinatal care technologies; workshop, not a work.",
+   "link": "https://doi.org/10.1145/3706599.3706744",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Teisanu, Campo Woytuk, Park et al. — Designing for and with Intimate (Sexual) Bodies: Towards Feminist and Queer Somatic Understandings of Pleasure (TEI 2025 studio)",
+   "why": "Studio on somatic pleasure design; studio format, not a work.",
+   "link": "https://doi.org/10.1145/3689050.3708335",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Nasri et al. — Tangible Intangibles: Embodied Emotion Mixed Reality for Art Therapy (TEI 2026 studio)",
+   "why": "Biosignal-driven MR emotional artifacts with clay and drawing; studio format.",
+   "link": "https://doi.org/10.1145/3731459.3779050",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Brewster et al. — \"That Moment of Curiosity\": AR Face Filters for Transgender Identity Exploration (CHI 2025)",
+   "why": "Gender euphoria through AR self-image; possible queer-trans work if a felt-body angle is confirmed.",
+   "link": "https://doi.org/10.1145/3706598.3713991",
+   "found_via": "seed",
+   "status": "open"
+  }
+ ]
+}

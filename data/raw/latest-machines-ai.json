@@ -1,0 +1,1378 @@
+{
+ "batch": "latest-machines-ai",
+ "creators": [
+  {
+   "id": "petra-gemeinboeck",
+   "name": "Petra Gemeinboeck",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist-researcher in human–robot movement, Swinburne University of Technology; co-founder of the Machine Movement Lab",
+   "role_zh": "人机动作艺术研究者，斯威本科技大学；Machine Movement Lab 联合创办人",
+   "based": "Melbourne, AU",
+   "based_zh": "墨尔本，澳大利亚",
+   "bio": "Austrian-Australian artist who develops robot bodies and their movement together with dancers, usually with Rob Saunders.",
+   "bio_zh": "奥地利裔澳大利亚艺术家，常与 Rob Saunders 合作，和舞者一起发展机器人的身体与动作。",
+   "why": "Their 'bodying-thinging' practice treats robots as non-human movers that people attune to through their own bodies, not as humanlike helpers.",
+   "why_zh": "其“身体化—物化”实践把机器人当作非人类的运动者，人用自己的身体去与之调谐，而不是把它做成像人的助手。",
+   "disciplines": [
+    "art",
+    "dance"
+   ],
+   "links": {
+    "site": "https://machinemovementlab.net/"
+   },
+   "connected_to": [
+    "rob-saunders"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "rob-saunders",
+   "name": "Rob Saunders",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Computational creativity researcher, Leiden Institute of Advanced Computer Science, Leiden University",
+   "role_zh": "计算创造力研究者，莱顿大学莱顿高等计算机科学研究所",
+   "based": "Leiden, NL",
+   "based_zh": "莱顿，荷兰",
+   "bio": "British researcher in computational creativity and curious agents, and Petra Gemeinboeck's long-time collaborator in the Machine Movement Lab.",
+   "bio_zh": "英国计算创造力与“好奇智能体”研究者，在 Machine Movement Lab 中与 Petra Gemeinboeck 长期合作。",
+   "why": "Rob Saunders shapes robot movement so that it can be felt as another kind of body rather than a copy of a human one.",
+   "why_zh": "Rob Saunders 塑造机器人的动作，使人能把它感受为另一种身体，而不是人类身体的复制品。",
+   "disciplines": [
+    "hci",
+    "art"
+   ],
+   "links": {},
+   "connected_to": [
+    "petra-gemeinboeck"
+   ],
+   "discovered_via": "petra-gemeinboeck"
+  },
+  {
+   "id": "samuel-bianchini",
+   "name": "Samuel Bianchini",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and researcher; head of the Reflective Interaction group, EnsadLab, École nationale supérieure des Arts Décoratifs (EnsAD–PSL)",
+   "role_zh": "艺术家与研究者；法国国立高等装饰艺术学院（EnsAD–PSL）EnsadLab 反思性交互研究组负责人",
+   "based": "Paris, FR",
+   "based_zh": "巴黎，法国",
+   "bio": "French artist who makes 'behavioral objects': interactive and robotic installations whose movements invite a relationship with the viewer.",
+   "bio_zh": "法国艺术家，创作“行为物”：以动作邀请观者与之建立关系的交互与机器人装置。",
+   "why": "RÉESPIRATION turns respiratory empathy, the urge to breathe with another, into a soft robotic sculpture for care settings.",
+   "why_zh": "其 RÉESPIRATION 把“呼吸共情”——想和他者一起呼吸的冲动——做成用于照护场所的软体机器人雕塑。",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {
+    "site": "https://reflectiveinteraction.ensadlab.fr/samuel-bianchini-dir/?lang=en"
+   },
+   "connected_to": [
+    "baptiste-caramiaux"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "george-fejer",
+   "name": "George Fejer",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Doctoral researcher in cognitive psychology, University of Konstanz",
+   "role_zh": "康斯坦茨大学认知心理学博士研究者",
+   "based": "Konstanz, DE",
+   "based_zh": "康斯坦茨，德国",
+   "bio": "Researcher and VR developer studying breathwork, altered states of consciousness and the bodily self.",
+   "bio_zh": "研究呼吸练习、意识改变状态与身体自我的研究者和 VR 开发者。",
+   "why": "Viscereality makes the felt boundary between the breathing body and the surrounding space into a design material.",
+   "why_zh": "其 Viscereality 把呼吸的身体与周围空间之间被感受到的边界变成一种设计材料。",
+   "disciplines": [
+    "health",
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "bigna-lenggenhager"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "moreah-zisquit",
+   "name": "Moreah Zisquit",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, Advanced Reality Lab, Reichman University",
+   "role_zh": "赖克曼大学先进现实实验室研究员",
+   "based": "Herzliya, IL",
+   "based_zh": "赫兹利亚，以色列",
+   "bio": "Clinical psychology researcher who uses virtual embodiment and self-talk in VR to train emotion regulation.",
+   "bio_zh": "临床心理学研究者，在 VR 中借助虚拟具身与自我对话训练情绪调节。",
+   "why": "Their ConVRSelf studies use body ownership so that people can comfort themselves from the outside.",
+   "why_zh": "其 ConVRSelf 研究借助身体拥有感，让人能从外部安慰自己。",
+   "disciplines": [
+    "health"
+   ],
+   "links": {},
+   "connected_to": [
+    "mel-slater"
+   ],
+   "discovered_via": "mel-slater"
+  },
+  {
+   "id": "saliha-akbas",
+   "name": "Saliha Akbas",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, KARMA XR Lab, Koç University",
+   "role_zh": "科奇大学 KARMA XR 实验室研究者",
+   "based": "Istanbul, TR",
+   "based_zh": "伊斯坦布尔，土耳其",
+   "bio": "Designer-researcher working on extended reality for dance and movement practice.",
+   "bio_zh": "设计研究者，研究面向舞蹈与动作练习的扩展现实。",
+   "why": "MoveCraft shows how different degrees of avatar abstraction support different kinds of reflection on one's own movement.",
+   "why_zh": "其 MoveCraft 表明，不同程度的化身抽象会支持对自身动作的不同反思方式。",
+   "disciplines": [
+    "hci",
+    "dance"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "rebecca-weber",
+   "name": "Rebecca Weber",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Dance researcher, University of Auckland",
+   "role_zh": "奥克兰大学舞蹈研究者",
+   "based": "Auckland, NZ",
+   "based_zh": "奥克兰，新西兰",
+   "bio": "Dance researcher studying how avatars and dance technologies shape dancers' perception and creativity.",
+   "bio_zh": "舞蹈研究者，研究化身与舞蹈技术如何影响舞者的感知与创造力。",
+   "why": "Their study shows that a dynamic avatar changes how dancers feel their own bodies and which movements they choose.",
+   "why_zh": "其研究表明，动态化身会改变舞者对自己身体的感受以及他们选择的动作。",
+   "disciplines": [
+    "dance",
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "olga-iarygina",
+   "name": "Olga Iarygina",
+   "name_zh": "",
+   "kind": "person",
+   "role": "PhD researcher, IT University of Copenhagen",
+   "role_zh": "哥本哈根信息技术大学博士研究者",
+   "based": "Copenhagen, DK",
+   "based_zh": "哥本哈根，丹麦",
+   "bio": "HCI researcher studying avatar embodiment and how body ownership is measured in virtual reality.",
+   "bio_zh": "人机交互研究者，研究化身具身以及虚拟现实中身体拥有感的测量方式。",
+   "why": "Their work shows that people actively imitate a virtual body in order to keep feeling it as their own.",
+   "why_zh": "其研究表明，人会主动模仿虚拟身体，以便继续把它感受为自己的身体。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "linas-gabrielaitis",
+   "name": "Linas Kristupas Gabrielaitis",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Doctoral researcher, Gamification Group, Tampere University",
+   "role_zh": "坦佩雷大学游戏化研究组博士研究者",
+   "based": "Tampere, FI",
+   "based_zh": "坦佩雷，芬兰",
+   "bio": "Play and game design researcher exploring more-than-human play with growing biomaterials such as fungi.",
+   "bio_zh": "游戏与玩设计研究者，探索与真菌等生长中的生物材料进行超越人类的游戏。",
+   "why": "Their interspecies ethnography treats play with mycelium as a bodily, situated way of knowing another living thing.",
+   "why_zh": "其跨物种民族志把与菌丝体的游戏看作一种身体的、在地的认识另一种生命的方式。",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "oguz-buruk"
+   ],
+   "discovered_via": "oguz-buruk"
+  },
+  {
+   "id": "thomas-jacob-lawrence",
+   "name": "Thomas Jacob Lawrence",
+   "name_zh": "",
+   "kind": "person",
+   "role": "PhD researcher, Goldsmiths, University of London",
+   "role_zh": "伦敦大学金史密斯学院博士研究者",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "Researcher in interactive machine learning for movement-based interaction in virtual reality.",
+   "bio_zh": "研究虚拟现实中基于动作的交互式机器学习。",
+   "why": "Their studies ask whether machine-learned movement recognition actually feels better to move with.",
+   "why_zh": "其研究追问：用机器学习识别动作，是否真的让人动起来感觉更好。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "marco-gillies"
+   ],
+   "discovered_via": "marco-gillies"
+  },
+  {
+   "id": "jacqueline-borgstedt",
+   "name": "Jacqueline Borgstedt",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher in affective touch and social robots, ETH Zurich; PhD, University of Glasgow",
+   "role_zh": "苏黎世联邦理工学院情感触觉与社交机器人研究者；格拉斯哥大学博士",
+   "based": "Zurich, CH",
+   "based_zh": "苏黎世，瑞士",
+   "bio": "Researcher studying how robot touch can calm and comfort, notably with the furry seal robot PARO.",
+   "bio_zh": "研究机器人触觉如何让人平静与安心，尤其以毛茸茸的海豹机器人 PARO 为对象。",
+   "why": "Their work asks whether a robot should feel alive under the hand, and what that does to people.",
+   "why_zh": "其研究追问：机器人摸起来是否应该像活的，这又会对人产生什么影响。",
+   "disciplines": [
+    "hci",
+    "health"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "federico-espositi",
+   "name": "Federico Espositi",
+   "name_zh": "",
+   "kind": "person",
+   "role": "PhD researcher, AIRLab, Politecnico di Milano",
+   "role_zh": "米兰理工大学 AIRLab 博士研究者",
+   "based": "Milan, IT",
+   "based_zh": "米兰，意大利",
+   "bio": "Robotics and interaction researcher who designs non-anthropomorphic robots and studies the non-verbal, bodily communication people build with them.",
+   "bio_zh": "机器人与交互研究者，设计非拟人机器人，并研究人与它们之间建立起来的非语言的身体沟通。",
+   "why": "Their escape-room study shows people learning to communicate through radically non-human bodies, one of them inhabited through VR.",
+   "why_zh": "其密室逃脱研究表明，人能学会借助截然非人的身体沟通——其中一个身体是通过 VR 被“住进去”的。",
+   "disciplines": [
+    "engineering",
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "julia-sebastien",
+   "name": "Julia Alexandra Sebastien",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, Virtual Embodiment Lab, Department of Communication, Cornell University",
+   "role_zh": "康奈尔大学传播学系虚拟具身实验室研究者",
+   "based": "Ithaca, US",
+   "based_zh": "伊萨卡，美国",
+   "bio": "Researcher studying how changes of virtual embodiment and experiences of awe in VR shape self-perception and pain.",
+   "bio_zh": "研究 VR 中虚拟具身的变化与敬畏体验如何影响自我感知与疼痛。",
+   "why": "Their drifting-body experience explores whether loosening where one feels located can change how pain is felt.",
+   "why_zh": "其“漂移身体”体验探索：松动人感到自己所在的位置，能否改变疼痛被感受的方式。",
+   "disciplines": [
+    "health",
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "andrea-stevenson-won"
+   ],
+   "discovered_via": "andrea-stevenson-won"
+  },
+  {
+   "id": "avital-meshi",
+   "name": "Avital Meshi",
+   "name_zh": "",
+   "kind": "person",
+   "role": "New media and performance artist, University of California, Davis",
+   "role_zh": "新媒体与表演艺术家，加州大学戴维斯分校",
+   "based": "Davis, US",
+   "based_zh": "戴维斯，美国",
+   "bio": "Artist whose performances use wearable AI, avatars and live interaction to explore identity, classification and the hybrid human–AI self.",
+   "bio_zh": "艺术家，以可穿戴 AI、化身与现场互动创作表演，探讨身份、分类以及人与 AI 混合的自我。",
+   "why": "Their wearable-AI performances make the body the place where AI's categories and commands are felt.",
+   "why_zh": "其可穿戴 AI 表演让身体成为 AI 的分类与指令被切身感受的地方。",
+   "disciplines": [
+    "art",
+    "dance"
+   ],
+   "links": {
+    "site": "https://www.avitalmeshi.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "irene-kaklopoulou",
+   "name": "Irene Kaklopoulou",
+   "name_zh": "",
+   "kind": "person",
+   "role": "PhD researcher, Department of Informatics, Umeå University",
+   "role_zh": "于默奥大学信息学系博士研究者",
+   "based": "Umeå, SE",
+   "based_zh": "于默奥，瑞典",
+   "bio": "Interaction design researcher exploring how self-tracking, biosensing and LLM-based tools can articulate bodily experience.",
+   "bio_zh": "交互设计研究者，探索自我追踪、生物传感与基于大语言模型的工具如何表述身体经验。",
+   "why": "Their work shows what LLMs flatten when designers use them to sketch from the felt body.",
+   "why_zh": "其研究揭示：设计者用大语言模型从被感受的身体出发做草图时，模型会把哪些东西压平。",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "connected_to": [
+    "pedro-sanches"
+   ],
+   "discovered_via": "pedro-sanches"
+  }
+ ],
+ "works": [
+  {
+   "id": "lancel-maat--embrace-angels",
+   "creator_ids": [
+    "lancel-maat",
+    "steve-benford"
+   ],
+   "title": "Embrace Angels",
+   "year": 2025,
+   "field": "machines-xr",
+   "sub": "robots-drones",
+   "also": [
+    "social"
+   ],
+   "modalities": [
+    "touch",
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "touching-back",
+    "affective-loop"
+   ],
+   "kind": "artwork",
+   "description": "Visitors walk a red carpet towards two waiting robot arms; as people slowly approach each other, the robots improvise embrace gestures in real time through the artists' AI system, while a screen shows how the AI reads their movements and words.",
+   "description_zh": "观众沿着红毯走向两只等待着的机械臂；当人与机器缓缓靠近，机器人通过艺术家设计的 AI 系统即时即兴出拥抱的姿态，上方屏幕显示 AI 如何解读人们的动作与话语。",
+   "idea_en": "An embrace with a machine is negotiated through slow mutual approach, touch and trust, which makes the felt ethics of being held by AI tangible.",
+   "idea_zh": "与机器的拥抱要靠缓慢的相互靠近、触碰与信任来协商，这让“被 AI 拥抱”的切身伦理变得可以触摸。",
+   "method": "Two semi-automated Franka robot arms driven by a generative AI system that interprets visitors' movement and spoken prompts, developed with the University of Nottingham's Somabotics project and Cobot Maker Space.",
+   "method_zh": "两只半自动的 Franka 机械臂由一套生成式 AI 系统驱动，系统解读观众的动作与口头提示；作品与诺丁汉大学 Somabotics 项目及协作机器人创客空间共同开发。",
+   "keywords": [
+    "robot hug",
+    "embrace",
+    "Franka robot arm",
+    "generative AI",
+    "touch and trust",
+    "Somabotics",
+    "Karen Lancel",
+    "Hermen Maat"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=YhgIHy2X5LM"
+   },
+   "images": [
+    "https://www.lancelmaat.nl/site/assets/files/1496/embraceangelsfranka2025-img_9413a.jpg",
+    "https://www.nottingham.ac.uk/PressReleaseLongForm-Images/Science/EmbraceAngelsWeb.xb108d72e.jpg?crop=5503,4401,0,583"
+   ],
+   "source_url": "https://www.lancelmaat.nl/work/embrace-angels/",
+   "code_url": "",
+   "collections": [],
+   "exhibited": [
+    "Nottingham Contemporary, July 2025",
+    "Cinekid Festival, Amsterdam, October 2025"
+   ]
+  },
+  {
+   "id": "petra-gemeinboeck--hrx-theatre",
+   "creator_ids": [
+    "petra-gemeinboeck",
+    "rob-saunders"
+   ],
+   "title": "Human-Robot Experience (HRX) Theatre",
+   "year": 2025,
+   "field": "machines-xr",
+   "sub": "robots-drones",
+   "also": [
+    "movement",
+    "methods"
+   ],
+   "modalities": [
+    "movement",
+    "touch",
+    "whole-soma"
+   ],
+   "lenses": [
+    "more-than-human",
+    "intercorporeality",
+    "movement-expression"
+   ],
+   "kind": "method",
+   "description": "A participatory design method grown from the robot theatre Alloyed Bodies, where three dancers, three cube costumes and one robotic cube become entangled; in HRX Theatre participants wear robot costumes and move together to feel how a non-humanlike machine might sense and relate.",
+   "description_zh": "一种参与式设计方法，源自机器人剧场作品 Alloyed Bodies：三位舞者、三件立方体服装与一个机器人立方体彼此纠缠。在 HRX 剧场中，参与者穿上机器人服装一起移动，去感受一台不像人的机器可能如何感知、如何与人相处。",
+   "idea_en": "Sociality with robots can emerge from bodily resonance with a radically different body, found by moving as the robot, rather than from making robots humanlike.",
+   "idea_zh": "与机器人的社会性可以来自与一个截然不同的身体之间的身体共振——通过“作为机器人去移动”而获得，而不是靠把机器人做得像人。",
+   "method": "Staged embodied attunement, from kinaesthetic awareness exercises to Relational Body Mapping with robot costumes and collaborative more-than-human scenarios, first run as a tutorial at HRI 2025.",
+   "method_zh": "分阶段的具身调谐：从动觉觉察练习，到穿着机器人服装进行“关系性身体图绘”，再到共同编排超越人类的情境；首次以 HRI 2025 教程的形式开展。",
+   "keywords": [
+    "Alloyed Bodies",
+    "Relational Body Mapping",
+    "robot costume",
+    "robot theatre",
+    "bodying-thinging",
+    "transcorporeal resonance",
+    "Machine Movement Lab",
+    "non-anthropomorphic robot"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=sEJRIsLQvXw"
+   },
+   "images": [
+    "https://machinemovementlab.net/assets/img/carousel/Alloyed_Felix-w-robot.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1080/14794713.2026.2643086",
+    "doi": "10.1080/14794713.2026.2643086",
+    "arxiv": "",
+    "venue": "International Journal of Performance Arts and Digital Media, 2026",
+    "title": "Difference-in-resonance: the more-than-human dramaturgy of Alloyed Bodies and the Human–Robot Experience (HRX) Theatre"
+   },
+   "source_url": "https://machinemovementlab.net/",
+   "code_url": "",
+   "collections": [],
+   "exhibited": [
+    "Alloyed Bodies premiere, ISEA 2024, Brisbane",
+    "HRX Theatre tutorial, HRI 2025"
+   ]
+  },
+  {
+   "id": "samuel-bianchini--reespiration",
+   "creator_ids": [
+    "samuel-bianchini"
+   ],
+   "title": "RÉESPIRATION",
+   "year": 2025,
+   "field": "machines-xr",
+   "sub": "ai-ml",
+   "also": [
+    "somaesthetic",
+    "care"
+   ],
+   "modalities": [
+    "breath",
+    "shape-change",
+    "light-vision"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "attunement",
+    "care-healing"
+   ],
+   "kind": "artwork",
+   "description": "Inside a 1.7-metre luminous dome, an embroidered textile form inflates and deflates with an artificial breath; thermal sensors and a lidar sense the visitor's breathing, and the sculpture's rhythm gently draws the visitor's own breath along.",
+   "description_zh": "在一个直径 1.7 米的发光穹形内，一件刺绣织物随着人工呼吸鼓起又回落；热传感器和激光雷达感知观众的呼吸，雕塑的节奏轻轻牵引观众自己的呼吸。",
+   "idea_en": "Respiratory empathy, the tendency to fall into breath with another, can be designed for: a machine's breath can invite a person to change their own breathing from the inside.",
+   "idea_zh": "“呼吸共情”——与他者同步呼吸的倾向——可以被设计：一台机器的呼吸可以邀请人从内部改变自己的呼吸。",
+   "method": "Soft robotic textile sculpture with thermal sensing and lidar, its breathing generated by GANspire, a deep generative model trained on respiratory recordings of healthy and ill people, made with the respiratory department of the Pitié-Salpêtrière hospital.",
+   "method_zh": "软体机器人织物雕塑，配有热感应与激光雷达；呼吸节律由 GANspire 生成——一个以健康者与病人的呼吸记录训练的深度生成模型；作品与巴黎皮蒂耶-萨尔佩特里耶医院呼吸科合作完成。",
+   "keywords": [
+    "GANspire",
+    "respiratory empathy",
+    "soft robotics",
+    "generative deep learning",
+    "Nouveaux commanditaires",
+    "Pitié-Salpêtrière",
+    "EnsadLab",
+    "Hugo Scurto"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/6758a8dcec441e7680bb25de/8010bba9-a61a-4de2-8291-87c1e88240d0/REESPIRATION_Exposition_HopitalPitieSlapetriere_27-01-2025_9J1A9026+-+s+b.jpg",
+    "https://static1.squarespace.com/static/6758a8dcec441e7680bb25de/67631c2cb31e2a3395d8b200/6799514f03b3eb190ed0b6c8/1741214878000/S-Bianchini_REESPIRATION_14-11-2024_Femto_4332-s-b-2048x1365.jpg?format=1500w"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3610099",
+    "doi": "10.1145/3610099",
+    "arxiv": "",
+    "venue": "CSCW 2023 (PACM HCI)",
+    "title": "Probing Respiratory Care With Generative Deep Learning"
+   },
+   "source_url": "https://ensadlab.fr/actualites/inauguration-de-luvre-respiration-de-samuel-bianchini",
+   "code_url": "",
+   "collections": [],
+   "exhibited": [
+    "Hôpital Pitié-Salpêtrière, Paris, 2025",
+    "Nuit Blanche Paris, June 2025"
+   ]
+  },
+  {
+   "id": "george-fejer--viscereality",
+   "creator_ids": [
+    "george-fejer"
+   ],
+   "title": "Viscereality",
+   "year": 2025,
+   "field": "machines-xr",
+   "sub": "xr-virtual-body",
+   "also": [
+    "somaesthetic"
+   ],
+   "modalities": [
+    "breath",
+    "light-vision",
+    "whole-soma"
+   ],
+   "lenses": [
+    "attunement",
+    "body-mind-unity"
+   ],
+   "kind": "prototype",
+   "description": "In VR, a sphere of particles surrounds the participant, expanding with each inhalation and contracting with each exhalation; during breath holds the particles can align into symmetrical geometry, guiding box breathing and blurring the edge between bodily self and space.",
+   "description_zh": "在 VR 中，一圈粒子球包围着参与者，随每次吸气向外扩张、随每次呼气向内收拢；屏息时粒子可以排列成对称的几何图形，以此引导方块呼吸，并模糊身体自我与空间之间的边界。",
+   "idea_en": "Mapping lung volume onto the whole surrounding space, rather than onto a single object, lets breath be felt as the widening of one's world and loosens the boundary between inside and outside.",
+   "idea_zh": "把肺容量映射到整个周围空间而不是某个物体上，呼吸就被感受为自己世界的扩张，内与外的边界也随之松动。",
+   "method": "Breath tracking drives a particle-based VR environment whose visual order is controlled by coupled Kuramoto oscillators; tested in a preregistered study of guided box breathing with 39 participants.",
+   "method_zh": "呼吸追踪驱动一个基于粒子的 VR 环境，其视觉秩序由耦合的 Kuramoto 振子控制；在一项有 39 名参与者、经预注册的方块呼吸引导研究中进行了检验。",
+   "keywords": [
+    "breathwork",
+    "box breathing",
+    "altered states of consciousness",
+    "interoception",
+    "Kuramoto oscillators",
+    "ALIUS",
+    "University of Konstanz",
+    "Bigna Lenggenhager"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Qm-lmC-xYCI"
+   },
+   "paper": {
+    "url": "https://dl.gi.de/handle/20.500.12116/46829",
+    "doi": "",
+    "arxiv": "",
+    "venue": "Mensch und Computer 2025 (MCI-WS11)",
+    "title": "Viscereality: A Bio-responsive VR System for Breath-Based Interactions and Coupled Oscillator Dynamics to Augment Altered States of Consciousness"
+   },
+   "source_url": "https://aliusresearch.org/viscereality.html",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "moreah-zisquit--embodying-self-talk",
+   "creator_ids": [
+    "moreah-zisquit",
+    "mel-slater"
+   ],
+   "title": "Intrapersonal emotion regulation training in virtual reality: embodying self-talk",
+   "year": 2025,
+   "field": "machines-xr",
+   "sub": "xr-virtual-body",
+   "also": [
+    "care"
+   ],
+   "modalities": [
+    "whole-soma",
+    "voice-sound",
+    "movement"
+   ],
+   "lenses": [
+    "care-healing",
+    "extended-body",
+    "first-person"
+   ],
+   "kind": "paper",
+   "description": "Participants talk through a current difficulty in VR by switching between two virtual bodies that both represent themselves, practising awareness, acceptance, distraction and self-soothing by speaking to themselves and answering from the other body.",
+   "description_zh": "参与者在 VR 中谈论自己眼下的困扰，在两个都代表自己的虚拟身体之间切换：从一个身体向自己倾诉，再从另一个身体回应，以此练习觉察、接纳、转移注意与自我安抚。",
+   "idea_en": "Owning a second virtual body lets a person hear their own voice from outside and offer themselves the comfort they would usually give someone else.",
+   "idea_zh": "拥有第二个虚拟身体，人就能从外部听见自己的声音，并把平时给予别人的安慰给予自己。",
+   "method": "Body ownership illusions with alternating embodiment of two self-avatars (the ConVRSelf application), compared with an empty-chair exercise in a randomised study with 47 participants.",
+   "method_zh": "借助身体拥有错觉，让参与者轮流具身于两个自我化身（ConVRSelf 应用），在一项 47 人的随机研究中与“空椅子”练习进行比较。",
+   "keywords": [
+    "ConVRSelf",
+    "body ownership illusion",
+    "self-talk",
+    "emotion regulation",
+    "self-soothing",
+    "empty chair",
+    "Doron Friedman",
+    "Reichman University"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1007/s10055-025-01131-2",
+    "doi": "10.1007/s10055-025-01131-2",
+    "arxiv": "",
+    "venue": "Virtual Reality (Springer), 2025",
+    "title": "Intrapersonal emotion regulation training in virtual reality: embodying self-talk"
+   },
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "saliha-akbas--movecraft",
+   "creator_ids": [
+    "saliha-akbas"
+   ],
+   "title": "MoveCraft",
+   "year": 2026,
+   "field": "machines-xr",
+   "sub": "xr-virtual-body",
+   "also": [
+    "movement"
+   ],
+   "modalities": [
+    "movement",
+    "light-vision",
+    "posture-balance"
+   ],
+   "lenses": [
+    "movement-expression",
+    "first-person",
+    "body-data"
+   ],
+   "kind": "prototype",
+   "description": "A VR/MR prototype that shows dancers and other movement practitioners their own movement as avatars ranging from skeletal rigs to flowing particle systems, used to reflect on technique, re-patterning, expression and creative exploration.",
+   "description_zh": "一个 VR/MR 原型，把舞者等动作练习者自己的动作呈现为各种化身，从骨架到流动的粒子系统不等，用来反思技术、重塑动作模式、表达与创造性探索。",
+   "idea_en": "How abstract or ambiguous an avatar is decides what kind of bodily reflection it supports: clear, standard figures help with technique, while ambiguous, personal ones open up expression and exploration.",
+   "idea_zh": "化身的抽象与模糊程度决定它支持何种身体反思：清晰、标准的形象有助于技术练习，模糊、个人化的形象则打开表达与探索。",
+   "method": "Body tracking mapped onto several avatar representations in VR/MR, studied with 18 experienced movement practitioners through sessions and semi-structured interviews analysed with reflexive thematic analysis.",
+   "method_zh": "把身体追踪数据映射到 VR/MR 中的多种化身表现上；与 18 位资深动作练习者进行体验与半结构化访谈，并以反身性主题分析整理。",
+   "keywords": [
+    "avatar abstraction",
+    "reflection",
+    "dance",
+    "movement practitioners",
+    "particle system",
+    "mixed reality",
+    "KARMA XR Lab",
+    "Koç University"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3802842.3802857",
+    "doi": "10.1145/3802842.3802857",
+    "arxiv": "",
+    "venue": "MOCO 2026",
+    "title": "Reflective Embodiment through Avatar Abstraction: Insights from Movement Practitioners"
+   },
+   "code_url": "",
+   "collections": [
+    "moco"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "rebecca-weber--dynamic-abstract-avatars",
+   "creator_ids": [
+    "rebecca-weber"
+   ],
+   "title": "Dynamic Abstract Avatars Impact Dancers' Sense of Embodiment and Movement Choices",
+   "year": 2026,
+   "field": "machines-xr",
+   "sub": "xr-virtual-body",
+   "also": [
+    "movement"
+   ],
+   "modalities": [
+    "movement",
+    "light-vision"
+   ],
+   "lenses": [
+    "extended-body",
+    "movement-expression",
+    "first-person"
+   ],
+   "kind": "paper",
+   "description": "Dancers moved in VR with seven dynamic avatars that differed in body-shape fidelity, in how they rendered movement and in texture; the avatars changed how the dancers perceived their own bodies and which movements they chose.",
+   "description_zh": "舞者在 VR 中与七种动态化身一起舞动，这些化身在体形逼真度、动作呈现方式与质感上各不相同；化身改变了舞者对自己身体的感知，也改变了他们选择的动作。",
+   "idea_en": "An avatar is not a neutral mirror: dancers shape their movement to amplify its visual response and are shaped by it in turn, so avatar qualities are choreographic material.",
+   "idea_zh": "化身不是中立的镜子：舞者为放大它的视觉回应而调整动作，同时也反过来被它塑造——因此化身的质感本身就是编舞材料。",
+   "method": "Seven dynamic avatars explored in three focus groups with pre-professional and experienced dancers, analysed thematically.",
+   "method_zh": "在三个焦点小组中，由预备职业舞者与资深舞者体验七种动态化身，并进行主题分析。",
+   "keywords": [
+    "avatar",
+    "sense of embodiment",
+    "dance",
+    "kinaesthetic creativity",
+    "virtual reality",
+    "Danielle Lottridge",
+    "University of Auckland"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3802842.3802870",
+    "doi": "10.1145/3802842.3802870",
+    "arxiv": "",
+    "venue": "MOCO 2026",
+    "title": "Dynamic Abstract Avatars Impact Dancers' Sense of Embodiment and Movement Choices"
+   },
+   "code_url": "",
+   "collections": [
+    "moco"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "olga-iarygina--asynchrony-body-ownership",
+   "creator_ids": [
+    "olga-iarygina"
+   ],
+   "title": "Does Random Movements mean Random Results? Why Asynchrony in Experiments on Body Ownership does not Work as Intended",
+   "year": 2025,
+   "field": "machines-xr",
+   "sub": "xr-virtual-body",
+   "also": [],
+   "modalities": [
+    "movement",
+    "light-vision",
+    "posture-balance"
+   ],
+   "lenses": [
+    "extended-body",
+    "first-person",
+    "estrangement"
+   ],
+   "kind": "paper",
+   "description": "An online study with 202 people and a think-aloud study with 16 compare the ways VR experiments make an avatar move out of sync with its user (delayed, displaced or prerecorded movement) and find that they produce very different, often strange and unpleasant, experiences.",
+   "description_zh": "一项 202 人的在线研究和一项 16 人的出声思考研究，比较了 VR 实验中让化身与使用者动作不同步的各种做法（延迟、错位或预录动作），发现它们带来的体验差异很大，而且常常怪异、令人不适。",
+   "idea_en": "Body ownership is actively maintained: when an avatar goes out of sync, people often imitate it to keep feeling it as theirs, so 'asynchronous' control does not simply switch embodiment off.",
+   "idea_zh": "身体拥有感是被主动维持的：化身一旦不同步，人常会去模仿它，以继续把它感受为自己的——所以“不同步”并不会简单地关掉具身感。",
+   "method": "Comparison of asynchrony variants used as control conditions in VR embodiment experiments, through an online study and a think-aloud study.",
+   "method_zh": "通过在线研究与出声思考研究，比较 VR 具身实验中用作对照条件的多种不同步方式。",
+   "keywords": [
+    "body ownership",
+    "avatar embodiment",
+    "asynchrony",
+    "virtual reality",
+    "think-aloud",
+    "Kasper Hornbæk",
+    "Aske Mottelson",
+    "IT University of Copenhagen"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3706598.3713506",
+    "doi": "10.1145/3706598.3713506",
+    "arxiv": "",
+    "venue": "CHI 2025",
+    "title": "Does Random Movements mean Random Results? Why Asynchrony in Experiments on Body Ownership does not Work as Intended"
+   },
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "linas-gabrielaitis--playing-alongside-mushroom",
+   "creator_ids": [
+    "linas-gabrielaitis",
+    "oguz-buruk"
+   ],
+   "title": "Playing Alongside Mushroom",
+   "year": 2026,
+   "field": "machines-xr",
+   "sub": "more-than-human",
+   "also": [],
+   "modalities": [
+    "touch",
+    "whole-soma"
+   ],
+   "lenses": [
+    "more-than-human",
+    "pleasure-play",
+    "attunement"
+   ],
+   "kind": "paper",
+   "description": "Over two months, researchers tried to play alongside growing fungal mycelium: making play moves, negotiating care with an unpredictable playmate, breaching its growth, and leaving funny or mysterious traces to revisit, from which they drew six 'play potentials'.",
+   "description_zh": "在两个月里，研究者尝试与生长中的真菌菌丝体一起玩：做出游戏动作、与一个难以预料的玩伴协商照料、打断它的生长、留下有趣或神秘的痕迹供日后回看，并由此总结出六种“游戏潜能”。",
+   "idea_en": "Play is a bodily, situated way of knowing another living thing: joy, surprise and risk with growing fungi teach attunement across very different timescales.",
+   "idea_zh": "游戏是一种身体的、在地的认识另一种生命的方式：与生长中的真菌相处时的快乐、惊讶与风险，教人跨越截然不同的时间尺度去调谐。",
+   "method": "A two-month interspecies ethnography with growing mycelium, documented by the researchers from the first person and analysed thematically.",
+   "method_zh": "为期两个月、与生长中的菌丝体进行的跨物种民族志，研究者以第一人称记录并做主题分析。",
+   "keywords": [
+    "mycelium",
+    "fungi",
+    "interspecies ethnography",
+    "play",
+    "biomaterials",
+    "more-than-human design",
+    "Tampere University",
+    "Ferran Altarriba Bertran"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3800645.3813057",
+    "doi": "10.1145/3800645.3813057",
+    "arxiv": "",
+    "venue": "DIS 2026",
+    "title": "Playing Alongside Mushroom: Chasing Play in Human-Mycelium Encounters for More-than-Human Design"
+   },
+   "code_url": "",
+   "collections": [
+    "dis"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "thomas-jacob-lawrence--iml-movement-happiness",
+   "creator_ids": [
+    "thomas-jacob-lawrence",
+    "marco-gillies"
+   ],
+   "title": "Interactive Machine Learning can recognise complex movements but does it make us happy?",
+   "year": 2026,
+   "field": "machines-xr",
+   "sub": "ai-ml",
+   "also": [
+    "movement"
+   ],
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "movement-expression",
+    "pleasure-play"
+   ],
+   "kind": "paper",
+   "description": "A VR study compares movement interactions built with interactive machine learning and with hand-written rules, asking which better supports users' emotional well-being as they move.",
+   "description_zh": "一项 VR 研究比较了分别用交互式机器学习和手写规则实现的动作交互，追问哪一种在人们活动身体时更能支持其情绪安适。",
+   "idea_en": "Both approaches raised positive emotion about equally, but machine learning let people move more freely and individually instead of conforming to movements prescribed by rules.",
+   "idea_zh": "两种方式提升正面情绪的效果相近，但机器学习让人动得更自由、更有个人特色，而不必迎合规则预先规定的动作。",
+   "method": "The same VR movement interactions implemented with interactive machine learning and with rule-based recognition, compared through users' emotional responses.",
+   "method_zh": "把同一组 VR 动作交互分别用交互式机器学习和基于规则的识别来实现，通过使用者的情绪反应加以比较。",
+   "keywords": [
+    "interactive machine learning",
+    "movement recognition",
+    "virtual reality",
+    "emotional well-being",
+    "Goldsmiths",
+    "Clarice Hilton"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3802842.3802863",
+    "doi": "10.1145/3802842.3802863",
+    "arxiv": "",
+    "venue": "MOCO 2026",
+    "title": "Interactive Machine Learning can recognise complex movements but does it make us happy?"
+   },
+   "code_url": "",
+   "collections": [
+    "moco"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "jacqueline-borgstedt--uncanny-touch",
+   "creator_ids": [
+    "jacqueline-borgstedt"
+   ],
+   "title": "Uncanny Touch?",
+   "year": 2026,
+   "field": "machines-xr",
+   "sub": "robots-drones",
+   "also": [
+    "social"
+   ],
+   "modalities": [
+    "touch",
+    "heartbeat",
+    "heat"
+   ],
+   "lenses": [
+    "touching-back",
+    "affective-loop"
+   ],
+   "kind": "paper",
+   "description": "People stroke and hold the furry seal robot PARO while it adds lifelike haptic cues (a heartbeat, purring and warmth), abstract vibration or nothing, and report how alive, warm and eerie it feels.",
+   "description_zh": "人们抚摸、抱着毛茸茸的海豹机器人 PARO，它会附加逼真的触觉线索（心跳、呼噜声与温热）、抽象振动或什么都不加，人们再报告它摸起来有多像活物、多温暖、多诡异。",
+   "idea_en": "Making a robot feel alive under the hand raises warmth and likeability but also eeriness: the uncanny valley may reach into touch, so lifelike haptics call for care.",
+   "idea_zh": "让机器人摸起来像活的，会提升温暖感与好感，也会增加诡异感：“恐怖谷”可能延伸到触觉，因此逼真的触觉反馈需要谨慎设计。",
+   "method": "Haptic cues inspired by bio-physiological signals (heartbeat, purring vibration, thermal feedback) added to a PARO robot, compared with abstract vibration and no added haptics in an interaction study with 42 participants.",
+   "method_zh": "在 PARO 机器人上加入受生理信号启发的触觉线索（心跳、呼噜振动、温度反馈），在 42 人的交互研究中与抽象振动和不加触觉两种条件比较。",
+   "keywords": [
+    "PARO",
+    "social touch",
+    "haptics",
+    "uncanny valley",
+    "heartbeat",
+    "purring",
+    "thermal feedback",
+    "Stephen Brewster",
+    "Frank Pollick",
+    "University of Glasgow"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3757279.3785620",
+    "doi": "10.1145/3757279.3785620",
+    "arxiv": "",
+    "venue": "HRI 2026",
+    "title": "Uncanny Touch? Investigating the Influence of Lifelike Haptic Cues on User Perceptions of a Social Robot"
+   },
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "federico-espositi--from-alien-to-ally",
+   "creator_ids": [
+    "federico-espositi"
+   ],
+   "title": "From Alien to Ally",
+   "year": 2025,
+   "field": "machines-xr",
+   "sub": "robots-drones",
+   "also": [],
+   "modalities": [
+    "movement",
+    "light-vision",
+    "whole-soma"
+   ],
+   "lenses": [
+    "extended-body",
+    "intercorporeality",
+    "more-than-human"
+   ],
+   "kind": "prototype",
+   "description": "In a collaborative escape room, a Visitor must teach a non-anthropomorphic physical robot to play, while a Controller elsewhere inhabits that robot through VR and sees the room, and the Visitor, through a filter that morphs their shape; the pair must invent a non-verbal language through movement.",
+   "description_zh": "在一个协作式密室逃脱中，“访客”要教一台非拟人的实体机器人玩游戏；另一处的“操控者”则通过 VR 住进这台机器人，透过一层会改变形体的滤镜看见房间和访客。两人必须用动作发明一种非语言的沟通方式。",
+   "idea_en": "When both bodies are made strange, people still build shared meaning through movement; inhabiting a radically non-human body teaches new ways to read others and to be read.",
+   "idea_zh": "即使双方的身体都被陌生化，人仍能通过动作建立共同的意义；住进一个截然非人的身体，会教人以新的方式去读懂他人、也被他人读懂。",
+   "method": "A mobile non-anthropomorphic robot teleoperated by a remote Controller in VR, whose view translates the Visitor's body into an altered avatar; a user study of the communication strategies that emerged.",
+   "method_zh": "远程操控者在 VR 中操控一台可移动的非拟人机器人，其视野把访客的身体转译为变形的化身；用户研究考察双方自发形成的沟通策略。",
+   "keywords": [
+    "non-anthropomorphic robot",
+    "avatar",
+    "non-verbal communication",
+    "telepresence",
+    "escape room",
+    "Andrea Bonarini",
+    "AIRLab",
+    "Politecnico di Milano"
+   ],
+   "images": [
+    "https://www.deib.polimi.it/allegati/news/1396/0.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3706598.3713428",
+    "doi": "10.1145/3706598.3713428",
+    "arxiv": "",
+    "venue": "CHI 2025",
+    "title": "From Alien to Ally: Exploring Non-Verbal Communication with Non-Anthropomorphic Avatars in a Collaborative Escape-Room"
+   },
+   "source_url": "https://www.deib.polimi.it/eng/news/details/1396",
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": [
+    "CHI 2025 Honorable Mention"
+   ]
+  },
+  {
+   "id": "julia-sebastien--drifting-embodiment",
+   "creator_ids": [
+    "julia-sebastien",
+    "andrea-stevenson-won"
+   ],
+   "title": "Drifting Embodiment",
+   "year": 2026,
+   "field": "machines-xr",
+   "sub": "xr-virtual-body",
+   "also": [
+    "care"
+   ],
+   "modalities": [
+    "pain-interoception",
+    "light-vision",
+    "posture-balance"
+   ],
+   "lenses": [
+    "care-healing",
+    "extended-body",
+    "first-person"
+   ],
+   "kind": "paper",
+   "description": "In VR, participants either embody an avatar aligned with their body, go through a 'drifting body' experience in which their virtual location deliberately slides away from their physical one, or watch an awe-inducing 360° scene, while their heat-pain thresholds are measured.",
+   "description_zh": "参与者在 VR 中或者具身于与自己身体对齐的化身，或者经历“漂移身体”体验——虚拟位置被有意地从身体所在处滑开，或者观看一段引发敬畏的 360° 影像，同时测量他们的热痛阈值。",
+   "idea_en": "Pain is felt by a self located in a body; VR that shifts where one feels located, or that evokes awe, offers a way to explore how that felt pain can change.",
+   "idea_zh": "疼痛是由一个位于身体中的自我感受到的；改变人感到自己所在位置、或唤起敬畏的 VR，为探索疼痛感受如何变化提供了途径。",
+   "method": "Pilot study with 23 healthy participants across three VR conditions, with heat-pain thresholds measured by a thermode and experiences triangulated through observation, surveys and interviews.",
+   "method_zh": "23 名健康参与者在三种 VR 条件下完成的试点研究，用热刺激仪测量热痛阈值，并结合观察、问卷与访谈三角互证其体验。",
+   "keywords": [
+    "drifting body experience",
+    "self-location",
+    "awe",
+    "pain perception",
+    "body ownership",
+    "Andrea Stevenson Won",
+    "Virtual Embodiment Lab",
+    "Cornell University"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3795011.3795032",
+    "doi": "10.1145/3795011.3795032",
+    "arxiv": "",
+    "venue": "Augmented Humans 2026",
+    "title": "Drifting Embodiment: A Mixed-Methods Study Exploring the Effects of Virtual Reality Experiences of Embodiment and Awe on Perceptions of Experimental Pain"
+   },
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "avital-meshi--stuck-in-the-middle",
+   "creator_ids": [
+    "avital-meshi"
+   ],
+   "title": "Stuck in the Middle",
+   "year": 2025,
+   "field": "machines-xr",
+   "sub": "ai-ml",
+   "also": [
+    "movement"
+   ],
+   "modalities": [
+    "voice-sound",
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-politics",
+    "estrangement",
+    "extended-body"
+   ],
+   "kind": "artwork",
+   "description": "Visitors put on one of five decorated AI wearables, each staging a binary (good/evil, happy/sad, female/male, rich/poor, fast/slow); a shoulder camera sends what the wearer sees to GPT, and two opposing AI voices take turns issuing and contradicting commands, leaving the wearer's body caught between them.",
+   "description_zh": "观众穿上五件装饰过的 AI 可穿戴装置之一，每件都上演一组二元对立（善/恶、快乐/悲伤、女/男、富/穷、快/慢）；肩上的摄像头把佩戴者看到的画面发送给 GPT，两个立场相反的 AI 声音轮流下达指令、又彼此推翻，让佩戴者的身体夹在二者之间。",
+   "idea_en": "When AI addresses the body with conflicting orders, hesitation and refusal become a felt form of agency: the wearer's body is the contested middle ground of either/or thinking.",
+   "idea_zh": "当 AI 用相互矛盾的指令召唤身体，犹豫与不服从就成了一种被切身感受的能动性：佩戴者的身体正是“非此即彼”思维争夺的中间地带。",
+   "method": "Each wearable holds a tiny camera, a Raspberry Pi and a button linked in real time to GPT through the OpenAI API; a button press sends an image of the surroundings, and two opposing AI personas answer in turn through the device.",
+   "method_zh": "每件装置内置微型摄像头、树莓派和一个按钮，经 OpenAI API 实时连接 GPT；按下按钮即发送周围环境的图像，两个对立的 AI 角色通过装置轮流回应。",
+   "keywords": [
+    "wearable AI",
+    "GPT",
+    "large language models",
+    "binaries",
+    "interpellation",
+    "participatory performance",
+    "UC Davis"
+   ],
+   "video": {
+    "url": "https://vimeo.com/1143734126"
+   },
+   "images": [
+    "https://www.avitalmeshi.com/uploads/1/2/1/7/12179426/stuck-in-the-middle-12_orig.png",
+    "https://www.avitalmeshi.com/uploads/1/2/1/7/12179426/stuck-in-the-middle-22_orig.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3799824.3812691",
+    "doi": "10.1145/3799824.3812691",
+    "arxiv": "",
+    "venue": "SIGGRAPH 2026 Art Gallery",
+    "title": "Stuck in The Middle"
+   },
+   "source_url": "https://www.avitalmeshi.com/stuck-in-the-middle-2025.html",
+   "code_url": "",
+   "collections": [],
+   "exhibited": [
+    "SIGGRAPH 2026 Art Gallery"
+   ]
+  },
+  {
+   "id": "irene-kaklopoulou--sketching-bodily-phenomena-llms",
+   "creator_ids": [
+    "irene-kaklopoulou",
+    "pedro-sanches"
+   ],
+   "title": "Exploring Bodily Phenomena through Code",
+   "year": 2026,
+   "field": "machines-xr",
+   "sub": "ai-ml",
+   "also": [
+    "methods",
+    "affect"
+   ],
+   "modalities": [
+    "posture-balance",
+    "pain-interoception",
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-data",
+    "first-person"
+   ],
+   "kind": "paper",
+   "description": "Designers used code-generating LLMs to quickly sketch interactive responses to bodily phenomena in four self-tracked or bio-sensed domains (learning, chronic illness, posture control and knee injury), and reflected on what the models made easy and what they made hard.",
+   "description_zh": "设计者用能生成代码的大语言模型，为四个自我追踪或生物传感领域（学习、慢性病、姿态控制与膝伤）中的身体现象快速做出交互草图，并反思模型让哪些事变容易、哪些事变难。",
+   "idea_en": "LLM sketching forces fuzzy bodily experience into premature articulation and pulls designs towards generic solutions, so tools for designing with the body must leave room for the vague and the felt.",
+   "idea_zh": "用大语言模型做草图，会迫使模糊的身体经验过早地被说清楚，并把设计拉向千篇一律的方案；因此，面向身体的设计工具必须为模糊与切身感受留出空间。",
+   "method": "Collaborative research-through-design inquiries using code-generating LLMs with self-tracking and biosensing data, synthesised into three themes: forced articulation of fuzzy phenomena, difficulty escaping local optima, and fragile generated sketches.",
+   "method_zh": "以研究导向设计的方式协作开展探索，把能生成代码的大语言模型用于自我追踪与生物传感数据，归纳出三个主题：模糊现象被迫表述、难以跳出局部最优、生成草图出乎意料地脆弱。",
+   "keywords": [
+    "large language models",
+    "code generation",
+    "sketching",
+    "research through design",
+    "self-tracking",
+    "biosensing",
+    "Kit Kuksenok",
+    "Daniel Saakes",
+    "Umeå University"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3800645.3812787",
+    "doi": "10.1145/3800645.3812787",
+    "arxiv": "",
+    "venue": "DIS 2026",
+    "title": "Exploring Bodily Phenomena through Code: A Research Through Design Inquiry of Sketching with LLMs"
+   },
+   "code_url": "",
+   "collections": [
+    "dis"
+   ],
+   "exhibited": []
+  }
+ ],
+ "leads": [
+  {
+   "name": "Caroline Yan Zheng et al. — Methodological Innovation in Designing Sensations and Sentiments from Robot Touch (HRI 2026)",
+   "why": "Felt quality of robot touch, Nottingham; East Asian first author, left to latest-east-asia.",
+   "link": "https://doi.org/10.1145/3776734.3788833",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Xixiang Nie & Xin Shu — Somaditation: A Multisensory VR Meditation Experience with a Wearable Glove (TEI 2026)",
+   "why": "Soma-design VR meditation with a singing-bowl glove; East Asian first author, left to latest-east-asia.",
+   "link": "https://doi.org/10.1145/3731459.3786212",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Chuanyue Xu & Mengni Zhang — AeroShelter: Presence as Interface (TEI 2026)",
+   "why": "Robotic public shelter responding to bodies and wind, framed by soma design; early-stage; East Asian first author.",
+   "link": "https://doi.org/10.1145/3731459.3779327",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Yicheng Xu et al. — Beyond Moving Appendages: Breathing Together as Bodily Sympathy in a Relational, Soma-Informed Human–Robot Encounter (DIS 2026)",
+   "why": "Breathing with a robot as bodily sympathy; East Asian first author, left to latest-east-asia.",
+   "link": "https://doi.org/10.1145/3802974.3809421",
+   "found_via": "steve-benford",
+   "status": "open"
+  },
+  {
+   "name": "Chang Shu et al. — From Felt Experience to Robotic Design: Embodied Techniques for Expressive Movement and Shape (DIS 2026)",
+   "why": "Somatic techniques for designing robot movement; East Asian first author, left to latest-east-asia.",
+   "link": "https://doi.org/10.1145/3800645.3812918",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Aileen Ng, Nina Rajcic, Rowan Page — Machine Eye: Designing Relational Engagement with Embodied Large Language Models (CHI 2026)",
+   "why": "Ambiguous embodied LLM artefact (Monash SensiLab); about relational engagement more than the felt body; first author likely East/Southeast Asian.",
+   "link": "https://doi.org/10.1145/3772318.3793387",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Ekaterina R. Stepanova et al. — Diffusing Social Boundaries through Virtual Bodies (CHI 2026) and Ethereal Virtual Touch for Embodied Telepresent Connection (DIS 2026, with Höök)",
+   "why": "Both papers are already works in social-machines.json (john-desnoyers-stewart--embodied-telepresent-connection, john-desnoyers-stewart--body-remixer).",
+   "link": "https://doi.org/10.1145/3772318.3791023",
+   "found_via": "john-desnoyers-stewart",
+   "status": "duplicate"
+  },
+  {
+   "name": "Henrique Sambi et al. — A Cabinet of Affective Touches: design repository linking somatic experience with soft robotics (C&C 2026)",
+   "why": "Added by latest-kth-methods.",
+   "link": "https://doi.org/10.1145/3803784.3809294",
+   "found_via": "seed",
+   "status": "duplicate"
+  },
+  {
+   "name": "Núñez-Pacheco, Sanches, Benjamin, Nicenboim, Prpa, Fdili Alaoui, Rennerova — Where is the Body in Designing (Through) AI? (CHI 2026 workshop)",
+   "why": "Soma-aligned AI workshop; KTH lineage and a workshop without a substantive output yet.",
+   "link": "https://doi.org/10.1145/3772363.3778774",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Joseph La Delfa et al. — Demonstrating How to Train Your Drone (HRI 2025)",
+   "why": "KTH-era drone demo; the DIS 2024 work already exists in hook-lab.",
+   "link": "https://doi.org/10.1109/hri61500.2025.10973956",
+   "found_via": "joseph-la-delfa",
+   "status": "duplicate"
+  },
+  {
+   "name": "Alan Chamberlain et al. — Robots in Pain, Humans in Play: Soma as a Qualitative Method for Investigating Intelligent Human-Robot Configurations (Designing for Bodies, Kolding 2025)",
+   "why": "Short position abstract on 'inter-soma' human-robot design; too slight to add on its own.",
+   "link": "https://nottingham-repository.worktribe.com/output/43953535",
+   "found_via": "steve-benford",
+   "status": "open"
+  },
+  {
+   "name": "Kristina Tica & Joaquín Santuber — HUMAN OVERS[A]IGHT: THE OPS ROOM (Ars Electronica 2025); Morais et al., More-than-human oversight (DRS 2026)",
+   "why": "AI-oversight installation re-read through soma design ('body-is-the-loop') in the DRS paper, but the installation itself centres law and visualisation, not felt experience; curatorial fit doubtful.",
+   "link": "https://doi.org/10.21606/drs.2026.1398",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Lancel & Maat — My Chatbot's Body (Hybrid Intelligence Centre residency)",
+   "why": "Poetic conversational AI 'searching for a body', shown with Embrace Angels in Amsterdam; no project page or media found yet.",
+   "link": "https://www.somabotics.ac.uk/somabotics-researchers-bring-embrace-angels-and-my-chatbots-body-to-amsterdam/",
+   "found_via": "lancel-maat",
+   "status": "no_media"
+  },
+  {
+   "name": "Soma Skins: A Toolkit to Support Soma Design of Physical Human-Robot Interaction (anonymous, under review 2026)",
+   "why": "Demo videos on Zenodo for a soma-design pHRI toolkit; add once the paper and authors are public.",
+   "link": "https://doi.org/10.5281/zenodo.21456707",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "BeAnotherLab — facilitation and care in The Machine To Be Another (CHI 2026 workshop on Body Transformation Experiences, org. Márquez Segura & Tajadura-Jiménez)",
+   "why": "Workshop paper still forthcoming; the workshop itself could seed a body-transformation lead list.",
+   "link": "https://beanotherlab.org/2026/04/24/beanotherlab-at-chi-2026-barcelona/",
+   "found_via": "beanotherlab",
+   "status": "open"
+  },
+  {
+   "name": "Shanneik & Deseke — Embodied Virtual Reality: Redistributing Narrative Power in Contexts of War and Displacement (Int. J. Qualitative Methods 2026)",
+   "why": "BeAnotherLab-linked participatory VR with refugee women; about narrative sovereignty more than felt embodiment.",
+   "link": "https://doi.org/10.1177/16094069261430198",
+   "found_via": "beanotherlab",
+   "status": "open"
+  },
+  {
+   "name": "Nataliia Kaminskaia, Rob Saunders et al. — The Nudging Machine: Expressive Touch-Based Movement for Abstract Robots (HRI 2026 LBR)",
+   "why": "How a cube robot's nudges are read as affect and intent; late-breaking report.",
+   "link": "https://doi.org/10.1145/3776734.3794420",
+   "found_via": "rob-saunders",
+   "status": "open"
+  },
+  {
+   "name": "Kathy Assaf et al. — Improvisational Participatory Storming: theatre-based participatory design methods for HRI (HRI 2026)",
+   "why": "Embodied improvisation toolkit for robot design with communities; candidate for methods.",
+   "link": "https://doi.org/10.1145/3757279.3788822",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Diego Muñoz et al. — Robotic Pet or Soft Toy? An Autoethnographic Study of Living with MetaCat in the Home (THRI 2026)",
+   "why": "Autoethnography of living with a furry robot cat; felt ambivalence, but more about domestic placement than soma.",
+   "link": "https://doi.org/10.1145/3834770",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Katrijn Westland — Soft Companions: A Breathing Textile Creature for Sensory Rituals of Care (TEI 2026)",
+   "why": "Pneumatic knitted creature that invites box breathing; fits somaesthetic/breath (latest-kth-methods or latest-affect-care).",
+   "link": "https://doi.org/10.1145/3731459.3786225",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Petra Gemeinboeck & Rob Saunders — Alloyed Bodies [BNE-3-3-1] (robot performance, ISEA 2024)",
+   "why": "Folded into the HRX Theatre entry; could become its own performance entry (2024).",
+   "link": "https://doi.org/10.1007/978-981-96-3525-2_10",
+   "found_via": "petra-gemeinboeck",
+   "status": "open"
+  },
+  {
+   "name": "Somabotics — Trustworthy Autonomous Systems Dance Showreel (YouTube, 2025)",
+   "why": "Possible video for the disabled dancers and robots project (Whatley et al.); no description, so not attached.",
+   "link": "https://www.youtube.com/watch?v=0r3Dny5iGYI",
+   "found_via": "steve-benford",
+   "status": "open"
+  },
+  {
+   "name": "Amar D'Adamo, Ana Tajadura-Jiménez et al. — SoniFootsteps: footstep sounds that modulate body-weight perception, gait and emotion (MOCO 2026)",
+   "why": "Body-perception sonification; belongs to affect or augmented (new senses) rather than XR.",
+   "link": "https://doi.org/10.1145/3802842.3802882",
+   "found_via": "ana-tajadura-jimenez",
+   "status": "open"
+  },
+  {
+   "name": "Krista Kim — Heart Space (2025)",
+   "why": "AI installation turning heartbeat (ECG) into light, MOCO Museum; Korean-Canadian artist, left to latest-east-asia.",
+   "link": "https://riyadhart.sa/en/artworks/heart-space-2024",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Cathy Mengying Fang et al. — Leveraging AI-Generated Emotional Self-Voice to Nudge People towards their Ideal Selves (CHI 2025)",
+   "why": "AI-cloned own voice as felt self-encounter; East Asian first author.",
+   "link": "https://doi.org/10.1145/3706598.3713359",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Benford, Garrett, Tennent et al. — Tangles (TOCHI 2025)",
+   "why": "Added by latest-kth-methods in parallel.",
+   "link": "https://doi.org/10.1145/3723875",
+   "found_via": "steve-benford",
+   "status": "duplicate"
+  },
+  {
+   "name": "Whatley et al. — Touch, agency and the interplay between dance, disability and robotics (IJPADM 2026)",
+   "why": "Added by latest-movement-social in parallel.",
+   "link": "https://doi.org/10.1080/14794713.2026.2635231",
+   "found_via": "steve-benford",
+   "status": "duplicate"
+  },
+  {
+   "name": "Chédin, Françoise, Caramiaux, Fdili Alaoui — Korai / movement generation with Voguing and Dancehall dancers (CHI 2026)",
+   "why": "Added by latest-movement-social in parallel.",
+   "link": "https://doi.org/10.1145/3772318.3791515",
+   "found_via": "sarah-fdili-alaoui",
+   "status": "duplicate"
+  },
+  {
+   "name": "Bogdanova et al. — Digital Phenotyping as Felt Informatics (CHI 2025) and Biggs — Fabulating Bog Girl (CHI 2025)",
+   "why": "Added by latest-affect-care in parallel.",
+   "link": "https://doi.org/10.1145/3706598.3714399",
+   "found_via": "seed",
+   "status": "duplicate"
+  },
+  {
+   "name": "Simon Kimmel et al. — Feel the Connection: Haptic Social Touch and Social Presence in Remote VR (Augmented Humans 2026)",
+   "why": "Haptic handshakes and high-fives raise social presence in VR; relayed by latest-movement-social, but a fairly generic haptic-presence study, so not added (would fit social/mediated-touch if wanted).",
+   "link": "https://doi.org/10.1145/3795011.3795024",
+   "found_via": "latest-movement-social",
+   "status": "open"
+  },
+  {
+   "name": "Soheil Kianzad, Yinan Li, Hasti Seifi — Feel the Connection: Haptic Enhanced Interaction with an AI Agent (SenseiPen, CHI EA 2025)",
+   "why": "LLM-driven force-feedback pen for guidance and Q&A; haptic engineering without a felt-body angle.",
+   "link": "https://doi.org/10.1145/3706599.3720173",
+   "found_via": "latest-movement-social",
+   "status": "off_topic"
+  },
+  {
+   "name": "Kalambi & Haynes — Ready Player Breathe: pneumatic breathing haptics for VR (DIS 2026 pictorial)",
+   "why": "Breath-driven VR haptics; KTH first author, so outside this batch's scope (relayed by latest-kth-methods).",
+   "link": "https://doi.org/10.1145/3800645.3812811",
+   "found_via": "latest-kth-methods",
+   "status": "open"
+  },
+  {
+   "name": "Avital Meshi & Dorte Bjerre Jensen — Rest! (2026)",
+   "why": "AI watches a resting performer and issues directives to keep resting; added by latest-foundations-art (movement/performance, also machines-xr).",
+   "link": "https://www.avitalmeshi.com/",
+   "found_via": "avital-meshi",
+   "status": "duplicate"
+  }
+ ]
+}
