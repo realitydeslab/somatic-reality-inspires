@@ -1,0 +1,1927 @@
+{
+ "batch": "latest-2026q4-hci",
+ "creators": [
+  {
+   "id": "bettina-nissen",
+   "name": "Bettina Nissen",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Lecturer in Interaction Design, Institute for Design Informatics, University of Edinburgh",
+   "role_zh": "爱丁堡大学设计信息学研究所交互设计讲师",
+   "based": "Edinburgh, GB",
+   "based_zh": "爱丁堡，英国",
+   "bio": "Design researcher who works with digital fabrication, crafts and material practices to make data and lived experience tangible.",
+   "bio_zh": "设计研究者，以数字制造、手工艺与材料实践让数据和亲身经验变得可触摸。",
+   "why": "Co-leads design work that records menstrual experience through weaving rather than through tracking numbers.",
+   "why_zh": "共同主持以编织而非数字追踪来记录经期经验的设计研究。",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "yixun-li"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "omleila-mohammadi",
+   "name": "Omleila Mohammadi",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Doctoral researcher, University of Salzburg",
+   "role_zh": "萨尔茨堡大学博士研究者",
+   "based": "Salzburg, AT",
+   "based_zh": "萨尔茨堡，奥地利",
+   "bio": "HCI researcher working on menopause, intimacy and pleasure with feminist and crip theory.",
+   "bio_zh": "人机交互研究者，以女性主义与残障（crip）理论研究更年期、亲密与愉悦。",
+   "why": "Brings the menopausal body, its sexuality and its changing sensations into intimate HCI.",
+   "why_zh": "把更年期的身体、其性与不断变化的感受带入亲密人机交互研究。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "verena-fuchsberger"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "verena-fuchsberger",
+   "name": "Verena Fuchsberger",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Senior Scientist, Department of Artificial Intelligence and Human Interfaces, University of Salzburg",
+   "role_zh": "萨尔茨堡大学人工智能与人机界面系资深研究员",
+   "based": "Salzburg, AT",
+   "based_zh": "萨尔茨堡，奥地利",
+   "bio": "HCI researcher on materiality, feminist HCI and how bodies and things act together in interaction.",
+   "bio_zh": "人机交互研究者，关注物质性、女性主义人机交互，以及身体与物如何在交互中共同行动。",
+   "why": "Supervises feminist and crip research on menopausal bodies, pleasure and care.",
+   "why_zh": "指导关于更年期身体、愉悦与照护的女性主义与残障视角研究。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "omleila-mohammadi"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "samira-mattissen",
+   "name": "Samira Mattissen",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, HCI & Design Section, IT University of Copenhagen",
+   "role_zh": "哥本哈根信息技术大学人机交互与设计组研究者",
+   "based": "Copenhagen, DK",
+   "based_zh": "哥本哈根，丹麦",
+   "bio": "Interaction design researcher studying self-care technologies and the menstrual cycle.",
+   "bio_zh": "交互设计研究者，研究自我照护技术与月经周期。",
+   "why": "Shows through research-through-design that self-care for a cycling body cannot be specified in advance.",
+   "why_zh": "通过设计研究表明，对周期性身体的自我照护无法预先规定。",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "connected_to": [
+    "anna-vallgarda"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ekat-osipova",
+   "name": "Ekat Osipova",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Doctoral researcher, Crip Collective, HCI Group, TU Wien",
+   "role_zh": "维也纳工业大学人机交互组 Crip Collective 博士研究者",
+   "based": "Vienna, AT",
+   "based_zh": "维也纳，奥地利",
+   "bio": "HCI researcher working on neurodivergence, queer theory and intimate technologies.",
+   "bio_zh": "人机交互研究者，关注神经多样性、酷儿理论与亲密技术。",
+   "why": "Centres neurodivergent people as experts on their own intimate, embodied lives with technology.",
+   "why_zh": "让神经多样者作为自身亲密、具身生活的专家，讲述他们与技术的关系。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "katta-spiel"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "charlotte-triebus",
+   "name": "Charlotte Triebus",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Choreographer and researcher, Hochschule Düsseldorf; founder of New Human Body Society",
+   "role_zh": "编舞家与研究者，杜塞尔多夫应用科技大学；New Human Body Society 创始人",
+   "based": "Düsseldorf, DE",
+   "based_zh": "杜塞尔多夫，德国",
+   "bio": "Performance artist and choreographer who makes dance pieces with human dancers and AI agents.",
+   "bio_zh": "行为艺术家与编舞家，创作由人类舞者与 AI 智能体共同完成的舞蹈作品。",
+   "why": "Treats movement as a carrier of tacit, situated knowledge that protocols and AI cannot fully capture.",
+   "why_zh": "把动作视为承载默会、处境化知识的载体，这些知识是协议与 AI 无法完全捕捉的。",
+   "disciplines": [
+    "dance",
+    "art"
+   ],
+   "links": {
+    "site": "https://www.precious.dance"
+   },
+   "connected_to": [
+    "christian-geiger"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "christian-geiger",
+   "name": "Christian Geiger",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Mixed Reality and Visualization, Hochschule Düsseldorf",
+   "role_zh": "杜塞尔多夫应用科技大学混合现实与可视化教授",
+   "based": "Düsseldorf, DE",
+   "based_zh": "杜塞尔多夫，德国",
+   "bio": "Computer scientist working on mixed reality, interactive performance and human-AI dance.",
+   "bio_zh": "计算机科学家，研究混合现实、互动表演与人机共舞。",
+   "why": "Builds the live systems that let dancers and AI meet on stage.",
+   "why_zh": "搭建让舞者与 AI 在舞台上相遇的实时系统。",
+   "disciplines": [
+    "hci",
+    "engineering"
+   ],
+   "links": {},
+   "connected_to": [
+    "charlotte-triebus"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "amirhosein-asghari-tavana",
+   "name": "Amirhosein Asghari Tavana",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Doctoral researcher, Gamification Group, Tampere University",
+   "role_zh": "坦佩雷大学游戏化研究组博士研究者",
+   "based": "Tampere, FI",
+   "based_zh": "坦佩雷，芬兰",
+   "bio": "Researcher on haptic experience and how users' felt responses to haptics are evaluated.",
+   "bio_zh": "研究触觉体验，以及如何评估用户对触觉的切身反应。",
+   "why": "Maps how haptics research measures — and often narrows — what users actually feel.",
+   "why_zh": "梳理触觉研究如何测量、又常常窄化了用户真正的感受。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "oguz-buruk"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "philippe-pasquier",
+   "name": "Philippe Pasquier",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor, School of Interactive Arts & Technology, Simon Fraser University; director of the Metacreation Lab for Creative AI",
+   "role_zh": "西蒙弗雷泽大学互动艺术与技术学院教授；Metacreation 创意 AI 实验室主任",
+   "based": "Vancouver, CA",
+   "based_zh": "温哥华，加拿大",
+   "bio": "Artist-researcher in computational creativity and musical agents who co-creates interactive artworks with generative AI.",
+   "bio_zh": "计算创造力与音乐智能体方向的艺术研究者，与生成式 AI 共同创作互动艺术。",
+   "why": "Co-created the Respire breathing artworks, where a musical agent breathes along with the visitor.",
+   "why_zh": "共同创作了 Respire 呼吸艺术作品，其中的音乐智能体与观众一起呼吸。",
+   "disciplines": [
+    "art",
+    "hci"
+   ],
+   "links": {
+    "site": "https://www.metacreation.net"
+   },
+   "connected_to": [
+    "mirjana-prpa"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "maria-concepcion-valdez-gastelum",
+   "name": "María Concepción Valdez Gastelum",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Doctoral researcher, CICESE",
+   "role_zh": "墨西哥 CICESE 研究中心博士研究者",
+   "based": "Ensenada, MX",
+   "based_zh": "恩塞纳达，墨西哥",
+   "bio": "HCI researcher designing sensory technologies with dancers, using body sensations as design material.",
+   "bio_zh": "人机交互研究者，与舞者合作设计感官技术，把身体感觉当作设计材料。",
+   "why": "Co-designs sonifications that let ballet dancers hear the micro-instabilities they normally cannot feel.",
+   "why_zh": "与芭蕾舞者共同设计声音化系统，让他们听见平时难以察觉的细微不稳。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "ana-tajadura-jimenez",
+    "monica-tentori"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "monica-tentori",
+   "name": "Monica Tentori",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Computer Science, CICESE",
+   "role_zh": "墨西哥 CICESE 研究中心计算机科学教授",
+   "based": "Ensenada, MX",
+   "based_zh": "恩塞纳达，墨西哥",
+   "bio": "Ubiquitous computing researcher known for interactive and sensory technologies for children with autism and for movement.",
+   "bio_zh": "普适计算研究者，以面向自闭症儿童与身体动作的互动、感官技术著称。",
+   "why": "A Latin American lead in designing sensory, body-centred interactive systems with communities.",
+   "why_zh": "拉丁美洲在与社群共同设计以身体为中心的感官交互系统方面的代表人物。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "maria-concepcion-valdez-gastelum"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "marta-matamala-gomez",
+   "name": "Marta Matamala-Gomez",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, Department of Cognition, Development and Educational Psychology, University of Barcelona",
+   "role_zh": "巴塞罗那大学认知、发展与教育心理学系研究者",
+   "based": "Barcelona, ES",
+   "based_zh": "巴塞罗那，西班牙",
+   "bio": "Neuroscientist working on body representation, pain and rehabilitation with virtual reality and sensory feedback.",
+   "bio_zh": "神经科学研究者，以虚拟现实与感觉反馈研究身体表征、疼痛与康复。",
+   "why": "Tests in the clinic whether metaphorical sound can change how stroke survivors feel and move their bodies.",
+   "why_zh": "在临床中检验隐喻性的声音能否改变中风幸存者感受与移动身体的方式。",
+   "disciplines": [
+    "health"
+   ],
+   "links": {},
+   "connected_to": [
+    "ana-tajadura-jimenez"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "mengxi-liu",
+   "name": "Mengxi Liu",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, German Research Center for Artificial Intelligence (DFKI) and RPTU Kaiserslautern",
+   "role_zh": "德国人工智能研究中心（DFKI）与凯泽斯劳滕-兰道大学研究者",
+   "based": "Kaiserslautern, DE",
+   "based_zh": "凯泽斯劳滕，德国",
+   "bio": "Wearable computing researcher working on physiological sensing and biofeedback.",
+   "bio_zh": "可穿戴计算研究者，研究生理感测与生物反馈。",
+   "why": "Led a review that asks which biosignals actually suit which kind of meditation.",
+   "why_zh": "主导一篇综述，追问哪种生物信号真正适合哪一类冥想。",
+   "disciplines": [
+    "hci",
+    "engineering"
+   ],
+   "links": {},
+   "connected_to": [
+    "kouta-minamizawa",
+    "kai-kunze"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jules-van-gurp",
+   "name": "Jules van Gurp",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Doctoral researcher, Industrial Design, Eindhoven University of Technology",
+   "role_zh": "埃因霍温理工大学工业设计系博士研究者",
+   "based": "Eindhoven, NL",
+   "based_zh": "埃因霍温，荷兰",
+   "bio": "Designer-researcher working on children's play in extended reality beyond the screen.",
+   "bio_zh": "设计研究者，研究儿童在屏幕之外的扩展现实中的游戏。",
+   "why": "Proposes non-visual XR, where children find invisible things by listening, feeling and moving.",
+   "why_zh": "提出非视觉扩展现实：儿童通过聆听、触感与移动去寻找看不见的东西。",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "wesly-menard",
+   "name": "Wesly S. Menard",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Doctoral researcher, Computer & Information Science & Engineering, University of Florida",
+   "role_zh": "佛罗里达大学计算机与信息科学工程系博士研究者",
+   "based": "Gainesville, US",
+   "based_zh": "盖恩斯维尔，美国",
+   "bio": "SportsHCI researcher and cyclist studying collaborative sports technologies from the inside.",
+   "bio_zh": "运动人机交互研究者兼自行车骑手，从亲身经验研究协作型运动技术。",
+   "why": "Uses a year of shared riding to show how exertion data becomes a social, felt signal between athletes.",
+   "why_zh": "以一年的结伴骑行表明，运动强度数据如何在运动员之间成为社交性的、可感的信号。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "armagan-karahanoglu",
+   "name": "Armağan Karahanoğlu",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Assistant Professor, Interaction Design Group, University of Twente",
+   "role_zh": "特温特大学交互设计组助理教授",
+   "based": "Enschede, NL",
+   "based_zh": "恩斯赫德，荷兰",
+   "bio": "Interaction design researcher and runner working on SportsHCI, data and the lived experience of training.",
+   "bio_zh": "交互设计研究者与跑者，研究运动人机交互、数据与训练的亲身经验。",
+   "why": "Brings first-person and autoethnographic accounts of the training body into SportsHCI.",
+   "why_zh": "把关于训练中身体的第一人称与自我民族志叙述带入运动人机交互。",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "connected_to": [
+    "alejandra-gomez-ortega",
+    "jakob-tholander"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "wouter-van-mensvoort",
+   "name": "Wouter van Mensvoort",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, Interaction Technology, University of Twente",
+   "role_zh": "特温特大学交互技术专业研究者",
+   "based": "Enschede, NL",
+   "based_zh": "恩斯赫德，荷兰",
+   "bio": "SportsHCI researcher working on how runners' subjective effort can enter their training data.",
+   "bio_zh": "运动人机交互研究者，研究跑者的主观用力感如何进入训练数据。",
+   "why": "Designs smartwatch prompts that ask runners to notice how the run feels, not only how fast it is.",
+   "why_zh": "设计智能手表提示，请跑者留意这次跑步的感受，而不只是速度。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "armagan-karahanoglu"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "marcelo-wanderley",
+   "name": "Marcelo M. Wanderley",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Music Technology, McGill University; IDMIL",
+   "role_zh": "麦吉尔大学音乐技术教授；IDMIL 实验室",
+   "based": "Montréal, CA",
+   "based_zh": "蒙特利尔，加拿大",
+   "bio": "Music technology researcher known for work on digital musical instruments, gesture and the performer's body.",
+   "bio_zh": "音乐技术研究者，以数字乐器、手势与演奏者身体方面的研究著称。",
+   "why": "Grounds research on the musician's felt body and movement in instrument design.",
+   "why_zh": "把对演奏者切身身体与动作的研究落实到乐器设计中。",
+   "disciplines": [
+    "hci",
+    "dance"
+   ],
+   "links": {},
+   "connected_to": [
+    "ziyue-piao"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "katherine-rees",
+   "name": "Katherine Rees",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Designer and researcher in wearable technology and dance anthropology",
+   "role_zh": "可穿戴技术与舞蹈人类学方向的设计师与研究者",
+   "based": "United Kingdom",
+   "based_zh": "英国",
+   "bio": "Researcher who combines dance anthropology, sensory ethnography and wearable prototyping to study creative making.",
+   "bio_zh": "结合舞蹈人类学、感官民族志与可穿戴原型制作来研究创作过程的研究者。",
+   "why": "Offers embodied documentation methods for the felt side of making.",
+   "why_zh": "为创作过程中可感的一面提供具身的记录方法。",
+   "disciplines": [
+    "design",
+    "dance"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ka-kei-lee",
+   "name": "Ka Kei Lee",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, School of Design, RMIT University",
+   "role_zh": "皇家墨尔本理工大学设计学院研究者",
+   "based": "Melbourne, AU",
+   "based_zh": "墨尔本，澳大利亚",
+   "bio": "Game designer-researcher making VR games about non-human embodiment.",
+   "bio_zh": "游戏设计研究者，创作关于非人类具身的虚拟现实游戏。",
+   "why": "Uses gesture and effort to let players feel scale and agency of non-human beings.",
+   "why_zh": "以手势和用力让玩家感受非人类存在的尺度与能动性。",
+   "disciplines": [
+    "design",
+    "art"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "chia-an-fan",
+   "name": "Chia-An Fan",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, Inami Hiyama Laboratory, The University of Tokyo",
+   "role_zh": "东京大学稻见·檜山研究室研究者",
+   "based": "Tokyo, JP",
+   "based_zh": "东京，日本",
+   "bio": "HCI researcher on wearable supernumerary robotic arms and how they feel to wear.",
+   "bio_zh": "人机交互研究者，研究可穿戴附加机械臂及其佩戴感受。",
+   "why": "Designs robotic-arm motion around the wearer's perceived burden and sense of embodiment.",
+   "why_zh": "围绕佩戴者感知到的负担与具身感来设计机械臂的动作。",
+   "disciplines": [
+    "hci",
+    "engineering"
+   ],
+   "links": {},
+   "connected_to": [
+    "masahiko-inami"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "shieru-suzuki",
+   "name": "Shieru Suzuki",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, University of Tsukuba and AIST",
+   "role_zh": "筑波大学与日本产业技术综合研究所研究者",
+   "based": "Tsukuba, JP",
+   "based_zh": "筑波，日本",
+   "bio": "HCI researcher on electrical muscle stimulation and body-actuation interfaces.",
+   "bio_zh": "人机交互研究者，研究肌肉电刺激与身体驱动界面。",
+   "why": "Splits a movement between machine and person so that EMS speeds the body without taking it over.",
+   "why_zh": "把一个动作分给机器与人：肌肉电刺激加快身体启动，却不接管身体。",
+   "disciplines": [
+    "hci",
+    "engineering"
+   ],
+   "links": {},
+   "connected_to": [
+    "yoichi-ochiai"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "yoichi-ochiai",
+   "name": "Yoichi Ochiai",
+   "name_zh": "落合阳一",
+   "kind": "person",
+   "role": "Media artist; Associate Professor, University of Tsukuba (Digital Nature Group)",
+   "role_zh": "媒体艺术家；筑波大学副教授（Digital Nature Group）",
+   "based": "Tsukuba / Tokyo, JP",
+   "based_zh": "筑波 / 东京，日本",
+   "bio": "Japanese media artist and computer scientist (b. 1987) whose idea of 'Digital Nature' treats computation as a new nature that merges with matter, bodies and landscape.",
+   "bio_zh": "日本媒体艺术家与计算机科学家（1987 年生），提出“计算机自然”（Digital Nature），把计算视为一种与物质、身体和风景融为一体的新自然。",
+   "why": "His lab explores body actuation and how much control a body can share with a machine.",
+   "why_zh": "他的实验室探索身体驱动，以及身体能与机器分享多少控制。",
+   "disciplines": [
+    "art",
+    "hci"
+   ],
+   "links": {
+    "site": "https://digitalnature.slis.tsukuba.ac.jp/"
+   },
+   "connected_to": [
+    "shieru-suzuki"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "lala-guluzade",
+   "name": "Lala Guluzade",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, ADA University",
+   "role_zh": "阿塞拜疆 ADA 大学研究者",
+   "based": "Baku, AZ",
+   "based_zh": "巴库，阿塞拜疆",
+   "bio": "HCI researcher on mindful eating and technologies for wellbeing.",
+   "bio_zh": "人机交互研究者，研究正念饮食与促进安适的技术。",
+   "why": "Grounds mindful-eating technology design in health research and practitioner critique.",
+   "why_zh": "让正念饮食技术的设计扎根于健康研究与实践者的评议。",
+   "disciplines": [
+    "hci",
+    "health"
+   ],
+   "links": {},
+   "connected_to": [
+    "corina-sas"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "corina-sas",
+   "name": "Corina Sas",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Human-Computer Interaction and Digital Health, Lancaster University",
+   "role_zh": "兰卡斯特大学人机交互与数字健康教授",
+   "based": "Lancaster, GB",
+   "based_zh": "兰卡斯特，英国",
+   "bio": "HCI researcher on mindfulness, emotion regulation, memory and technologies for mental health.",
+   "bio_zh": "人机交互研究者，研究正念、情绪调节、记忆与心理健康技术。",
+   "why": "A leading voice on designing for mindfulness and bodily awareness in HCI.",
+   "why_zh": "在人机交互中为正念与身体觉察而设计方面的重要研究者。",
+   "disciplines": [
+    "hci",
+    "health"
+   ],
+   "links": {},
+   "connected_to": [
+    "lala-guluzade"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "prithiv-premkumar",
+   "name": "Prithiv Premkumar",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, Sonification Lab, Georgia Institute of Technology",
+   "role_zh": "佐治亚理工学院声音化实验室研究者",
+   "based": "Atlanta, US",
+   "based_zh": "亚特兰大，美国",
+   "bio": "HCI researcher on haptics and multimodal feedback for conversational AI.",
+   "bio_zh": "人机交互研究者，研究对话式 AI 的触觉与多模态反馈。",
+   "why": "Tests what happens when an AI is given a felt heartbeat.",
+   "why_zh": "检验当 AI 被赋予一颗可感的心跳时会发生什么。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "xiaoying-bie",
+   "name": "Xiaoying Bie",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, School of Art and Design, Guangdong University of Technology",
+   "role_zh": "广东工业大学艺术与设计学院研究者",
+   "based": "Guangzhou, CN",
+   "based_zh": "广州，中国",
+   "bio": "Interaction designer working on wearables for children with sensory processing differences.",
+   "bio_zh": "交互设计研究者，为感觉处理差异儿童设计可穿戴设备。",
+   "why": "Turns a child's hard-to-say sensory overload into something child and caregiver can attend to together.",
+   "why_zh": "把孩子难以言说的感官超载，转化为孩子与照护者可以共同关注的东西。",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "mali-ghajargar",
+   "name": "Mali Ghajargar",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Assistant Professor, Worcester Polytechnic Institute",
+   "role_zh": "伍斯特理工学院助理教授",
+   "based": "Worcester, US",
+   "based_zh": "伍斯特，美国",
+   "bio": "Interaction design researcher on more-than-human design, sound and tangible interaction.",
+   "bio_zh": "交互设计研究者，研究超越人类的设计、声音与实体交互。",
+   "why": "Designs and does autoethnography in the same disturbed landscapes, so the designer's own body is part of the data.",
+   "why_zh": "在同一片受扰动的土地上同时设计与做自我民族志，让设计者自己的身体成为数据的一部分。",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "yixun-li--cycloom",
+   "creator_ids": [
+    "yixun-li",
+    "bettina-nissen"
+   ],
+   "title": "Cycloom",
+   "year": 2026,
+   "field": "intimate",
+   "sub": "menstruation",
+   "modalities": [
+    "intimate-body",
+    "touch"
+   ],
+   "lenses": [
+    "body-data",
+    "body-politics",
+    "first-person"
+   ],
+   "kind": "prototype",
+   "description": "A weaving-based digital prototype for recording menstrual experience: instead of ticking categories in a tracking app, people weave colours, textures and patterns that stand for how a cycle feels.",
+   "description_zh": "一个以编织为基础的数字原型，用来记录经期经验：人们不是在追踪应用里勾选类别，而是用颜色、质地与图案编织出一个周期的感受。",
+   "idea_en": "Recording the menstruating body through a sensory, expressive material practice opens room for self-understanding and care that numeric trackers flatten.",
+   "idea_zh": "用感官的、可表达的材料实践来记录经期身体，打开了被数字化追踪压平的自我理解与照护空间。",
+   "method": "Analysis of eight menstrual woven artefacts informed a digital weaving interface, refined and evaluated over two workshops with 15 participants.",
+   "method_zh": "先分析八件与经期有关的编织作品，再据此设计数字编织界面，并在两轮共 15 人参与的工作坊中迭代与评估。",
+   "keywords": [
+    "menstruation",
+    "weaving",
+    "menstrual tracking",
+    "material practice",
+    "NordiCHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3829807.3829808",
+    "doi": "10.1145/3829807.3829808",
+    "arxiv": "",
+    "venue": "NordiCHI 2026",
+    "title": "Cycloom: Designing with and for Menstrual Lived Experiences through Digital Weaving"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "omleila-mohammadi--crip-menopausal-pleasure",
+   "creator_ids": [
+    "omleila-mohammadi",
+    "verena-fuchsberger"
+   ],
+   "title": "Toward A Crip HCI of Menopausal Intimacy and Pleasure",
+   "year": 2026,
+   "field": "intimate",
+   "sub": "pleasure",
+   "modalities": [
+    "intimate-body",
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-politics",
+    "pleasure-play",
+    "first-person"
+   ],
+   "kind": "paper",
+   "description": "Workshops with menopausal people — cisgender women, trans men and a nonbinary person — on how pleasure, intimacy and sexual life change through the menopause transition, read through crip theory.",
+   "description_zh": "与更年期人群（包括顺性别女性、跨性别男性与一位非二元者）开展工作坊，探讨愉悦、亲密与性生活在更年期过渡中如何变化，并以残障（crip）理论加以解读。",
+   "idea_en": "Design for the menopausal body should start from its changing pleasures, not from a norm of a body that must be fixed.",
+   "idea_zh": "为更年期身体设计，应从其不断变化的愉悦出发，而不是从一个“需要被修复”的身体规范出发。",
+   "method": "Qualitative workshops on embodied and social experiences of menopause, analysed with crip theory beyond heteronormative framings.",
+   "method_zh": "围绕更年期具身与社会经验的质性工作坊，以超越异性恋规范的残障理论视角进行分析。",
+   "keywords": [
+    "menopause",
+    "pleasure",
+    "crip theory",
+    "intimacy",
+    "trans",
+    "NordiCHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3821402.3830152",
+    "doi": "10.1145/3821402.3830152",
+    "arxiv": "",
+    "venue": "NordiCHI 2026 Adjunct",
+    "title": "Toward A Crip HCI of Menopausal Intimacy and Pleasure"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "samira-mattissen--individual-cycles",
+   "creator_ids": [
+    "samira-mattissen",
+    "anna-vallgarda"
+   ],
+   "title": "Individual Cycles",
+   "year": 2026,
+   "field": "intimate",
+   "sub": "menstruation",
+   "modalities": [
+    "intimate-body",
+    "whole-soma"
+   ],
+   "lenses": [
+    "care-healing",
+    "body-data",
+    "first-person"
+   ],
+   "kind": "paper",
+   "description": "A research-through-design study of 'cycle syncing' — aligning daily life with menstrual phases — in which 11 people lived one cycle with a commercial app and a handcrafted text-message probe.",
+   "description_zh": "一项关于“周期同步”（让日常生活与经期阶段相协调）的设计研究：11 名参与者在一个周期里分别使用商业应用和手工编写的短信探针。",
+   "idea_en": "What counts as self-care for a cycling body cannot be known in advance or optimised; designers should practise restraint.",
+   "idea_zh": "对于周期性的身体，什么才算自我照护无法预先知道，也无法被优化；设计者应当保持克制。",
+   "method": "Two technology probes over one menstrual cycle plus individual co-design sessions, yielding seven tensions in self-care technology.",
+   "method_zh": "在一个月经周期内使用两种技术探针，并进行个人共同设计访谈，归纳出自我照护技术中的七种张力。",
+   "keywords": [
+    "menstrual cycle",
+    "cycle syncing",
+    "self-care",
+    "technology probe",
+    "restraint",
+    "NordiCHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3829807.3829841",
+    "doi": "10.1145/3829807.3829841",
+    "arxiv": "",
+    "venue": "NordiCHI 2026",
+    "title": "Individual Cycles: The Challenges of Designing Self-Care Technologies"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "ekat-osipova--neuroqueering-tech-intimacies",
+   "creator_ids": [
+    "ekat-osipova",
+    "katta-spiel"
+   ],
+   "title": "Neuroqueering Tech Intimacies",
+   "year": 2026,
+   "field": "intimate",
+   "sub": "queer-trans",
+   "modalities": [
+    "intimate-body",
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-politics",
+    "first-person",
+    "intercorporeality"
+   ],
+   "kind": "paper",
+   "description": "Interviews with 18 neurodivergent people about intimacy show how they combine features of everyday technologies to build their own intimate lives against social norms and inaccessible designs.",
+   "description_zh": "对 18 位神经多样者关于亲密关系的访谈显示，他们如何组合日常技术的各种功能，在社会规范与不友好的设计之间建立属于自己的亲密生活。",
+   "idea_en": "Intimacy is a whole-body, holistic experience; neurodivergent people are experts in assembling it, and design should follow their lead.",
+   "idea_zh": "亲密是一种整体的、全身心的体验；神经多样者是组装这种体验的专家，设计应跟随他们。",
+   "method": "18 in-depth qualitative interviews analysed with assemblage thinking and neuroqueering.",
+   "method_zh": "18 场深度质性访谈，以装配（assemblage）思维与神经酷儿（neuroqueering）理论分析。",
+   "keywords": [
+    "neurodivergence",
+    "neuroqueer",
+    "intimacy",
+    "assemblage",
+    "crip HCI",
+    "NordiCHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3829807.3829830",
+    "doi": "10.1145/3829807.3829830",
+    "arxiv": "",
+    "venue": "NordiCHI 2026",
+    "title": "Neuroqueering Tech Intimacies: Exploring neurodivergent people's technology appropriation practices towards self-determined intimacy"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "kristina-mah--design-without-goal",
+   "creator_ids": [
+    "kristina-mah",
+    "janghee-cho",
+    "jonas-fritsch",
+    "claudia-nunez-pacheco"
+   ],
+   "title": "Design Without Goal",
+   "year": 2026,
+   "field": "methods",
+   "sub": "somatic-training",
+   "also": [
+    "foundations"
+   ],
+   "modalities": [
+    "whole-soma",
+    "voice-sound",
+    "breath"
+   ],
+   "lenses": [
+    "attunement",
+    "body-mind-unity",
+    "first-person"
+   ],
+   "kind": "method",
+   "description": "A full-day NordiCHI workshop of exercises that open and prepare body and mind — grounding, somatic attunement, Daoist embodied reflection, silence and listening — as a basis for non-goal-oriented design.",
+   "description_zh": "NordiCHI 的一整天工作坊，以一系列打开并准备身心的练习（落地、身体调谐、道家式具身反思、静默与聆听）作为非目标导向设计的基础。",
+   "idea_en": "Listening, silence and somatic attunement are design capacities that can be trained, and they let design emerge rather than be steered toward a goal.",
+   "idea_zh": "聆听、静默与身体调谐都是可以训练的设计能力，它们让设计自然生发，而非被导向某个目标。",
+   "method": "Facilitated sequence of initiation, grounding, embodiment and practice exercises, drawing on relational theories, ko-ontological encounter and Daoist practice.",
+   "method_zh": "按“启动、落地、具身、实践”顺序进行的引导式练习，借鉴关系性理论、共在本体（ko-ontological）相遇与道家修习。",
+   "keywords": [
+    "workshop",
+    "somatic attunement",
+    "Daoism",
+    "silence",
+    "listening",
+    "non-goal-oriented design",
+    "NordiCHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3821402.3830204",
+    "doi": "10.1145/3821402.3830204",
+    "arxiv": "",
+    "venue": "NordiCHI 2026 Adjunct",
+    "title": "Design Without Goal: Listening, Silence, and Emergence in Practice"
+   },
+   "source_url": "https://sites.google.com/view/designwithoutgoal/",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "charlotte-triebus--cosmic-noise",
+   "creator_ids": [
+    "charlotte-triebus",
+    "christian-geiger"
+   ],
+   "title": "Cosmic Noise",
+   "year": 2026,
+   "field": "movement",
+   "sub": "dance-tech",
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "movement-expression",
+    "first-person",
+    "more-than-human"
+   ],
+   "kind": "performance",
+   "description": "A dance piece for two dancers and a live AI system that turns a historical first-contact transmission protocol for alien intelligence into a movement alphabet of 32 signs.",
+   "description_zh": "一部由两位舞者与实时 AI 系统共同完成的舞蹈作品，把历史上为与地外智能“初次接触”而设计的传输协议，转化为由 32 个符号组成的动作字母表。",
+   "idea_en": "A movement sign can be discrete enough to enter a protocol yet still carry tacit, situated knowledge in its rhythm and form — the 'thick sign'.",
+   "idea_zh": "一个动作符号可以离散到足以进入协议，却仍在节奏与形态中承载默会的、处境化的知识，即“厚符号”。",
+   "method": "Choreographic translation of Hogben's Astraglossa and Callimahos's 32-pulse transmission model into staged movement sets performed with a live AI system.",
+   "method_zh": "把 Hogben 的 Astraglossa 与 Callimahos 的 32 脉冲传输模型编舞化，转译为与实时 AI 系统共同演出的动作组。",
+   "keywords": [
+    "choreography",
+    "AI",
+    "thick sign",
+    "first contact",
+    "dance",
+    "NordiCHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3821402.3830175",
+    "doi": "10.1145/3821402.3830175",
+    "arxiv": "",
+    "venue": "NordiCHI 2026 Adjunct",
+    "title": "Embodied Transmissions for an Unknown Receiver: Cosmic Noise as a Choreographic First-Contact Protocol"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "amirhosein-asghari-tavana--felt-experience-haptics",
+   "creator_ids": [
+    "amirhosein-asghari-tavana",
+    "oguz-buruk"
+   ],
+   "title": "Measuring the Felt Experience of Haptics",
+   "year": 2026,
+   "field": "methods",
+   "sub": "articulation",
+   "modalities": [
+    "touch",
+    "vibration"
+   ],
+   "lenses": [
+    "first-person",
+    "touching-back"
+   ],
+   "kind": "paper",
+   "description": "A systematic review of 136 haptics studies asking which experiential qualities users report and how they are measured.",
+   "description_zh": "一篇系统综述，梳理 136 项触觉研究：用户报告了哪些体验品质，这些品质又是如何被测量的。",
+   "idea_en": "Questionnaires built for realism and immersion can narrow what people feel; felt haptic experience needs user-centred, in-depth methods.",
+   "idea_zh": "为“真实感”与“沉浸感”设计的问卷可能窄化人们的感受；可感的触觉体验需要以用户为中心的深入方法。",
+   "method": "Systematic literature review (n = 136) coding experiential factors and evaluation instruments across haptic modalities.",
+   "method_zh": "系统文献综述（n = 136），按触觉模态对体验因素与评估工具进行编码。",
+   "keywords": [
+    "haptics",
+    "user experience",
+    "felt experience",
+    "systematic review",
+    "evaluation",
+    "NordiCHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3821402.3830125",
+    "doi": "10.1145/3821402.3830125",
+    "arxiv": "",
+    "venue": "NordiCHI 2026 Adjunct",
+    "title": "Measuring the Felt Experience of Haptics: A Systematic Literature Review of User Experience of Haptic Modalities"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "mirjana-prpa--respire-2",
+   "creator_ids": [
+    "mirjana-prpa",
+    "philippe-pasquier"
+   ],
+   "title": "Respire 2.0",
+   "year": 2026,
+   "field": "somaesthetic",
+   "sub": "breath",
+   "modalities": [
+    "breath",
+    "voice-sound",
+    "light-vision"
+   ],
+   "lenses": [
+    "attunement",
+    "affective-loop",
+    "body-mind-unity"
+   ],
+   "kind": "artwork",
+   "description": "An immersive VR artwork in which the visitor floats inside an abstract, lung-like interior: breathing moves them deeper into the space while a musical agent's sound rises and falls with each breath.",
+   "description_zh": "一件沉浸式 VR 艺术作品：观众漂浮在抽象的、肺一般的内部空间中，呼吸带着他们深入，音乐智能体的声音随每一次呼吸起伏。",
+   "idea_en": "Sound that co-breathes with you, rather than giving feedback on your breathing, lets breath be felt as inhabiting a living body.",
+   "idea_zh": "与你一起呼吸、而非对你的呼吸作出评判的声音，让呼吸被感受为栖居于一个活的身体之中。",
+   "method": "Respiration sensor and Quest headset drive generative sculpture animation and an AI musical agent; lateral hand movements let visitors drift between regions.",
+   "method_zh": "呼吸传感器与 Quest 头显驱动生成式雕塑动画与 AI 音乐智能体；手的横向移动让观众在不同区域间漂移。",
+   "keywords": [
+    "breath",
+    "VR art",
+    "musical agent",
+    "co-breathing",
+    "SIGGRAPH Asia",
+    "Respire"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/64487a14945a646fa6f7a229/1771009363465-8QPGQX5GIZ71O9MLNPAI/Respire_Screenshot1.png",
+    "https://images.squarespace-cdn.com/content/v1/64487a14945a646fa6f7a229/1771009359467-LLPAP2RJPLPZ5D6S63PB/Respire_Screenshot2.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3829214.3839385",
+    "doi": "10.1145/3829214.3839385",
+    "arxiv": "",
+    "venue": "SIGGRAPH Asia 2026 Art Gallery",
+    "title": "VR Interactive sculpture \"Respire 2.0\""
+   },
+   "source_url": "https://www.metacreation.net/projects/respire-2",
+   "code_url": "",
+   "collections": [],
+   "exhibited": [
+    "SIGGRAPH Asia 2026 Art Gallery"
+   ]
+  },
+  {
+   "id": "maria-concepcion-valdez-gastelum--sona",
+   "creator_ids": [
+    "maria-concepcion-valdez-gastelum",
+    "ana-tajadura-jimenez",
+    "monica-tentori"
+   ],
+   "title": "SONA: The Sound of (iN)stability",
+   "year": 2026,
+   "field": "movement",
+   "sub": "dance-tech",
+   "modalities": [
+    "posture-balance",
+    "voice-sound",
+    "movement"
+   ],
+   "lenses": [
+    "attunement",
+    "movement-expression",
+    "estrangement"
+   ],
+   "kind": "prototype",
+   "description": "An interactive sonification co-designed with ballet dancers that turns the tiny instabilities in their movement into evolving, nature-inspired sound textures, so they can hear moments they normally cannot feel.",
+   "description_zh": "一个与芭蕾舞者共同设计的交互声音化系统，把动作中细微的不稳定转化为受自然变化启发、不断演变的声音质地，让舞者听见平时感觉不到的瞬间。",
+   "idea_en": "Metaphorical sound can make micro-instabilities perceptible and so extend a dancer's felt sense of balance, rather than correcting it from outside.",
+   "idea_zh": "隐喻性的声音能让细微的不稳变得可察觉，从而扩展舞者对平衡的切身感受，而不是从外部纠正它。",
+   "method": "Elbow movement data feed a threshold-based algorithm that detects user-specific disruptions in continuity and sonifies them; within-subjects study with 24 dancers.",
+   "method_zh": "肘部动作数据输入基于阈值的算法，检测因人而异的连续性中断并将其声音化；以 24 位舞者进行被试内研究。",
+   "keywords": [
+    "ballet",
+    "sonification",
+    "balance",
+    "material metaphor",
+    "body perception",
+    "TOCHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3862641",
+    "doi": "10.1145/3862641",
+    "arxiv": "",
+    "venue": "ACM Transactions on Computer-Human Interaction, 2026",
+    "title": "The Sound of (iN)stability: Making Subtle Movement Fluctuations Perceptible via Material Metaphor Sonification in Ballet"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "marta-matamala-gomez--wind-footsteps",
+   "creator_ids": [
+    "marta-matamala-gomez",
+    "frederic-bevilacqua",
+    "ana-tajadura-jimenez"
+   ],
+   "title": "Wind-like Sonification of Footsteps",
+   "year": 2026,
+   "field": "care",
+   "sub": "neuro-motor",
+   "modalities": [
+    "voice-sound",
+    "movement",
+    "posture-balance"
+   ],
+   "lenses": [
+    "care-healing",
+    "estrangement",
+    "body-mind-unity"
+   ],
+   "kind": "prototype",
+   "description": "Three chronic stroke survivors walked for weeks with SoniBand, which turns each footstep into a 'wind' or a 'mechanical' sound, to see how the sound changes gait, body feeling and mood.",
+   "description_zh": "三位慢性中风幸存者佩戴 SoniBand 步行数周，它把每一步转化为“风”声或“机械”声，以观察声音如何改变步态、身体感受与情绪。",
+   "idea_en": "What a step sounds like changes how the body feels — lighter or heavier — and that felt change can support rehabilitation.",
+   "idea_zh": "一步听起来像什么，会改变身体的感觉（更轻或更重），而这种切身变化可以帮助康复。",
+   "method": "Multiple-case ABA'C design with an interactive walking interface giving real-time metaphorical sound feedback, each phase lasting three weeks.",
+   "method_zh": "多个案 ABA'C 设计，以交互式步行装置提供实时隐喻性声音反馈，每阶段持续三周。",
+   "keywords": [
+    "stroke",
+    "gait",
+    "sonification",
+    "body perception",
+    "SoniBand",
+    "rehabilitation"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.3389/fpsyg.2026.1874994",
+    "doi": "10.3389/fpsyg.2026.1874994",
+    "arxiv": "",
+    "venue": "Frontiers in Psychology, 2026",
+    "title": "Wind-like sonification of footsteps for walking rehabilitation in chronic stroke survivors: a multiple case study"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "mengxi-liu--human-computer-co-regulation",
+   "creator_ids": [
+    "mengxi-liu",
+    "kouta-minamizawa",
+    "kai-kunze"
+   ],
+   "title": "Human-Computer Co-Regulation",
+   "year": 2026,
+   "field": "affect",
+   "sub": "biosignals",
+   "also": [
+    "practices"
+   ],
+   "modalities": [
+    "breath",
+    "heartbeat",
+    "brain"
+   ],
+   "lenses": [
+    "attunement",
+    "body-data",
+    "affective-loop"
+   ],
+   "kind": "paper",
+   "description": "A review of 39 studies (2015–2025) on real-time biofeedback for meditation, asking which signals and feedback channels fit which kind of contemplative practice.",
+   "description_zh": "一篇综述，分析 39 项（2015—2025 年）用于冥想的实时生物反馈研究，追问何种信号与反馈通道适合何种静观修习。",
+   "idea_en": "Biofeedback works best as co-regulation matched to the practice: breath and heart-rate variability suit breath-centred meditation better than brain signals do.",
+   "idea_zh": "生物反馈最好作为与修习相匹配的“共同调节”：呼吸与心率变异性比脑电更适合以呼吸为中心的冥想。",
+   "method": "Taxonomy by sensing modality, feedback channel, interaction context and timing, followed by a synthesis of modality-practice fit.",
+   "method_zh": "按感测模态、反馈通道、交互情境与时间特性建立分类，再综合分析模态与修习的匹配。",
+   "keywords": [
+    "biofeedback",
+    "meditation",
+    "mindfulness",
+    "HRV",
+    "respiration",
+    "review",
+    "IMWUT"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3831659",
+    "doi": "10.1145/3831659",
+    "arxiv": "",
+    "venue": "Proc. ACM IMWUT, 2026",
+    "title": "Human-Computer Co-Regulation: A Review of Biofeedback for Meditative Practice"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "aryan-saini--pneunocchio",
+   "creator_ids": [
+    "aryan-saini",
+    "maria-fernanda-montoya",
+    "rakesh-patibanda",
+    "florian-mueller"
+   ],
+   "title": "Pneunocchio",
+   "year": 2023,
+   "field": "affect",
+   "sub": "body-data",
+   "also": [
+    "augmented"
+   ],
+   "modalities": [
+    "shape-change",
+    "heartbeat",
+    "skin-arousal"
+   ],
+   "lenses": [
+    "pleasure-play",
+    "body-data",
+    "estrangement"
+   ],
+   "kind": "prototype",
+   "description": "A Pinocchio-inspired inflatable worn on the nose that grows as the wearer's heart rate and skin conductance rise, putting inner states on the face during play.",
+   "description_zh": "一个受匹诺曹启发、戴在鼻子上的充气装置：佩戴者心率与皮肤电升高时它会变长，在游戏中把内在状态显现在脸上。",
+   "idea_en": "Making biosignals visible as a growing body part invites playful self-reflection, but also social discomfort — the extension becomes a 'social organ'.",
+   "idea_zh": "把生物信号显现为一段会生长的身体部位，会引发好玩的自我反思，也会带来社交上的不适：这段延伸成了一个“社交器官”。",
+   "method": "Nose-worn pneumatic inflatable driven by heart rate and electrodermal activity; study with interviews analysed into three themes and four design considerations.",
+   "method_zh": "由心率与皮肤电驱动的鼻戴式气动充气装置；用户研究的访谈归纳出三个主题与四条设计考量。",
+   "keywords": [
+    "bodily extension",
+    "pneumatic",
+    "inflatable",
+    "biosignals",
+    "Pinocchio",
+    "CHI PLAY",
+    "Exertion Games Lab"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3831282",
+    "doi": "10.1145/3831282",
+    "arxiv": "",
+    "venue": "Proc. ACM HCI (CHI PLAY 2026)",
+    "title": "Pneunocchio: Towards Understanding the Design of Playful Bodily Extensions through a Pinocchio-Inspired Pneumatic Nose"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "jules-van-gurp--play-beyond-vision",
+   "creator_ids": [
+    "jules-van-gurp"
+   ],
+   "title": "Play Beyond Vision",
+   "year": 2026,
+   "field": "machines-xr",
+   "sub": "xr-virtual-body",
+   "modalities": [
+    "voice-sound",
+    "vibration",
+    "movement"
+   ],
+   "lenses": [
+    "pleasure-play",
+    "movement-expression",
+    "estrangement"
+   ],
+   "kind": "paper",
+   "description": "Children wearing custom wearables chased an invisible 'ghost' located only through spatial audio and haptics, and then imagined other ways of playing with invisible virtual things.",
+   "description_zh": "儿童佩戴特制可穿戴设备，仅凭空间音频与触觉去追逐一个看不见的“幽灵”，随后构想与看不见的虚拟事物玩耍的其他方式。",
+   "idea_en": "XR need not be visual: children use movement and multimodal cues to sense presence, which makes XR play more bodily and more shared.",
+   "idea_zh": "扩展现实不必依赖视觉：儿童以动作与多模态线索感知存在，让扩展现实游戏更具身体性，也更能共享。",
+   "method": "Exploratory study with 38 children: a non-visual XR probe game plus a Wizard-of-Oz elicitation activity.",
+   "method_zh": "与 38 名儿童进行的探索性研究：一个非视觉扩展现实探针游戏，加上绿野仙踪式的构想引导活动。",
+   "keywords": [
+    "non-visual XR",
+    "children",
+    "spatial audio",
+    "haptics",
+    "CHI PLAY"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3831346",
+    "doi": "10.1145/3831346",
+    "arxiv": "",
+    "venue": "Proc. ACM HCI (CHI PLAY 2026)",
+    "title": "Play Beyond Vision: Children’s Embodied Strategies in Non-Visual Extended Reality"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "wesly-menard--shared-exertion-data-cycling",
+   "creator_ids": [
+    "wesly-menard"
+   ],
+   "title": "I Could See Your Heart Rate Creeping Up",
+   "year": 2026,
+   "field": "movement",
+   "sub": "exertion-play",
+   "also": [
+    "social"
+   ],
+   "modalities": [
+    "heartbeat",
+    "movement"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "first-person",
+    "body-data"
+   ],
+   "kind": "paper",
+   "description": "Three cyclists rode together for a year while sharing real-time exertion data, and reflected after each ride on how seeing each other's effort changed the ride.",
+   "description_zh": "三位骑手结伴骑行一年并实时共享运动强度数据，每次骑行后反思：看到彼此的用力如何改变了这次骑行。",
+   "idea_en": "Shared exertion data becomes a felt, social signal between bodies — used to coordinate, compare and support — not just a number.",
+   "idea_zh": "共享的用力数据成为身体之间可感的社交信号，被用来协调、比较与支持，而不只是一个数字。",
+   "method": "Year-long trioethnography with post-ride reflections and recorded conversations, analysed reflexively.",
+   "method_zh": "为期一年的三人民族志，收集骑后反思与对话录音并进行反身性分析。",
+   "keywords": [
+    "road cycling",
+    "exertion",
+    "heart rate",
+    "trioethnography",
+    "SportsHCI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3838843.3838856",
+    "doi": "10.1145/3838843.3838856",
+    "arxiv": "",
+    "venue": "SportsHCI 2026",
+    "title": "“I Could See Your Heart Rate Creeping Up”: A Trioethnographic Study of Shared Real-Time Exertion Data in Road Cycling"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "armagan-karahanoglu--chatgpt-training-coach",
+   "creator_ids": [
+    "armagan-karahanoglu",
+    "alejandra-gomez-ortega",
+    "jakob-tholander"
+   ],
+   "title": "What If ChatGPT Were my Training Coach?",
+   "year": 2026,
+   "field": "movement",
+   "sub": "exertion-play",
+   "also": [
+    "machines-xr"
+   ],
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "first-person",
+    "body-politics"
+   ],
+   "kind": "paper",
+   "description": "Three HCI researchers who are experienced runners used ChatGPT as a training coach for four months and documented how its advice met their training bodies.",
+   "description_zh": "三位同时是资深跑者的人机交互研究者，用 ChatGPT 作为训练教练四个月，记录它的建议如何与自己训练中的身体相遇。",
+   "idea_en": "Fast, confident AI advice can pull against the slow rhythms of a training body and the runner's bodily autonomy.",
+   "idea_zh": "快速而自信的 AI 建议，可能与训练中身体的缓慢节律以及跑者的身体自主相冲突。",
+   "method": "Four-month trio-autoethnography of dialogic use of ChatGPT during endurance training.",
+   "method_zh": "为期四个月的三人自我民族志，记录耐力训练中与 ChatGPT 的对话式使用。",
+   "keywords": [
+    "endurance running",
+    "ChatGPT",
+    "bodily autonomy",
+    "autoethnography",
+    "SportsHCI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3838843.3838844",
+    "doi": "10.1145/3838843.3838844",
+    "arxiv": "",
+    "venue": "SportsHCI 2026",
+    "title": "What If ChatGPT Were my Training Coach? Negotiating Temporalities, Bodily Autonomy and Setting Boundaries in Endurance Sports"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "wouter-van-mensvoort--interoceptive-smartwatch",
+   "creator_ids": [
+    "wouter-van-mensvoort",
+    "armagan-karahanoglu"
+   ],
+   "title": "Promoting Interoceptive Awareness Through Smartwatches",
+   "year": 2026,
+   "field": "affect",
+   "sub": "interoception",
+   "also": [
+    "movement"
+   ],
+   "modalities": [
+    "pain-interoception",
+    "heartbeat",
+    "movement"
+   ],
+   "lenses": [
+    "attunement",
+    "body-data",
+    "first-person"
+   ],
+   "kind": "prototype",
+   "description": "A smartwatch system that asks runners during the run how it feels, then shows that felt effort next to their performance data afterwards.",
+   "description_zh": "一个智能手表系统：跑步中询问跑者感觉如何，跑后再把这份主观用力感与运动数据并列呈现。",
+   "idea_en": "Asking for felt effort in the moment, and reflecting on it later, trains interoceptive awareness instead of outsourcing it to the device.",
+   "idea_zh": "在当下询问身体的用力感、事后再加以反思，能训练内感受觉察，而不是把它交给设备。",
+   "method": "In-run prompts for perceived exertion on a smartwatch, combined with post-run reflection; preliminary experimental study with runners.",
+   "method_zh": "智能手表在跑步中提示记录主观用力程度，结合跑后反思；与跑者进行的初步实验研究。",
+   "keywords": [
+    "interoception",
+    "perceived exertion",
+    "running",
+    "smartwatch",
+    "SportsHCI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3801727.3844933",
+    "doi": "10.1145/3801727.3844933",
+    "arxiv": "",
+    "venue": "SportsHCI 2026 Companion",
+    "title": "Promoting Interoceptive Awareness Through Smartwatches"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "ziyue-piao--somatic-alignment-mindset",
+   "creator_ids": [
+    "ziyue-piao",
+    "marcelo-wanderley"
+   ],
+   "title": "Somatic Alignment Mindset",
+   "year": 2026,
+   "field": "methods",
+   "sub": "design-knowledge",
+   "also": [
+    "foundations"
+   ],
+   "modalities": [
+    "movement",
+    "whole-soma",
+    "voice-sound"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "attunement",
+    "first-person"
+   ],
+   "kind": "method",
+   "description": "A design lens for music-learning technology that draws on Taoist philosophy to address 'kinesthetic mismatch', the gap between how a movement feels from inside and what the body is actually doing.",
+   "description_zh": "一个面向音乐学习技术的设计视角，借道家思想应对“动觉错位”，即动作的内在感受与身体实际状态之间的落差。",
+   "idea_en": "Technology should act as a reflective medium for internal alignment, not as an external corrector.",
+   "idea_zh": "技术应当成为向内对齐的反思媒介，而不是外部的纠正者。",
+   "method": "Conceptual framework operationalised through three principles: Adaptation, Assessment and Awareness.",
+   "method_zh": "通过“适应、评估、觉察”三项原则落实的概念框架。",
+   "keywords": [
+    "kinesthetic mismatch",
+    "Taoism",
+    "music performance",
+    "body transformation experiences",
+    "piano"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2609.01981",
+    "doi": "",
+    "arxiv": "2609.01981",
+    "venue": "CHI 2026 Workshop on Body Transformation Experiences (arXiv 2026)",
+    "title": "Reconciling Kinesthetic Mismatches: A Somatic Alignment Mindset for Musical Body Transformation"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "katherine-rees--somatosensory-creative-making",
+   "creator_ids": [
+    "katherine-rees"
+   ],
+   "title": "Somatosensory Activation and Attentional States in Creative Making",
+   "year": 2026,
+   "field": "methods",
+   "sub": "first-person",
+   "modalities": [
+    "touch",
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "first-person",
+    "attunement"
+   ],
+   "kind": "method",
+   "description": "A mixed methodology from dance anthropology, sensory ethnography and design for documenting creative making, together with wearables that heighten the maker's somatosensory awareness.",
+   "description_zh": "一套融合舞蹈人类学、感官民族志与设计的混合方法，用来记录创作过程，并配合能增强创作者躯体感觉觉察的可穿戴设备。",
+   "idea_en": "Heightened bodily awareness during making supports reflection on creative decisions; embodied recall can document what words miss.",
+   "idea_zh": "创作中被增强的身体觉察支持对创作决定的反思；具身回忆能记录语言遗漏的部分。",
+   "method": "Researcher-as-participant fieldnotes, movement recall and notation, participant interviews, and exploratory wearable prototypes in workshops.",
+   "method_zh": "研究者即参与者的田野笔记、动作回忆与记谱、参与者访谈，以及工作坊中的探索性可穿戴原型。",
+   "keywords": [
+    "somatosensory",
+    "creative practice",
+    "dance anthropology",
+    "sensory ethnography",
+    "wearables"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2609.09960",
+    "doi": "",
+    "arxiv": "2609.09960",
+    "venue": "RiCE Workshop (arXiv 2026)",
+    "title": "Somatosensory Activation and Attentional States in Creative Making"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "ka-kei-lee--infinite-bloom",
+   "creator_ids": [
+    "ka-kei-lee"
+   ],
+   "title": "Infinite Bloom",
+   "year": 2026,
+   "field": "machines-xr",
+   "sub": "more-than-human",
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "more-than-human",
+    "movement-expression",
+    "estrangement"
+   ],
+   "kind": "prototype",
+   "description": "A VR game across five environments in which players become non-human beings of different scales, moving through upper-body gestures shaped to each being's form and effort.",
+   "description_zh": "一款横跨五个环境的 VR 游戏：玩家化身为不同尺度的非人类存在，以按各自形态与用力方式设计的上半身手势移动。",
+   "idea_en": "Gestures that mirror another being's form and effort let players feel a non-human perspective from inside.",
+   "idea_zh": "模仿另一种存在的形态与用力的手势，让玩家从内部感受非人类的视角。",
+   "method": "Practice-based game design with gesture-based agency and spatial design for dynamic perspective shifts.",
+   "method_zh": "以实践为基础的游戏设计，结合基于手势的能动性与空间设计，实现视角的动态转换。",
+   "keywords": [
+    "VR game",
+    "non-human embodiment",
+    "gesture",
+    "more-than-human",
+    "CHI PLAY"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3800965.3834480",
+    "doi": "10.1145/3800965.3834480",
+    "arxiv": "",
+    "venue": "CHI PLAY 2026 Companion",
+    "title": "Infinite Bloom: Exploring Non-Human Embodiment through Gestural Agency and Spatial Design in Virtual Reality Games"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "chia-an-fan--armonii",
+   "creator_ids": [
+    "chia-an-fan",
+    "masahiko-inami"
+   ],
+   "title": "Armonii",
+   "year": 2026,
+   "field": "augmented",
+   "sub": "extra-limbs",
+   "modalities": [
+    "extra-body",
+    "posture-balance",
+    "muscle"
+   ],
+   "lenses": [
+    "extended-body",
+    "first-person"
+   ],
+   "kind": "prototype",
+   "description": "A motion-design framework for wearable extra robotic arms that uses the arms not in use to offset the torques of the active ones, keeping the felt burden on the wearer's body within acceptable limits.",
+   "description_zh": "一个可穿戴附加机械臂的动作设计框架：用闲置的机械臂抵消工作中机械臂产生的力矩，把佩戴者身体感受到的负担控制在可接受范围内。",
+   "idea_en": "Extra limbs must be designed around how their weight and motion feel on the body; comfort and embodiment can be kept together.",
+   "idea_zh": "附加肢体必须围绕其重量与动作在身体上的感受来设计；舒适与具身感可以兼得。",
+   "method": "Formative study (n=10) on perceived burden, threshold-aware gravity and actuation compensation, and a user study (n=16).",
+   "method_zh": "关于感知负担的形成性研究（n=10）、基于阈值的重力与驱动补偿，以及用户研究（n=16）。",
+   "keywords": [
+    "supernumerary robotic arms",
+    "wearable robot",
+    "comfort",
+    "embodiment",
+    "UIST"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3830398.3830501",
+    "doi": "10.1145/3830398.3830501",
+    "arxiv": "",
+    "venue": "UIST 2026",
+    "title": "Armonii: Motion Design for Wearable Supernumerary Robotic Arms Toward Comfort and Embodiment"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "shieru-suzuki--musclejockey",
+   "creator_ids": [
+    "shieru-suzuki",
+    "yoichi-ochiai"
+   ],
+   "title": "MuscleJockey",
+   "year": 2026,
+   "field": "augmented",
+   "sub": "body-integration",
+   "modalities": [
+    "electrical",
+    "muscle",
+    "movement"
+   ],
+   "lenses": [
+    "extended-body",
+    "first-person"
+   ],
+   "kind": "prototype",
+   "description": "Electrical muscle stimulation on the shoulder starts a reaching movement, and the person steers its direction, so the machine shortens reaction time without taking over the arm.",
+   "description_zh": "肩部的肌肉电刺激启动一次伸手动作，由人掌控其方向：机器缩短了反应时间，却没有接管手臂。",
+   "idea_en": "Dividing a movement between machine (when) and person (where) keeps the sense of agency over one's own body.",
+   "idea_zh": "把一个动作分给机器（何时）与人（何处），能保住人对自身身体的主控感。",
+   "method": "EMS-triggered motor initiation in a cued reaching task; movement onset was 63 ms faster with comparable directional accuracy.",
+   "method_zh": "在提示伸手任务中以肌肉电刺激触发动作启动；动作起始快 63 毫秒，方向准确度相当。",
+   "keywords": [
+    "electrical muscle stimulation",
+    "EMS",
+    "agency",
+    "body actuation",
+    "UIST"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3830398.3830685",
+    "doi": "10.1145/3830398.3830685",
+    "arxiv": "",
+    "venue": "UIST 2026",
+    "title": "MuscleJockey: Motor Initiation via Electrical Muscle Stimulation While Preserving User Control"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "lala-guluzade--medec-cards",
+   "creator_ids": [
+    "lala-guluzade",
+    "corina-sas"
+   ],
+   "title": "MEDEC Cards",
+   "year": 2026,
+   "field": "care",
+   "sub": "stress-mental-health",
+   "also": [
+    "methods"
+   ],
+   "modalities": [
+    "whole-soma",
+    "pain-interoception"
+   ],
+   "lenses": [
+    "attunement",
+    "care-healing"
+   ],
+   "kind": "method",
+   "description": "The Mindful Eating Design Critique cards: 29 cards grounded in health research on mindful eating that practitioners and designers use to critique and design mindful-eating technologies.",
+   "description_zh": "正念饮食设计评议卡（MEDEC）：基于正念饮食健康研究的 29 张卡片，供实践者与设计者评议和设计正念饮食技术。",
+   "idea_en": "Attending to hunger, satiety and the felt act of eating can be designed for, if design is anchored in contemplative and clinical practice.",
+   "idea_zh": "对饥饿、饱足与进食本身的觉察是可以被设计支持的，前提是设计扎根于静观与临床实践。",
+   "method": "Analysis of mindful-eating principles and interventions (e.g., MB-EAT), scoping review of 16 exemplars, and critique workshops with 36 mindful-eating practitioners.",
+   "method_zh": "分析正念饮食原则与干预（如 MB-EAT），对 16 个设计范例进行范围综述，并与 36 位正念饮食实践者开展评议工作坊。",
+   "keywords": [
+    "mindful eating",
+    "card deck",
+    "MB-EAT",
+    "design critique",
+    "TOCHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3803855",
+    "doi": "10.1145/3803855",
+    "arxiv": "",
+    "venue": "ACM Transactions on Computer-Human Interaction, 2026",
+    "title": "Mindful Eating Aspects as Bridging Concepts Represented through the MEDEC Cards: Towards a Design Framework for Mindful Eating Technologies"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "prithiv-premkumar--llms-with-a-heart",
+   "creator_ids": [
+    "prithiv-premkumar"
+   ],
+   "title": "LLMs with a Heart",
+   "year": 2026,
+   "field": "affect",
+   "sub": "affective-loops",
+   "also": [
+    "machines-xr"
+   ],
+   "modalities": [
+    "heartbeat",
+    "vibration"
+   ],
+   "lenses": [
+    "affective-loop",
+    "body-data"
+   ],
+   "kind": "prototype",
+   "description": "A conversational AI that generates its own haptic heartbeat from the emotional course of what it says, delivered through ordinary phones and wearables.",
+   "description_zh": "一个对话式 AI，根据自身话语的情绪走向生成触觉心跳，通过普通手机与可穿戴设备传达。",
+   "idea_en": "A synthetic heartbeat changes how arousing, credible and present an AI feels — a reminder that felt bodily signals can be designed to persuade.",
+   "idea_zh": "合成的心跳会改变 AI 让人感到的唤醒度、可信度与在场感，这也提醒我们：可感的身体信号可以被设计来说服人。",
+   "method": "LLM-driven contextual heartbeat haptics compared with unimodal text and audio in a preliminary user study.",
+   "method_zh": "以 LLM 驱动的情境化心跳触觉，与单模态文本和音频进行比较的初步用户研究。",
+   "keywords": [
+    "heartbeat",
+    "haptics",
+    "LLM",
+    "conversational AI",
+    "ICMI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3776591.3832526",
+    "doi": "10.1145/3776591.3832526",
+    "arxiv": "",
+    "venue": "ICMI 2026 Companion",
+    "title": "LLMs with a Heart: Using Contextual Heartbeat Haptics to Add Feeling to Text and Audio LLM Interactions"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "xiaoying-bie--easesense",
+   "creator_ids": [
+    "xiaoying-bie"
+   ],
+   "title": "EaseSense",
+   "year": 2026,
+   "field": "care",
+   "sub": "stress-mental-health",
+   "also": [
+    "social"
+   ],
+   "modalities": [
+    "skin-arousal",
+    "heartbeat",
+    "voice-sound"
+   ],
+   "lenses": [
+    "care-healing",
+    "intercorporeality",
+    "body-data"
+   ],
+   "kind": "prototype",
+   "description": "A wearable for children with sensory processing disorder that senses stress and environmental load and shows the child's discomfort as the mood of a digital pet, prompting child and caregiver at the same time.",
+   "description_zh": "一款为感觉处理障碍儿童设计的可穿戴设备：感测压力与环境刺激，把孩子的不适表现为一只数字宠物的情绪，同时提示孩子与照护者。",
+   "idea_en": "Ambiguous sensory overload becomes manageable when it is turned into a shared representation both child and caregiver attend to, not an automatic diagnosis.",
+   "idea_zh": "当模糊的感官超载被转化为孩子与照护者共同关注的表征，而不是自动诊断时，它就变得可以应对。",
+   "method": "Physiological and environmental sensing triggers synchronised prompts; projective interaction through a digital pet lets the child express source and intensity of discomfort.",
+   "method_zh": "生理与环境感测触发同步提示；孩子借由数字宠物进行投射式互动，表达不适的来源与强度。",
+   "keywords": [
+    "sensory processing disorder",
+    "children",
+    "caregivers",
+    "wearable",
+    "CSCW"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3785651.3831550",
+    "doi": "10.1145/3785651.3831550",
+    "arxiv": "",
+    "venue": "CSCW 2026 Companion",
+    "title": "EaseSense: A Wearable Interactive System for Supporting Shared Understanding of Sensory States Between Children with SPD and Caregivers"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "mali-ghajargar--intimate-anthropocenes",
+   "creator_ids": [
+    "mali-ghajargar"
+   ],
+   "title": "Designing Intimate Anthropocenes",
+   "year": 2026,
+   "field": "machines-xr",
+   "sub": "more-than-human",
+   "modalities": [
+    "voice-sound",
+    "touch",
+    "whole-soma"
+   ],
+   "lenses": [
+    "more-than-human",
+    "first-person",
+    "attunement"
+   ],
+   "kind": "method",
+   "description": "A research-through-design inquiry in which the designer made sonic and tangible artefacts and kept an autoethnography in the same disturbed landscape, distilled into five design tactics.",
+   "description_zh": "一项设计研究：设计者在同一片受扰动的土地上制作声音与实体装置，同时撰写自我民族志，最终提炼出五种设计策略。",
+   "idea_en": "Environmental disturbance becomes graspable when the designer's own body is exposed to it, and design can carry that felt encounter to others.",
+   "idea_zh": "当设计者自己的身体暴露于环境扰动之中，这种扰动才变得可把握，而设计可以把这种切身相遇传递给他人。",
+   "method": "Concurrent design and autoethnographic work in a disturbed landscape, treating its disturbances as both data and design material.",
+   "method_zh": "在受扰动的地景中同时进行设计与自我民族志，把扰动既当作研究数据，也当作设计材料。",
+   "keywords": [
+    "Anthropocene",
+    "sound",
+    "tangible interaction",
+    "autoethnography",
+    "more-than-human",
+    "Interacting with Computers"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1093/iwc/iwag047",
+    "doi": "10.1093/iwc/iwag047",
+    "arxiv": "",
+    "venue": "Interacting with Computers, 2026",
+    "title": "Designing Intimate Anthropocenes: Five Tactics for Sonic and Tangible Interaction Design Within a Disturbed Landscape"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  }
+ ],
+ "leads": [
+  {
+   "name": "Somatic Dark Patterns: Synthetic Heartbeats Shape Trust in AI Agents (Lee, Talreja, Ou, Leigh; Cornell; UIST 2026 Adjunct)",
+   "why": "Critical counterpart to 'LLMs with a Heart': synthetic heartbeats used to steer trust. No abstract indexed yet.",
+   "link": "https://doi.org/10.1145/3830397.3841890",
+   "found_via": "uist-2026",
+   "status": "open"
+  },
+  {
+   "name": "CalmFold: Feeling, Wearing, and Soothing Your Stress Through On-Body Physicalization (Nie, Wu; UIST 2026 Adjunct)",
+   "why": "On-body stress physicalization; poster, no abstract or media found yet.",
+   "link": "https://doi.org/10.1145/3830397.3841320",
+   "found_via": "uist-2026",
+   "status": "open"
+  },
+  {
+   "name": "FlowNote: Making Bodily Experience Visible in Music Production (Huang, Mei; UIST 2026 Adjunct)",
+   "why": "Bodily experience in music making; poster, no abstract yet.",
+   "link": "https://doi.org/10.1145/3830397.3841321",
+   "found_via": "uist-2026",
+   "status": "open"
+  },
+  {
+   "name": "Tele-Bio: Leaving and Receiving Physiological Traces Through a Public Telephone (Kitagawa, Xu; UIST 2026 Adjunct)",
+   "why": "Shared biosignals in public space; poster, no abstract yet.",
+   "link": "https://doi.org/10.1145/3830397.3841318",
+   "found_via": "uist-2026",
+   "status": "open"
+  },
+  {
+   "name": "Schíma – morphḗ – íchos (Eleni-Ira Panourgia, Martin Parker; NordiCHI 2026 Adjunct performance)",
+   "why": "Sound–sculpture–movement performance, but premiered 2020 (Dialogues Festival, Edinburgh) — not new; could be added with year 2020.",
+   "link": "https://doi.org/10.1145/3821402.3830174",
+   "found_via": "nordichi-2026",
+   "status": "open"
+  },
+  {
+   "name": "InTwine: Threads Between Us (Indriani, Kato, Yamaoka; SIGGRAPH Asia 2026 Art Gallery)",
+   "why": "Sensor-augmented handloom; rhythm, hesitation and the weaving body. Craft-centred, borderline for soma design.",
+   "link": "https://doi.org/10.1145/3829214.3839386",
+   "found_via": "siggraph-asia-2026",
+   "status": "open"
+  },
+  {
+   "name": "MuscleSense: Making Muscle Effort Audible (Zhang et al., IMWUT 2026)",
+   "why": "EMG+IMU sonification of muscle effort in strength training; more performance-oriented than felt, left out.",
+   "link": "https://doi.org/10.1145/3831987",
+   "found_via": "imwut",
+   "status": "open"
+  },
+  {
+   "name": "The Three Bodies Framework (DeSutter, Scopelitis; NordiCHI 2026 tutorial)",
+   "why": "Method for analysing gesture as thinking / communicating / interacting body in interview video.",
+   "link": "https://doi.org/10.1145/3821402.3830223",
+   "found_via": "nordichi-2026",
+   "status": "open"
+  },
+  {
+   "name": "CloudTrip: physiological data-enabled multisensory metaphorical narratives for everyday stress (Yan, Wang, Shi, Ren; IJHCS 2027)",
+   "why": "Biodata made felt through multisensory metaphor; abstract not available yet.",
+   "link": "https://doi.org/10.1016/j.ijhcs.2026.103946",
+   "found_via": "ijhcs",
+   "status": "open"
+  },
+  {
+   "name": "Sketching embodied-enactive interactions: designer practices and artifacts (Rodríguez, González, Rossi; IJHCS 2026)",
+   "why": "Possible method paper on sketching for embodied interaction; abstract not checked.",
+   "link": "https://doi.org/10.1016/j.ijhcs.2026.103845",
+   "found_via": "ijhcs",
+   "status": "open"
+  },
+  {
+   "name": "Feminist Fabulations for Reworlding Menopause Care (Mohammadi, Maurer, Fuchsberger; NordiCHI 2026 Adjunct)",
+   "why": "Companion to the crip menopause paper.",
+   "link": "https://doi.org/10.1145/3821402.3830163",
+   "found_via": "omleila-mohammadi",
+   "status": "open"
+  },
+  {
+   "name": "Human-Computer Intimacy workshop (Mayer, Spors et al.; NordiCHI 2026)",
+   "why": "Workshop mapping technologies and politics of intimacy.",
+   "link": "https://doi.org/10.1145/3821402.3830213",
+   "found_via": "nordichi-2026",
+   "status": "open"
+  },
+  {
+   "name": "Respire (Prpa, Tatar, Pasquier; CHI 2018 Art, Leonardo Music Journal)",
+   "why": "Original Respire breath VR artwork, not in the gallery (only Respire 2.0 added).",
+   "link": "https://www.metacreation.net/projects/respire",
+   "found_via": "mirjana-prpa",
+   "status": "open"
+  },
+  {
+   "name": "Body Sublimation (Ohta, Ban et al.; UIST 2026) / KeepOut posture intervention (UIST 2026) / Sensorimotor Stickies (UIST 2026, arXiv 2608.13412)",
+   "why": "Body-centred UIST systems; more engineering than felt experience.",
+   "link": "https://doi.org/10.1145/3830398.3830583",
+   "found_via": "uist-2026",
+   "status": "open"
+  },
+  {
+   "name": "Rhythm Is a Dancer: Interactive Rhythm Feedback for Beginner Dancers (Eska, Kilian, Woźniak, Karolus; arXiv 2609.37641)",
+   "why": "Dance learning with clapping-like rhythm feedback.",
+   "link": "https://arxiv.org/abs/2609.37641",
+   "found_via": "arxiv",
+   "status": "open"
+  }
+ ]
+}

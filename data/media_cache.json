@@ -15123,8 +15123,9 @@
   "arxiv": "2503.03166",
   "ok": true,
   "type": "arxiv",
-  "error": "HTTPError: HTTP Error 429: Unknown Error",
-  "unverified": true
+  "title": "Sensing Movement: Contemporary Dance Workshops with People who are Blind or have Low Vision and Dance Teachers",
+  "year": 2025,
+  "url": "https://arxiv.org/abs/2503.03166"
  },
  "doi:10.1080/14794713.2026.2635231": {
   "doi": "10.1080/14794713.2026.2635231",
@@ -15740,6 +15741,546 @@
  },
  "ytmax:nWn3g7ghbP0": {
   "url": "https://i.ytimg.com/vi/nWn3g7ghbP0/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "video:youtube:B7U_7kTxUWA": {
+  "url": "https://www.youtube.com/watch?v=B7U_7kTxUWA",
+  "ok": true,
+  "platform": "youtube",
+  "id": "B7U_7kTxUWA",
+  "title": "CHIMERIA I (2025), Shin Hanagata",
+  "author": "Shin Hanagata",
+  "thumbnail": "https://i.ytimg.com/vi/B7U_7kTxUWA/hqdefault.jpg"
+ },
+ "img:https://www.notion.so/image/attachment%3Ab7db5608-ce1f-41fb-800f-baa69ae996e4%3Astillhuman-main.jpg%3FspaceId%3De8b54afc-d5a5-4b5c-81dc-46072df5f8dd?table=block&id=36e832b7-7213-80f0-81fa-c883381baf36&cache=v2&width=1600": {
+  "url": "https://www.notion.so/image/attachment%3Ab7db5608-ce1f-41fb-800f-baa69ae996e4%3Astillhuman-main.jpg%3FspaceId%3De8b54afc-d5a5-4b5c-81dc-46072df5f8dd?table=block&id=36e832b7-7213-80f0-81fa-c883381baf36&cache=v2&width=1600",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:5H2_vswpTPI": {
+  "url": "https://www.youtube.com/watch?v=5H2_vswpTPI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "5H2_vswpTPI",
+  "title": "tohurtforathought video",
+  "author": "Julia",
+  "thumbnail": "https://i.ytimg.com/vi/5H2_vswpTPI/hqdefault.jpg"
+ },
+ "img:https://juliavollmer.de/assets/images/wmTyN5lHXj-1024.jpeg": {
+  "url": "https://juliavollmer.de/assets/images/wmTyN5lHXj-1024.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://juliavollmer.de/assets/images/ch90xkIE2G-1024.jpeg": {
+  "url": "https://juliavollmer.de/assets/images/ch90xkIE2G-1024.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.hsinchienhuang.com/pix/_3artworks/ds_sculpturesOfTouch/p0.jpg": {
+  "url": "https://www.hsinchienhuang.com/pix/_3artworks/ds_sculpturesOfTouch/p0.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.hsinchienhuang.com/pix/_3artworks/ds_sculpturesOfTouch/p2.jpg": {
+  "url": "https://www.hsinchienhuang.com/pix/_3artworks/ds_sculpturesOfTouch/p2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.visitberlin.de/system/files/styles/visitberlin_hero_visitberlin_desktop_2x/private/datahub/images/genid-66bd5bdb641047d8ad0a83edd26b83f532134786-b32.jpg.webp?itok=BBVzwYkC": {
+  "url": "https://www.visitberlin.de/system/files/styles/visitberlin_hero_visitberlin_desktop_2x/private/datahub/images/genid-66bd5bdb641047d8ad0a83edd26b83f532134786-b32.jpg.webp?itok=BBVzwYkC",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Tate-HYUNDAI-2026_41.width-600.jpg": {
+  "url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Tate-HYUNDAI-2026_41.width-600.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://cdn.sanity.io/images/se13eur7/redesign/73b774ee615977252af9892738606bae4500a59a-2400x1600.jpg?w=1200&fm=jpg": {
+  "url": "https://cdn.sanity.io/images/se13eur7/redesign/73b774ee615977252af9892738606bae4500a59a-2400x1600.jpg?w=1200&fm=jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://assets-us-01.kc-usercontent.com/f7ca9afb-82c2-002a-a423-84e111d5b498/cb043430-ca75-478e-8a3c-b88deb5716f4/978-1-4780-3931-0_pr.jpg": {
+  "url": "https://assets-us-01.kc-usercontent.com/f7ca9afb-82c2-002a-a423-84e111d5b498/cb043430-ca75-478e-8a3c-b88deb5716f4/978-1-4780-3931-0_pr.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1215/9781478062868": {
+  "doi": "10.1215/9781478062868",
+  "ok": true,
+  "type": "doi",
+  "title": "Learning from the High Priestess",
+  "year": 2026,
+  "venue": "",
+  "url": "https://doi.org/10.1215/9781478062868"
+ },
+ "img:https://images.tandf.co.uk/common/jackets/crclarge/978100375/9781003752370.jpg": {
+  "url": "https://images.tandf.co.uk/common/jackets/crclarge/978100375/9781003752370.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "doi:10.4324/9781003752370": {
+  "doi": "10.4324/9781003752370",
+  "ok": true,
+  "type": "doi",
+  "title": "Affect, Intimacy and Ecology of Mind in Neurofeedback Art",
+  "year": 2026,
+  "venue": "",
+  "url": "https://doi.org/10.4324/9781003752370"
+ },
+ "img:https://images.tandf.co.uk/common/jackets/crclarge/978100329/9781003299523.jpg": {
+  "url": "https://images.tandf.co.uk/common/jackets/crclarge/978100329/9781003299523.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "doi:10.4324/9781003299523": {
+  "doi": "10.4324/9781003299523",
+  "ok": true,
+  "type": "doi",
+  "title": "Bodily Imagination in Butoh Dance",
+  "year": 2026,
+  "venue": "",
+  "url": "https://doi.org/10.4324/9781003299523"
+ },
+ "img:https://pubengine2.s3.eu-central-1.amazonaws.com/cover/99.180005/9783170471191.jpg": {
+  "url": "https://pubengine2.s3.eu-central-1.amazonaws.com/cover/99.180005/9783170471191.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "application/octet-stream"
+ },
+ "doi:10.17433/978-3-17-047119-1": {
+  "doi": "10.17433/978-3-17-047119-1",
+  "ok": true,
+  "type": "doi",
+  "title": "Embodiment - Die verkörperte Psyche",
+  "year": 2026,
+  "venue": "",
+  "url": "https://doi.org/10.17433/978-3-17-047119-1"
+ },
+ "img:https://indiepubs.com/cdn/shop/files/CoreSourceHub_74715425-698c-43a5-9e3b-e16eabca4c6a.jpg?v=1787076139": {
+  "url": "https://indiepubs.com/cdn/shop/files/CoreSourceHub_74715425-698c-43a5-9e3b-e16eabca4c6a.jpg?v=1787076139",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "doi:10.1515/9781503647893": {
+  "doi": "10.1515/9781503647893",
+  "ok": true,
+  "type": "doi",
+  "title": "Cultural Techniques of Biosensing",
+  "year": 2026,
+  "venue": "",
+  "url": "https://doi.org/10.1515/9781503647893"
+ },
+ "img:https://books.punctumbooks.com/10.53288/0495.1.00_frontcover.jpg": {
+  "url": "https://books.punctumbooks.com/10.53288/0495.1.00_frontcover.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.53288/0495.1.00": {
+  "doi": "10.53288/0495.1.00",
+  "ok": true,
+  "type": "doi",
+  "title": "Thinking with the Sleeping Body",
+  "year": 2026,
+  "venue": "",
+  "url": "https://doi.org/10.53288/0495.1.00"
+ },
+ "doi:10.1038/s41598-026-77088-2": {
+  "doi": "10.1038/s41598-026-77088-2",
+  "ok": true,
+  "type": "doi",
+  "title": "Prosthesis embodiment predicts reduced amputation salience as reflected in dreams",
+  "year": 2026,
+  "venue": "Scientific Reports",
+  "url": "https://doi.org/10.1038/s41598-026-77088-2"
+ },
+ "doi:10.1145/3829807.3829808": {
+  "doi": "10.1145/3829807.3829808",
+  "ok": true,
+  "type": "doi",
+  "title": "Cycloom: Designing with and for Menstrual Lived Experiences through Digital Weaving",
+  "year": 2026,
+  "venue": "Proceedings of the 14th Nordic Conference on Human-Computer Interaction",
+  "url": "https://doi.org/10.1145/3829807.3829808"
+ },
+ "doi:10.1145/3821402.3830152": {
+  "doi": "10.1145/3821402.3830152",
+  "ok": true,
+  "type": "doi",
+  "title": "Toward A Crip HCI of Menopausal Intimacy and Pleasure",
+  "year": 2026,
+  "venue": "Adjunct Proceedings of the 14th Nordic Conference on Human-Computer Interaction",
+  "url": "https://doi.org/10.1145/3821402.3830152"
+ },
+ "doi:10.1145/3829807.3829841": {
+  "doi": "10.1145/3829807.3829841",
+  "ok": true,
+  "type": "doi",
+  "title": "Individual Cycles: The Challenges of Designing Self-Care Technologies",
+  "year": 2026,
+  "venue": "Proceedings of the 14th Nordic Conference on Human-Computer Interaction",
+  "url": "https://doi.org/10.1145/3829807.3829841"
+ },
+ "doi:10.1145/3829807.3829830": {
+  "doi": "10.1145/3829807.3829830",
+  "ok": true,
+  "type": "doi",
+  "title": "Neuroqueering Tech Intimacies: Exploring neurodivergent people's technology appropriation practices towards self-determined intimacy",
+  "year": 2026,
+  "venue": "Proceedings of the 14th Nordic Conference on Human-Computer Interaction",
+  "url": "https://doi.org/10.1145/3829807.3829830"
+ },
+ "doi:10.1145/3821402.3830204": {
+  "doi": "10.1145/3821402.3830204",
+  "ok": true,
+  "type": "doi",
+  "title": "Design Without Goal: Listening, Silence, and Emergence in Practice",
+  "year": 2026,
+  "venue": "Adjunct Proceedings of the 14th Nordic Conference on Human-Computer Interaction",
+  "url": "https://doi.org/10.1145/3821402.3830204"
+ },
+ "doi:10.1145/3821402.3830175": {
+  "doi": "10.1145/3821402.3830175",
+  "ok": true,
+  "type": "doi",
+  "title": "Embodied Transmissions for an Unknown Receiver",
+  "year": 2026,
+  "venue": "Adjunct Proceedings of the 14th Nordic Conference on Human-Computer Interaction",
+  "url": "https://doi.org/10.1145/3821402.3830175"
+ },
+ "doi:10.1145/3821402.3830125": {
+  "doi": "10.1145/3821402.3830125",
+  "ok": true,
+  "type": "doi",
+  "title": "Measuring the Felt Experience of Haptics: A Systematic Literature Review of User Experience of Haptic Modalities",
+  "year": 2026,
+  "venue": "Adjunct Proceedings of the 14th Nordic Conference on Human-Computer Interaction",
+  "url": "https://doi.org/10.1145/3821402.3830125"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/64487a14945a646fa6f7a229/1771009363465-8QPGQX5GIZ71O9MLNPAI/Respire_Screenshot1.png": {
+  "url": "https://images.squarespace-cdn.com/content/v1/64487a14945a646fa6f7a229/1771009363465-8QPGQX5GIZ71O9MLNPAI/Respire_Screenshot1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/64487a14945a646fa6f7a229/1771009359467-LLPAP2RJPLPZ5D6S63PB/Respire_Screenshot2.png": {
+  "url": "https://images.squarespace-cdn.com/content/v1/64487a14945a646fa6f7a229/1771009359467-LLPAP2RJPLPZ5D6S63PB/Respire_Screenshot2.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "doi:10.1145/3829214.3839385": {
+  "doi": "10.1145/3829214.3839385",
+  "ok": true,
+  "type": "doi",
+  "title": "VR Interactive sculpture \"Respire 2.0\"",
+  "year": 2026,
+  "venue": "SIGGRAPH Asia 2026 Art Gallery",
+  "url": "https://doi.org/10.1145/3829214.3839385"
+ },
+ "doi:10.1145/3862641": {
+  "doi": "10.1145/3862641",
+  "ok": true,
+  "type": "doi",
+  "title": "The Sound of (iN)stability: Making Subtle Movement Fluctuations Perceptible via Material Metaphor Sonification in Ballet",
+  "year": 2026,
+  "venue": "ACM Transactions on Computer-Human Interaction",
+  "url": "https://doi.org/10.1145/3862641"
+ },
+ "doi:10.3389/fpsyg.2026.1874994": {
+  "doi": "10.3389/fpsyg.2026.1874994",
+  "ok": true,
+  "type": "doi",
+  "title": "Wind-like sonification of footsteps for walking rehabilitation in chronic stroke survivors: a multiple case study",
+  "year": 2026,
+  "venue": "Frontiers in Psychology",
+  "url": "https://doi.org/10.3389/fpsyg.2026.1874994"
+ },
+ "doi:10.1145/3831659": {
+  "doi": "10.1145/3831659",
+  "ok": true,
+  "type": "doi",
+  "title": "Human-Computer Co-Regulation: A Review of Biofeedback for Meditative Practice",
+  "year": 2026,
+  "venue": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies",
+  "url": "https://doi.org/10.1145/3831659"
+ },
+ "doi:10.1145/3831282": {
+  "doi": "10.1145/3831282",
+  "ok": true,
+  "type": "doi",
+  "title": "Pneunocchio: Towards Understanding the Design of Playful Bodily Extensions through a Pinocchio-Inspired Pneumatic Nose",
+  "year": 2026,
+  "venue": "Proceedings of the ACM on Human-Computer Interaction",
+  "url": "https://doi.org/10.1145/3831282"
+ },
+ "doi:10.1145/3831346": {
+  "doi": "10.1145/3831346",
+  "ok": true,
+  "type": "doi",
+  "title": "Play Beyond Vision: Children’s Embodied Strategies in Non-Visual Extended Reality",
+  "year": 2026,
+  "venue": "Proceedings of the ACM on Human-Computer Interaction",
+  "url": "https://doi.org/10.1145/3831346"
+ },
+ "doi:10.1145/3838843.3838856": {
+  "doi": "10.1145/3838843.3838856",
+  "ok": true,
+  "type": "doi",
+  "title": "“I Could See Your Heart Rate Creeping Up”: A Trioethnographic Study of Shared Real-Time Exertion Data in Road Cycling",
+  "year": 2026,
+  "venue": "Proceedings of the Second Annual Conference on Sports and Human-Computer Interaction",
+  "url": "https://doi.org/10.1145/3838843.3838856"
+ },
+ "doi:10.1145/3838843.3838844": {
+  "doi": "10.1145/3838843.3838844",
+  "ok": true,
+  "type": "doi",
+  "title": "What If ChatGPT Were my Training Coach? Negotiating Temporalities, Bodily Autonomy and Setting Boundaries in Endurance Sports",
+  "year": 2026,
+  "venue": "Proceedings of the Second Annual Conference on Sports and Human-Computer Interaction",
+  "url": "https://doi.org/10.1145/3838843.3838844"
+ },
+ "doi:10.1145/3801727.3844933": {
+  "doi": "10.1145/3801727.3844933",
+  "ok": true,
+  "type": "doi",
+  "title": "Promoting Interoceptive Awareness Through Smartwatches",
+  "year": 2026,
+  "venue": "Companion Proceedings of the Second Annual Conference on Sports and Human-Computer Interaction",
+  "url": "https://doi.org/10.1145/3801727.3844933"
+ },
+ "arxiv:2609.01981": {
+  "arxiv": "2609.01981",
+  "ok": true,
+  "type": "arxiv",
+  "title": "Reconciling Kinesthetic Mismatches: A Somatic Alignment Mindset for Musical Body Transformation",
+  "year": 2026,
+  "url": "https://arxiv.org/abs/2609.01981"
+ },
+ "arxiv:2609.09960": {
+  "arxiv": "2609.09960",
+  "ok": true,
+  "type": "arxiv",
+  "title": "Somatosensory Activation and Attentional States in Creative Making",
+  "year": 2026,
+  "url": "https://arxiv.org/abs/2609.09960"
+ },
+ "doi:10.1145/3800965.3834480": {
+  "doi": "10.1145/3800965.3834480",
+  "ok": true,
+  "type": "doi",
+  "title": "Infinite Bloom: Exploring Non-Human Embodiment through Gestural Agency and Spatial Design in Virtual Reality Games",
+  "year": 2026,
+  "venue": "Companion Proceedings of the Annual Symposium on Computer-Human Interaction in Play",
+  "url": "https://doi.org/10.1145/3800965.3834480"
+ },
+ "doi:10.1145/3830398.3830501": {
+  "doi": "10.1145/3830398.3830501",
+  "ok": true,
+  "type": "doi",
+  "title": "Armonii: Motion Design for Wearable Supernumerary Robotic Arms Toward Comfort and Embodiment",
+  "year": 2026,
+  "venue": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+  "url": "https://doi.org/10.1145/3830398.3830501"
+ },
+ "doi:10.1145/3830398.3830685": {
+  "doi": "10.1145/3830398.3830685",
+  "ok": true,
+  "type": "doi",
+  "title": "MuscleJockey: Motor Initiation via Electrical Muscle Stimulation While Preserving User Control",
+  "year": 2026,
+  "venue": "Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+  "url": "https://doi.org/10.1145/3830398.3830685"
+ },
+ "doi:10.1145/3803855": {
+  "doi": "10.1145/3803855",
+  "ok": true,
+  "type": "doi",
+  "title": "Mindful Eating Aspects as Bridging Concepts Represented through the MEDEC Cards: Towards a Design Framework for Mindful Eating Technologies",
+  "year": 2026,
+  "venue": "ACM Transactions on Computer-Human Interaction",
+  "url": "https://doi.org/10.1145/3803855"
+ },
+ "doi:10.1145/3776591.3832526": {
+  "doi": "10.1145/3776591.3832526",
+  "ok": true,
+  "type": "doi",
+  "title": "LLMs with a Heart: Using Contextual Heartbeat Haptics to Add Feeling to Text and Audio LLM Interactions",
+  "year": 2026,
+  "venue": "Companion Publication of the 28th International Conference on Multimodal Interaction",
+  "url": "https://doi.org/10.1145/3776591.3832526"
+ },
+ "doi:10.1145/3785651.3831550": {
+  "doi": "10.1145/3785651.3831550",
+  "ok": true,
+  "type": "doi",
+  "title": "EaseSense: A Wearable Interactive System for Supporting Shared Understanding of Sensory States Between Children with SPD and Caregivers",
+  "year": 2026,
+  "venue": "Proceedings of the 2026 Companion of the Computer-Supported Cooperative Work and Social Computing",
+  "url": "https://doi.org/10.1145/3785651.3831550"
+ },
+ "doi:10.1093/iwc/iwag047": {
+  "doi": "10.1093/iwc/iwag047",
+  "ok": true,
+  "type": "doi",
+  "title": "Designing Intimate Anthropocenes: Five Tactics for Sonic and Tangible Interaction Design Within a Disturbed Landscape",
+  "year": 2026,
+  "venue": "Interacting with Computers",
+  "url": "https://doi.org/10.1093/iwc/iwag047"
+ },
+ "doi:10.1163/18758185-bja10144": {
+  "doi": "10.1163/18758185-bja10144",
+  "ok": true,
+  "type": "doi",
+  "title": "From Raw Feels to Subtle Sentiments: Refining Experiential Philosophy",
+  "year": 2026,
+  "venue": "Contemporary Pragmatism",
+  "url": "https://doi.org/10.1163/18758185-bja10144"
+ },
+ "doi:10.1145/3801727.3844936": {
+  "doi": "10.1145/3801727.3844936",
+  "ok": true,
+  "type": "doi",
+  "title": "Demonstrating VibeCoP: Guiding Balance Exercises through a Center of Pressure encoded Vibrotactile Waistband",
+  "year": 2026,
+  "venue": "Companion Proceedings of the Second Annual Conference on Sports and Human-Computer Interaction",
+  "url": "https://doi.org/10.1145/3801727.3844936"
+ },
+ "doi:10.1145/3797867.3828976": {
+  "doi": "10.1145/3797867.3828976",
+  "ok": true,
+  "type": "doi",
+  "title": "The Procrustean Body: A Theoretical Analysis of Motion Capture from Critical Disability, Somaesthetic, and Posthuman Perspectives",
+  "year": 2026,
+  "venue": "Proceedings of the 28th International ACM SIGACCESS Conference on Computers and Accessibility",
+  "url": "https://doi.org/10.1145/3797867.3828976"
+ },
+ "doi:10.1145/3797867.3832766": {
+  "doi": "10.1145/3797867.3832766",
+  "ok": true,
+  "type": "doi",
+  "title": "On the Sensation of Tinnitus: An Embodied Account of Living with a Chronic Sonic Condition",
+  "year": 2026,
+  "venue": "Proceedings of the 28th International ACM SIGACCESS Conference on Computers and Accessibility",
+  "url": "https://doi.org/10.1145/3797867.3832766"
+ },
+ "img:https://www.frontiersin.org/files/Articles/1873403/xml-images/fpsyg-17-1873403-g001.webp": {
+  "url": "https://www.frontiersin.org/files/Articles/1873403/xml-images/fpsyg-17-1873403-g001.webp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "doi:10.3389/fpsyg.2026.1873403": {
+  "doi": "10.3389/fpsyg.2026.1873403",
+  "ok": true,
+  "type": "doi",
+  "title": "Felt sense dynamics: a practice-based framework for tracking the arc of somatic emotional processing",
+  "year": 2026,
+  "venue": "Frontiers in Psychology",
+  "url": "https://doi.org/10.3389/fpsyg.2026.1873403"
+ },
+ "doi:10.1017/mdh.2026.10079": {
+  "doi": "10.1017/mdh.2026.10079",
+  "ok": true,
+  "type": "doi",
+  "title": "Tracing the origins of\n                    Qigong\n                    fever: Mao Zedong, Jiang Weiqiao, quiet sitting, and the\n                    jingluo\n                    system, 1914–1958",
+  "year": 2026,
+  "venue": "Medical History",
+  "url": "https://doi.org/10.1017/mdh.2026.10079"
+ },
+ "doi:10.3390/arts15080193": {
+  "doi": "10.3390/arts15080193",
+  "ok": true,
+  "type": "doi",
+  "title": "Mystical Inner Vision: Daoist Inner Contemplation in the Mediumistic Paintings of Guo Fengyi",
+  "year": 2026,
+  "venue": "Arts",
+  "url": "https://doi.org/10.3390/arts15080193"
+ },
+ "doi:10.1145/3767308.3838306": {
+  "doi": "10.1145/3767308.3838306",
+  "ok": true,
+  "type": "doi",
+  "title": "Attuning Heat: Amplifying Bodily Awareness through Visuo-thermal Congruency",
+  "year": 2026,
+  "venue": "Proceedings of the 34th ACM International Conference on Multimedia",
+  "url": "https://doi.org/10.1145/3767308.3838306"
+ },
+ "doi:10.1145/3767308.3832564": {
+  "doi": "10.1145/3767308.3832564",
+  "ok": true,
+  "type": "doi",
+  "title": "When Environments Breathe With You: Passive Biofeedback for Accessible Restorative XR",
+  "year": 2026,
+  "venue": "Proceedings of the 34th ACM International Conference on Multimedia",
+  "url": "https://doi.org/10.1145/3767308.3832564"
+ },
+ "doi:10.1145/3767308.3838300": {
+  "doi": "10.1145/3767308.3838300",
+  "ok": true,
+  "type": "doi",
+  "title": "Algorithmic Flesh: An Embodied AI Co-Interpretive Ritual for Revitalizing Dunhuang Apsara Murals",
+  "year": 2026,
+  "venue": "Proceedings of the 34th ACM International Conference on Multimedia",
+  "url": "https://doi.org/10.1145/3767308.3838300"
+ },
+ "doi:10.1145/3831349": {
+  "doi": "10.1145/3831349",
+  "ok": true,
+  "type": "doi",
+  "title": "Ludic Ambiguity on the Wrist: How an \"Imperfect\" Stress Avatar Becomes a Social Play Mechanic",
+  "year": 2026,
+  "venue": "Proceedings of the ACM on Human-Computer Interaction",
+  "url": "https://doi.org/10.1145/3831349"
+ },
+ "img:https://arxiv.org/html/2611.04609v1/media/image1.png": {
+  "url": "https://arxiv.org/html/2611.04609v1/media/image1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "arxiv:2611.04609": {
+  "arxiv": "2611.04609",
+  "ok": true,
+  "type": "arxiv",
+  "title": "Making Smell Actionable in Design: Lexicon, Movement Patterns, and Gesture Cards",
+  "year": 2026,
+  "url": "https://arxiv.org/abs/2611.04609"
+ },
+ "doi:10.3389/fpsyg.2026.1933772": {
+  "doi": "10.3389/fpsyg.2026.1933772",
+  "ok": true,
+  "type": "doi",
+  "title": "Effects of a somatic dance course on body image, embodied self-awareness, and disordered eating risk in female university students: a quasi-experimental study",
+  "year": 2026,
+  "venue": "Frontiers in Psychology",
+  "url": "https://doi.org/10.3389/fpsyg.2026.1933772"
+ },
+ "ytmax:B7U_7kTxUWA": {
+  "url": "https://i.ytimg.com/vi/B7U_7kTxUWA/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:5H2_vswpTPI": {
+  "url": "https://i.ytimg.com/vi/5H2_vswpTPI/maxresdefault.jpg",
   "ok": false,
   "type": "image",
   "error": "HTTPError: HTTP Error 404: Not Found"

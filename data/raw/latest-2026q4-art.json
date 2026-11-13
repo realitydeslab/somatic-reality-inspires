@@ -1,0 +1,965 @@
+{
+ "batch": "latest-2026q4-art",
+ "creators": [
+  {
+   "id": "shin-hanagata",
+   "name": "Shin Hanagata",
+   "kind": "person",
+   "role": "Artist working across performance, media art and contemporary art",
+   "based": "Tokyo, JP",
+   "bio": "Tokyo-born artist (b. 1995) who uses wearable devices, prosthetics and generative AI to rewire the body's relation to the world; shown at MOT Annual (Museum of Contemporary Art Tokyo, 2023), Taipei Arts Festival (2023) and the Autumn Meteorite Performing Arts Festival (Tokyo Metropolitan Theatre, 2025).",
+   "why": "Hanagata turns cheap apparatus into long communal body practices that take apart the body schema and let participants live inside a different one.",
+   "disciplines": [
+    "art",
+    "dance"
+   ],
+   "links": {
+    "site": "https://www.shinhanagata.com/en"
+   },
+   "role_zh": "表演、媒体艺术与当代艺术领域的艺术家",
+   "bio_zh": "1995 年生于东京的艺术家，用可穿戴设备、假体和生成式 AI 改写身体与世界的关系；作品曾在东京都现代美术馆 MOT Annual（2023）、台北艺术节（2023）和东京艺术剧场“秋之陨石”表演艺术节（2025）展出。",
+   "why_zh": "花形慎用简单的装置组织长时间的集体身体实践，拆解原有的身体图式，让参与者在另一种身体里生活。",
+   "based_zh": "东京，日本",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "julia-vollmer",
+   "name": "Julia Vollmer",
+   "kind": "person",
+   "role": "Media artist",
+   "based": "Bremen, DE",
+   "bio": "German media artist (b. 1995) working with machine learning, wearables, code and electronics; MA in Digital Media from the University of the Arts Bremen. Her ongoing research treats heat as a medium for the hidden energy of AI.",
+   "why": "Vollmer makes the material cost of computation something the hand has to feel, rather than a figure to read.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://juliavollmer.de"
+   },
+   "role_zh": "媒体艺术家",
+   "bio_zh": "德国媒体艺术家（1995 年生），使用机器学习、可穿戴设备、代码与电子元件创作，获不来梅艺术大学数字媒体硕士学位。她持续以“热”为媒介，研究 AI 背后看不见的能耗。",
+   "why_zh": "Vollmer 让计算的物质代价成为手必须亲身感受的东西，而不只是一个读到的数字。",
+   "based_zh": "不来梅，德国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "hsin-chien-huang",
+   "name": "Hsin-Chien Huang",
+   "kind": "person",
+   "role": "Distinguished Professor, National Taiwan Normal University; new media artist",
+   "based": "Taipei, TW",
+   "bio": "Taiwanese new media artist working with XR, interactive installation and performance; his VR work Samsara won the Jury Award at SXSW and Best VR Story at Cannes XR. He leads the Storynest Narrative Lab.",
+   "why": "Huang's recent work moves from immersive images to the hand, treating touch and muscle memory as the place where history is kept.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.hsinchienhuang.com"
+   },
+   "role_zh": "台湾师范大学特聘教授，新媒体艺术家",
+   "bio_zh": "台湾新媒体艺术家，以扩展现实、互动装置与表演创作；VR 作品《轮回》（Samsara）获 SXSW 评审团奖与戛纳 XR 最佳 VR 故事奖。他主持 Storynest 叙事实验室。",
+   "why_zh": "黄心健近年的作品从沉浸影像转向手，把触摸和肌肉记忆当作保存历史的地方。",
+   "based_zh": "台北，中国台湾",
+   "connected_to": [],
+   "discovered_via": "seed",
+   "name_zh": "黄心健"
+  },
+  {
+   "id": "kareth-schaffer",
+   "name": "Kareth Schaffer",
+   "kind": "person",
+   "role": "Choreographer",
+   "based": "Berlin, DE",
+   "bio": "Berlin-based choreographer whose Bat Dances (2026), made with composer Jonas Hauer, premiered at Tanz im August.",
+   "why": "Schaffer uses choreography to ask how another species senses the world, and stages it for sighted, blind and visually impaired audiences alike.",
+   "disciplines": [
+    "dance"
+   ],
+   "links": {
+    "site": "https://www.visitberlin.de/en/event/bat-dances"
+   },
+   "role_zh": "编舞家",
+   "bio_zh": "常驻柏林的编舞家，与作曲家 Jonas Hauer 合作的《蝙蝠之舞》（Bat Dances，2026）在“八月舞蹈节”首演。",
+   "why_zh": "Schaffer 用编舞去追问另一个物种如何感知世界，并让明眼、失明和视障观众都能进入作品。",
+   "based_zh": "柏林，德国",
+   "connected_to": [
+    "jonas-hauer"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jonas-hauer",
+   "name": "Jonas Hauer",
+   "kind": "person",
+   "role": "Composer",
+   "based": "Berlin, DE",
+   "bio": "Berlin-based composer who wrote the score for Kareth Schaffer's Bat Dances (2026), their first collaboration.",
+   "why": "Hauer's score carries the echolocation that lets audiences follow a bat's way of sensing space by ear.",
+   "disciplines": [
+    "dance"
+   ],
+   "links": {},
+   "role_zh": "作曲家",
+   "bio_zh": "常驻柏林的作曲家，为 Kareth Schaffer 的《蝙蝠之舞》（2026）作曲，这是两人的首次合作。",
+   "why_zh": "Hauer 的配乐承载了回声定位，让观众用耳朵跟随蝙蝠感知空间的方式。",
+   "based_zh": "柏林，德国",
+   "connected_to": [
+    "kareth-schaffer"
+   ],
+   "discovered_via": "kareth-schaffer"
+  },
+  {
+   "id": "tarek-atoui",
+   "name": "Tarek Atoui",
+   "kind": "person",
+   "role": "Artist and composer",
+   "based": "Paris, FR",
+   "bio": "Lebanese artist and composer (b. 1980, Beirut) who builds instruments and sound installations with instrument-makers, engineers and musicians; his series Within (since 2012) develops instruments together with d/Deaf people.",
+   "why": "Atoui treats listening as something the whole body does, through vibration, touch and breath, not only the ears.",
+   "disciplines": [
+    "art",
+    "dance"
+   ],
+   "links": {
+    "site": "https://www.tate.org.uk/whats-on/tate-modern/tarek-atoui"
+   },
+   "role_zh": "艺术家、作曲家",
+   "bio_zh": "黎巴嫩艺术家与作曲家（1980 年生于贝鲁特），与乐器制作者、工程师和音乐家合作制造乐器与声音装置；自 2012 年起的系列《Within》与聋人及听障者一起开发乐器。",
+   "why_zh": "Atoui 把聆听看作整个身体的活动——通过振动、触摸和呼吸，而不只是耳朵。",
+   "based_zh": "巴黎，法国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ann-cvetkovich",
+   "name": "Ann Cvetkovich",
+   "kind": "person",
+   "role": "Professor, Institute for Comparative Studies in Literature, Art and Culture, Carleton University",
+   "based": "Ottawa, CA",
+   "bio": "Feminist and queer studies scholar, author of An Archive of Feelings (2003) and Depression: A Public Feeling (2012), and a member of the Public Feelings network.",
+   "why": "Cvetkovich brings somatic practice, breath and femme care into affect theory and writing, treating bodyminds as the ground of political life.",
+   "disciplines": [
+    "philosophy",
+    "somatics"
+   ],
+   "links": {
+    "site": "https://www.dukeupress.edu/learning-from-the-high-priestess"
+   },
+   "role_zh": "卡尔顿大学文学、艺术与文化比较研究所教授",
+   "bio_zh": "女性主义与酷儿研究学者，著有《情感档案》（An Archive of Feelings，2003）和《抑郁：一种公共感受》（Depression: A Public Feeling，2012），是“公共感受”（Public Feelings）研究网络成员。",
+   "why_zh": "Cvetkovich 把身体修习、呼吸与“femme 照护”带进情动理论与写作，把身心（bodymind）看作政治生活的根基。",
+   "based_zh": "渥太华，加拿大",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "cristina-albu",
+   "name": "Cristina Albu",
+   "kind": "person",
+   "role": "Associate Professor of Art History, University of Missouri-Kansas City",
+   "based": "Kansas City, US",
+   "bio": "Art historian of art, technology and the cognitive sciences, author of Mirror Affect: Seeing Self, Observing Others in Contemporary Art (University of Minnesota Press, 2016).",
+   "why": "Albu writes the history of neurofeedback art as a history of the embodied, relational mind rather than of brain control.",
+   "disciplines": [
+    "art",
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://www.routledge.com/authors/i16998-cristina-albu"
+   },
+   "role_zh": "密苏里大学堪萨斯城分校艺术史副教授",
+   "bio_zh": "研究艺术、技术与认知科学交叉领域的艺术史学者，著有《镜像情动：当代艺术中的观己与观人》（Mirror Affect，明尼苏达大学出版社，2016）。",
+   "why_zh": "Albu 把神经反馈艺术的历史写成一部具身、关系性心智的历史，而不是控制大脑的历史。",
+   "based_zh": "堪萨斯城，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "paola-esposito",
+   "name": "Paola Esposito",
+   "kind": "person",
+   "role": "Departmental Lecturer in Visual, Material and Museum Anthropology, University of Oxford",
+   "based": "Oxford, GB",
+   "bio": "Anthropologist and butoh practitioner who studies butoh as an artistic somatic practice for self-knowledge, creativity and healing.",
+   "why": "Esposito reads butoh from inside the practice, showing how bodily imagination works as a way of thinking and of living with pain.",
+   "disciplines": [
+    "somatics",
+    "dance"
+   ],
+   "links": {
+    "site": "https://www.routledge.com/Bodily-Imagination-in-Butoh-Dance-Towards-an-Anthropology-with-Art-for-Creativity-and-Healing/Esposito/p/book/9781032284781"
+   },
+   "role_zh": "牛津大学视觉、物质与博物馆人类学讲师",
+   "bio_zh": "人类学者、舞踏修习者，研究舞踏作为一种通向自我认识、创造与疗愈的艺术性身体修习。",
+   "why_zh": "Esposito 从修习内部解读舞踏，说明身体想象如何成为一种思考方式，以及与疼痛共处的方式。",
+   "based_zh": "牛津，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "christopher-oneill",
+   "name": "Christopher O'Neill",
+   "kind": "person",
+   "role": "Lecturer in Media, Monash University",
+   "based": "Melbourne, AU",
+   "bio": "Media scholar who studies biosensing and sensor cultures; his doctoral thesis Somaletheia: Cultural Techniques of Biosensing (University of Melbourne, 2019) grew into his 2026 book.",
+   "why": "O'Neill shows how sensors have long trained touch and attention while framing the body as a source of error, a useful history for anyone designing with biodata.",
+   "disciplines": [
+    "philosophy"
+   ],
+   "links": {},
+   "role_zh": "莫纳什大学媒体学讲师",
+   "bio_zh": "研究生物传感与传感器文化的媒体学者；其博士论文《Somaletheia：生物传感的文化技术》（墨尔本大学，2019）发展成为 2026 年出版的专著。",
+   "why_zh": "O'Neill 揭示传感器长期以来如何训练触觉与注意力，同时把身体塑造成“误差”的来源——对用生物数据做设计的人很有参考价值。",
+   "based_zh": "墨尔本，澳大利亚",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "anu-valtonen",
+   "name": "Anu Valtonen",
+   "kind": "person",
+   "role": "Professor, University of Lapland",
+   "based": "Rovaniemi, FI",
+   "bio": "Finnish cultural scholar who works with feminist new materialist and multispecies methods, with long-term (auto)ethnographic research on sleep in the North.",
+   "why": "Valtonen uses the sleeping, breathing body to think against wakeful, controlling rationality and toward caring relations with the Earth.",
+   "disciplines": [
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://punctumbooks.com/titles/thinking-with-the-sleeping-body/"
+   },
+   "role_zh": "拉普兰大学教授",
+   "bio_zh": "芬兰文化研究学者，采用女性主义新物质主义与多物种研究方法，长期在北方地区对睡眠进行（自我）民族志研究。",
+   "why_zh": "Valtonen 借助沉睡、呼吸的身体，反思清醒而控制一切的理性，转向与地球之间的照护关系。",
+   "based_zh": "罗瓦涅米，芬兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "robin-bekrater-bodmann",
+   "name": "Robin Bekrater-Bodmann",
+   "kind": "person",
+   "role": "Researcher, Central Institute of Mental Health, Mannheim",
+   "based": "Mannheim, DE",
+   "bio": "Psychologist who studies phantom limbs, body representation and prosthesis embodiment in people with limb amputation.",
+   "why": "Bekrater-Bodmann studies how a prosthesis comes to feel like part of one's own body, and what that means for living after amputation.",
+   "disciplines": [
+    "health"
+   ],
+   "links": {},
+   "role_zh": "曼海姆中央精神卫生研究所研究员",
+   "bio_zh": "心理学研究者，研究截肢者的幻肢、身体表征与假肢具身化。",
+   "why_zh": "Bekrater-Bodmann 研究假肢如何逐渐被感受为自己身体的一部分，以及这对截肢后的生活意味着什么。",
+   "based_zh": "曼海姆，德国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "shin-hanagata--chimeria",
+   "creator_ids": [
+    "shin-hanagata"
+   ],
+   "title": "CHIMERIA",
+   "year": 2025,
+   "field": "augmented",
+   "sub": "cyborg-art",
+   "also": [
+    "machines-xr",
+    "movement"
+   ],
+   "modalities": [
+    "light-vision",
+    "posture-balance",
+    "extra-body"
+   ],
+   "lenses": [
+    "estrangement",
+    "extended-body",
+    "body-politics"
+   ],
+   "kind": "performance",
+   "description": "Volunteers recruited by phone wear head-mounted displays that move their eyes to other body parts, such as the toes, and then live together for days in a Tokyo flat; seeing from the feet turns the feet into a head and the arms into hind legs, so they rebuild everyday life with feeding tubes, wire-driven prosthetics and a kneeling toilet.",
+   "description_zh": "通过公开电话招募的志愿者戴上头戴显示器，把“眼睛”移到脚趾等身体其他部位，然后在东京的一处住所里共同生活数日；用脚看世界时，脚成了头、手臂成了后腿，他们只好用进食管、线控假肢和跪姿厕所重建日常生活。",
+   "idea_en": "Move where the body sees from and the whole body schema reorganises; living with that change for days shows how much of 'normal' posture is built into chairs, door handles and stairs.",
+   "idea_zh": "改变身体“从哪里看”，整个身体图式就会重组；与这种变化共同生活几天，会看清所谓“正常”的姿态有多少是被椅子、门把手和楼梯规定的。",
+   "method": "Head-mounted displays fed by cameras mounted on toes, buttocks or other body parts, combined with communal living in a purpose-built 'Chimera-centric' environment; visitors had to imitate the Chimeras to enter.",
+   "method_zh": "把安装在脚趾、臀部等部位的摄像头画面送入头戴显示器，并在专门搭建的“奇美拉中心”环境中集体生活；访客必须模仿奇美拉的身体才能进入。",
+   "keywords": [
+    "head-mounted display",
+    "body schema",
+    "bipedalism",
+    "Leroi-Gourhan",
+    "communal living",
+    "prosthetics",
+    "Prix Ars Electronica"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=B7U_7kTxUWA"
+   },
+   "images": [
+    "https://www.notion.so/image/attachment%3Ab7db5608-ce1f-41fb-800f-baa69ae996e4%3Astillhuman-main.jpg%3FspaceId%3De8b54afc-d5a5-4b5c-81dc-46072df5f8dd?table=block&id=36e832b7-7213-80f0-81fa-c883381baf36&cache=v2&width=1600"
+   ],
+   "source_url": "https://www.shinhanagata.com/en/works/chimeria",
+   "exhibited": [
+    "Prix Ars Electronica 2026, Interactive Art +, Award of Distinction"
+   ]
+  },
+  {
+   "id": "julia-vollmer--to-hurt-for-a-thought",
+   "creator_ids": [
+    "julia-vollmer"
+   ],
+   "title": "to hurt for a thought",
+   "year": 2025,
+   "field": "somaesthetic",
+   "sub": "actuation",
+   "also": [
+    "machines-xr"
+   ],
+   "modalities": [
+    "heat",
+    "touch"
+   ],
+   "lenses": [
+    "touching-back",
+    "estrangement"
+   ],
+   "kind": "artwork",
+   "description": "Visitors type prompts for an AI image generator on a heavy metal keyboard that is thermally coupled to the GPU; with each request the keys grow warmer under the fingertips, so seeing an image means putting up with the heat of making it.",
+   "description_zh": "观众在一块沉重的金属键盘上输入提示词，让 AI 生成图像；键盘与 GPU 热连接，每次请求后按键都会在指尖下变得更热——想看到图像，就得忍受生成它所产生的热。",
+   "idea_en": "Heat felt in the fingertips turns an invisible energy cost into a bodily discomfort at the exact place we usually interact with AI.",
+   "idea_zh": "指尖感到的热，把看不见的能耗变成一种身体上的不适，而且就发生在我们平时与 AI 交互的位置。",
+   "method": "A steel keyboard sits on a copper layer connected to the heatsink of a GTX 1660 Ti GPU that runs a local image-generation model, so computation heat transfers directly to the keys.",
+   "method_zh": "钢制键盘下垫有铜层，与运行本地图像生成模型的 GTX 1660 Ti 显卡散热器相连，计算产生的热直接传到按键上。",
+   "keywords": [
+    "heat",
+    "generative AI",
+    "energy",
+    "keyboard",
+    "GPU",
+    "discomfort",
+    "Prix Ars Electronica"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=5H2_vswpTPI"
+   },
+   "images": [
+    "https://juliavollmer.de/assets/images/wmTyN5lHXj-1024.jpeg",
+    "https://juliavollmer.de/assets/images/ch90xkIE2G-1024.jpeg"
+   ],
+   "source_url": "https://juliavollmer.de/projects/to-hurt-for-a-thought/",
+   "exhibited": [
+    "Prix Ars Electronica 2026, Interactive Art +, Honorary Mention"
+   ]
+  },
+  {
+   "id": "hsin-chien-huang--the-sculptures-of-touch",
+   "creator_ids": [
+    "hsin-chien-huang"
+   ],
+   "title": "The Sculptures of Touch",
+   "year": 2025,
+   "field": "movement",
+   "sub": "somatic-art",
+   "also": [
+    "social"
+   ],
+   "modalities": [
+    "touch",
+    "movement"
+   ],
+   "lenses": [
+    "body-politics",
+    "body-data",
+    "first-person"
+   ],
+   "kind": "artwork",
+   "description": "Participants trace by hand the contours and surfaces of barricades, detention walls, bunkers and handcuffs from Taiwan's White Terror and martial-law period; motion capture records each gesture, which is then 3D-printed as a sculpture of the touch itself.",
+   "description_zh": "参与者用手去描摹台湾白色恐怖与戒严时期的路障、拘禁墙、碉堡和手铐的轮廓与表面；动作捕捉记录下每一次手势，再用 3D 打印把“触摸本身”做成雕塑。",
+   "idea_en": "Memory of political violence is kept in the hand's pressure and hesitation as well as in archives; recording the act of contact preserves a felt history that a scan of the object would miss.",
+   "idea_zh": "政治暴力的记忆既存在档案里，也存在于手的力度与迟疑之中；记录“接触”这一动作，能保留对物体的扫描所遗漏的、被感受的历史。",
+   "method": "Optical motion capture of participants' hands as they touch heritage structures, converted into volumetric trajectories and 3D-printed in nylon; part of a practice begun in 2015.",
+   "method_zh": "用光学动作捕捉记录参与者触摸历史遗构时的手部运动，转换为体积化轨迹后以尼龙 3D 打印；这是艺术家自 2015 年开始的长期实践的一部分。",
+   "keywords": [
+    "touch",
+    "White Terror",
+    "martial law",
+    "Taiwan",
+    "motion capture",
+    "3D printing",
+    "embodied archive",
+    "bodily memory"
+   ],
+   "images": [
+    "https://www.hsinchienhuang.com/pix/_3artworks/ds_sculpturesOfTouch/p0.jpg",
+    "https://www.hsinchienhuang.com/pix/_3artworks/ds_sculpturesOfTouch/p2.jpg"
+   ],
+   "source_url": "https://www.hsinchienhuang.com/pix/_3artworks/ds_sculpturesOfTouch/p0.php?lang=en",
+   "exhibited": [
+    "Prix Ars Electronica 2026, Digital Humanity, Honorary Mention"
+   ]
+  },
+  {
+   "id": "kareth-schaffer--bat-dances",
+   "creator_ids": [
+    "kareth-schaffer",
+    "jonas-hauer"
+   ],
+   "title": "Bat Dances",
+   "year": 2026,
+   "field": "movement",
+   "sub": "performance",
+   "also": [
+    "augmented"
+   ],
+   "modalities": [
+    "new-senses",
+    "voice-sound",
+    "movement"
+   ],
+   "lenses": [
+    "more-than-human",
+    "estrangement",
+    "movement-expression"
+   ],
+   "kind": "performance",
+   "description": "A danced monologue told from a bat's point of view: dancer Leah Katz sets bat movement patterns against human ones, with echolocation carried in the sound score, in a piece made equally for sighted, blind and visually impaired audiences.",
+   "description_zh": "一段从蝙蝠视角讲述的舞蹈独白：舞者 Leah Katz 把蝙蝠的动作模式与人的动作并置，声音配乐承载着回声定位；作品同样面向明眼、失明和视障观众。",
+   "idea_en": "Asking how another species senses space, and making the piece readable by ear, shifts dance away from the eye toward hearing and the felt sense of space.",
+   "idea_zh": "追问另一物种如何感知空间，并让作品可以用耳朵“读”，舞蹈就从眼睛转向听觉和对空间的身体感受。",
+   "method": "Solo choreography for one dancer with a composed score built around echolocation, staged at HAU3 with audio access for blind and visually impaired audiences (likely including audio description).",
+   "method_zh": "为一位舞者创作的独舞，配以围绕回声定位编写的音乐，在 HAU3 上演，并为失明与视障观众提供声音通道（很可能包括口述影像）。",
+   "keywords": [
+    "echolocation",
+    "bat",
+    "blind audiences",
+    "accessibility",
+    "Tanz im August",
+    "Leah Katz",
+    "more-than-human"
+   ],
+   "images": [
+    "https://www.visitberlin.de/system/files/styles/visitberlin_hero_visitberlin_desktop_2x/private/datahub/images/genid-66bd5bdb641047d8ad0a83edd26b83f532134786-b32.jpg.webp?itok=BBVzwYkC"
+   ],
+   "source_url": "https://www.visitberlin.de/en/event/bat-dances",
+   "exhibited": [
+    "Tanz im August 2026, HAU Hebbel am Ufer, Berlin (world premiere)"
+   ]
+  },
+  {
+   "id": "tarek-atoui--hold",
+   "creator_ids": [
+    "tarek-atoui"
+   ],
+   "title": "Hold",
+   "year": 2026,
+   "field": "somaesthetic",
+   "sub": "sound-voice",
+   "also": [
+    "social"
+   ],
+   "modalities": [
+    "voice-sound",
+    "vibration",
+    "whole-soma"
+   ],
+   "lenses": [
+    "attunement",
+    "intercorporeality"
+   ],
+   "kind": "artwork",
+   "description": "Tate Modern's Turbine Hall becomes a sound environment of wind-driven bamboo pipes and shengs, mechanically struck Korean drums, karnai horns and 30-metre textiles moving in the air currents; visitors wander, or sit and lie on stones that vibrate with the sound.",
+   "description_zh": "泰特现代美术馆涡轮大厅变成一个声音环境：风吹过竹管与笙，机械槌敲击韩国鼓，还有乌兹别克卡尔奈长号和随气流摆动的 30 米长织物；观众可以随意走动，也可以坐或躺在随声音振动的石头上。",
+   "idea_en": "Listening is done with the whole body: lying on a vibrating stone, sound arrives through bone and skin as much as through the ears.",
+   "idea_zh": "聆听是整个身体的事：躺在振动的石头上，声音经由骨骼和皮肤传来，不只是经由耳朵。",
+   "method": "Wind instruments, mechanised percussion and textiles, with embedded microphones sampling the instruments and the hall; custom software replays and reworks the sound so the soundscape keeps changing, and musicians 'plug in' for live sessions.",
+   "method_zh": "风乐器、机械打击乐与织物组成装置，内置麦克风采集乐器与大厅本身的声音，定制软件实时改写并回放，使声景不断变化；音乐家定期“接入”装置进行现场演出。",
+   "keywords": [
+    "sound installation",
+    "vibration",
+    "deep listening",
+    "sheng",
+    "Turbine Hall",
+    "Hyundai Commission",
+    "Within",
+    "d/Deaf collaboration"
+   ],
+   "images": [
+    "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Tate-HYUNDAI-2026_41.width-600.jpg",
+    "https://cdn.sanity.io/images/se13eur7/redesign/73b774ee615977252af9892738606bae4500a59a-2400x1600.jpg?w=1200&fm=jpg"
+   ],
+   "source_url": "https://www.tate.org.uk/whats-on/tate-modern/tarek-atoui",
+   "exhibited": [
+    "Hyundai Commission, Tate Modern Turbine Hall, London (13 Oct 2026 – 11 Apr 2027)"
+   ]
+  },
+  {
+   "id": "ann-cvetkovich--learning-from-the-high-priestess",
+   "creator_ids": [
+    "ann-cvetkovich"
+   ],
+   "title": "Learning from the High Priestess: Affect, Femme Care, and Somatic Practice",
+   "year": 2026,
+   "field": "practices",
+   "sub": "somatic-therapy",
+   "also": [
+    "intimate",
+    "care"
+   ],
+   "modalities": [
+    "breath",
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-politics",
+    "care-healing",
+    "body-mind-unity"
+   ],
+   "kind": "publication",
+   "description": "A book that joins affect theory and somatic practice into a survival guide for artists, academics and activists, organised around four themes: care, disability and madness, trauma and somatics, and breath.",
+   "description_zh": "一本把情动理论与身体修习结合起来的书，为艺术家、学者和行动者写成一份“生存指南”，围绕四个主题展开：照护、残障与疯狂、创伤与身体修习、呼吸。",
+   "idea_en": "Writing, breathing and caring are treated as embodied practices; mental health is reframed as decolonising bodyminds and the felt experience of freedom.",
+   "idea_zh": "写作、呼吸与照护都被当作具身的修习；心理健康被重新理解为让身心（bodymind）去殖民化，以及对自由的亲身感受。",
+   "method": "Experimental, partly autobiographical writing in dialogue with writer-practitioners such as Alexis Pauline Gumbs, Alison Bechdel, Leah Lakshmi Piepzna-Samarasinha, Staci Haines and Kai Cheng Thom, with emphasis on Black feminisms.",
+   "method_zh": "以实验性、带有自传色彩的写作，与 Alexis Pauline Gumbs、Alison Bechdel、Leah Lakshmi Piepzna-Samarasinha、Staci Haines、Kai Cheng Thom 等写作者兼实践者对话，重点关注黑人女性主义。",
+   "keywords": [
+    "somatics",
+    "affect theory",
+    "femme care",
+    "breath",
+    "trauma",
+    "disability",
+    "bodymind",
+    "Public Feelings",
+    "Staci Haines"
+   ],
+   "images": [
+    "https://assets-us-01.kc-usercontent.com/f7ca9afb-82c2-002a-a423-84e111d5b498/cb043430-ca75-478e-8a3c-b88deb5716f4/978-1-4780-3931-0_pr.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1215/9781478062868",
+    "doi": "10.1215/9781478062868",
+    "venue": "Duke University Press, 2026",
+    "title": "Learning from the High Priestess: Affect, Femme Care, and Somatic Practice"
+   },
+   "source_url": "https://www.dukeupress.edu/learning-from-the-high-priestess"
+  },
+  {
+   "id": "cristina-albu--neurofeedback-art",
+   "creator_ids": [
+    "cristina-albu"
+   ],
+   "title": "Affect, Intimacy and Ecology of Mind in Neurofeedback Art",
+   "year": 2026,
+   "field": "affect",
+   "sub": "biosignals",
+   "also": [
+    "augmented"
+   ],
+   "modalities": [
+    "brain"
+   ],
+   "lenses": [
+    "affective-loop",
+    "body-mind-unity",
+    "body-data"
+   ],
+   "kind": "publication",
+   "description": "A history of neurofeedback art from the mid-1960s to today, in which artists turn EEG rhythms into sound, light or images; chapters cover Nina Sobell, Mariko Mori's Wave UFO, Suzanne Dikker and Matthias Oostrik, Victoria Vesna's Octopus Brainstorming and Ellen Pearlman's brain operas.",
+   "description_zh": "一部从 1960 年代中期至今的神经反馈艺术史：艺术家把脑电节律转化为声音、光或图像；各章讨论 Nina Sobell、森万里子的 Wave UFO、Suzanne Dikker 与 Matthias Oostrik、Victoria Vesna 的 Octopus Brainstorming，以及 Ellen Pearlman 的“脑电歌剧”。",
+   "idea_en": "Read as art rather than as control technology, brainwave feedback shows the mind as embodied, relational and shaped by its surroundings, an 'ecology of the embodied mind'.",
+   "idea_zh": "把脑波反馈当作艺术而不是控制技术来读，它呈现的心智是具身的、关系性的、被环境塑造的——一种“具身心智的生态”。",
+   "method": "Art-historical case studies of EEG-based performances and installations, read with philosophy of mind and cognitive science, including questions of control over one's brain rhythms and the commercialisation of brain data.",
+   "method_zh": "以艺术史方法分析基于脑电的表演与装置，并结合心灵哲学与认知科学，讨论人对自身脑节律的掌控以及脑数据商业化等问题。",
+   "keywords": [
+    "neurofeedback",
+    "EEG",
+    "brainwave art",
+    "Nina Sobell",
+    "Mariko Mori",
+    "Ellen Pearlman",
+    "Victoria Vesna",
+    "ecology of mind"
+   ],
+   "images": [
+    "https://images.tandf.co.uk/common/jackets/crclarge/978100375/9781003752370.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.4324/9781003752370",
+    "doi": "10.4324/9781003752370",
+    "venue": "Routledge, 2026",
+    "title": "Affect, Intimacy and Ecology of Mind in Neurofeedback Art"
+   },
+   "source_url": "https://www.routledge.com/Affect-Intimacy-and-Ecology-of-Mind-in-Neurofeedback-Art/Albu/p/book/9781041270287"
+  },
+  {
+   "id": "paola-esposito--bodily-imagination-in-butoh-dance",
+   "creator_ids": [
+    "paola-esposito"
+   ],
+   "title": "Bodily Imagination in Butoh Dance: Towards an Anthropology with Art for Creativity and Healing",
+   "year": 2026,
+   "field": "practices",
+   "sub": "east-asian-practices",
+   "also": [
+    "movement",
+    "care"
+   ],
+   "modalities": [
+    "movement",
+    "pain-interoception",
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "care-healing",
+    "first-person"
+   ],
+   "kind": "publication",
+   "description": "An anthropological study of butoh as an artistic somatic practice, moving from kinaesthetic imagination and bodily thinking through studio classes, mimesis and metamorphosis to chapters on chronic pain and on dreams and self-perception.",
+   "description_zh": "一部把舞踏作为艺术性身体修习来研究的人类学著作：从动觉想象与身体思维出发，经过工作室课程、模仿与变形，最后讨论慢性疼痛，以及梦与自我感知。",
+   "idea_en": "In butoh, imagining with the body is a form of thinking; becoming something else from the inside can change how pain and the self are felt.",
+   "idea_zh": "在舞踏中，用身体去想象本身就是一种思考；从内部“变成”另一种东西，可以改变人对疼痛和自我的感受。",
+   "method": "Long-term participant observation and the author's own butoh practice in workshops, with multimodal documentation, in an 'anthropology with art' approach.",
+   "method_zh": "以“与艺术同行的人类学”方法，结合长期参与观察与作者本人在工作坊中的舞踏修习，并进行多模态记录。",
+   "keywords": [
+    "butoh",
+    "舞踏",
+    "bodily imagination",
+    "kinaesthetic imagination",
+    "metamorphosis",
+    "chronic pain",
+    "anthropology"
+   ],
+   "images": [
+    "https://images.tandf.co.uk/common/jackets/crclarge/978100329/9781003299523.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.4324/9781003299523",
+    "doi": "10.4324/9781003299523",
+    "venue": "Routledge, Anthropological Studies of Creativity and Perception, 2026",
+    "title": "Bodily Imagination in Butoh Dance: Towards an Anthropology with Art for Creativity and Healing"
+   },
+   "source_url": "https://www.routledge.com/Bodily-Imagination-in-Butoh-Dance-Towards-an-Anthropology-with-Art-for-Creativity-and-Healing/Esposito/p/book/9781032284781"
+  },
+  {
+   "id": "thomas-fuchs--embodiment-die-verkoerperte-psyche",
+   "creator_ids": [
+    "thomas-fuchs"
+   ],
+   "title": "Embodiment – Die verkörperte Psyche",
+   "year": 2026,
+   "field": "foundations",
+   "sub": "phenomenology",
+   "also": [
+    "care"
+   ],
+   "modalities": [
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "intercorporeality"
+   ],
+   "kind": "publication",
+   "description": "A short book of lectures in which Thomas Fuchs introduces embodiment and 4E cognition for psychotherapy: experience is an activity of the whole organism in its environment, so what was called the inner 'psyche' moves into the lived body and its relations with others.",
+   "description_zh": "Thomas Fuchs 面向心理治疗的一本讲座小书，介绍具身性与 4E 认知：体验是整个有机体在环境中的活动，因此过去归于内在“心灵”的东西，转移到了活的身体及其与他人的关系之中。",
+   "idea_en": "The psyche is not inside the head; feelings, empathy and memory live in the lived body and in intercorporeal resonance between people.",
+   "idea_zh": "心灵不在头脑里；情感、共情与记忆活在活的身体（Leib）之中，活在人与人之间的身体间共振里。",
+   "method": "Lecture series (Lindauer Psychotherapiewochen) developing embodied affectivity, interaffectivity and empathy, body memory and embodiment processes in therapy, illustrated with clinical and literary examples.",
+   "method_zh": "基于林道心理治疗周的系列讲座，阐述具身情感、交互情感与共情、身体记忆，以及心理治疗中的具身过程，并以临床与文学案例说明。",
+   "keywords": [
+    "embodiment",
+    "Verkörperung",
+    "Leib",
+    "4E cognition",
+    "intercorporeality",
+    "body memory",
+    "psychotherapy",
+    "phenomenology"
+   ],
+   "images": [
+    "https://pubengine2.s3.eu-central-1.amazonaws.com/cover/99.180005/9783170471191.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.17433/978-3-17-047119-1",
+    "doi": "10.17433/978-3-17-047119-1",
+    "venue": "W. Kohlhammer, Lindauer Beiträge zur Psychotherapie und Psychosomatik, 2026",
+    "title": "Embodiment - Die verkörperte Psyche"
+   },
+   "source_url": "https://doi.org/10.17433/978-3-17-047119-1"
+  },
+  {
+   "id": "christopher-oneill--cultural-techniques-of-biosensing",
+   "creator_ids": [
+    "christopher-oneill"
+   ],
+   "title": "Cultural Techniques of Biosensing: A History of the Body in Error",
+   "year": 2026,
+   "field": "affect",
+   "sub": "body-data",
+   "also": [
+    "foundations"
+   ],
+   "modalities": [
+    "heartbeat",
+    "touch"
+   ],
+   "lenses": [
+    "body-data",
+    "body-politics"
+   ],
+   "kind": "publication",
+   "description": "A long history of biosensing from the mid-nineteenth century to today, from the sphygmograph in the clinic and workplace measurement to burglar alarms, showing how sensors framed the body as a source of error.",
+   "description_zh": "一部从 19 世纪中叶至今的生物传感长史：从诊所里的脉搏描记器、工作场所的测量技术到防盗警报器，说明传感器如何把身体塑造成“误差”的来源。",
+   "idea_en": "Sensors do not simply read the body; they train new kinds of touch and attention and decide which bodily signals count, which is why biodata should be read as open rather than as truth.",
+   "idea_zh": "传感器并不只是读取身体；它们训练出新的触摸与注意方式，并决定哪些身体信号算数——所以生物数据应被读作开放的，而不是真相。",
+   "method": "Media-archaeological study of 'cultural techniques' across medicine, work and security, in the Sensing Media series.",
+   "method_zh": "以媒介考古方法，研究医学、劳动与安保领域中的“文化技术”，收入“感知媒介”（Sensing Media）丛书。",
+   "keywords": [
+    "biosensing",
+    "sphygmograph",
+    "cultural techniques",
+    "media archaeology",
+    "sensor society",
+    "error",
+    "biodata"
+   ],
+   "images": [
+    "https://indiepubs.com/cdn/shop/files/CoreSourceHub_74715425-698c-43a5-9e3b-e16eabca4c6a.jpg?v=1787076139"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1515/9781503647893",
+    "doi": "10.1515/9781503647893",
+    "venue": "Stanford University Press, Sensing Media, 2026",
+    "title": "Cultural Techniques of Biosensing: A History of the Body in Error"
+   },
+   "source_url": "https://doi.org/10.1515/9781503647893"
+  },
+  {
+   "id": "anu-valtonen--thinking-with-the-sleeping-body",
+   "creator_ids": [
+    "anu-valtonen"
+   ],
+   "title": "Thinking with the Sleeping Body: A Feminist Reimagination of Human–Earth Relations",
+   "year": 2026,
+   "field": "foundations",
+   "sub": "phenomenology",
+   "also": [
+    "machines-xr"
+   ],
+   "modalities": [
+    "breath",
+    "whole-soma"
+   ],
+   "lenses": [
+    "more-than-human",
+    "attunement",
+    "body-politics"
+   ],
+   "kind": "publication",
+   "description": "An open-access book that uses the sleeping body, breathing, disconnecting and slowing down, as a figure for imagining human–Earth relations not built on wakeful rationality or control.",
+   "description_zh": "一本开放获取的书，以沉睡的身体——呼吸、断开连接、放慢——为形象，想象不建立在清醒理性与控制之上的人与地球的关系。",
+   "idea_en": "The sleeping body is vulnerable, breathing and slowed down; thinking from it rather than from the wakeful, heroic body opens room for more caring, more-than-human relations.",
+   "idea_zh": "沉睡的身体脆弱、在呼吸、放慢了节奏；从它而不是从清醒、英雄式的身体出发去思考，能为更具照护性、超越人类的关系留出空间。",
+   "method": "Long-term (auto)ethnographic fieldwork on sleep in the Nordic North, read with feminist new materialist and posthumanist theory and relational multispecies methods.",
+   "method_zh": "在北欧北方地区对睡眠进行长期（自我）民族志田野研究，结合女性主义新物质主义、后人类理论与关系性的多物种研究方法。",
+   "keywords": [
+    "sleep",
+    "sleeping body",
+    "breath",
+    "feminist new materialism",
+    "posthumanism",
+    "Lapland",
+    "multispecies",
+    "open access"
+   ],
+   "images": [
+    "https://books.punctumbooks.com/10.53288/0495.1.00_frontcover.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.53288/0495.1.00",
+    "doi": "10.53288/0495.1.00",
+    "venue": "punctum books, 2026 (open access)",
+    "title": "Thinking with the Sleeping Body: A Feminist Reimagination of Human–Earth Relations"
+   },
+   "source_url": "https://punctumbooks.com/titles/thinking-with-the-sleeping-body/"
+  },
+  {
+   "id": "robin-bekrater-bodmann--prosthesis-embodiment-dreams",
+   "creator_ids": [
+    "robin-bekrater-bodmann"
+   ],
+   "title": "Prosthesis embodiment predicts reduced amputation salience as reflected in dreams",
+   "year": 2026,
+   "field": "augmented",
+   "sub": "body-integration",
+   "also": [
+    "care"
+   ],
+   "modalities": [
+    "extra-body",
+    "whole-soma"
+   ],
+   "lenses": [
+    "extended-body",
+    "first-person"
+   ],
+   "kind": "paper",
+   "description": "A survey of 192 people who use a prosthesis after lower-limb amputation, asking how their own body appears in their dreams; those who felt their prosthesis more as part of their body were less likely to dream of an impaired body.",
+   "description_zh": "一项针对 192 名下肢截肢后使用假肢者的调查，询问他们在梦中看到的自己身体是什么样子；越是把假肢感受为身体一部分的人，越少梦见受损的身体。",
+   "idea_en": "When a prosthesis is embodied it stops being a reminder of loss and becomes part of the self, and this shows even in how the body is dreamt.",
+   "idea_zh": "当假肢被身体接纳，它就不再是丧失的提醒，而成为自我的一部分——这一点甚至体现在人如何梦见自己的身体。",
+   "method": "Questionnaire study measuring prosthesis embodiment, dream recall frequency, recalled body appearance in dreams (impaired, intact or not remembered) and psychosocial adjustment; 113 participants recalled dreams.",
+   "method_zh": "问卷研究，测量假肢具身程度、梦境回忆频率、梦中身体的样子（受损、完整或记不清）以及心理社会适应；其中 113 人能回忆梦境。",
+   "keywords": [
+    "prosthesis embodiment",
+    "amputation",
+    "dreams",
+    "body representation",
+    "self-model",
+    "continuity hypothesis"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/s41598-026-77088-2",
+    "doi": "10.1038/s41598-026-77088-2",
+    "venue": "Scientific Reports, 2026",
+    "title": "Prosthesis embodiment predicts reduced amputation salience as reflected in dreams"
+   },
+   "source_url": "https://doi.org/10.1038/s41598-026-77088-2"
+  }
+ ],
+ "leads": [
+  {
+   "name": "Nina Davies — Image Syncers (2025; Prix Ars Electronica 2026 Interactive Art + Honorary Mention)",
+   "why": "Dancers reproduce AI-generated movement by hand; first shown 2025 (Future Gallery, Western Front 2026), so outside the date window. Strong dance-tech candidate.",
+   "link": "https://archive.aec.at/prix/319490/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Claudix Vanesix — Xenocene: A Manifesto in Motion (Prix Ars Electronica 2026 Honorary Mention)",
+   "why": "Live performance where real-time AI transforms the performer's body; first shown 2025 (Tabakalera, New Images Festival). Body as AI input, weaker somatic angle.",
+   "link": "https://claudixvanesix.com/xenocene",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Operator — Repeat as necessary: Performance Operating System (2026; Prix Ars Electronica Digital Humanity HM)",
+   "why": "Performance notations plus intended nervous-system states stored for reactivation; could not verify media or details in time.",
+   "link": "https://archive.aec.at/prix/320415/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "16th Gwangju Biennale 'You Must Change Your Life' (5 Sep–15 Nov 2026), dir. Ho Tzu Nyen",
+   "why": "Gallery 2 on bodies touching, disciplining and caring; Gallery 5 on breath and sound. Candidates: Angela Goh, Craft (2026, performed four times daily); Rafik Greiss on Sufism through movement and breath; Kwon Byungjun & Park Chan-kyong, Bullim (Augmentation). Need per-work details and media.",
+   "link": "https://www.e-flux.com/announcements/6787672/you-must-change-your-life",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Rafik Greiss — The City and the City (KW Institute Berlin, 17 Oct 2026–10 Jan 2027)",
+   "why": "Newly commissioned film; his practice treats devotion and altered states through breath, movement and repetition (The Longest Sleep, 2024, on Sufi mawlids).",
+   "link": "https://www.artrabbit.com/events/rafik-greiss-the-city-and-the-city",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Tanz im August 2026 — Simona Deaconescu, Ioana Vreme Moser & Simina Oprescu (water currents and bodies); Diana Niepce, HORNFUCKERS (disabled bodies in conflict)",
+   "why": "Festival programme 13–29 Aug 2026; check premiere status and media.",
+   "link": "https://www.tanzimaugust.de/en/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Daito Manabe x ELEVENPLAY — +1+1+1+ (MUTEK.JP 2026)",
+   "why": "Dance installation on body and technology boundaries; date and media not checked.",
+   "link": "https://tokyo.mutek.org/en/artists/daito-manabe-x-elevenplay",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Sarah Bloem — Between the Sensory and the Social: A Critical Phenomenology of Autistic Embodiment (Linköping University, Sept 2026)",
+   "why": "Doctoral thesis in critical phenomenology of autistic embodiment (Linköping, Zeiler milieu); DOI 10.3384/9789181186307 verified, abstract not retrieved (DiVA bot wall).",
+   "link": "https://doi.org/10.3384/9789181186307",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Elizabeth Waterhouse — Body-Biographies: Our Life Stories in Dance (transcript, Aug 2026)",
+   "why": "Embodied methodology for dancers' life-story interviews; DOI 10.14361/9783839477595.",
+   "link": "https://doi.org/10.14361/9783839477595",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Stephanie Schroedter (ed.) — Tanz und Resonanz / Dance and Resonance (Jahrbuch TanzForschung 2025, transcript, Oct 2026)",
+   "why": "Dance and improvisation perspectives on resonance; DOI 10.14361/9783839480946.",
+   "link": "https://doi.org/10.14361/9783839480946",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Jack Reynolds et al. (eds.) — Merleau-Ponty, Embodied Cognition and Enactivism (Edinburgh UP, 30 Nov 2026)",
+   "why": "Not yet published at the time of this round; add next round. DOI 10.3366/9781399539876.",
+   "link": "https://doi.org/10.3366/9781399539876",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Diego Marin-Bucio — Embodying the Artificial: Dance and Human–AI Co-creativity (Intellect, 27 Nov 2026)",
+   "why": "Ethnography of kinesthetic human–AI interaction in dance; not yet published; add next round.",
+   "link": "https://doi.org/10.1386/9781835953594",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Miriam Kyselo — The Relational Mind (MIT Press, Dec 2026)",
+   "why": "Enactive account of the social self; not yet published.",
+   "link": "https://mitpress.mit.edu/9780262056984/the-relational-mind/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Mark W. Scala & Nora N. Khan (eds.) — Shimmer: Artists Dream a Posthuman World (MIT Press, Aug 2026)",
+   "why": "Published 4 Aug 2026 (DOI 10.7551/mitpress/15922.001.0001) but mainly about posthuman ecology, AI and XR rather than the felt body; MIT Press page blocks image checks.",
+   "link": "https://doi.org/10.7551/mitpress/15922.001.0001",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "Natasha Lushetich — Imaginatelligence: Desire and Disaffection in Posthuman Futures (U Minnesota Press, Nov 2026)",
+   "why": "Posthuman theory; check body angle.",
+   "link": "https://doi.org/10.5749/9781452977164",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Yamamoto, Kosaka & Nakazono — supernumerary phantom limb after pontine hemorrhage (Cortex, Nov 2026)",
+   "why": "Case study of a chronic extra phantom limb with affect-modulated sensations; abstract not yet available.",
+   "link": "https://doi.org/10.1016/j.cortex.2026.11.006",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Alsuradi et al. — Concurrent motor imagery of natural and supernumerary robotic thumbs strengthens kinesthetic sensorimotor networks (Communications Engineering, Aug 2026)",
+   "why": "Extra-limb motor imagery; engineering framing, check for felt-body angle.",
+   "link": "https://doi.org/10.1038/s44172-026-00750-0",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Rochelle Sharpe Lohrasbe — Trauma and Somatic Healing (Routledge, Aug 2026)",
+   "why": "Somatic therapy book; lower salience.",
+   "link": "https://doi.org/10.4324/9781003681526",
+   "found_via": "seed",
+   "status": "open"
+  }
+ ]
+}

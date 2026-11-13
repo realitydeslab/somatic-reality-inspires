@@ -288,6 +288,38 @@
   "batch": "intimate-care"
  },
  {
+  "name": "Mark W. Scala & Nora N. Khan (eds.) — Shimmer: Artists Dream a Posthuman World (MIT Press, Aug 2026)",
+  "why": "Published 4 Aug 2026 (DOI 10.7551/mitpress/15922.001.0001) but mainly about posthuman ecology, AI and XR rather than the felt body; MIT Press page blocks image checks.",
+  "link": "https://doi.org/10.7551/mitpress/15922.001.0001",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "latest-2026q4-art"
+ },
+ {
+  "name": "Seo, Kim, Seok, Choi — Webcam-based real-time visual feedback during Baduanjin practice (JMIR Formative, Sept 2026)",
+  "why": "Korean study on Baduanjin qigong feedback; framed as pose-error correction, not felt practice.",
+  "link": "https://doi.org/10.2196/101208",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "latest-2026q4-lineage"
+ },
+ {
+  "name": "Zhao, Geck, ..., Wu — Mammal: breastfeeding monitoring through computational garments with inter-body sensing (IMWUT, Sept 2026)",
+  "why": "Inter-body sensing between caregiver and infant; monitoring-focused, no felt angle.",
+  "link": "https://doi.org/10.1145/3831965",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "latest-2026q4-lineage"
+ },
+ {
+  "name": "Ziyue Piao et al. — Somatic Alignment Mindset; Pneunocchio; SONA; MEDEC Cards; Human-Computer Co-Regulation; What If ChatGPT Were my Training Coach?",
+  "why": "Found in this batch's search but already written by latest-2026q4-hci; not duplicated.",
+  "link": "",
+  "found_via": "seed",
+  "status": "duplicate",
+  "batch": "latest-2026q4-lineage"
+ },
+ {
   "name": "Campo Woytuk et al. — Toward Feminist Ways of Sensing the Menstruating Body (CHI 2025)",
   "why": "Already added by latest-kth-methods as nadia-campo-woytuk--feminist-sensing.",
   "link": "https://doi.org/10.1145/3706598.3713466",
