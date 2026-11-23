@@ -24,7 +24,7 @@ amirhosein-asghari-tavana | Amirhosein Asghari Tavana | 1 works
 amon-rapp | Amon Rapp | 1 works
 amy-huggard | Amy Huggard | 1 works
 ana-paiva | Ana Paiva | 1 works
-ana-tajadura-jimenez | Ana Tajadura-Jiménez | 10 works
+ana-tajadura-jimenez | Ana Tajadura-Jiménez | 11 works
 andrea-stevenson-won | Andrea Stevenson Won | 2 works
 andres-lucero | Andrés Lucero | 1 works
 andy-clark | Andy Clark | 2 works
@@ -57,6 +57,7 @@ baptiste-caramiaux | Baptiste Caramiaux | 2 works
 beanotherlab | BeAnotherLab | 1 works
 ben-shneiderman | Ben Shneiderman | 2 works
 bernard-stiegler | Bernard Stiegler | 1 works
+bernhard-maurer | Bernhard Maurer | 1 works
 bernhard-riecke | Bernhard E. Riecke | 1 works
 bessel-van-der-kolk | Bessel van der Kolk | 1 works
 bettina-nissen | Bettina Nissen | 1 works
@@ -109,6 +110,7 @@ daisuke-tajima | Daisuke Tajima | 1 works
 daisy-oneill | Daisy O'Neill | 1 works
 daito-manabe | Daito Manabe | 1 works
 damon-young | Damon Young | 1 works
+dane-desutter | Dane DeSutter | 1 works
 dani-clode | Dani Clode | 3 works
 danielle-lottridge | Danielle Lottridge | 1 works
 danielle-wilde | Danielle Wilde | 3 works
@@ -124,6 +126,7 @@ dennis-schleicher | Dennis Schleicher | 1 works
 diane-gromala | Diane Gromala | 2 works
 dianya-mia-hua | Dianya Mia Hua | 1 works
 die-gute-fabrik | Die Gute Fabrik | 1 works
+diego-marin-bucio | Diego Marin-Bucio | 1 works
 dirk-loyens | Dirk Loyens | 1 works
 doga-cavdir | Doga Cavdir | 1 works
 dogen | Dōgen Zenji | 2 works
@@ -179,6 +182,7 @@ george-poonkhin-khut | George Poonkhin Khut | 5 works
 gerda-alexander | Gerda Alexander | 1 works
 giacomo-valle | Giacomo Valle | 1 works
 gijs-huisman | Gijs Huisman | 2 works
+gina-priano-keyser | Gina Priano-Keyser | 1 works
 giovanna-colombetti | Giovanna Colombetti | 1 works
 giulio-jacucci | Giulio Jacucci | 1 works
 gopinaath-kannabiran | Gopinaath Kannabiran | 1 works
@@ -191,13 +195,16 @@ hannah-pelikan | Hannah Pelikan | 1 works
 hanne-de-jaegher | Hanne De Jaegher | 1 works
 hans-moravec | Hans Moravec | 1 works
 heidi-biggs | Heidi R. Biggs | 1 works
+helena-qing-huang | Helena Qing Huang | 1 works
 helio-oiticica | Hélio Oiticica | 2 works
 henri-lorach | Henri Lorach | 1 works
 henrik-ehrsson | H. Henrik Ehrsson | 3 works
 henrique-sambi | Henrique Sambi | 1 works
+henry-ho | Henry Ho | 1 works
 hester-anderiesen-le-riche | Hester Anderiesen-Le Riche | 1 works
 hideyuki-ando | Hideyuki Ando | 1 works
 hiromi-nakamura | Hiromi Nakamura | 1 works
+hiroo-yamamura | Hiroo Yamamura | 1 works
 holger-schnadelbach | Holger Schnädelbach | 1 works
 holland-haptics | Holland Haptics | 1 works
 homei-miyashita | Homei Miyashita | 1 works
@@ -218,6 +225,7 @@ irene-kaklopoulou | Irene Kaklopoulou | 1 works
 iris-marion-young | Iris Marion Young | 1 works
 irmgard-bartenieff | Irmgard Bartenieff | 2 works
 j-c-r-licklider | J. C. R. Licklider | 1 works
+jack-reynolds | Jack Reynolds | 1 works
 jacob-buur | Jacob Buur | 1 works
 jacqueline-borgstedt | Jacqueline Borgstedt | 1 works
 jacques-vidal | Jacques J. Vidal | 1 works
@@ -283,6 +291,7 @@ katherine-isbister | Katherine Isbister | 8 works
 katherine-rees | Katherine Rees | 1 works
 kathryn-linn-geurts | Kathryn Linn Geurts | 1 works
 kathryn-ringland | Kathryn E. Ringland | 1 works
+kathy-nie | Kathy Nie | 1 works
 katja-kolcio | Katja Kolcio | 1 works
 katta-spiel | Katta Spiel | 6 works
 kazuo-ohno | Kazuo Ohno | 1 works
@@ -300,8 +309,9 @@ kristina-hook | Kristina Höök | 48 works
 kristina-mah | Kristina Mah | 3 works
 kristina-popova | Kristina Popova | 4 works
 kyrill-potapov | Kyrill Potapov | 1 works
+kyung-sub-lee | Kyung Sub Lee | 1 works
 kyung-yun-choi | Kyung Yun Choi | 2 works
-laia-turmo-vidal | Laia Turmo Vidal | 11 works
+laia-turmo-vidal | Laia Turmo Vidal | 12 works
 lala-guluzade | Lala Guluzade | 1 works
 lancel-maat | Lancel & Maat | 2 works
 laura-devendorf | Laura Devendorf | 1 works
@@ -357,6 +367,7 @@ mark-coniglio | Mark Coniglio / Troika Ranch (with Dawn Stoppiello) | 1 works
 mark-johnson | Mark Johnson | 4 works
 mark-morris-dance-group | Mark Morris Dance Group | 1 works
 mark-tschaepe | Mark Tschaepe | 1 works
+marlot-meyer | Marlot Meyer | 1 works
 marshmallow-laser-feast | Marshmallow Laser Feast | 3 works
 marta-matamala-gomez | Marta Matamala-Gomez | 1 works
 marta-pyvovarenko | Marta Pyvovarenko | 1 works
@@ -367,6 +378,7 @@ mary-overlie | Mary Overlie | 1 works
 mary-starks-whitehouse | Mary Starks Whitehouse | 1 works
 masahiko-inami | Masahiko Inami | 6 works
 masaki-batoh | Masaki Batoh | 1 works
+masaki-matsubara | Masaki Matsubara | 1 works
 matthew-botvinick | Matthew Botvinick | 1 works
 matthew-willsey | Matthew S. Willsey | 1 works
 matthias-oostrik | Matthias Oostrik | 3 works
@@ -398,6 +410,7 @@ miquel-alfaras | Miquel Alfaras | 3 works
 mirjana-prpa | Mirjana Prpa | 3 works
 mirna-zordan | Mirna Zordan | 2 works
 mithil-guruvugari | Mithil Guruvugari | 1 works
+mohammad-mahdi-dehshibi | Mohammad Mahdi Dehshibi | 1 works
 monica-tentori | Monica Tentori | 1 works
 moon-ribas | Moon Ribas | 1 works
 moreah-zisquit | Moreah Zisquit | 1 works
@@ -407,7 +420,7 @@ mousa-sondoqah | Mousa Sondoqah | 1 works
 muhammad-umair | Muhammad Umair | 2 works
 myron-krueger | Myron Krueger | 1 works
 n-katherine-hayles | N. Katherine Hayles | 1 works
-nadia-bianchi-berthouze | Nadia Bianchi-Berthouze | 6 works
+nadia-bianchi-berthouze | Nadia Bianchi-Berthouze | 7 works
 nadia-campo-woytuk | Nadia Campo Woytuk | 8 works
 nahoko-yamamura | Nahoko Yamamura | 1 works
 nancy-stark-smith | Nancy Stark Smith | 2 works
@@ -430,6 +443,7 @@ nicole-schumann-sizaret | Nicole Schumann-Sizaret | 1 works
 niels-eske-juul-andersen | Niels Eske Juul Andersen | 1 works
 nihar-sabnis | Nihar Sabnis | 1 works
 nikki-theofanopoulou | Nikki Theofanopoulou | 1 works
+nina-davies | Nina Davies | 1 works
 nina-sobell | Nina Sobell | 1 works
 nishida-kitaro | Nishida Kitarō | 1 works
 noguchi-haruchika | Noguchi Haruchika | 1 works
@@ -440,7 +454,7 @@ oguz-buruk | Oğuz 'Oz' Buruk | 4 works
 ohad-naharin | Ohad Naharin | 1 works
 olga-iarygina | Olga Iarygina | 1 works
 oliver-haimson | Oliver L. Haimson | 1 works
-omleila-mohammadi | Omleila Mohammadi | 1 works
+omleila-mohammadi | Omleila Mohammadi | 2 works
 openbci | OpenBCI | 1 works
 orlan | ORLAN | 1 works
 orlando-zane-hunter-valentine | Orlando Zane Hunter-Valentine | 1 works
@@ -472,6 +486,7 @@ peter-wright | Peter Wright | 1 works
 petr-slovak | Petr Slovák | 3 works
 petra-gemeinboeck | Petra Gemeinboeck | 1 works
 petra-sundstrom | Petra Sundström | 1 works
+philipp-schmidt-boddy | Philipp Schmidt-Boddy | 1 works
 philippe-pasquier | Philippe Pasquier | 1 works
 phoebe-sengers | Phoebe Sengers | 4 works
 phoebe-staab | Phoebe A. Staab | 1 works
@@ -512,10 +527,10 @@ rudolf-laban | Rudolf Laban | 1 works
 rusula-oshadha-pathirana | Rusula Oshadha Pathirana | 1 works
 s-n-goenka | S. N. Goenka | 1 works
 sachiyo-ito-jaeger | Sachiyo Ito-Jaeger | 1 works
-saliha-akbas | Saliha Akbas | 1 works
+saliha-akbas | Saliha Akbas | 2 works
 samira-mattissen | Samira Mattissen | 1 works
 samuel-bianchini | Samuel Bianchini | 1 works
-sang-won-leigh | Sang-won Leigh | 2 works
+sang-won-leigh | Sang-won Leigh | 3 works
 sanne-beijer | Sanne Beijer | 1 works
 sara-eriksson | Sara Eriksson | 3 works
 sarah-fdili-alaoui | Sarah Fdili Alaoui | 13 works
@@ -532,6 +547,7 @@ sefakor-komabu-pomeyie | Sefakor Komabu-Pomeyie | 1 works
 sena-beste-ercan | Sena Beste Ercan | 1 works
 seungwoo-je | Seungwoo Je | 1 works
 shaan-chopra | Shaan Chopra | 2 works
+shambik-ghose | Shambik Ghose | 1 works
 shan-yuan-teng | Shan-Yuan Teng | 3 works
 shanshan-gao | Shanshan Gao | 1 works
 shaowen-bardzell | Shaowen Bardzell | 6 works
@@ -579,7 +595,7 @@ terminalbeach | TERMINALBEACH | 1 works
 thais-alvarenga-medina | Thaís Alvarenga Medina | 1 works
 thecla-schiphorst | Thecla Schiphorst | 16 works
 thich-nhat-hanh | Thich Nhat Hanh | 1 works
-thomas-fuchs | Thomas Fuchs | 3 works
+thomas-fuchs | Thomas Fuchs | 4 works
 thomas-hanna | Thomas Hanna | 3 works
 thomas-jacob-lawrence | Thomas Jacob Lawrence | 1 works
 thomas-oxley | Thomas J. Oxley | 1 works
@@ -587,9 +603,10 @@ thomas-thwaites | Thomas Thwaites | 1 works
 thorhildur-asgeirsdottir | Thórhildur Ásgeirsdóttir | 1 works
 tina-stromsted | Tina Stromsted | 1 works
 tom-calvert | Tom Calvert | 1 works
-tomoya-sasaki | Tomoya Sasaki | 2 works
+tomoya-sasaki | Tomoya Sasaki | 3 works
 toni-robertson | Toni Robertson | 5 works
 tony-shu | Tony Shu | 1 works
+tristan-braud | Tristan Braud | 1 works
 tu-weiming | Tu Weiming | 1 works
 umer-farooq | Umer Farooq | 2 works
 valdemar-danry | Valdemar Danry | 1 works
@@ -597,10 +614,11 @@ valeria-petkova | Valeria I. Petkova | 2 works
 valeria-regis | Valeria Regis | 1 works
 vannevar-bush | Vannevar Bush | 1 works
 vasiliki-tsaknaki | Vasiliki Tsaknaki | 13 works
-verena-fuchsberger | Verena Fuchsberger | 1 works
+verena-fuchsberger | Verena Fuchsberger | 2 works
 veronika-mayerboeck | Veronika Mayerboeck | 2 works
 viktoria-modesta | Viktoria Modesta | 1 works
 vincent-van-rheden | Vincent van Rheden | 3 works
+vitvasin-vimolmongkolporn | Vitvasin Vimolmongkolporn | 1 works
 vivian-sobchack | Vivian Sobchack | 1 works
 vs-ramachandran | V. S. Ramachandran | 1 works
 vygandas-simbelis | Vygandas Šimbelis | 1 works
@@ -619,12 +637,13 @@ wonjun-lee | Wonjun Lee | 1 works
 wouter-van-mensvoort | Wouter van Mensvoort | 1 works
 wouter-walmink | Wouter Walmink | 1 works
 xiangshi-ren | Xiangshi Ren | 1 works
+xiaoyan-wei | Xiaoyan Wei | 1 works
 xiaoying-bie | Xiaoying Bie | 1 works
 ximing-shen | Ximing Shen | 1 works
 xinglin-sun | Xinglin Sun | 1 works
 xinyi-huang | Xinyi Huang | 1 works
 xueting-luo | Xueting Luo | 1 works
-yalin-wang | Yalin Wang | 1 works
+yalin-wang | Yalin Wang | 2 works
 yang-chengfu | Yang Chengfu | 1 works
 yash-mehta | Yash Dhanpal Mehta | 2 works
 yatande-whitney-hunter | yaTande Whitney V. Hunter | 1 works
@@ -634,6 +653,7 @@ yingtong-lu | Yingtong Lu | 1 works
 yiran-zhao | Yiran Zhao | 1 works
 yixun-li | Yixun Li | 2 works
 yoav-luft | Yoav Luft | 5 works
+yohta-kitagawa | Yohta Kitagawa | 1 works
 yoichi-ochiai | Yoichi Ochiai | 1 works
 yoko-ono | Yoko Ono | 1 works
 yolande-strengers | Yolande Strengers | 1 works
@@ -649,3 +669,4 @@ zhilong-yan | Zhilong Yan | 1 works
 zhuangzi | Zhuangzi | 2 works
 zhuying-li | Zhuying Li | 12 works
 ziyue-piao | Ziyue Piao | 2 works
+zoe-qi-jing-li | Zoe Qi-Jing Li | 1 works

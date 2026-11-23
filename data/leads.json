@@ -1664,6 +1664,110 @@
   "batch": "latest-2026q4-lineage"
  },
  {
+  "name": "Yan, Wang, Shi, Ren — CloudTrip: physiological data-enabled multisensory metaphorical narratives for everyday stress (IJHCS, Feb 2027 issue)",
+  "why": "DOI verified; abstract still not indexed (Elsevier closed, S2/OpenAlex empty). Check again once the issue is out.",
+  "link": "https://doi.org/10.1016/j.ijhcs.2026.103946",
+  "found_via": "latest-2026q4-hci",
+  "status": "open",
+  "batch": "latest-2026q4b"
+ },
+ {
+  "name": "Rodríguez, González, Rossi — Sketching embodied-enactive interactions: designer practices and artifacts (IJHCS 2026)",
+  "why": "DOI verified; abstract unavailable (SSRN preprint 4785068 bot-walled). Possible method entry.",
+  "link": "https://doi.org/10.1016/j.ijhcs.2026.103845",
+  "found_via": "latest-2026q4-hci",
+  "status": "open",
+  "batch": "latest-2026q4b"
+ },
+ {
+  "name": "Fujiwara, Shimizu, Matsumoto — Where Is the Acting Self? Cable-driven device for agency and body ownership (VRST 2026)",
+  "why": "Device that moves the user's forearms to separate agency and ownership; pilot N = 6, lab-measure framing.",
+  "link": "https://doi.org/10.1145/3822517.3849878",
+  "found_via": "vrst-2026",
+  "status": "open",
+  "batch": "latest-2026q4b"
+ },
+ {
+  "name": "Eguchi, Yoshida, Nishimura, Hiraki — Fluidic Body: Swarm Robots as a Fluid Extension of the Hand (PACM HCI / ISS 2026)",
+  "why": "Hand opening/closing sets the viscosity of a robot swarm felt as hand extension; mostly control-oriented.",
+  "link": "https://doi.org/10.1145/3859323",
+  "found_via": "crossref-acm",
+  "status": "open",
+  "batch": "latest-2026q4b"
+ },
+ {
+  "name": "Liu, Zhou, Chen, Meng — Ebb Within: White Snake and Peking Opera as an embodied inner tidal soundscape ritual (SIGGRAPH Asia 2026 XR)",
+  "why": "Promising East Asian embodied XR ritual; no abstract or media yet (proceedings 30 Nov).",
+  "link": "https://doi.org/10.1145/3829342.3838206",
+  "found_via": "crossref-acm",
+  "status": "open",
+  "batch": "latest-2026q4b"
+ },
+ {
+  "name": "Murakami — Primordial Reality: reliving a baby's mind and body in XR (SIGGRAPH Asia 2026 XR)",
+  "why": "No abstract yet; check after 30 Nov.",
+  "link": "https://doi.org/10.1145/3829342.3838198",
+  "found_via": "crossref-acm",
+  "status": "open",
+  "batch": "latest-2026q4b"
+ },
+ {
+  "name": "Indriani, Kato, Yamaoka — InTwine: Threads Between Us (SIGGRAPH Asia 2026 Art Gallery)",
+  "why": "Abstract now read: sensor-augmented handloom where rhythm and hesitation of the weaving body are recorded in cloth; craft-centred, borderline.",
+  "link": "https://doi.org/10.1145/3829214.3839386",
+  "found_via": "latest-2026q4-hci",
+  "status": "open",
+  "batch": "latest-2026q4b"
+ },
+ {
+  "name": "Martiny & Høffding — Phenomenology in qualitative research: expanding its use and pluralizing its evaluative criteria (Phenomenology and the Cognitive Sciences, Nov 2026)",
+  "why": "Relevant to first-person / phenomenological interview methods; abstract not indexed yet.",
+  "link": "https://doi.org/10.1007/s11097-026-10229-0",
+  "found_via": "crossref",
+  "status": "open",
+  "batch": "latest-2026q4b"
+ },
+ {
+  "name": "Szlezak & Szlezak — Restoring embodied safety through Japanese ju-jitsu (Martial Arts Studies, Nov 2026)",
+  "why": "Breath/voice and positional-control martial practice for interoceptive awareness after trauma; single case study.",
+  "link": "https://doi.org/10.18573/mas.390",
+  "found_via": "crossref",
+  "status": "open",
+  "batch": "latest-2026q4b"
+ },
+ {
+  "name": "Anthopoulos — Argentine tango as embodied healing from complex developmental trauma (Person-Centered & Experiential Psychotherapies, Nov 2026)",
+  "why": "Somatic-therapy angle on partner dance; abstract not indexed.",
+  "link": "https://doi.org/10.1080/14779757.2026.2761927",
+  "found_via": "crossref",
+  "status": "open",
+  "batch": "latest-2026q4b"
+ },
+ {
+  "name": "Karai et al. — Towards a Framework of Interpersonal Synchrony Through Multimodal Sensing (OzCHI 2026)",
+  "why": "EEG hyperscanning, eye tracking and PPG during motor coordination vs felt synchrony; measurement-focused.",
+  "link": "https://doi.org/10.1145/3847401.3847422",
+  "found_via": "crossref-acm",
+  "status": "open",
+  "batch": "latest-2026q4b"
+ },
+ {
+  "name": "Brewer — Autoethnographic Insights from Double Threshold Cycling Training (SportsHCI 2026 Companion)",
+  "why": "First-person account of effort and data in endurance training; companion to the trioethnography already in the gallery.",
+  "link": "https://doi.org/10.1145/3801727.3844921",
+  "found_via": "crossref-acm",
+  "status": "open",
+  "batch": "latest-2026q4b"
+ },
+ {
+  "name": "Li, Ou, Luo — pan-play gestures with Chinese classical music (IJHCS) / Sun et al. — Hand Pain Simulation Glove (IJHCS)",
+  "why": "Both still without accessible abstracts (Elsevier closed).",
+  "link": "https://doi.org/10.1016/j.ijhcs.2026.103973",
+  "found_via": "latest-2026q4-lineage",
+  "status": "open",
+  "batch": "latest-2026q4b"
+ },
+ {
   "name": "Ito-Jaeger, Kafadar, Benford & Pérez Vallejos — Soma Design for Digital Mental Health and Well-Being Interventions: Scoping Review (JMIR Human Factors 2026)",
   "why": "First review of soma design in digital mental health; first author appears East Asian, so left for latest-east-asia (could also sit in methods).",
   "link": "https://doi.org/10.2196/79400",

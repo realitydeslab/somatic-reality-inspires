@@ -320,6 +320,30 @@
   "batch": "latest-2026q4-lineage"
  },
  {
+  "name": "Malisova, Tsaknaki, Homewood, Stavrakis — Affective Ontological Disruption (AOD) (CoDesign 2026)",
+  "why": "Abstract now read: a speculative co-design method for more-than-human design (Tech-as-Entity cards, ontographic mapping) with no felt-body component; left out as off-topic for soma design.",
+  "link": "https://doi.org/10.1080/15710882.2026.2754159",
+  "found_via": "vasiliki-tsaknaki",
+  "status": "off_topic",
+  "batch": "latest-2026q4b"
+ },
+ {
+  "name": "Angela Goh — Craft (16th Gwangju Biennale, Sept–Nov 2026)",
+  "why": "Hand-driven shape-shifting body performance, four times daily; first shown September (outside window) and no verified media yet.",
+  "link": "https://www.e-flux.com/announcements/6787672/you-must-change-your-life",
+  "found_via": "latest-2026q4-art",
+  "status": "no_media",
+  "batch": "latest-2026q4b"
+ },
+ {
+  "name": "Rafik Greiss — Sufism through movement and breath (Gwangju Biennale 2026) / The City and the City (KW Berlin, Oct 2026)",
+  "why": "Strong breath/devotion practice but no work-level description or media verified.",
+  "link": "https://www.artrabbit.com/events/rafik-greiss-the-city-and-the-city",
+  "found_via": "latest-2026q4-art",
+  "status": "no_media",
+  "batch": "latest-2026q4b"
+ },
+ {
   "name": "Campo Woytuk et al. — Toward Feminist Ways of Sensing the Menstruating Body (CHI 2025)",
   "why": "Already added by latest-kth-methods as nadia-campo-woytuk--feminist-sensing.",
   "link": "https://doi.org/10.1145/3706598.3713466",

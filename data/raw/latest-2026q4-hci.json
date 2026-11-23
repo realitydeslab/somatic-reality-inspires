@@ -909,10 +909,13 @@
     "venue": "NordiCHI 2026 Adjunct",
     "title": "Embodied Transmissions for an Unknown Receiver: Cosmic Noise as a Choreographic First-Contact Protocol"
    },
-   "source_url": "",
+   "source_url": "https://charlottetriebus.com/works/cosmic-noise/",
    "code_url": "",
    "collections": [],
-   "exhibited": []
+   "exhibited": [],
+   "images": [
+    "https://charlottetriebus.com/wp-content/themes/ct-werke/public/media/cosmic-noise-nhbs-render.webp"
+   ]
   },
   {
    "id": "amirhosein-asghari-tavana--felt-experience-haptics",
@@ -1106,7 +1109,11 @@
    "source_url": "",
    "code_url": "",
    "collections": [],
-   "exhibited": []
+   "exhibited": [],
+   "images": [
+    "https://www.frontiersin.org/files/Articles/1874994/xml-images/fpsyg-17-1874994-g0002.webp",
+    "https://www.frontiersin.org/files/Articles/1874994/xml-images/fpsyg-17-1874994-g0001.webp"
+   ]
   },
   {
    "id": "mengxi-liu--human-computer-co-regulation",
@@ -1211,7 +1218,10 @@
    "source_url": "",
    "code_url": "",
    "collections": [],
-   "exhibited": []
+   "exhibited": [],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=drWW8cYuGyE"
+   }
   },
   {
    "id": "jules-van-gurp--play-beyond-vision",
@@ -1256,7 +1266,10 @@
    "source_url": "",
    "code_url": "",
    "collections": [],
-   "exhibited": []
+   "exhibited": [],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=R9ycBuAI5-A"
+   }
   },
   {
    "id": "wesly-menard--shared-exertion-data-cycling",
@@ -1449,7 +1462,10 @@
    "source_url": "",
    "code_url": "",
    "collections": [],
-   "exhibited": []
+   "exhibited": [],
+   "images": [
+    "https://arxiv.org/html/2609.01981v1/figures/SAM.png"
+   ]
   },
   {
    "id": "katherine-rees--somatosensory-creative-making",
@@ -1537,7 +1553,10 @@
    "source_url": "",
    "code_url": "",
    "collections": [],
-   "exhibited": []
+   "exhibited": [],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=trp3ecNbpGw"
+   }
   },
   {
    "id": "chia-an-fan--armonii",
@@ -1582,7 +1601,10 @@
    "source_url": "",
    "code_url": "",
    "collections": [],
-   "exhibited": []
+   "exhibited": [],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Y5vt-ffKpt4"
+   }
   },
   {
    "id": "shieru-suzuki--musclejockey",
@@ -1627,7 +1649,10 @@
    "source_url": "",
    "code_url": "",
    "collections": [],
-   "exhibited": []
+   "exhibited": [],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=wY7eHTsutXg"
+   }
   },
   {
    "id": "lala-guluzade--medec-cards",

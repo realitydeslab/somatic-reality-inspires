@@ -16284,5 +16284,383 @@
   "ok": false,
   "type": "image",
   "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "img:https://charlottetriebus.com/wp-content/themes/ct-werke/public/media/cosmic-noise-nhbs-render.webp": {
+  "url": "https://charlottetriebus.com/wp-content/themes/ct-werke/public/media/cosmic-noise-nhbs-render.webp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://www.frontiersin.org/files/Articles/1874994/xml-images/fpsyg-17-1874994-g0002.webp": {
+  "url": "https://www.frontiersin.org/files/Articles/1874994/xml-images/fpsyg-17-1874994-g0002.webp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://www.frontiersin.org/files/Articles/1874994/xml-images/fpsyg-17-1874994-g0001.webp": {
+  "url": "https://www.frontiersin.org/files/Articles/1874994/xml-images/fpsyg-17-1874994-g0001.webp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:drWW8cYuGyE": {
+  "url": "https://www.youtube.com/watch?v=drWW8cYuGyE",
+  "ok": true,
+  "platform": "youtube",
+  "id": "drWW8cYuGyE",
+  "title": "Pneunocchio: Towards Understanding the Design of Playful Bodily Extensions through... (Video Figure)",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/drWW8cYuGyE/hqdefault.jpg"
+ },
+ "video:youtube:R9ycBuAI5-A": {
+  "url": "https://www.youtube.com/watch?v=R9ycBuAI5-A",
+  "ok": true,
+  "platform": "youtube",
+  "id": "R9ycBuAI5-A",
+  "title": "Play Beyond Vision: Children’s Embodied Strategies in Non-Visual Extended Reality (Video Figure)",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/R9ycBuAI5-A/hqdefault.jpg"
+ },
+ "img:https://arxiv.org/html/2609.01981v1/figures/SAM.png": {
+  "url": "https://arxiv.org/html/2609.01981v1/figures/SAM.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:youtube:trp3ecNbpGw": {
+  "url": "https://www.youtube.com/watch?v=trp3ecNbpGw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "trp3ecNbpGw",
+  "title": "Infinite Bloom: Exploring Non-Human Embodiment through Gestural Agency and Spatial... (Video Figure)",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/trp3ecNbpGw/hqdefault.jpg"
+ },
+ "video:youtube:Y5vt-ffKpt4": {
+  "url": "https://www.youtube.com/watch?v=Y5vt-ffKpt4",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Y5vt-ffKpt4",
+  "title": "UIST'26 Armonii: Motion Design for Wearable Supernumerary Robotic Arms Toward Comfort and Embodiment",
+  "author": "InamiLaboratory",
+  "thumbnail": "https://i.ytimg.com/vi/Y5vt-ffKpt4/hqdefault.jpg"
+ },
+ "video:youtube:wY7eHTsutXg": {
+  "url": "https://www.youtube.com/watch?v=wY7eHTsutXg",
+  "ok": true,
+  "platform": "youtube",
+  "id": "wY7eHTsutXg",
+  "title": "MuscleJockey: Motor Initiation via Electrical Muscle Stimulation While Preserving User Control",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/wY7eHTsutXg/hqdefault.jpg"
+ },
+ "video:youtube:r94iEM5cazg": {
+  "url": "https://www.youtube.com/watch?v=r94iEM5cazg",
+  "ok": true,
+  "platform": "youtube",
+  "id": "r94iEM5cazg",
+  "title": "The Procrustean Body",
+  "author": "MICA - Music Interaction & Computational Arts",
+  "thumbnail": "https://i.ytimg.com/vi/r94iEM5cazg/hqdefault.jpg"
+ },
+ "img:https://image5.sixthtone.com/image/5/65/145.jpg": {
+  "url": "https://image5.sixthtone.com/image/5/65/145.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://christianberst.com/media/pages/artists/guo-fengyi/1db1504b74-1701360123/guo-dessine-1200x-1200x.jpg": {
+  "url": "https://christianberst.com/media/pages/artists/guo-fengyi/1db1504b74-1701360123/guo-dessine-1200x-1200x.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:3I_pCsqDNNs": {
+  "url": "https://www.youtube.com/watch?v=3I_pCsqDNNs",
+  "ok": true,
+  "platform": "youtube",
+  "id": "3I_pCsqDNNs",
+  "title": "Ludic Ambiguity on the Wrist: How an \"Imperfect\" Stress Avatar Becomes a Social Play Mechanic",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/3I_pCsqDNNs/hqdefault.jpg"
+ },
+ "img:https://www.frontiersin.org/files/Articles/1933772/xml-images/fpsyg-17-1933772-g001.webp": {
+  "url": "https://www.frontiersin.org/files/Articles/1933772/xml-images/fpsyg-17-1933772-g001.webp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "doi:10.1145/3830397.3841890": {
+  "doi": "10.1145/3830397.3841890",
+  "ok": true,
+  "type": "doi",
+  "title": "Somatic Dark Patterns: Synthetic Heartbeats Shape Trust in AI Agents",
+  "year": 2026,
+  "venue": "Adjunct Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+  "url": "https://doi.org/10.1145/3830397.3841890"
+ },
+ "doi:10.1145/3830397.3841318": {
+  "doi": "10.1145/3830397.3841318",
+  "ok": true,
+  "type": "doi",
+  "title": "Tele-Bio: Leaving and Receiving Physiological Traces Through a Public Telephone",
+  "year": 2026,
+  "venue": "Adjunct Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+  "url": "https://doi.org/10.1145/3830397.3841318"
+ },
+ "doi:10.1145/3830397.3841320": {
+  "doi": "10.1145/3830397.3841320",
+  "ok": true,
+  "type": "doi",
+  "title": "CalmFold: Feeling, Wearing, and Soothing Your Stress Through On-Body Physicalization",
+  "year": 2026,
+  "venue": "Adjunct Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+  "url": "https://doi.org/10.1145/3830397.3841320"
+ },
+ "doi:10.1145/3830397.3841321": {
+  "doi": "10.1145/3830397.3841321",
+  "ok": true,
+  "type": "doi",
+  "title": "FlowNote: Making Bodily Experience Visible in Music Production",
+  "year": 2026,
+  "venue": "Adjunct Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology",
+  "url": "https://doi.org/10.1145/3830397.3841321"
+ },
+ "doi:10.1145/3821402.3830163": {
+  "doi": "10.1145/3821402.3830163",
+  "ok": true,
+  "type": "doi",
+  "title": "Feminist Fabulations for Reworlding Menopause Care",
+  "year": 2026,
+  "venue": "Adjunct Proceedings of the 14th Nordic Conference on Human-Computer Interaction",
+  "url": "https://doi.org/10.1145/3821402.3830163"
+ },
+ "doi:10.1145/3821402.3830223": {
+  "doi": "10.1145/3821402.3830223",
+  "ok": true,
+  "type": "doi",
+  "title": "The Three Bodies Framework: A Hands-On Method for Gesture Analysis in HCI",
+  "year": 2026,
+  "venue": "Adjunct Proceedings of the 14th Nordic Conference on Human-Computer Interaction",
+  "url": "https://doi.org/10.1145/3821402.3830223"
+ },
+ "doi:10.1145/3822517.3849965": {
+  "doi": "10.1145/3822517.3849965",
+  "ok": true,
+  "type": "doi",
+  "title": "DeepBreathVR: Social VR Biofeedback with Shared Respiration",
+  "year": 2026,
+  "venue": "Proceedings of the 32nd ACM Symposium on Virtual Reality Software and Technology",
+  "url": "https://doi.org/10.1145/3822517.3849965"
+ },
+ "doi:10.1145/3829215.3843690": {
+  "doi": "10.1145/3829215.3843690",
+  "ok": true,
+  "type": "doi",
+  "title": "Comb Machine: Mediated Intimacy in Telerobotics",
+  "year": 2026,
+  "venue": "Proceedings of the SIGGRAPH Asia 2026 Art Papers",
+  "url": "https://doi.org/10.1145/3829215.3843690"
+ },
+ "img:https://hkfringeclub.com/appdde_cms/image_get.php?fileid=1764927464026739acf91a005b4d3dcb87eccdd66e&filetype=png&maxwidth=1200": {
+  "url": "https://hkfringeclub.com/appdde_cms/image_get.php?fileid=1764927464026739acf91a005b4d3dcb87eccdd66e&filetype=png&maxwidth=1200",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3829215.3843692": {
+  "doi": "10.1145/3829215.3843692",
+  "ok": true,
+  "type": "doi",
+  "title": "EQUUS: Form + Void: Embodied Energies in AR-supported Calligraphy",
+  "year": 2026,
+  "venue": "Proceedings of the SIGGRAPH Asia 2026 Art Papers",
+  "url": "https://doi.org/10.1145/3829215.3843692"
+ },
+ "doi:10.1145/3829215.3843679": {
+  "doi": "10.1145/3829215.3843679",
+  "ok": true,
+  "type": "doi",
+  "title": "Stellar Pathfinding: Embodying Algorithmic Divination through Techno-Taoist Cybernetic Rituals",
+  "year": 2026,
+  "venue": "Proceedings of the SIGGRAPH Asia 2026 Art Papers",
+  "url": "https://doi.org/10.1145/3829215.3843679"
+ },
+ "doi:10.1145/3838843.3838851": {
+  "doi": "10.1145/3838843.3838851",
+  "ok": true,
+  "type": "doi",
+  "title": "Relational Bodies: Practitioner Insights on Virtual Body Representations in XR-Based Sport Practice",
+  "year": 2026,
+  "venue": "Proceedings of the Second Annual Conference on Sports and Human-Computer Interaction",
+  "url": "https://doi.org/10.1145/3838843.3838851"
+ },
+ "doi:10.3233/atde261402": {
+  "doi": "10.3233/atde261402",
+  "ok": true,
+  "type": "doi",
+  "title": "Robotic Embodiment in Contemplative Practice: Individual Differences and Design Implications for Somatic AI",
+  "year": 2026,
+  "venue": "Advances in Transdisciplinary Engineering",
+  "url": "https://doi.org/10.3233/atde261402"
+ },
+ "img:https://arxiv.org/html/2611.00509v1/Images/677588_crop.jpg": {
+  "url": "https://arxiv.org/html/2611.00509v1/Images/677588_crop.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://arxiv.org/html/2611.00509v1/Images/Ch6_Pheumatic.png": {
+  "url": "https://arxiv.org/html/2611.00509v1/Images/Ch6_Pheumatic.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "arxiv:2611.00509": {
+  "arxiv": "2611.00509",
+  "ok": true,
+  "type": "arxiv",
+  "title": "MESSPa: A Multi-modal Embodiment Stimulation Shoulder Pad for Preserving the Sense of Agency in a Detachable Robotic Arm",
+  "year": 2026,
+  "url": "https://arxiv.org/abs/2611.00509"
+ },
+ "arxiv:2611.09394": {
+  "arxiv": "2611.09394",
+  "ok": true,
+  "type": "arxiv",
+  "title": "Sensed but Not Told: Hidden Physiological Adaptation Shapes LLM Persuasion",
+  "year": 2026,
+  "url": "https://arxiv.org/abs/2611.09394"
+ },
+ "img:https://arxiv.org/html/2611.14093v1/Setup.png": {
+  "url": "https://arxiv.org/html/2611.14093v1/Setup.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "arxiv:2611.14093": {
+  "arxiv": "2611.14093",
+  "ok": true,
+  "type": "arxiv",
+  "title": "BODYinTRANSIT-Lab: A Multimodal Dataset for Investigating Sensory-Driven Transformations in Body Perception and Affective Experiences",
+  "year": 2026,
+  "url": "https://arxiv.org/abs/2611.14093"
+ },
+ "doi:10.1080/19443927.2026.2715970": {
+  "doi": "10.1080/19443927.2026.2715970",
+  "ok": true,
+  "type": "doi",
+  "title": "The uses of qigong as preparation for Alba Technique training",
+  "year": 2026,
+  "venue": "Theatre, Dance and Performance Training",
+  "url": "https://doi.org/10.1080/19443927.2026.2715970"
+ },
+ "doi:10.1386/jdsp_00165_1": {
+  "doi": "10.1386/jdsp_00165_1",
+  "ok": true,
+  "type": "doi",
+  "title": "Developing hybrid dance practices and pedagogies: Somatic improvisations across Kathak and jazz dance",
+  "year": 2026,
+  "venue": "Journal of Dance &amp; Somatic Practices",
+  "url": "https://doi.org/10.1386/jdsp_00165_1"
+ },
+ "doi:10.1093/oso/9780198900023.001.0001": {
+  "doi": "10.1093/oso/9780198900023.001.0001",
+  "ok": true,
+  "type": "doi",
+  "title": "The Phenomenology of Emotion Regulation",
+  "year": 2026,
+  "venue": "",
+  "url": "https://doi.org/10.1093/oso/9780198900023.001.0001"
+ },
+ "doi:10.3366/9781399539876": {
+  "doi": "10.3366/9781399539876",
+  "ok": true,
+  "type": "doi",
+  "title": "Merleau-Ponty, Embodied Cognition and Enactivism",
+  "year": 2027,
+  "venue": "",
+  "url": "https://doi.org/10.3366/9781399539876"
+ },
+ "img:https://www.intellectbooks.com/assets/f7b4c263/9781835953594-201511-290x400.jpg": {
+  "url": "https://www.intellectbooks.com/assets/f7b4c263/9781835953594-201511-290x400.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1386/9781835953594": {
+  "doi": "10.1386/9781835953594",
+  "ok": true,
+  "type": "doi",
+  "title": "Embodying the Artificial",
+  "year": 2026,
+  "venue": "",
+  "url": "https://doi.org/10.1386/9781835953594"
+ },
+ "img:https://archive.aec.at/asset/3898685/preview/": {
+  "url": "https://archive.aec.at/asset/3898685/preview/",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://archive.aec.at/asset/3898687/preview/": {
+  "url": "https://archive.aec.at/asset/3898687/preview/",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/5f10a7f0e4041a480cbbf0be/b4be296b-ead1-4501-821a-46adb3c6f769/image+syncers.jpeg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/5f10a7f0e4041a480cbbf0be/b4be296b-ead1-4501-821a-46adb3c6f769/image+syncers.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://berlinscienceweek.com/sites/default/files/medien/639/bilder/somatic_circuits_berlinscienceweek_1.png": {
+  "url": "https://berlinscienceweek.com/sites/default/files/medien/639/bilder/somatic_circuits_berlinscienceweek_1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "ytmax:drWW8cYuGyE": {
+  "url": "https://i.ytimg.com/vi/drWW8cYuGyE/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:R9ycBuAI5-A": {
+  "url": "https://i.ytimg.com/vi/R9ycBuAI5-A/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:trp3ecNbpGw": {
+  "url": "https://i.ytimg.com/vi/trp3ecNbpGw/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:Y5vt-ffKpt4": {
+  "url": "https://i.ytimg.com/vi/Y5vt-ffKpt4/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:wY7eHTsutXg": {
+  "url": "https://i.ytimg.com/vi/wY7eHTsutXg/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:r94iEM5cazg": {
+  "url": "https://i.ytimg.com/vi/r94iEM5cazg/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:3I_pCsqDNNs": {
+  "url": "https://i.ytimg.com/vi/3I_pCsqDNNs/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
  }
 }

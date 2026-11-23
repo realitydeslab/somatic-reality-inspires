@@ -479,7 +479,10 @@
     "venue": "ASSETS 2026",
     "title": "The Procrustean Body: A Theoretical Analysis of Motion Capture from Critical Disability, Somaesthetic, and Posthuman Perspectives"
    },
-   "source_url": "https://doi.org/10.1145/3797867.3828976"
+   "source_url": "https://doi.org/10.1145/3797867.3828976",
+   "video": {
+    "url": "https://www.youtube.com/watch?v=r94iEM5cazg"
+   }
   },
   {
    "id": "niels-eske-juul-andersen--sensation-of-tinnitus",
@@ -661,7 +664,11 @@
     "venue": "Arts (MDPI) 2026",
     "title": "Mystical Inner Vision: Daoist Inner Contemplation in the Mediumistic Paintings of Guo Fengyi"
    },
-   "source_url": "https://www.mdpi.com/2076-0752/15/8/193"
+   "source_url": "https://www.mdpi.com/2076-0752/15/8/193",
+   "images": [
+    "https://image5.sixthtone.com/image/5/65/145.jpg",
+    "https://christianberst.com/media/pages/artists/guo-fengyi/1db1504b74-1701360123/guo-dessine-1200x-1200x.jpg"
+   ]
   },
   {
    "id": "yuting-xue--attuning-heat",
@@ -838,7 +845,10 @@
     "venue": "CHI PLAY 2026 (PACM HCI)",
     "title": "Ludic Ambiguity on the Wrist: How an \"Imperfect\" Stress Avatar Becomes a Social Play Mechanic"
    },
-   "source_url": "https://doi.org/10.1145/3831349"
+   "source_url": "https://doi.org/10.1145/3831349",
+   "video": {
+    "url": "https://www.youtube.com/watch?v=3I_pCsqDNNs"
+   }
   },
   {
    "id": "anran-feng--smell-gesture-cards",
@@ -925,7 +935,10 @@
     "venue": "Frontiers in Psychology 2026",
     "title": "Effects of a somatic dance course on body image, embodied self-awareness, and disordered eating risk in female university students: a quasi-experimental study"
    },
-   "source_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1933772/full"
+   "source_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1933772/full",
+   "images": [
+    "https://www.frontiersin.org/files/Articles/1933772/xml-images/fpsyg-17-1933772-g001.webp"
+   ]
   }
  ],
  "leads": [
