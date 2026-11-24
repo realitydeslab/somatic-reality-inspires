@@ -1,0 +1,70 @@
+[
+ {
+  "id": "2026-11-23",
+  "date": "2026-11-23",
+  "title": "November 2026: heartbeats in AI, breath in VR, tai chi in AR",
+  "title_zh": "2026 年 11 月：AI 里的心跳、VR 里的呼吸、AR 里的太极",
+  "summary": "Works from UIST 2026 adjunct, VRST, SIGGRAPH Asia and NordiCHI 2026 follow-ups: synthetic heartbeats that shape trust in AI agents, a payphone that replays earlier callers' pulse and breath, shared breathing in VRChat, an AR performance with a tai chi master, a Daoist ritual walk as a prompt, and new books on the phenomenology of emotion regulation and enactivism. Earlier works also got new talk videos and images.",
+  "summary_zh": "来自 UIST 2026 补充论文集、VRST、SIGGRAPH Asia 以及 NordiCHI 2026 的后续作品：影响人们是否信任 AI 代理的合成心跳、回放此前来电者脉搏与呼吸的公用电话、在 VRChat 中共享的呼吸、与太极师父合作的 AR 表演、以道教步罡为提示的生成装置，以及关于情绪调节现象学与生成主义的新书。上一轮的作品也补上了演讲视频和图片。",
+  "batches": ["latest-2026q4b"],
+  "media": [
+   "aryan-saini--pneunocchio",
+   "jules-van-gurp--play-beyond-vision",
+   "ka-kei-lee--infinite-bloom",
+   "chia-an-fan--armonii",
+   "shieru-suzuki--musclejockey",
+   "sriharish-eswarathas--ludic-ambiguity-wrist",
+   "clarice-hilton--procrustean-body",
+   "charlotte-triebus--cosmic-noise",
+   "ziyue-piao--somatic-alignment-mindset",
+   "marta-matamala-gomez--wind-footsteps",
+   "jiage-yin--somatic-dance-course",
+   "zhilong-yan--guo-fengyi-inner-vision"
+  ]
+ },
+ {
+  "id": "2026-11-13",
+  "date": "2026-11-13",
+  "title": "Autumn 2026: NordiCHI, CHI PLAY, Prix Ars Electronica",
+  "title_zh": "2026 年秋：NordiCHI、CHI PLAY、Ars Electronica 大奖",
+  "summary": "Research published August–November 2026: menstrual and menopausal soma design from NordiCHI 2026, ballet sonification in TOCHI, playful bodies from CHI PLAY and UIST, Dunhuang feitian set moving by posture at ACM MM, Prix Ars Electronica 2026 works such as CHIMERIA, Tarek Atoui's Hold at Tate Modern, and autumn books on somatic practice, butoh and embodiment.",
+  "summary_zh": "2026 年 8 月至 11 月发表的研究：NordiCHI 2026 上关于月经与更年期的身体设计、TOCHI 上的芭蕾声音化、CHI PLAY 与 UIST 上的玩乐身体、ACM MM 上随身姿舞动的敦煌飞天、CHIMERIA 等 2026 Ars Electronica 获奖作品、Tarek Atoui 在泰特现代美术馆的 Hold，以及关于身体实践、舞踏与具身性的秋季新书。",
+  "batches": ["latest-2026q4-hci", "latest-2026q4-art", "latest-2026q4-lineage"]
+ },
+ {
+  "id": "2026-10-18",
+  "date": "2026-10-18",
+  "title": "Latest research 2025–26",
+  "title_zh": "2025–26 最新研究",
+  "summary": "Soma design from CHI, DIS, TEI, UIST and MOCO 2025–26, Augmented Humans 2026, the Venice Biennale 2026 and new brain–computer interface studies in Nature and Science.",
+  "summary_zh": "来自 CHI、DIS、TEI、UIST 与 MOCO 2025–26、Augmented Humans 2026、2026 威尼斯双年展的身体设计作品，以及《自然》《科学》上新的脑机接口研究。",
+  "batches": ["latest-affect-care", "latest-augmented", "latest-east-asia", "latest-foundations-art", "latest-kth-methods", "latest-machines-ai", "latest-movement-social"]
+ },
+ {
+  "id": "2026-09-29-bci",
+  "date": "2026-09-29",
+  "title": "Brain–computer interfaces, Florian Mueller and Pedro Lopes",
+  "title_zh": "脑机接口、Florian Mueller 与 Pedro Lopes",
+  "summary": "Brain–computer interfaces read from the felt body, the human–computer integration literature, and the work of Florian 'Floyd' Mueller's Exertion Games Lab and Pedro Lopes's lab.",
+  "summary_zh": "从被感受的身体出发理解脑机接口、人机融合（human–computer integration）文献，以及 Florian 'Floyd' Mueller 的 Exertion Games Lab 和 Pedro Lopes 实验室的作品。",
+  "batches": ["add-florian-mueller", "add-hcint-literature", "add-pedro-lopes", "augment-bci"]
+ },
+ {
+  "id": "2026-09-29-augmented",
+  "date": "2026-09-29",
+  "title": "New field: Augmented & Transhuman Soma",
+  "title_zh": "新领域：增强与超人类身体",
+  "summary": "Extra limbs, new senses, human–computer integration, cyborg art and transhuman thought, read from the felt body.",
+  "summary_zh": "从被感受的身体出发看额外肢体、新感官、人机融合、赛博格艺术与超人类思想。",
+  "batches": ["augment-hci", "augment-art-theory"]
+ },
+ {
+  "id": "2026-09-29-launch",
+  "date": "2026-09-29",
+  "title": "Launch",
+  "title_zh": "上线",
+  "summary": "The gallery opens: Kristina Höök's soma design lineage, first-person methods, somatic practices, East Asian body-mind thought, and the artworks and theory around them.",
+  "summary_zh": "图库上线：Kristina Höök 的身体设计谱系、第一人称方法、身体实践、东亚身心思想，以及与之相关的艺术作品和理论。",
+  "batches": ["affect-biodata", "east-asia", "east-asia-2", "foundations", "hook-lab", "intimate-care", "methods", "movement-art", "movement-art-2", "practices", "social-machines"]
+ }
+]

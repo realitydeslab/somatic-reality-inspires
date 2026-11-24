@@ -16,7 +16,8 @@
   let ORGS = DATA.orgs || [];
   const OTYPES = TAX.org_types || [];
   const OTHEMES = TAX.org_themes || [];
-  const VIEWS = ["atlas", ...FIELDS.map((f) => f.id), "collections", "orgs", "works", "papers", "creators", "starred"];
+  const UPDATES = DATA.updates || [];
+  const VIEWS = ["atlas", ...(UPDATES.length ? ["new"] : []), ...FIELDS.map((f) => f.id), "collections", "orgs", "works", "papers", "creators", "starred"];
   const FILTERED = ["works", "papers", "creators"];
 
   const creatorsById = Object.fromEntries(DATA.creators.map((c) => [c.id, c]));
@@ -301,7 +302,8 @@
   }
   function renderAtlas() {
     currentList = [];
-    $("#atlas").innerHTML = `<p class="keys__lede">${esc(S().atlas_lede)}</p><div class="atlas">${FIELDS.map((f, i) => {
+    const u = UPDATES[0];
+    $("#atlas").innerHTML = `${u ? `<button class="latest mono" data-go="new">${esc(S().new_latest(S().date(u.date), u.works.length))}</button>` : ""}<p class="keys__lede">${esc(S().atlas_lede)}</p><div class="atlas">${FIELDS.map((f, i) => {
       const ws = DATA.works.filter((w) => w.field === f.id);
       const photoFirst = (w) => (w.kind === "paper" || w.kind === "publication" ? 1 : 0) + (w.kind === "film" ? 0.8 : 0) + (w.images?.length ? 0 : 0.5);
       const shots = sorted(ws.filter(poster)).sort((a, b) => photoFirst(a) - photoFirst(b)).slice(0, 3);
@@ -319,6 +321,29 @@
         <span class="colcard__n mono">${n}</span><span class="colcard__title">${esc(zh() ? zh_ : en)}</span><span class="colcard__desc">${esc(zh() ? dZh : dEn)}</span></button>` : ""; }).join("")}</div></section>` : ""}${COLS.length ? `<section class="cols"><h2 class="scat__title">${esc(S().collections)}</h2><p class="scat__desc">${esc(S().collections_lede)}</p>
       <div class="cols__grid">${COLS.map(colCard).join("")}</div></section>` : ""}`;
     return FIELDS.length;
+  }
+  /* What's New: one section per content update (data/updates.json); the newest is open, older ones fill when opened */
+  const listOfIds = (ids) => ids.map((id) => worksById[id]).filter(Boolean);
+  function renderNew() {
+    const fieldSum = (ws) => FIELDS.map((f) => [f, ws.filter((w) => w.field === f.id).length]).filter(([, n]) => n)
+      .map(([f, n]) => `<button class="chip" data-go="${f.id}">${esc(nm(f))}<small>${n}</small></button>`).join("");
+    const grid = (key) => `<div class="grid" data-upd="${esc(key)}"></div>`;
+    const lists = {};
+    $("#newList").innerHTML = `<div class="starred__head"><h2 class="starred__title">${esc(S().tab_new)}</h2><p class="starred__lede">${esc(S().new_lede)}</p></div>` +
+      UPDATES.map((u, i) => {
+        const ws = listOfIds(u.works), media = listOfIds(u.media || []);
+        lists[u.id] = ws; lists[u.id + ":media"] = media;
+        const body = `${grid(u.id, ws)}${media.length ? `<h4 class="upd__sub mono">${esc(S().new_media(media.length))}</h4>${grid(u.id + ":media", media)}` : ""}`;
+        return `<section class="scat upd"><div class="scat__head"><span class="upd__date mono">${esc(S().date(u.date))}</span><span class="scat__n mono">${esc(S().new_n(ws.length))}</span></div>
+          <h3 class="scat__title">${esc(zh() ? u.title_zh || u.title : u.title)}</h3>
+          <p class="scat__desc">${esc(zh() ? u.summary_zh || u.summary : u.summary)}</p><div class="chips upd__fields">${fieldSum(ws)}</div>
+          ${i === 0 ? body : `<details class="upd__more"><summary class="mono">${esc(S().new_show(ws.length))}</summary>${body}</details>`}</section>`;
+      }).join("");
+    const fill = (root) => root.querySelectorAll(".grid[data-upd]").forEach((g) => fillProgressive(g, lists[g.dataset.upd], card, 24, 36));
+    fill($("#newList .upd") || $("#newList"));
+    $("#newList").querySelectorAll("details.upd__more").forEach((d) => d.addEventListener("toggle", () => { if (d.open && !d.dataset.filled) { d.dataset.filled = "1"; fill(d); } }));
+    currentList = Object.values(lists).flat();
+    return UPDATES.length;
   }
   function renderField(f) {
     const primary = sorted(DATA.works.filter((w) => w.field === f.id));
@@ -412,7 +437,7 @@
     $("#hasPaper").setAttribute("aria-pressed", state.paper);
     $("#starCount").textContent = stars.size ? stars.size : "";
     if (FILTERED.includes(state.view)) renderChips();
-    const n = f ? renderField(f) : { atlas: renderAtlas, collections: renderCollections, orgs: renderOrgs, works: renderWorks, papers: renderPapers, creators: renderCreators, starred: renderStarred }[state.view]();
+    const n = f ? renderField(f) : { atlas: renderAtlas, new: renderNew, collections: renderCollections, orgs: renderOrgs, works: renderWorks, papers: renderPapers, creators: renderCreators, starred: renderStarred }[state.view]();
     $("#empty").hidden = n > 0;
     lazyVideos();
     writeHash();

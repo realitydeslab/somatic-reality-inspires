@@ -24,6 +24,7 @@ Read `data/SCHEMA.md`, `data/taxonomy.json` and `data/RESEARCH_BRIEF.md` (inclus
 6. **Build.** `python3 tools/build_data.py`. Check `data/dropped.json` (dead media, DOI title mismatches) and fix what is yours.
 7. **Preview** (optional): `./serve.sh`, open `http://localhost:8936/#view=works&q=<name>`.
 8. **Check duplicates**: `python3 tools/audit_titles.py` — resolve any same-title works that are yours.
+8b. **What's New**: add an entry at the top of `data/updates.json` — `id`, `date` (today), `title` / `title_zh`, `summary` / `summary_zh` (1–3 sentences: what was added, notable works), `batches` (the raw file stems you added) and optional `media` (ids of earlier works that got new video / images). The build resolves it to the work list shown in the What's New tab.
 9. **Publish** (skip with `--no-push`): `tools/publish.sh "feat(data): add <name> (<n> works)"`
    It validates every batch, rebuilds, refuses to publish if validation fails or works disappeared, then commits and pushes.
    GitHub Pages redeploys https://somatic.reality.design in about a minute.

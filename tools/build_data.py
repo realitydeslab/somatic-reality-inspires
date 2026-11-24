@@ -5,6 +5,7 @@
 - Dedupes works by id, then DOI, then video, unioning creator_ids.
 - Verifies videos, images, DOIs (Crossref) and arXiv ids (cached in data/media_cache.json);
   drops dead media, and drops works left with no video, image or paper.
+- Resolves data/updates.json (What's New) to the work ids each update added.
 - Writes data/entries.json, data/entries.js (window.SRI), leads, creators index, Markdown catalogs, llms.txt.
 
 Usage: python3 tools/build_data.py [--recheck]
@@ -37,6 +38,7 @@ ORGS = ROOT / "data" / "orgs"              # organizations & resources (separate
 APPROACH = ROOT / "data" / "lens"          # { work_id: [lens ids] } (overrides lenses written in the batches)
 TITLE_ZH = ROOT / "data" / "title_zh"      # { work_id: "中文标题" } (Chinese title layer)
 DISCIPLINE = ROOT / "data" / "discipline"  # { creator_id: [discipline ids] }  # extra media per work, kept apart from the research batches
+UPDATES = ROOT / "data" / "updates.json"    # What's New changelog: [{date, title, summary, batches, media}]
 # categories that moved: old (field, sub) -> new; overrides.patch_works refines the sub
 LEGACY: dict = {}  # (old field, old sub) -> (new field, new sub) for moved categories
 
@@ -327,7 +329,8 @@ def split_for_web(data: dict, stamp: str) -> tuple[dict, dict]:
         if extra:
             works_detail[w["id"]] = extra
     creators_core = [{k: c[k] for k in CREATOR_CORE if c.get(k)} for c in data["creators"]]
-    core = {"generated": data["generated"], "v": stamp, "taxonomy": data["taxonomy"], "creators": creators_core, "works": works_core}
+    core = {"generated": data["generated"], "v": stamp, "taxonomy": data["taxonomy"], "creators": creators_core, "works": works_core,
+            "updates": data.get("updates", [])}
     detail = {"works": works_detail, "creators": data["creators"], "orgs": data["orgs"]}
     return core, detail
 
@@ -343,6 +346,24 @@ def load_titles_zh(folder: Path, work_ids: set) -> dict:
             elif t.strip():
                 out[k] = t.strip()
     return out
+
+
+def load_updates(batch_of: dict) -> list:
+    """What's New: each update names the batches it added (and works that got new media); resolve them to work ids."""
+    if not UPDATES.exists():
+        return []
+    out = []
+    for u in json.loads(UPDATES.read_text()):
+        batches = set(u.get("batches", []))
+        unknown = batches - set(batch_of.values())
+        if unknown:
+            logger.warning("update %s: unknown batch %s", u.get("id"), sorted(unknown))
+        media = [i for i in u.get("media", []) if i in batch_of]
+        if len(media) != len(u.get("media", [])):
+            logger.warning("update %s: unknown work in media list", u.get("id"))
+        out.append({**{k: v for k, v in u.items() if k != "batches"},
+                    "works": [i for i, b in batch_of.items() if b in batches], "media": media})
+    return sorted(out, key=lambda u: u.get("date", ""), reverse=True)
 
 
 def classify_leads(leads: list, creators: dict) -> tuple[list, list]:
@@ -377,7 +398,7 @@ def main() -> None:
         w.update(ov.get("patch_works", {}).get(w["id"], {}))
     cache = verify(works, recheck)
 
-    kept, problems, dropped = [], [], []
+    kept, problems, dropped, batch_of = [], [], [], {}
     for w in works:
         if w.get("field") not in subs:
             dropped.append({"id": w.get("id"), "why": f"unknown field {w.get('field')}"})
@@ -389,7 +410,7 @@ def main() -> None:
             continue
         w["also"] = [a for a in w.get("also") or [] if a in subs and a != w["field"]]
         w["creator_ids"] = [c for c in w["creator_ids"] if c in creators] or w["creator_ids"]
-        w.pop("batch", None)
+        batch_of[w["id"]] = w.pop("batch", None)
         kept.append(w)
 
     used = {c for w in kept for c in w["creator_ids"]}
@@ -418,10 +439,12 @@ def main() -> None:
             w["disciplines"] = ds
     kept.sort(key=lambda w: (-(w.get("year") or 0), w.get("title", "")))
     open_leads, checked_leads = classify_leads(leads, creators)
+    order = {w["id"]: i for i, w in enumerate(kept)}
+    updates = load_updates(dict(sorted(batch_of.items(), key=lambda kv: order[kv[0]])))
 
     orgs = load_orgs(cache, {c["id"] for c in out_creators})
     CACHE.write_text(json.dumps(cache, indent=1, ensure_ascii=False))
-    data = {"generated": date.today().isoformat(), "taxonomy": tax, "creators": out_creators, "works": kept, "orgs": orgs}
+    data = {"generated": date.today().isoformat(), "taxonomy": tax, "creators": out_creators, "works": kept, "orgs": orgs, "updates": updates}
     d = ROOT / "data"
     # guard against works silently disappearing (e.g. two batches each deleting a shared work)
     prev = {w["id"]: w.get("title", "") for w in json.loads((d / "entries.json").read_text())["works"]} if (d / "entries.json").exists() else {}

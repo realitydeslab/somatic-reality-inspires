@@ -2,7 +2,7 @@
 
 A catalog of soma design and somaesthetic interaction design, centred on Kristina Höök's lineage: research prototypes, design methods, somatic practices, artworks, performances and theory that treat body and mind as one soma, felt from within. Fields: foundations (somaesthetics, phenomenology, East Asian body-mind thought), somatic practices, soma design methods, somaesthetic interaction design, augmented and transhuman bodies, affective loops and biodata, movement and somatic art, intimate and feminist soma design, health and care, social soma, and soma with machines, AI and XR. Compiled by Reality Design Lab as idea material for designers, researchers, artists and students. Each work lists its core idea, how it works, and links to its paper, video and images.
 
-https://somatic.reality.design · 2026-11-23 · 672 creators · 824 works
+https://somatic.reality.design · 2026-11-24 · 672 creators · 824 works
 
 ## How an AI assistant should use this file
 
